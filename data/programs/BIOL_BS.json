@@ -1,0 +1,326 @@
+{
+  "programId": "HIST_BA",
+  "programName": "B.A. History",
+  "degreeType": "BA",
+  "college": "liberal_arts_and_human_sciences",
+  "catalogYear": "2024-2025",
+  "totalCredits": 120,
+  "gpaRequirements": {
+    "overall": 2.0
+  },
+  "includes": [],
+  "doubleCountRules": [
+    {
+      "type": "forbid",
+      "between": ["history_core", "pathways"],
+      "note": "Classes used for History Core CANNOT be used for Pathways"
+    },
+    {
+      "type": "allow",
+      "between": ["major_requirements", "pathways"],
+      "note": "Concepts 1A, 2, 3, 5F, and 7 may be met with approved HIST courses"
+    }
+  ],
+  "requirementGroups": [
+    {
+      "id": "history_core",
+      "label": "Degree Core Requirements",
+      "credits": 21,
+      "requirements": [
+        {
+          "type": "exact",
+          "id": "hist1004",
+          "course": "HIST 1004",
+          "credits": 3,
+          "label": "Introduction to History"
+        },
+        {
+          "type": "one_of",
+          "id": "history_survey_sequence",
+          "label": "History Survey Sequence",
+          "credits": 6,
+          "options": [
+            { "sequence": ["HIST 1025", "HIST 1026"] },
+            { "sequence": ["HIST 1115", "HIST 1116"] },
+            { "sequence": ["HIST 1215", "HIST 1216"] },
+            { "sequence": ["HIST 1515", "HIST 1516"] },
+            { "sequence": ["HIST 2275", "HIST 2276"] },
+            { "sequence": ["HIST 2345", "HIST 2346"] },
+            { "sequence": ["HIST 2355", "HIST 2356"] },
+            { "sequence": ["HIST 2374", "HIST 2384"] },
+            { "sequence": ["HIST 2715", "HIST 2716"] }
+          ]
+        },
+        {
+          "type": "exact",
+          "id": "hist2004",
+          "course": "HIST 2004",
+          "credits": 3,
+          "label": "Historical Methods"
+        },
+        {
+          "type": "exact",
+          "id": "hist3914",
+          "course": "HIST 3914",
+          "credits": 3,
+          "label": "Critical Reading and Analysis in History"
+        },
+        {
+          "type": "exact",
+          "id": "hist4914",
+          "course": "HIST 4914",
+          "credits": 3,
+          "label": "History Research Seminar"
+        },
+        {
+          "type": "one_from_list",
+          "id": "complementary_skills",
+          "label": "Complementary Skills",
+          "credits": 3,
+          "courses": [
+            "HIST 2604",
+            "HIST 2624",
+            "HIST 3754",
+            "HIST 3764",
+            "HIST 3774",
+            "HIST 4014"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foreign_language",
+      "label": "Foreign Language Requirement",
+      "credits": 6,
+      "requirements": [
+        {
+          "type": "foreign_language",
+          "id": "foreign_lang",
+          "label": "Foreign Language",
+          "credits": 6,
+          "minLevel": 2106,
+          "languageFamily": "any",
+          "note": "Second introductory semester (2106) of a language not used to satisfy the admissions FL requirement. Courses at 2105, 2106, 3105, 3106 are acceptable."
+        }
+      ]
+    },
+    {
+      "id": "major_requirements",
+      "label": "Major Requirements - Distributional",
+      "credits": 18,
+      "requirements": [
+        {
+          "type": "choose_n_from_groups",
+          "id": "hist_thematic_groups",
+          "label": "Choose 2 courses from each of 3 of 4 thematic groups",
+          "groupsToChoose": 3,
+          "coursesPerGroup": 2,
+          "credits": 18,
+          "groups": [
+            {
+              "id": "group_1_empires",
+              "label": "Group I: Empires, Colonialism, and Globalization",
+              "courses": [
+                "AINS 3684",
+                "HIST 1234",
+                "HIST 2724",
+                "HIST 1224",
+                "HIST 2166",
+                "HIST 2346",
+                "HIST 2364",
+                "HIST 2384",
+                "HIST 2394",
+                "HIST 2484",
+                "HIST 3004",
+                "HIST 3014",
+                "HIST 3174",
+                "HIST 3274",
+                "HIST 3314",
+                "HIST 3234",
+                "HIST 3294",
+                "HIST 3364",
+                "HIST 3374",
+                "HIST 3554",
+                "HIST 3594",
+                "HIST 3604",
+                "HIST 3614"
+              ]
+            },
+            {
+              "id": "group_2_ideas",
+              "label": "Group II: Ideas, Traditions, and Cultures",
+              "courses": [
+                "HIST 2134",
+                "HIST 2224",
+                "HIST 2234",
+                "HIST 2244",
+                "HIST 2264",
+                "HIST 2275",
+                "HIST 2276",
+                "HIST 2355",
+                "HIST 2356",
+                "HIST 2374",
+                "HIST 2494",
+                "HIST 2504",
+                "HIST 2514",
+                "HIST 2544",
+                "HIST 2554",
+                "HIST 3084",
+                "HIST 3105",
+                "HIST 3106",
+                "HIST 3124",
+                "HIST 3134",
+                "HIST 3164",
+                "HIST 3214",
+                "HIST 3224",
+                "HIST 3324",
+                "HIST 3334",
+                "HIST 3344",
+                "HIST 3504",
+                "HIST 3694",
+                "HIST 3744"
+              ]
+            },
+            {
+              "id": "group_3_science",
+              "label": "Group III: Science, Technology, Environment, and Medicine",
+              "courses": [
+                "HIST 2054",
+                "HIST 2614",
+                "HIST 2524",
+                "HIST 2604",
+                "HIST 2624",
+                "HIST 2715",
+                "HIST 2716",
+                "HIST 3144",
+                "HIST 3624",
+                "HIST 3705",
+                "HIST 3706",
+                "HIST 3714",
+                "HIST 3724",
+                "HIST 3734"
+              ]
+            },
+            {
+              "id": "group_4_conflict",
+              "label": "Group IV: Conflict, War and Peace",
+              "courses": [
+                "HIST 1354",
+                "HIST 2184",
+                "HIST 2345",
+                "HIST 2534",
+                "HIST 3054",
+                "HIST 3254",
+                "HIST 3284",
+                "HIST 3304",
+                "HIST 3484",
+                "HIST 3494",
+                "HIST 3534",
+                "HIST 3544",
+                "HIST 3564",
+                "HIST 3644",
+                "HIST 3654",
+                "HIST 3664"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "free_electives",
+      "label": "Free Electives",
+      "credits": 36,
+      "requirements": [
+        {
+          "type": "free_credits",
+          "id": "free_36",
+          "label": "Free Electives to reach 120 credits",
+          "credits": 36
+        }
+      ]
+    },
+    {
+      "id": "pathways",
+      "label": "Pathways General Education",
+      "credits": 45,
+      "requirements": [
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_1f",
+          "label": "Pathways 1F - First-Year Writing",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "1F" },
+          "note": "Typically ENGL 1105-1106 or COMM 1015-1016"
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_1a",
+          "label": "Pathways 1A - Advanced/Applied Discourse",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "1A" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_2",
+          "label": "Pathways 2 - Critical Thinking in the Humanities",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "2" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_3",
+          "label": "Pathways 3 - Reasoning in the Social Sciences",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "3" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_4",
+          "label": "Pathways 4 - Reasoning in the Natural Sciences",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "4" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_5f",
+          "label": "Pathways 5F - Quantitative and Computational Foundations",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "5F" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_5a",
+          "label": "Pathways 5A - Quantitative and Computational Applications",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "5A" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_6d",
+          "label": "Pathways 6D - Critique and Practice in Design",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "6D" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_6a",
+          "label": "Pathways 6A - Critique and Practice in the Arts",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "6A" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_7",
+          "label": "Pathways 7 - Identity & Equity in the US",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "7" }
+        }
+      ]
+    }
+  ],
+  "policies": {
+    "inMajorGPAExclusions": [],
+    "minGradeRequiredCourses": []
+  }
+}

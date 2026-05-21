@@ -1,0 +1,504 @@
+{
+  "programId": "CS_BS",
+  "programName": "B.S. Computer Science",
+  "degreeType": "BS",
+  "college": "engineering",
+  "catalogYear": "2024-2025",
+  "totalCredits": 123,
+  "gpaRequirements": {
+    "overall": 2.0,
+    "inMajor": 2.0,
+    "inMajorSubject": "CS"
+  },
+  "includes": [],
+  "doubleCountRules": [
+    {
+      "type": "allow",
+      "between": ["pathways", "major_requirements"],
+      "note": "Pathways courses can double count with major requirements"
+    },
+    {
+      "type": "allow",
+      "between": ["pathways", "electives"],
+      "note": "Pathways courses can double count with electives"
+    },
+    {
+      "type": "allow",
+      "between": ["pathways", "additional_courses"],
+      "except": ["cs3114"],
+      "note": "CS 3114 (Pathways 5A) cannot double count with anything else"
+    },
+    {
+      "type": "forbid",
+      "between": ["pathways", "degree_core"],
+      "note": "Pathways cannot double count with degree core"
+    }
+  ],
+  "requirementGroups": [
+    {
+      "id": "degree_core",
+      "label": "Degree Core Requirements",
+      "credits": 24,
+      "requirements": [
+        {
+          "type": "exact",
+          "id": "cs1114",
+          "course": "CS 1114",
+          "credits": 3,
+          "minGrade": "C",
+          "substitutes": ["CS 2064"]
+        },
+        {
+          "type": "exact",
+          "id": "cs2505",
+          "course": "CS 2505",
+          "credits": 3,
+          "minGrade": "C",
+          "substitutes": ["ECE 2564"]
+        },
+        {
+          "type": "exact",
+          "id": "cs2506",
+          "course": "CS 2506",
+          "credits": 3,
+          "minGrade": "C"
+        },
+        {
+          "type": "exact",
+          "id": "cs3214",
+          "course": "CS 3214",
+          "credits": 3
+        },
+        {
+          "type": "exact",
+          "id": "cs3604",
+          "course": "CS 3604",
+          "credits": 3
+        },
+        {
+          "type": "one_of",
+          "id": "math2114",
+          "label": "Linear Algebra",
+          "credits": 3,
+          "options": [
+            { "course": "MATH 2114" },
+            { "course": "MATH 2405H" }
+          ]
+        },
+        {
+          "type": "one_of",
+          "id": "math2204",
+          "label": "Multivariable Calculus",
+          "credits": 3,
+          "options": [
+            { "course": "MATH 2204" },
+            { "course": "CMDA 2005" }
+          ]
+        },
+        {
+          "type": "one_of",
+          "id": "math2534",
+          "label": "Discrete Math / Proofs",
+          "credits": 3,
+          "options": [
+            { "course": "MATH 2534" },
+            { "course": "MATH 3034" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major_requirements",
+      "label": "Major Requirements",
+      "credits": 15,
+      "requirements": [
+        {
+          "type": "exact",
+          "id": "cs2104",
+          "course": "CS 2104",
+          "credits": 3,
+          "minGrade": "C",
+          "substitutes": ["CS 2144", "CS 4144"]
+        },
+        {
+          "type": "exact",
+          "id": "cs3304",
+          "course": "CS 3304",
+          "credits": 3
+        },
+        {
+          "type": "one_from_list",
+          "id": "cs_theory_elective",
+          "label": "CS Theory Elective",
+          "credits": 3,
+          "courses": [
+            "CS 4104",
+            "CS 4114",
+            "CS 4124",
+            "CS 4134",
+            "CS 5104",
+            "CS 5114"
+          ]
+        },
+        {
+          "type": "one_from_list",
+          "id": "cs_capstone",
+          "label": "CS 4XXX Capstone",
+          "credits": 3,
+          "courses": [
+            "CS 4094",
+            "CS 4274",
+            "CS 4284",
+            "CS 4624",
+            "CS 4634",
+            "CS 4644",
+            "CS 4664",
+            "CS 4704",
+            "CS 4784",
+            "CS 4884",
+            "ENGE 4735",
+            "ENGE 4736"
+          ]
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "cs45xxx_elective",
+          "label": "CS 4/5XXX Elective",
+          "credits": 3,
+          "pool": {
+            "type": "rule_based",
+            "rules": [{ "subject": "CS", "minLevel": 4000 }],
+            "additionalAllowed": [
+              "BIT 4614",
+              "CMDA 4654",
+              "ECE 4424",
+              "ECE 4504",
+              "MATH 4414",
+              "PSCI 4164",
+              "STAT 4654",
+              "STS 4014"
+            ],
+            "excluded": [
+              "CS 4774",
+              "CS 5040",
+              "CS 5044",
+              "CS 5045",
+              "CS 5046",
+              "CS 5644",
+              "CS 5664"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "additional_courses",
+      "label": "Additional Course Requirements",
+      "requirements": [
+        {
+          "type": "exact",
+          "id": "cs1944",
+          "course": "CS 1944",
+          "credits": 1
+        },
+        {
+          "type": "exact",
+          "id": "cs2114",
+          "course": "CS 2114",
+          "credits": 3,
+          "minGrade": "C",
+          "substitutes": ["ECE 3514"]
+        },
+        {
+          "type": "exact",
+          "id": "cs3114",
+          "course": "CS 3114",
+          "credits": 3,
+          "minGrade": "C",
+          "noDoubleCounting": true
+        },
+        {
+          "type": "exact",
+          "id": "cs4944",
+          "course": "CS 4944",
+          "credits": 1
+        },
+        {
+          "type": "one_of",
+          "id": "math3134",
+          "label": "Combinatorics or Modern Algebra",
+          "credits": 3,
+          "options": [
+            { "course": "MATH 3134" },
+            { "course": "MATH 3124" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "electives",
+      "label": "Elective Courses",
+      "requirements": [
+        {
+          "type": "credits_from_pool",
+          "id": "cs345xxx_electives",
+          "label": "CS 3/4/5XXX Electives",
+          "credits": 6,
+          "pool": {
+            "type": "rule_based",
+            "rules": [{ "subject": "CS", "minLevel": 3000 }],
+            "additionalAllowed": [
+              "BIT 4614",
+              "CMDA 3654",
+              "CMDA 4654",
+              "ECE 4424",
+              "ECE 4504",
+              "MATH 3414",
+              "MATH 4414",
+              "PSCI 4164",
+              "STAT 3654",
+              "STAT 4654",
+              "STS 4014"
+            ],
+            "excluded": [
+              "CS 3114",
+              "CS 3634",
+              "CS 4774",
+              "CS 5040",
+              "CS 5044",
+              "CS 5045",
+              "CS 5046",
+              "CS 5644",
+              "CS 5664"
+            ]
+          }
+        },
+        {
+          "type": "credits_from_list",
+          "id": "cs_technical_elective",
+          "label": "CS Technical Elective",
+          "credits": 3,
+          "minCourses": 1,
+          "courses": [
+            "AOE 4434",
+            "ART 3704",
+            "BIT 4424",
+            "BIT 4434",
+            "BIT 4444",
+            "BIT 4544",
+            "BIT 4604",
+            "BIT 4614",
+            "BIT 4624",
+            "CEM 4624",
+            "CEM 4634",
+            "CMDA 3606",
+            "ECE 3544",
+            "ECE 3574",
+            "ECE 4524",
+            "ECE 4550",
+            "ECE 4560",
+            "ECE 4564",
+            "ECE 4580",
+            "ECE 4704",
+            "ENGE 4735",
+            "ENGE 4736",
+            "MATH 4175",
+            "MATH 4176",
+            "MATH 4445",
+            "MATH 4454",
+            "ME 4524",
+            "MUS 3064",
+            "MUS 3065",
+            "MUS 3066",
+            "PHYS 4755"
+          ],
+          "note": "Or any approved 3000/4000-level course with significant CS-relevant content (advisor approval required)"
+        },
+        {
+          "type": "credits_from_list",
+          "id": "nat_science_electives",
+          "label": "Natural Science Electives",
+          "credits": 8,
+          "courses": ["BIOL 1105", "BIOL 1115", "CHEM 1035", "CHEM 1045", "PHYS 2305"],
+          "note": "Pick one of: BIOL 1105+1115, CHEM 1035+1045, or PHYS 2305"
+        },
+        {
+          "type": "one_of",
+          "id": "adv_nat_science",
+          "label": "Advanced Natural Science Elective",
+          "credits": 4,
+          "options": [
+            { "sequence": ["BIOL 1106", "BIOL 1116"] },
+            { "sequence": ["CHEM 1036", "CHEM 1046"] },
+            { "course": "PHYS 2306" }
+          ]
+        },
+        {
+          "type": "one_from_list",
+          "id": "comm_elective",
+          "label": "Communications Elective",
+          "credits": 3,
+          "courses": ["COMM 2004", "COMM 2014"]
+        },
+        {
+          "type": "one_from_list",
+          "id": "prof_writing_elective",
+          "label": "Professional Writing Elective",
+          "credits": 3,
+          "courses": [
+            "ENGL 3764",
+            "ENGL 3804",
+            "ENGL 3814",
+            "ENGL 3824",
+            "ENGL 3834",
+            "ENGL 3844",
+            "ENGL 4824"
+          ]
+        },
+        {
+          "type": "one_from_list",
+          "id": "stats_elective",
+          "label": "Statistics Elective",
+          "credits": 3,
+          "courses": [
+            "STAT 4705",
+            "STAT 4105",
+            "STAT 4714",
+            "STAT 4604",
+            "STAT 3704",
+            "CMDA 2006"
+          ]
+        },
+        {
+          "type": "free_credits",
+          "id": "free_electives",
+          "label": "Free Electives",
+          "credits": 7
+        }
+      ]
+    },
+    {
+      "id": "pathways",
+      "label": "Pathways General Education",
+      "credits": 47,
+      "requirements": [
+        {
+          "type": "exact",
+          "id": "engl1105",
+          "course": "ENGL 1105",
+          "credits": 3,
+          "label": "First-Year Writing (1F)"
+        },
+        {
+          "type": "exact",
+          "id": "engl1106",
+          "course": "ENGL 1106",
+          "credits": 3,
+          "label": "First-Year Writing (1F)"
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_1a",
+          "label": "Pathways 1A - Advanced/Applied Discourse",
+          "credits": 3,
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "1A"
+          },
+          "note": "May be satisfied by Communications or Professional Writing Elective"
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_2",
+          "label": "Pathways 2 - Critical Thinking in the Humanities",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "2" }
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_3",
+          "label": "Pathways 3 - Reasoning in the Social Sciences",
+          "credits": 6,
+          "pool": { "type": "pathways_designated", "concept": "3" }
+        },
+        {
+          "type": "exact",
+          "id": "math1225",
+          "course": "MATH 1225",
+          "credits": 4,
+          "minGrade": "C-",
+          "label": "Pathways 5F"
+        },
+        {
+          "type": "exact",
+          "id": "math1226",
+          "course": "MATH 1226",
+          "credits": 4,
+          "label": "Pathways 5F"
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_6a",
+          "label": "Pathways 6A - Critique and Practice in the Arts",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "6A" }
+        },
+        {
+          "type": "one_of",
+          "id": "pathways_6d",
+          "label": "Pathways 6D - Foundations of Engineering",
+          "credits": 4,
+          "options": [
+            { "sequence": ["ENGE 1215", "ENGE 1216"] },
+            { "course": "ENGE 1414" }
+          ]
+        },
+        {
+          "type": "credits_from_pool",
+          "id": "pathways_7",
+          "label": "Pathways 7 - Identity & Equity in the US",
+          "credits": 3,
+          "pool": { "type": "pathways_designated", "concept": "7" },
+          "note": "May double-count with another core concept; if so, +3 free elective credits required"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Other Requirements",
+      "requirements": [
+        {
+          "type": "zero_credit",
+          "id": "bridge_experience",
+          "course": "ENGE 3900",
+          "label": "Career Bridge Experience"
+        },
+        {
+          "type": "aggregate_credits",
+          "id": "nontechnical_credits",
+          "label": "Non-Technical Course Requirement",
+          "credits": 30,
+          "pool": {
+            "type": "exclusion_based",
+            "excludedSubjects": ["BIOL", "CHEM", "GEOS", "PHYS", "MATH", "STAT"],
+            "note": "Also excludes College of Engineering courses (except those satisfying Pathways 7) and CS technical electives"
+          }
+        }
+      ]
+    }
+  ],
+  "policies": {
+    "defaultMaxAttempts": 3,
+    "maxRepeatedCourses": 3,
+    "inMajorGPAExclusions": [],
+    "minGradeRequiredCourses": [
+      { "course": "CS 1114", "grade": "C" },
+      { "course": "CS 2104", "grade": "C" },
+      { "course": "CS 2114", "grade": "C" },
+      { "course": "CS 2505", "grade": "C" },
+      { "course": "CS 2506", "grade": "C" },
+      { "course": "CS 3114", "grade": "C" }
+    ]
+  },
+  "defaultRoadmap": "CS_BS_default"
+}
