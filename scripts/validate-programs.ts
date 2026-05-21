@@ -1,94 +1,112 @@
 /**
- * validate-programs
- * 
- * Loads every JSON file in data/programs/ and validates it against the
- * Zod schema in lib/schemas/program.ts
+ * validate
  *
- * Exit code 0 if all programs are valid, 1 otherwise. Intended to run in
- * CI on every PR and locally before pushing.
+ * Loads every program JSON in data/programs/ and every student JSON in
+ * data/students/ and validates each against its Zod schema.
  *
+ * Exit code 0 if all valid, 1 otherwise. Runs in CI on every PR.
+ *
+ * Usage:  npm run validate
+ *         npx tsx scripts/validate-programs.ts
  */
 
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { parseProgram } from "../lib/schemas/program.ts";
+import { parseStudentRecord } from "../lib/schemas/student.ts";
 
-const PROGRAMS_DIR = resolve(process.cwd(), "data/programs");
+const ROOT = process.cwd();
 
 type Result =
-  | { file: string; ok: true; programId: string; credits: number }
-  | { file: string; ok: false; error: string };
+  | { kind: string; file: string; ok: true; summary: string }
+  | { kind: string; file: string; ok: false; error: string };
 
-function discoverProgramFiles(dir: string): string[] {
-  try {
-    return readdirSync(dir)
-      .filter((f) => f.endsWith(".json"))
-      .map((f) => join(dir, f))
-      .filter((p) => statSync(p).isFile())
-      .sort();
-  } catch (err) {
-    console.error(`Could not read ${dir}: ${(err as Error).message}`);
-    process.exit(1);
-  }
+function discover(dir: string): string[] {
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => join(dir, f))
+    .filter((p) => statSync(p).isFile())
+    .sort();
 }
 
-function validateOne(filePath: string): Result {
-  const file = filePath.replace(`${process.cwd()}/`, "");
-  let raw: string;
-  try {
-    raw = readFileSync(filePath, "utf-8");
-  } catch (err) {
-    return { file, ok: false, error: `Cannot read file: ${(err as Error).message}` };
-  }
+function readJson(filePath: string): unknown {
+  return JSON.parse(readFileSync(filePath, "utf-8"));
+}
 
-  let parsed: unknown;
-  try {
-    parsed = JSON.parse(raw);
-  } catch (err) {
-    return { file, ok: false, error: `Invalid JSON: ${(err as Error).message}` };
-  }
+function relative(p: string): string {
+  return p.startsWith(`${ROOT}/`) ? p.slice(ROOT.length + 1) : p;
+}
 
+function validateProgram(filePath: string): Result {
+  const file = relative(filePath);
   try {
-    const program = parseProgram(parsed);
+    const program = parseProgram(readJson(filePath));
     return {
+      kind: "program",
       file,
       ok: true,
-      programId: program.programId,
-      credits: program.totalCredits,
+      summary: `${program.programId} (${program.totalCredits} credits)`,
     };
   } catch (err) {
-    return { file, ok: false, error: (err as Error).message };
+    return { kind: "program", file, ok: false, error: (err as Error).message };
   }
 }
 
-function main(): void {
-  console.log(`Validating programs in ${PROGRAMS_DIR}\n`);
-
-  const files = discoverProgramFiles(PROGRAMS_DIR);
-  if (files.length === 0) {
-    console.error("No program files found.");
-    process.exit(1);
+function validateStudent(filePath: string): Result {
+  const file = relative(filePath);
+  try {
+    const student = parseStudentRecord(readJson(filePath));
+    const programs = student.programs.map((p) => p.programId).join(", ");
+    return {
+      kind: "student",
+      file,
+      ok: true,
+      summary: `${student.studentId} → ${programs}`,
+    };
+  } catch (err) {
+    return { kind: "student", file, ok: false, error: (err as Error).message };
   }
+}
 
-  const results = files.map(validateOne);
-  const failures = results.filter((r): r is Extract<Result, { ok: false }> => !r.ok);
-
+function printResults(label: string, results: Result[]): number {
+  if (results.length === 0) {
+    console.log(`(no ${label} found)`);
+    return 0;
+  }
+  console.log(`\n${label}:`);
+  let failures = 0;
   for (const r of results) {
     if (r.ok) {
-      console.log(`  ✓ ${r.file}  →  ${r.programId} (${r.credits} credits)`);
+      console.log(`  ✓ ${r.file}  →  ${r.summary}`);
     } else {
+      failures++;
       console.log(`  ✗ ${r.file}`);
       console.log(`    ${r.error.replace(/\n/g, "\n    ")}`);
     }
   }
+  return failures;
+}
+
+function main(): void {
+  const programFiles = discover(resolve(ROOT, "data/programs"));
+  const studentFiles = discover(resolve(ROOT, "data/students"));
+
+  const programResults = programFiles.map(validateProgram);
+  const studentResults = studentFiles.map(validateStudent);
+
+  const programFailures = printResults("Programs", programResults);
+  const studentFailures = printResults("Students", studentResults);
+
+  const total = programResults.length + studentResults.length;
+  const failures = programFailures + studentFailures;
 
   console.log();
-  if (failures.length > 0) {
-    console.log(`✗ ${failures.length} of ${results.length} program(s) failed validation.`);
+  if (failures > 0) {
+    console.log(`✗ ${failures} of ${total} file(s) failed validation.`);
     process.exit(1);
   }
-
-  console.log(`✓ All ${results.length} program(s) valid.`);
+  console.log(`✓ All ${total} file(s) valid.`);
 }
 
 main();
