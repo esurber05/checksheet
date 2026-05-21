@@ -1,0 +1,206 @@
+{
+  "studentId": "S00001",
+  "displayName": "Alex Chen (sample)",
+  "catalogYear": "2024-2025",
+  "enrolledSemester": "fall_2023",
+  "expectedGraduation": "spring_2027",
+  "programs": [
+    {
+      "programId": "CS_BS",
+      "type": "major",
+      "declaredDate": "2023-08-15"
+    }
+  ],
+  "admissions": {},
+  "courseRecord": [
+    {
+      "status": "transfer",
+      "course": "AP Calculus AB",
+      "credits": 4,
+      "vtEquivalent": "MATH 1225",
+      "source": "ap"
+    },
+    {
+      "status": "completed",
+      "course": "CS 1114",
+      "credits": 3,
+      "grade": "A",
+      "semester": "fall_2023"
+    },
+    {
+      "status": "completed",
+      "course": "ENGE 1215",
+      "credits": 2,
+      "grade": "B+",
+      "semester": "fall_2023"
+    },
+    {
+      "status": "completed",
+      "course": "ENGL 1105",
+      "credits": 3,
+      "grade": "A-",
+      "semester": "fall_2023"
+    },
+    {
+      "status": "completed",
+      "course": "MATH 1226",
+      "credits": 4,
+      "grade": "B",
+      "semester": "fall_2023"
+    },
+    {
+      "status": "completed",
+      "course": "CS 2114",
+      "credits": 3,
+      "grade": "A",
+      "semester": "spring_2024"
+    },
+    {
+      "status": "completed",
+      "course": "ENGE 1216",
+      "credits": 2,
+      "grade": "A",
+      "semester": "spring_2024"
+    },
+    {
+      "status": "completed",
+      "course": "ENGL 1106",
+      "credits": 3,
+      "grade": "A",
+      "semester": "spring_2024"
+    },
+    {
+      "status": "completed",
+      "course": "MATH 2114",
+      "credits": 3,
+      "grade": "B+",
+      "semester": "spring_2024"
+    },
+    {
+      "status": "completed",
+      "course": "CHEM 1035",
+      "credits": 3,
+      "grade": "B",
+      "semester": "spring_2024"
+    },
+    {
+      "status": "completed",
+      "course": "CHEM 1045",
+      "credits": 1,
+      "grade": "A-",
+      "semester": "spring_2024"
+    },
+    {
+      "status": "completed",
+      "course": "CS 1944",
+      "credits": 1,
+      "grade": "P",
+      "semester": "fall_2024",
+      "passFail": true
+    },
+    {
+      "status": "completed",
+      "course": "CS 2104",
+      "credits": 3,
+      "grade": "B+",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "CS 2505",
+      "credits": 3,
+      "grade": "B",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "MATH 2534",
+      "credits": 3,
+      "grade": "A-",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "PHIL 1304",
+      "credits": 3,
+      "grade": "A",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "CS 2506",
+      "credits": 3,
+      "grade": "B+",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "completed",
+      "course": "MATH 2204",
+      "credits": 3,
+      "grade": "C+",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "completed",
+      "course": "COMM 2004",
+      "credits": 3,
+      "grade": "A",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "completed",
+      "course": "ECON 2005",
+      "credits": 3,
+      "grade": "B",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "withdrawn",
+      "course": "CHEM 1036",
+      "semester": "spring_2025",
+      "withdrawalDate": "2025-03-15"
+    },
+    {
+      "status": "in_progress",
+      "course": "CS 3114",
+      "credits": 3,
+      "semester": "fall_2025"
+    },
+    {
+      "status": "in_progress",
+      "course": "MATH 3134",
+      "credits": 3,
+      "semester": "fall_2025"
+    },
+    {
+      "status": "in_progress",
+      "course": "ENGL 3764",
+      "credits": 3,
+      "semester": "fall_2025"
+    },
+    {
+      "status": "planned",
+      "course": "CS 3214",
+      "credits": 3,
+      "semester": "spring_2026"
+    },
+    {
+      "status": "planned",
+      "course": "CS 3304",
+      "credits": 3,
+      "semester": "spring_2026"
+    }
+  ],
+  "advisorApprovals": [
+    {
+      "id": "AP-2024-001",
+      "type": "substitution",
+      "forRequirement": "math2204",
+      "substitutesCourse": "MATH 2204",
+      "withCourse": "MATH 2204",
+      "approvedBy": "Dr. Jane Smith",
+      "approvedDate": "2024-08-20",
+      "notes": "Standard enrollment; included to demonstrate approval shape."
+    }
+  ]
+}
