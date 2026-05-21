@@ -6,6 +6,10 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "noEmit": true
-  }
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "allowImportingTsExtensions": true,
+    "types": ["node"]
+  },
+  "include": ["lib/**/*", "scripts/**/*", "data/**/*"]
 }
