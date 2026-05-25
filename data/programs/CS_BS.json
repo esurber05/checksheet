@@ -480,7 +480,11 @@
           "credits": 30,
           "pool": {
             "type": "exclusion_based",
-            "excludedSubjects": ["BIOL", "CHEM", "GEOS", "PHYS", "MATH", "STAT"],
+            "excludedSubjects": [
+              "CS", "ECE", "AOE", "BSE", "CEE", "CHE", "ESM", "ISE", "ME", "MSE",
+              "ENGE", "CMDA",
+              "BIOL", "CHEM", "GEOS", "PHYS", "MATH", "STAT"
+            ],
             "note": "Also excludes College of Engineering courses (except those satisfying Pathways 7) and CS technical electives"
           }
         }

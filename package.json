@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "validate": "tsx scripts/validate-programs.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "audit": "tsx scripts/audit-demo.ts"
   },
   "keywords": [],
   "author": "",
