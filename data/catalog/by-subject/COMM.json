@@ -1,0 +1,495 @@
+{
+  "subject": "COMM",
+  "scrapedAt": "2026-05-25T21:19:10.856Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "COMM 1004",
+      "subject": "COMM",
+      "number": "1004",
+      "level": 1000,
+      "title": "First-Semester Experience in Communication",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to areas of research, ethical behaviors, and career paths in the discipline. Consideration of strategies for learning, accessing advising, and locating resources.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 1014",
+      "subject": "COMM",
+      "number": "1014",
+      "level": 1000,
+      "title": "Introduction to Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of the communication discipline across areas of specialization from interpersonal to mediated and mass communication, including history and fundamental concepts, theories, contexts. Emphasis on ethical human behavior and message analysis.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 1015",
+      "subject": "COMM",
+      "number": "1015",
+      "level": 1000,
+      "title": "Communication Skills",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to oral and written communication. 1015: Focus on oral and written communication in interpersonal, small group, and public contexts. Special emphasis on the writing process, listening, interviewing, conflict resolution, critical analysis, and communication in digital and visual media. 1016: Continued Study in oral and written communication skills for small group and public contexts. Focus on practical applications in ethical research and information gathering, audience analysis and adaptation, message development, and oral, written, and visual presentations by individuals and groups.",
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 1016",
+      "subject": "COMM",
+      "number": "1016",
+      "level": 1000,
+      "title": "Communication Skills",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to oral and written communication. 1015: Focus on oral and written communication in interpersonal, small group, and public contexts. Special emphasis on the writing process, listening, interviewing, conflict resolution, critical analysis, and communication in digital and visual media. 1016: Continued Study in oral and written communication skills for small group and public contexts. Focus on practical applications in ethical research and information gathering, audience analysis and adaptation, message development, and oral, written, and visual presentations by individuals and groups.",
+      "prerequisites": {
+        "rawText": "COMM 1015",
+        "referencedCourses": [
+          "COMM 1015"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2004",
+      "subject": "COMM",
+      "number": "2004",
+      "level": 2000,
+      "title": "Public Speaking",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Strategies and practice for speaking to specific audiences. Ethical considerations for message preparation, development, presentation, and evaluation. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2014",
+      "subject": "COMM",
+      "number": "2014",
+      "level": 2000,
+      "title": "Communication Principles of Teamwork",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Behavior of people working in groups. Theories and models of communication, types of groups, principles of effective teamwork. Intrapersonal and interpersonal communication and values related to group behavior, relationships, and problem solving. Ethical issues associated with group work. Pre: Sophomore standing required.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2024",
+      "subject": "COMM",
+      "number": "2024",
+      "level": 2000,
+      "title": "Media Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Writing and information gathering skills including news, features, press releases, and advertising copy for broadcast, print and public relations media. Sophomore Standing Required.",
+      "prerequisites": {
+        "rawText": "COMM 1016 or ENGL 1106 or ENGL 1204H",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2084",
+      "subject": "COMM",
+      "number": "2084",
+      "level": 2000,
+      "title": "Media and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An examination of media influence on society. Emphasis on impact of media (such as newspapers, film, social networks, and video games) on diverse audiences and cultures. Considerations of the evolution of media; social institutions and trends related to the media; domestic, global, ethical, and legal questions posed by the media; intercultural communication; and new technologys influence on society.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2094",
+      "subject": "COMM",
+      "number": "2094",
+      "level": 2000,
+      "title": "Communication and Issues of Diversity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of communication theory and practice related to diversity and the media. Analysis of ethical implications of media influences on workplace communication across disciplines. Development of a personal understanding of diversity and identity by examining media producers, audiences, workforces, outlets, and content.",
+      "prerequisites": {
+        "rawText": "COMM 1016 or ENGL 1106",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2124",
+      "subject": "COMM",
+      "number": "2124",
+      "level": 2000,
+      "title": "Introduction to Communication Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of approaches to research in the discipline, including identification and analysis of existing research; procedures for conducting and reporting basic research in communication. Sophomore Standing required.",
+      "prerequisites": {
+        "rawText": "COMM 1016 or ENGL 1106 or ENGL 1204H",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2964",
+      "subject": "COMM",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2974",
+      "subject": "COMM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2974H",
+      "subject": "COMM",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 2984",
+      "subject": "COMM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 3900",
+      "subject": "COMM",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Department approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 3954",
+      "subject": "COMM",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 3984",
+      "subject": "COMM",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4024",
+      "subject": "COMM",
+      "number": "4024",
+      "level": 4000,
+      "title": "Communication Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study freedom of speech and the press and how these freedoms apply to the press, public relations, advertising and personal speech. Consideration of First Amendment theories and jurisprudence; related ethical issues. Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4204",
+      "subject": "COMM",
+      "number": "4204",
+      "level": 4000,
+      "title": "Communication Internship",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Placement in a communication industry for practical internship under supervision by a departmental advisor and a professional in the field. May be repeated for credit up to a maximum of 6 hours credit. Pre: Junior standing and consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4964",
+      "subject": "COMM",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4974",
+      "subject": "COMM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4974H",
+      "subject": "COMM",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4984",
+      "subject": "COMM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4994",
+      "subject": "COMM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COMM 4994H",
+      "subject": "COMM",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/comm/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,1624 @@
+{
+  "subject": "MSE",
+  "scrapedAt": "2026-05-25T21:21:19.742Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "MSE 1004",
+      "subject": "MSE",
+      "number": "1004",
+      "level": 1000,
+      "title": "Materials In Todays World",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "An introductory course designed for the student with a basic high school science background who wishes to understand and learn about the exciting materials developments which are affecting us all in todays world. The course will introduce the structures and properties of metals, ceramics, polymers (plastics), composites, and materials for electronic and optical applications. Students will also gain an appreciation for the processing and design limitations of materials used in everyday applications.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 1014",
+      "subject": "MSE",
+      "number": "1014",
+      "level": 1000,
+      "title": "The Science of Materials in Everyday Life",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the science of materials using everyday applications in modern society from medicine, transportation, sports, art, music, infrastructure, and electronics. Discussion of metals, ceramics, plastics, biomaterials, and hybrid materials based on the fundamental science dictating their structure properties, and processing. Considerations of tradeoffs between environmental sustainability, ethical and societal issues, and economics for materials choices.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2014",
+      "subject": "MSE",
+      "number": "2014",
+      "level": 2000,
+      "title": "Materials Engineering Transition",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Supplemental coverage of introductory topics not included in courses delivered to non-MSE majors.",
+      "prerequisites": {
+        "rawText": "MSE 2034 or MSE 3094 or AOE 3094",
+        "referencedCourses": [
+          "MSE 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2034",
+      "subject": "MSE",
+      "number": "2034",
+      "level": 2000,
+      "title": "Elements of Materials Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is designed to introduce the non-MSE student to the structures and properties of metals, ceramics, polymers, and composites. In addition, students will gain an understanding of the processing and design limitations of these materials, as well as being introduced to new classes of materials being developed to meet the ever expanding range of material requirements. Non-MSE majors only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2044",
+      "subject": "MSE",
+      "number": "2044",
+      "level": 2000,
+      "title": "Fundamentals of Materials Engineering",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "This course is designed to introduce the MSE major to the structures and properties of metals, ceramics, polymers, composites, and electronic materials. Students will also gain an understanding of the processing and design limitations of materials. Topics fundamental to the further study of materials, such as crystal structures, phase diagrams, and materials design and processing will be emphasized as foundations for future MSE courses.",
+      "prerequisites": {
+        "rawText": "CHEM 1035",
+        "referencedCourses": [
+          "CHEM 1035"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2054",
+      "subject": "MSE",
+      "number": "2054",
+      "level": 2000,
+      "title": "Fundamentals of Materials Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces MSE majors to fundamental underlying concepts governing phase equilibrium, microstructure, electronic properties of materials, and transport phenomena as a foundation to understanding materials behavior and processing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2114",
+      "subject": "MSE",
+      "number": "2114",
+      "level": 2000,
+      "title": "Math Programming MSE I",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Basic computational and graphical functions in mathematics oriented programming languages using data and engineering examples from the field of Materials Science. Students apply general methods to problems of their choice through mini- projects.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2884",
+      "subject": "MSE",
+      "number": "2884",
+      "level": 2000,
+      "title": "Materials Engineering Professional Development I",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics on professional, communications, and leadership skills in entering the engineering workplace; building and presenting qualifications for professional development; expanding the professional network; and ethical, diversity, inclusion, and equity in the engineering workplace. Career gap analysis, team dynamics, resumes, job interviews, cover letters, scholarship essays, personal statements, professional development portfolios, case studies, poster presentations. Pre: Sophomore standing in the MSE major.",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2974",
+      "subject": "MSE",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2974H",
+      "subject": "MSE",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2984",
+      "subject": "MSE",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2984D",
+      "subject": "MSE",
+      "number": "2984D",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "4"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2994",
+      "subject": "MSE",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 2994H",
+      "subject": "MSE",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3044",
+      "subject": "MSE",
+      "number": "3044",
+      "level": 3000,
+      "title": "Transport Phenomena in MSE",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mass transport (continuum and atomistic diffusion), heat transport and fluid flow (momentum transport). Analytical and computer based methods for solving transport problems.",
+      "prerequisites": {
+        "rawText": "MSE 2044 and MATH 2214",
+        "referencedCourses": [
+          "MATH 2214",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3054",
+      "subject": "MSE",
+      "number": "3054",
+      "level": 3000,
+      "title": "Mechanical Behavior of Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mechanical properties and behavior of solid materials subjected to static, cyclic, and sustained loads resulting from stress states, environments, and stress histories typical of service conditions; multiaxial failure criteria; behavior of cracked bodies; fatigue of materials; creep of materials; microstructure-property relationships; design methodologies.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and (MSE 2034 or MSE 2044 or MSE 3094 or AOE 3094 or CEE 3684)",
+        "referencedCourses": [
+          "CEE 3684",
+          "ESM 2204",
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ESM 3054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3064",
+      "subject": "MSE",
+      "number": "3064",
+      "level": 3000,
+      "title": "Mechanical Behavior of Materials Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory experiments on behavior and mechanical properties of solid materials. Tension, compression, bending, hardness, nano-indentation, and impact tests; behavior of cracked bodies; fatigue and crack growth tests; creep deformation; microstructure-property relationships; laboratory equipment, instrumentation, and computers.",
+      "prerequisites": {
+        "rawText": "ESM 2204",
+        "referencedCourses": [
+          "ESM 2204"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ESM 3054",
+        "referencedCourses": [
+          "ESM 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [
+        "ESM 3064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3104",
+      "subject": "MSE",
+      "number": "3104",
+      "level": 3000,
+      "title": "Mineralogy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of modern mineralogy, crystal chemistry, and crystallography, with emphasis on mineral atomic structure and physical property relationships, mineralogy in the context of geology, geochemistry, environmental science and geophysics, phase equilibria, mineral associations, and mineral identification, and industrial applications of minerals. There are three required field trips during the semester.",
+      "corequisites": {
+        "rawText": "CHEM 1035 or CHEM 1055 or (ISC 1106 and ISC 1116)",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055",
+          "ISC 1106",
+          "ISC 1116"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "GEOS 3504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3114",
+      "subject": "MSE",
+      "number": "3114",
+      "level": 3000,
+      "title": "Mathematics Programming in Materials Science II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Advanced computational and graphical methods in mathematics oriented programming languages. Students develop programs that solve and/or provide visualizations of solutions to materials science and engineering problems.",
+      "prerequisites": {
+        "rawText": "MSE 2114",
+        "referencedCourses": [
+          "MSE 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3134",
+      "subject": "MSE",
+      "number": "3134",
+      "level": 3000,
+      "title": "Crystallography and Crystal Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides a comprehensive foundation in crystallography including lattices, point groups, space groups, reciprocal lattices, properties of x-rays, and electron density maps, all leading to a formal description of structures and an interpretation of the published crystallographic data.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3204",
+      "subject": "MSE",
+      "number": "3204",
+      "level": 3000,
+      "title": "Fundamentals of Electronic Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the electrical, magnetic, and optical properties of solid-state materials. Development of atomic scale models for physical phenomena that are observable at the macroscopic scale. Connection is made between basic materials properties and the operational characteristics of selected solid-state devices.",
+      "prerequisites": {
+        "rawText": "MSE 2054 and PHYS 2306",
+        "referencedCourses": [
+          "MSE 2054",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3304",
+      "subject": "MSE",
+      "number": "3304",
+      "level": 3000,
+      "title": "Physical Metallurgy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Deformation of crystalline solids and its relationship to crystal structure and crystal defects: crystal structures of metals, dislocations and plastic deformation, vacancies, recovery, recrystallization, grain growth, deformation twinning and martensite.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3314",
+      "subject": "MSE",
+      "number": "3314",
+      "level": 3000,
+      "title": "Materials Laboratory I",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Sample preparation for materials characterization techniques including various types of microscopy, spectroscopy, diffraction, and hardness testing. Instruction in the use of heat treating equipment and polishing and chemical etching procedures.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3324",
+      "subject": "MSE",
+      "number": "3324",
+      "level": 3000,
+      "title": "Elementary Metal Casting Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to metal casting processes; gating, risering, molding and puring. Hands-on experience. Emphasis on safe foundry practices. Oral and written reports are required.",
+      "prerequisites": {
+        "rawText": "(MSE 2034 or MSE 2044) and ISE 2214",
+        "referencedCourses": [
+          "ISE 2214",
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MSE 3354",
+        "referencedCourses": [
+          "MSE 3354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3354",
+      "subject": "MSE",
+      "number": "3354",
+      "level": 3000,
+      "title": "Foundry Safety",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Provides comprehensive training in foundry safety procedures and policies. (May register multiple times).",
+      "prerequisites": {
+        "rawText": "(MSE 2034 or MSE 2044) and ISE 2214",
+        "referencedCourses": [
+          "ISE 2214",
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "corequisites": {
+        "rawText": "3324 or 3334 or 4324.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3884",
+      "subject": "MSE",
+      "number": "3884",
+      "level": 3000,
+      "title": "Materials Engineering Professional Development II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Teamwork, ethical, professional, and communication practices in collaborative engineering environments; identification of areas of interest for potential senior design capstone projects; discipline-specific preliminary research in preparation for senior design projects: motivations and needs identification, broader impact (economic, social, environmental, and global), relevant theoretical concepts and methodologies, ethical engineering considerations, management logistic such identification of facilities and equipment, risk and safety analysis, critical paths and project timelines; basic project and time management; collaborative communications in written and oral form, personal professional development plans. Extends the basic treatment of these topics given in MSE 2884. Pre: Junior standing in the MSE major.",
+      "prerequisites": {
+        "rawText": "MSE 2884",
+        "referencedCourses": [
+          "MSE 2884"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 3954",
+      "subject": "MSE",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4034",
+      "subject": "MSE",
+      "number": "4034",
+      "level": 4000,
+      "title": "Thermodynamics of Materials Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Topics in thermodynamics on the solution of materials selection and design related problems such as materials stability at high temperatures and in corrosive chemical environments. Thermodynamic principles important in controlling equilibrium in single component systems and multicomponent solid solutions and in establishing the thermodynamic driving force in kinetic processes which are important in materials processing unit operations. Estimation of thermodynamic properties and equilibrium calculations in multicomponent and multiphase systems.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 1036",
+        "referencedCourses": [
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4044",
+      "subject": "MSE",
+      "number": "4044",
+      "level": 4000,
+      "title": "Powder Processing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Processing methods associated with powder synthesis, characterization, colloidal processing, and forming of powder compacts. Theory of solid state and liquid phase sintering.",
+      "prerequisites": {
+        "rawText": "MSE 3044",
+        "referencedCourses": [
+          "MSE 3044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4055",
+      "subject": "MSE",
+      "number": "4055",
+      "level": 4000,
+      "title": "Materials Selection and Design I and II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4055: Selection of materials for engineering systems, based on constitutive analyses of functional requirements and material properties. 4056: The role and implications of processing on material selection.",
+      "prerequisites": {
+        "rawText": "(MSE 3204 and MSE 3304) or (MSE 3204 and MSE 4414) or (MSE 3204 and MSE 4554) or (MSE 3304 and MSE 4414) or (MSE 3304 and MSE 4554) or (MSE 4414 and MSE 4554)",
+        "referencedCourses": [
+          "MSE 3204",
+          "MSE 3304",
+          "MSE 4414",
+          "MSE 4554"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MSE 3054",
+        "referencedCourses": [
+          "MSE 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4056",
+      "subject": "MSE",
+      "number": "4056",
+      "level": 4000,
+      "title": "Materials Selection and Design I and II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4055: Selection of mateials for engineering systems, based on constitutive analyses of functional requirements and material properties. 4056: The role and implications of processing on material selection.",
+      "prerequisites": {
+        "rawText": "MSE 4055",
+        "referencedCourses": [
+          "MSE 4055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4075",
+      "subject": "MSE",
+      "number": "4075",
+      "level": 4000,
+      "title": "Senior Design Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A capstone design course centered around an open-ended, faculty-advised senior project involving the design of a process, material, or a technique for solving a technological problem. Senior standing in MSE required.",
+      "prerequisites": {
+        "rawText": "MSE 4644",
+        "referencedCourses": [
+          "MSE 4644"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MSE 4055, MSE 4085",
+        "referencedCourses": [
+          "MSE 4055",
+          "MSE 4085"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4076",
+      "subject": "MSE",
+      "number": "4076",
+      "level": 4000,
+      "title": "Senior Design Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "A capstone design course centered around an open-ended, faculty-advised senior project involving the design of a process, material, or a technique for solving a technological problem. Senior standing in MSE required.",
+      "prerequisites": {
+        "rawText": "MSE 4075",
+        "referencedCourses": [
+          "MSE 4075"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MSE 4086",
+        "referencedCourses": [
+          "MSE 4086"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4085",
+      "subject": "MSE",
+      "number": "4085",
+      "level": 4000,
+      "title": "Senior Capstone Recitation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Topics in engineering professional practice, project planning and reporting, including discussion and presentation of proposals, interim and project reports. Instruction in environmental, social, and economic impacts of engineering; design theory and analysis; ethics, continuous learning, and global issues. Capstone course runs in parallel with faculty-advised Senior Design Laboratory. 4085: Emphasis on project planning and management techniques, teamwork strategies, literature research, and technical communication style. 4086: Continuing development of technical documents, with emphasis on professional communication to various audience formats. Additional focus on broader impacts of technical projects, including social, economic, environmental, ethical, and global contexts. Pre: Senior standing in MSE.",
+      "prerequisites": {
+        "rawText": "MSE 3884",
+        "referencedCourses": [
+          "MSE 3884"
+        ]
+      },
+      "corequisites": {
+        "rawText": "4075 or 4095H for 4085; 4076 or 4096H for 4086. (2H,2C) for 4085. (1H,1C) for 4086.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4085H",
+      "subject": "MSE",
+      "number": "4085H",
+      "level": 4000,
+      "title": "Senior Capstone Recitation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Topics in engineering professional practice, project planning and reporting, including discussion and presentation of proposals, interim and project reports. Instruction in environmental, social, and economic impacts of engineering; design theory and analysis; ethics, continuous learning, and global issues. Capstone course runs in parallel with faculty-advised Senior Design Laboratory. 4085: Emphasis on project planning and management techniques, teamwork strategies, literature research, and technical communication style. 4086: Continuing development of technical documents, with emphasis on professional communication to various audience formats. Additional focus on broader impacts of technical projects, including social, economic, environmental, ethical, and global contexts. Pre: Senior standing in MSE.",
+      "prerequisites": {
+        "rawText": "MSE 3884",
+        "referencedCourses": [
+          "MSE 3884"
+        ]
+      },
+      "corequisites": {
+        "rawText": "4075 or 4095H for 4085; 4076 or 4096H for 4086. (2H,2C) for 4085. (1H,1C) for 4086.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4086",
+      "subject": "MSE",
+      "number": "4086",
+      "level": 4000,
+      "title": "Senior Capstone Recitation",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics in engineering professional practice, project planning and reporting, including discussion and presentation of proposals, interim and project reports. Instruction in environmental, social, and economic impacts of engineering; design theory and analysis; ethics, continuous learning, and global issues. Capstone course runs in parallel with faculty-advised Senior Design Laboratory. 4085: Emphasis on project planning and management techniques, teamwork strategies, literature research, and technical communication style. 4086: Continuing development of technical documents, with emphasis on professional communication to various audience formats. Additional focus on broader impacts of technical projects, including social, economic, environmental, ethical, and global contexts. Pre: Senior standing in MSE.",
+      "prerequisites": {
+        "rawText": "MSE 4085",
+        "referencedCourses": [
+          "MSE 4085"
+        ]
+      },
+      "corequisites": {
+        "rawText": "4075 or 4095H for 4085; 4076 or 4096H for 4086. (2H,2C) for 4085. (1H,1C) for 4086.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4086H",
+      "subject": "MSE",
+      "number": "4086H",
+      "level": 4000,
+      "title": "Honors Senior Capstone Recitation",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics in engineering professional practice, project planning and reporting, including discussion and presentation of proposals, interim and project reports. Instruction in environmental, social, and economic impacts of engineering; design theory and analysis; ethics, continuous learning, and global issues. Capstone course runs in parallel with faculty-advised Senior Design Laboratory. 4085: Emphasis on project planning and management techniques, teamwork strategies, literature research, and technical communication style. 4086: Continuing development of technical documents, with emphasis on professional communication to various audience formats. Additional focus on broader impacts of technical projects, including social, economic, environmental, ethical, and global contexts. Pre: Senior standing in MSE.",
+      "prerequisites": {
+        "rawText": "MSE 4085",
+        "referencedCourses": [
+          "MSE 4085"
+        ]
+      },
+      "corequisites": {
+        "rawText": "4075 or 4095H for 4085; 4076 or 4096H for 4086. (2H,2C) for 4085. (1H,1C) for 4086.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4095H",
+      "subject": "MSE",
+      "number": "4095H",
+      "level": 4000,
+      "title": "Honors Senior Design-Laboratory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Two-semester MSE capstone design course centered around an open-ended, faculty-advised senior honors project involving the design of a process, material, or a technique for solving a technological problem. Outcomes and work effort are consistent with that expected of honors students. MSE 4095H: Literature search, planning and proof-of-concept studies of assigned project. Individual preparation and presentation of an original senior honors thesis related to a team project in which the students also participate. Presentation of detailed project plan to faculty. MSE 4096H: Execution of proposed project, analysis of results and preparation of journal-quality presentation of results. Oral presentation of results to MSE faculty and students. Enrollment in University Honors and senior standing in MSE required.",
+      "prerequisites": {
+        "rawText": "MSE 4644",
+        "referencedCourses": [
+          "MSE 4644"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MSE 4055, MSE 4085",
+        "referencedCourses": [
+          "MSE 4055",
+          "MSE 4085"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4096H",
+      "subject": "MSE",
+      "number": "4096H",
+      "level": 4000,
+      "title": "Honors Senior Design Laboratory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Two-semester MSE capstone design course centered around an open-ended, faculty-advised senior honors project involving the design of a process, material, or a technique for a solving a technological problem. Outcomes and work effort are consistent with that expected of honors students. MSE 4096H: Execution of proposed project, anaylsis of results and preparation of journal-quality presentation of results. Oral presentation of results to MSE faculty and students. Enrollment in University Honors and senior standing in MSE required.",
+      "prerequisites": {
+        "rawText": "UH 4095H",
+        "referencedCourses": []
+      },
+      "corequisites": {
+        "rawText": "MSE 4086",
+        "referencedCourses": [
+          "MSE 4086"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4164",
+      "subject": "MSE",
+      "number": "4164",
+      "level": 4000,
+      "title": "Principles of Materials Corrosion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the scientific principles of materials corrosion and corrosion protection. Topics include: thermodynamics of materials corrosion, including potential- PH (Pourbaix) diagrams, kinetics of corrosion reactions and mixed potential theory, types of corrosion (uniform, galvanic, crevice, pitting, fatigue, stress corrosion cracking, intergranular, and hydrogen embrittlement), material/environmental factors that promote or prevent the various types of corrosion, and methods and techniques of corrosion testing.",
+      "corequisites": {
+        "rawText": "MSE 4034",
+        "referencedCourses": [
+          "MSE 4034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4224",
+      "subject": "MSE",
+      "number": "4224",
+      "level": 4000,
+      "title": "Electronic, Magnetic, and Optical Properties of Materials Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to experimental techniques used to study the electronic, magnetic, and optical properties of contemporary advanced materials systems; property variations made possible by composition and processing of engineered materials; and interaction of fields with materials – including effective communication of these results.",
+      "prerequisites": {
+        "rawText": "MSE 3204 and MSE 3314 and MSE 4424",
+        "referencedCourses": [
+          "MSE 3204",
+          "MSE 3314",
+          "MSE 4424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4234",
+      "subject": "MSE",
+      "number": "4234",
+      "level": 4000,
+      "title": "Semiconductor Processing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Manufacturing practices used in silicon integrated circuit fabrication and the underlying scientific basis for these process technologies. Physical models are developed to explain basic fabrication steps, such as substrate growth, thermal oxidation, dopant diffusion, ion implantation, thin film deposition, etching, and lithography. The overall CMOS integrated circuit process flow is described within the context of these physical models.",
+      "prerequisites": {
+        "rawText": "ECE 2214",
+        "referencedCourses": [
+          "ECE 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECE 4234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4304",
+      "subject": "MSE",
+      "number": "4304",
+      "level": 4000,
+      "title": "Metals and Alloys",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course covers the production, properties and uses of commercially important metals and alloys. The influence of structure, chemistry, and processing upon the properties of metals is emphasized. Alloy selection is discussed. Mechanical, electrical, thermal and chemical characteristics of ferrous and nonferrous alloys are studied.",
+      "prerequisites": {
+        "rawText": "MSE 2034 or MSE 2044",
+        "referencedCourses": [
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4305",
+      "subject": "MSE",
+      "number": "4305",
+      "level": 4000,
+      "title": "Physical Metallurgy and Modeling of Metal Casting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4305: Casting processes; solidification and its influences on the structure and chemistry of castings; role of fluid flow and heat transfer in mold design; origin and control of casting defects. 4306: Design, layout, and modeling of metal components cast from aluminum, bronze, iron and steel; design of metal running systems; modeling of solidification process.",
+      "prerequisites": {
+        "rawText": "MSE 3304",
+        "referencedCourses": [
+          "MSE 3304"
+        ]
+      },
+      "corequisites": {
+        "rawText": "3044 or ME 3304 for 4306.",
+        "referencedCourses": [
+          "ME 3304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4306",
+      "subject": "MSE",
+      "number": "4306",
+      "level": 4000,
+      "title": "Physical Metallurgy and Modeling of Metal Casting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4305: Casting processes; solidification and its influence on the structure and chemistry of castings; role of fluid flow and heat transfer in mold design; origin and control of casting defects. 4306: Design, layout, and modeling of metal components cast from aluminum, bronze, iron and steel; design of metal running systems; modeling of solidification processes.",
+      "prerequisites": {
+        "rawText": "(MSE 2034 or MSE 2044) and MSE 3324",
+        "referencedCourses": [
+          "MSE 2034",
+          "MSE 2044",
+          "MSE 3324"
+        ]
+      },
+      "corequisites": {
+        "rawText": "3044 or ME 3304 for 4306.",
+        "referencedCourses": [
+          "ME 3304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4314",
+      "subject": "MSE",
+      "number": "4314",
+      "level": 4000,
+      "title": "Bladesmithing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to bladesmithing processes. Hands-on experience with heating metal, visual temperature measurement, manual hammer forging, forge welding, cooling metal, and heat treatment. Emphasis on safe forging and bladesmithing practices.",
+      "corequisites": {
+        "rawText": "MSE 3304, MSE 3354",
+        "referencedCourses": [
+          "MSE 3304",
+          "MSE 3354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4324",
+      "subject": "MSE",
+      "number": "4324",
+      "level": 4000,
+      "title": "Advanced Metal Casting Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Advanced metal casting processes; no-bake sand molds; investment casting; rapid prototyping; melting and casting of aluminum, bronze, iron and steel. Casting finishing including shot and sand blasting. Hands-on experience. Emphasis on safe foundry practices. Oral and written reports are required.",
+      "prerequisites": {
+        "rawText": "MSE 3324",
+        "referencedCourses": [
+          "MSE 3324"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MSE 3354",
+        "referencedCourses": [
+          "MSE 3354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4334",
+      "subject": "MSE",
+      "number": "4334",
+      "level": 4000,
+      "title": "Applied Materials Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental materials theory applied to structure-property relationships in materials science and engineering through basic characterization techniques. Demonstrations, lab exercises, and practical application of modern characterization techniques such as Scanning and Transmission Electron Microscopy (SEM, TEM), Focused Ion Beam (FIB), and Atomic Force Microscopy (AFM).",
+      "prerequisites": {
+        "rawText": "MSE 2044 and (MSE 3314 or MSE 4424)",
+        "referencedCourses": [
+          "MSE 2044",
+          "MSE 3314",
+          "MSE 4424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4384",
+      "subject": "MSE",
+      "number": "4384",
+      "level": 4000,
+      "title": "Nuclear Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to materials for nuclear applications with emphasis on fission reactors. Fundamental radiation effects on materials; material properties relevant to structural, moderator, reflector, blanket, coolant, control shielding and safety systems; processes such as nuclear fuel cycles, fuel enrichment and reprocessing; and related structural systems.",
+      "prerequisites": {
+        "rawText": "(MSE 3044 or ME 3304) and (MSE 3054 or ESM 3054 or ME 3614)",
+        "referencedCourses": [
+          "ESM 3054",
+          "ME 3304",
+          "ME 3614",
+          "MSE 3044",
+          "MSE 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4394",
+      "subject": "MSE",
+      "number": "4394",
+      "level": 4000,
+      "title": "Introduction to Molecular Dynamics Simulation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Background of molecular dynamics simulation method. Fundamental molecular dynamics principles, algorithms and components (atomic structure, periodic boundary conditions, interatomic potentials, equations of motion of atoms, statistical ensembles, integration of equations of motion). Implementation of algorithms into codes. Simulations of the time evolution of atoms, particles, or molecules under static or varying thermodynamic conditions and external loads. Connection between atom trajectories and evolution of the physical property of the simulation system with statistical mechanics principles. Hands-on case studies using molecular dynamics simulation package, LAMMPS. Prior knowledge of a programming language such as Fortran, C, C++, Matlab, Mathematica, Python, Java is highly recommended. Pre: Junior standing.",
+      "prerequisites": {
+        "rawText": "MSE 2034 or MSE 2044",
+        "referencedCourses": [
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4414",
+      "subject": "MSE",
+      "number": "4414",
+      "level": 4000,
+      "title": "Physical Ceramics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the relationships between the physical properties (thermal, optical, mechanical, electrical and magnetic) and the structure and composition of ceramics at the atomic and microscopic level as affected by processing and service environment. Emphasis will be placed on application and design using structural ceramics.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4424",
+      "subject": "MSE",
+      "number": "4424",
+      "level": 4000,
+      "title": "Materials Laboratory II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Processing and characterization of materials; exploration of the influence of processing parameters on physical and mechanical properties. Emphasis on material synthesis.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4434",
+      "subject": "MSE",
+      "number": "4434",
+      "level": 4000,
+      "title": "Ceramic and Glass Materials Processing Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to experimental techniques used to synthesize, process, and analyze resulting properties of ceramic and glass materials. Measurement of property variations made possible by changing composition and processing of engineered ceramic systems.",
+      "prerequisites": {
+        "rawText": "MSE 4414 and MSE 3314 and MSE 4424",
+        "referencedCourses": [
+          "MSE 3314",
+          "MSE 4414",
+          "MSE 4424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4544",
+      "subject": "MSE",
+      "number": "4544",
+      "level": 4000,
+      "title": "Laboratory In Polymer Science",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Experimental techniques used in the synthesis of various linear polymers, copolymers, and crosslinked networks. Determination of polymer molecular weights and molecular weight distribution. Methods used in the thermal, mechanical, and morphological characterization of polymeric systems.",
+      "prerequisites": {
+        "rawText": "CHEM 3616 and CHEM 4534",
+        "referencedCourses": [
+          "CHEM 3616",
+          "CHEM 4534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [
+        "CHEM 4074"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4554",
+      "subject": "MSE",
+      "number": "4554",
+      "level": 4000,
+      "title": "Polymer Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is designed to introduce the student to polymers from the MSE perspective. The basics of polymer syntheses and polymerization will be outlined. The relationship between processing, structure, and properties will be presented with respect to the performance and design requirements of typical polymer applications.",
+      "prerequisites": {
+        "rawText": "MSE 2044",
+        "referencedCourses": [
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4574",
+      "subject": "MSE",
+      "number": "4574",
+      "level": 4000,
+      "title": "Biomaterials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Materials for biomedical applications. Basic material types and properties, functional uses of materials in medical applications, and tissue response mechanisms. Integrated design issues of multicomponent material design in prosthetic devices for hard and soft tissues, orthopedics , cardiovascular, and drug delivery applications.",
+      "prerequisites": {
+        "rawText": "MSE 2034 or MSE 2044",
+        "referencedCourses": [
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BMES 4574"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4604",
+      "subject": "MSE",
+      "number": "4604",
+      "level": 4000,
+      "title": "Composite Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The application of the fundamental concepts of mechanics, elasticity, and plasticity to multiphase and composite materials. Constitutive equations for the mechanical and physical properties of metal, ceramic, and polymeric matrix composites. The role of processing and microstructure on properties.",
+      "prerequisites": {
+        "rawText": "(MSE 2034 or MSE 2044) and ESM 2204",
+        "referencedCourses": [
+          "ESM 2204",
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4614",
+      "subject": "MSE",
+      "number": "4614",
+      "level": 4000,
+      "title": "Nanomaterials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Synthesis methods of 0D nanoparticles, 1D nanotubes/nanowires/nanorods, 2D nanoribbons and nanofilms, and special nano-features on supports. Bottom-up and top-down approaches. Methods of characterization for nanomaterials. Processing of nanospecies into higher order dimensions; conventional processing techniques; techniques developed solely for nanomaterials. Chemical, physical, mechanical, and electrical properties of nanomaterials and applications of nanomaterials.",
+      "prerequisites": {
+        "rawText": "MSE 4034",
+        "referencedCourses": [
+          "MSE 4034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4644",
+      "subject": "MSE",
+      "number": "4644",
+      "level": 4000,
+      "title": "Materials Optimization Through Designed Experiments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods of analysis of variation in materials systems, manufacturing or R&D through the use of statistical methods including experimental design techniques. Instructional examples related to Materials Science and Engineering.",
+      "prerequisites": {
+        "rawText": "MSE 3314 or MSE 4424",
+        "referencedCourses": [
+          "MSE 3314",
+          "MSE 4424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4974",
+      "subject": "MSE",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4974H",
+      "subject": "MSE",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4984",
+      "subject": "MSE",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4984A",
+      "subject": "MSE",
+      "number": "4984A",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "1A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4994",
+      "subject": "MSE",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 4994H",
+      "subject": "MSE",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MSE 29844",
+      "subject": "MSE",
+      "number": "29844",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mse/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

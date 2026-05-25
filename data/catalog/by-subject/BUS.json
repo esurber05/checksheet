@@ -1,0 +1,93 @@
+{
+  "subject": "BUS",
+  "scrapedAt": "2026-05-25T21:18:50.004Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "BUS 1984",
+      "subject": "BUS",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BUS 2984",
+      "subject": "BUS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BUS 3900",
+      "subject": "BUS",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BUS 3954",
+      "subject": "BUS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BUS 3974",
+      "subject": "BUS",
+      "number": "3974",
+      "level": 3000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bus/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

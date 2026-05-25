@@ -1,0 +1,1331 @@
+{
+  "subject": "ECON",
+  "scrapedAt": "2026-05-25T21:19:33.614Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ECON 1004",
+      "subject": "ECON",
+      "number": "1004",
+      "level": 1000,
+      "title": "First Year Experience Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "The course focuses on supporting first-year students and first-semester transfer students to build relationships with faculty, upper class mentors, and each other to prepare them to enter a more significantly diverse and interdisciplinary dependent community. The course also focuses on building skills for students to create personal, academic, and career goals. The course also focuses on resume building opportunities for internships, research experiences, and graduate school.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 1064",
+      "subject": "ECON",
+      "number": "1064",
+      "level": 1000,
+      "title": "The Culture of Money",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the cultural, religious, and ethical dimensions of money and related topics, such as gifting, markets, the charging of interest, charity, pricing strategies, private property, and wage labor. Comparison of the disparate forms and uses of money and how money has worked in various cultural and historical frameworks. Evaluation of the differences between capitalist and non-capitalist money-systems, including philosophical debates about the relationship between money and human nature. Examination of ethical issues pertaining to money, such as the forgiveness of debt, money’s impact on social inequality, and the role of money in various projects of political empowerment and disempowerment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 1064",
+        "RLCL 1064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 1104",
+      "subject": "ECON",
+      "number": "1104",
+      "level": 1000,
+      "title": "Economics of Gender",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic approach to the causes and consequences of male/female gender differences in economic outcomes. Tools in microeconomic analysis and empirical work. Woman, family choices and labor markets. Gender gap in earnings. Employment and wage policies related to women.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 1204",
+      "subject": "ECON",
+      "number": "1204",
+      "level": 1000,
+      "title": "Economics of Race",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Causes and consequences of racial disparities in economic outcomes including education, health, housing, entrepreneurship, and earnings. Tools in microeconomics and statistics as applied to the study of racial issues. Historical and institutional contexts of racial problems. Change in racial gaps across generations. Impact of public policies to address racial discrimination in labor markets.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 1214",
+      "subject": "ECON",
+      "number": "1214",
+      "level": 1000,
+      "title": "Economic History of Diversity and Inclusion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic analysis of topics concerning diversity and inclusion. Emphasis on Virginia and surrounding states. Introduction to the basic principles of economic analysis and economic history, with a special emphasis on models of institutional change, economic growth, discrimination, inequality, migration, and indigenous economic systems. Impact of institutions, environment, and technological change on labor markets, asset markets, and standard of living. Consideration of the role of data in understanding diversity and related ethical issues.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PPE 1214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2005",
+      "subject": "ECON",
+      "number": "2005",
+      "level": 2000,
+      "title": "Principles of Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2005: Introduction to microeconomics. The economic approach to decision-making. Model of supply and demand. Elasticities. Consumer behavior. Firm behavior under varying industry structures. Sources and consequences of market failure. Costs and benefits of international trade. The role of government in the economy. Economic, ethical, and social ramifications of issues such as pollution, missing information, and income inequality. 2006: Introduction to macroeconomics. The measurement of economic activity. Macroeconomic problems (such as unemployment and inflation). The monetary system. Effects and limitations of monetary and fiscal policies. International economics. Social and ethical issues related to macroeconomic policy.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2006",
+      "subject": "ECON",
+      "number": "2006",
+      "level": 2000,
+      "title": "Principles of Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2005: Introduction to microeconomics. The economic approach to decision-making. Model of supply and demand. Elasticities. Consumer behavior. Firm behavior under varying industry structures. Sources and consequences of market failure. Costs and benefits of international trade. The role of government in the economy. Economic, ethical, and social ramifications of issues such as pollution, missing information, and income inequality. 2006: Introduction to macroeconomics. The measurement of economic activity. Macroeconomic problems (such as unemployment and inflation). The monetary system. Effects and limitations of monetary and fiscal policies. International economics. Social and ethical issues related to macroeconomic policy.",
+      "prerequisites": {
+        "rawText": "ECON 2005",
+        "referencedCourses": [
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2025H",
+      "subject": "ECON",
+      "number": "2025H",
+      "level": 2000,
+      "title": "Honors Principles of Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2025H: Microeconomics. Consumer behavior and demand, firm behavior and supply, price determination and market equilibrium under varying industry structure. Applications to labor and financial markets. 2026H: Macroeconomics. Measuring aggregate economic activity, macroeconomic problems (such as unemployment and inflation), the monetary system, effects and limitations of monetary and fiscal policies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2026H",
+      "subject": "ECON",
+      "number": "2026H",
+      "level": 2000,
+      "title": "Honors Principles of Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2025H: Microeconomics. Consumer behavior and demand, firm behavior and supply, price determination and market equilibrium under varying industry structure. Applications to labor and financial markets. 2026H: Macroeconomics. Measuring aggregate economics activity, macroeconomic problems (such as unemployment and inflation), the monetary systems, effects and limitations of monetary and fiscal policies.",
+      "prerequisites": {
+        "rawText": "ECON 2025H",
+        "referencedCourses": [
+          "ECON 2025H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2904",
+      "subject": "ECON",
+      "number": "2904",
+      "level": 2000,
+      "title": "Economics Undergraduate Teaching Assistant",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Students serve as undergraduate teaching assistants (UTAs) for introductory economics courses (e.g., ECON 2005 and 2006). Assist instructors with various aspects of course delivery and student engagement. Emphasis on university policies related to teaching, academic integrity, and confidentiality, methods of instruction, and the application of advanced economic concepts and theories covered in introductory courses. Develop teaching, presentation, communication, and mentoring skills while promoting active learning and student engagement. UTAs assist with evaluating assignments and providing constructive feedback to enhance student understanding. May be repeated up to three times with different content for a maximum of 8 credit hours. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "ECON 2005 and ECON 2006",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2974",
+      "subject": "ECON",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2974H",
+      "subject": "ECON",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2984",
+      "subject": "ECON",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2994",
+      "subject": "ECON",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 2994H",
+      "subject": "ECON",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3004",
+      "subject": "ECON",
+      "number": "3004",
+      "level": 3000,
+      "title": "Contemporary Economic Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The economic analysis of current issues and problems. This course may be repeated with different topic.",
+      "prerequisites": {
+        "rawText": "(ECON 2005 or ECON 2025H) and (ECON 2006 or ECON 2026H)",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006",
+          "ECON 2025H",
+          "ECON 2026H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3024",
+      "subject": "ECON",
+      "number": "3024",
+      "level": 3000,
+      "title": "Economic Justice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course explores how different assumptions regarding the basis of claims for access to economic resources lead to different outcomes. Students will explore a variety of theories and examine their own beliefs about economic justice.",
+      "prerequisites": {
+        "rawText": "(ECON 2005 or ECON 2025H) and (ECON 2006 or ECON 2026H)",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006",
+          "ECON 2025H",
+          "ECON 2026H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PPE 3024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3034",
+      "subject": "ECON",
+      "number": "3034",
+      "level": 3000,
+      "title": "Economics of Poverty and Discrimination",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Poverty and inequality in the United States and around the world. Sources of poverty. Antipoverty policies. Definition, empirical evidence, and causes of discrimination. Emphasis on ethical human behavior and policy analysis.",
+      "prerequisites": {
+        "rawText": "ECON 2005",
+        "referencedCourses": [
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3054",
+      "subject": "ECON",
+      "number": "3054",
+      "level": 3000,
+      "title": "Introduction to Forecasting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides an introduction to data-driven forecasting, with applications in economics and in other disciplines - e.g., political science and climatology. Specification, estimation, and validation of time-series regression models; ethical issues arising in model specification and estimation. Forecasting theory and evaluation.",
+      "prerequisites": {
+        "rawText": "ECON 3254 or ECON 4304",
+        "referencedCourses": [
+          "ECON 3254",
+          "ECON 4304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3104",
+      "subject": "ECON",
+      "number": "3104",
+      "level": 3000,
+      "title": "Microeconomic Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An analysis of microeconomic agents, with a focus on optimization methods (using Calculus) and techniques in modeling consumer and producer behavior. Explores utility maximization, theories of demand, production, cost minimization, and both perfectly and imperfectly competitive markets. Examines price determination and market equilibrium through applications of price theory. Includes analytical applications and policy evaluations.",
+      "prerequisites": {
+        "rawText": "ECON 2005 and MATH 1226",
+        "referencedCourses": [
+          "ECON 2005",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3134",
+      "subject": "ECON",
+      "number": "3134",
+      "level": 3000,
+      "title": "Choice and Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories of rational choice, utility, and revealed preference. Intertemporal decision problems and choice under uncertainty with applications to insurance and investments. Behavioral regularities and evidence of violations of rational choice theory. Behavioral models that accommodate this behavior. Applications of behavioral models to economic problems, ethical questions, policy, and organization design. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "ECON 2005 or BDS 2005",
+        "referencedCourses": [
+          "BDS 2005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BDS 3134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3144",
+      "subject": "ECON",
+      "number": "3144",
+      "level": 3000,
+      "title": "Economics of Regulation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economics of regulation with a focus on U.S. laws and institutions. Market structures, mergers, antitrust laws, and anticompetitive behavior, including collusion and monopolization. Economic regulation of price, entry, and output. Incentive regulation and alternatives to regulation. Valuing life and other nonmonetary benefits. Regulation of health, safety, and the environment.",
+      "prerequisites": {
+        "rawText": "ECON 2006",
+        "referencedCourses": [
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3154",
+      "subject": "ECON",
+      "number": "3154",
+      "level": 3000,
+      "title": "Managerial Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Applications of economic concepts and models to practical issues. Demand analysis, the law of demand, and different approaches to analyzing consumer behavior (elasticity, consumer surplus, and utility theory). Supply analysis, producer behavior, and theories of firms (diminishing returns, price takers and price searchers). Pricing strategies including segmentation, two-part tariffs, collusion, and predatory pricing. Market imperfections and extensions including signaling, adverse selection, network externalities, and the economics of time. Empirical analysis: formulating economic questions, finding and analyzing relevant data, and presenting findings to non-specialists.",
+      "prerequisites": {
+        "rawText": "ECON 2006 or BDS 2006",
+        "referencedCourses": [
+          "BDS 2006",
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3174",
+      "subject": "ECON",
+      "number": "3174",
+      "level": 3000,
+      "title": "Sports Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical evaluation of economic issues in college and professional sports to understand the unique characteristics that differentiate the sports industry from other markets. Economic models are applied to understand demand and sports revenue, sports broadcasting rights, team profits, winning, team location and league expansion, and competitive balance. Empirical economic evidence derived from sports-related data in valuing sports talents, history of sports pay, and labor relations in pro-sports. Impact analysis of subsidies, stadium funding, taxes, antitrust regulations, and competition in college and professional sports.",
+      "prerequisites": {
+        "rawText": "ECON 2005",
+        "referencedCourses": [
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3204",
+      "subject": "ECON",
+      "number": "3204",
+      "level": 3000,
+      "title": "Macroeconomic Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analytical exploration of the determinants of aggregate economic activity, focusing on national income, employment, price levels, and interest rates. Application of microeconomic optimization techniques to macroeconomic models and policy evaluation. Economic modeling of the interactions among households, firms, and policies in a general equilibrium setting. The roles of monetary and fiscal policy in influencing macroeconomic outcomes. Practical applications of macroeconomic models to current economic phenomena.",
+      "prerequisites": {
+        "rawText": "ECON 2006 and ECON 3104",
+        "referencedCourses": [
+          "ECON 2006",
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3214",
+      "subject": "ECON",
+      "number": "3214",
+      "level": 3000,
+      "title": "Money and Banking",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Money and credit. The U.S. monetary system. Monetary theory, monetary policy and economic stabilization.",
+      "prerequisites": {
+        "rawText": "(ECON 2005 or ECON 2025H) and ECON 2006",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006",
+          "ECON 2025H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3254",
+      "subject": "ECON",
+      "number": "3254",
+      "level": 3000,
+      "title": "Applied Econometrics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of econometric methods to analyze and forecast economic relationships. Emphasis on the practical use of regression analysis, statistical software, and forecasting techniques to explore real-world economic data. Focuses on the interpretation and evaluation of results to solve economic problems, using a hands-on approach. Economic applications take priority over statistical theory, enabling students to apply methods for decision-making in policy and business contexts.",
+      "prerequisites": {
+        "rawText": "STAT 3005 or STAT 3604 or STAT 3615 or STAT 4604 or STAT 4705 or STAT 4714 or CMDA 2006 or BIT 2406",
+        "referencedCourses": [
+          "BIT 2406",
+          "CMDA 2006",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615",
+          "STAT 4604",
+          "STAT 4705",
+          "STAT 4714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3314",
+      "subject": "ECON",
+      "number": "3314",
+      "level": 3000,
+      "title": "Middle East Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the economies of the Middle East and North Africa. Application of economic analysis to economic history and modern economic growth of the region. Historical role of a strong state and Islam in shaping the institutions of private property in Middle Eastern societies. The market for oil and the integration of the region into the global economy. The modern economy of the Middle East with focus on human capital development, inequality, and the role of women.",
+      "prerequisites": {
+        "rawText": "ECON 2006",
+        "referencedCourses": [
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3884",
+      "subject": "ECON",
+      "number": "3884",
+      "level": 3000,
+      "title": "Topics in Philosophy, Politics, and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Topics-based course in philosophy, politics, and economics (PPE). Discussion of important topics and thinkers in PPE with historical and practical relevance. Focus on interdisciplinary analysis and methods. Topics include: limits of markets; well-being theory, science, and policy; socioeconomic justice; economic and political institutions; and global poverty. May be repeated 1 time with different content for a maximum of six credits hours. Pre: 3 credit hours in PPE, PHIL, PSCI, or ECON.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHIL 3884",
+        "PPE 3884",
+        "PSCI 3884"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3914",
+      "subject": "ECON",
+      "number": "3914",
+      "level": 3000,
+      "title": "European Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Microeconomics, macroeconomics and economic policies of the European Union. EU economic law, institutions, decision-making, and budgeting. Historic and current influences on regional economic development. Monetary and fiscal policies. Economic research methods, analysis, and reporting.",
+      "prerequisites": {
+        "rawText": "ECON 2006",
+        "referencedCourses": [
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3914",
+        "PSCI 3914"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 3954",
+      "subject": "ECON",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4014",
+      "subject": "ECON",
+      "number": "4014",
+      "level": 4000,
+      "title": "Environmental Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic dimensions and aspects of programs designed to impose quality controls upon the environment. Special emphasis on problems of controlling air and water pollution.",
+      "prerequisites": {
+        "rawText": "ECON 2005 or ECON 2025H",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2025H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4044",
+      "subject": "ECON",
+      "number": "4044",
+      "level": 4000,
+      "title": "Public Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic rationale of the public sector. Proper size and functions of government. Market failure, Cost-benefit analysis, public goods provision. Pricing of public enterprise services.",
+      "prerequisites": {
+        "rawText": "ECON 3104",
+        "referencedCourses": [
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4054",
+      "subject": "ECON",
+      "number": "4054",
+      "level": 4000,
+      "title": "Public Finance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The structure and incidence of taxation in the U.S. Effects of taxes on incentives and economic efficiency. Tax Policy.",
+      "prerequisites": {
+        "rawText": "ECON 3104",
+        "referencedCourses": [
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4074",
+      "subject": "ECON",
+      "number": "4074",
+      "level": 4000,
+      "title": "Labor Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Human capital theory, labor supply and demand, discrimination, effects of labor unions and collective bargaining, wage differentials, income distribution.",
+      "prerequisites": {
+        "rawText": "(ECON 2005 or ECON 2025H) and (ECON 3254 or ECON 4304)",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2025H",
+          "ECON 3254",
+          "ECON 4304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4084",
+      "subject": "ECON",
+      "number": "4084",
+      "level": 4000,
+      "title": "Industry Structure",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The structure and performance of American industry. Dimensions and measures of market structure. Factors affecting market structure. The relationship between structure and performance. Purpose and effects of antitrust policy, regulation, and other public policies toward industry.",
+      "prerequisites": {
+        "rawText": "ECON 3104 or ECON 3154",
+        "referencedCourses": [
+          "ECON 3104",
+          "ECON 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4124",
+      "subject": "ECON",
+      "number": "4124",
+      "level": 4000,
+      "title": "Growth and Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories of economic growth. Policies to foster growth, and their consequences.",
+      "prerequisites": {
+        "rawText": "ECON 2006 and (ECON 2025H or ECON 3104)",
+        "referencedCourses": [
+          "ECON 2006",
+          "ECON 2025H",
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4135",
+      "subject": "ECON",
+      "number": "4135",
+      "level": 4000,
+      "title": "International Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4135 International Trade: Factor mobility and commercial policy (tariffs, quotas, export licensing). 4136 International Finance: Liquidity, exchange rates, comparative international living standards, foreign aid.",
+      "prerequisites": {
+        "rawText": "ECON 3104",
+        "referencedCourses": [
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AAEC 4135"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4136",
+      "subject": "ECON",
+      "number": "4136",
+      "level": 4000,
+      "title": "International Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4135 International Trade: Factor mobility and commercial policy (tariffs, quotas, export licensing). 4136 International Finance: Liquidity, exchange rates, comparative international living standards, foreign aid.",
+      "prerequisites": {
+        "rawText": "ECON 3204",
+        "referencedCourses": [
+          "ECON 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AAEC 4136"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4144",
+      "subject": "ECON",
+      "number": "4144",
+      "level": 4000,
+      "title": "Economics of China",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evolution of the Chinese economy since 1949. Exposition of alternative economic systems, the commune, incentive problems, and state owned enterprises. Analysis of recent reforms and their effects on economic efficiency; and key issues of economic transition related to Russia and other East European countries.",
+      "prerequisites": {
+        "rawText": "ECON 3104",
+        "referencedCourses": [
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4214",
+      "subject": "ECON",
+      "number": "4214",
+      "level": 4000,
+      "title": "Economics of Health Care",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Effects of medical care on health; cost and production of medical care; demand for medical care and its financing; structure of the health care industry; reorganization for efficiency.",
+      "prerequisites": {
+        "rawText": "ECON 2005 or ECON 2025H",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2025H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4304",
+      "subject": "ECON",
+      "number": "4304",
+      "level": 4000,
+      "title": "Introduction to Econometric Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to econometric modeling techniques, including regression methods. Particular emphasis on the special problems posed by economic data.",
+      "prerequisites": {
+        "rawText": "ECON 3254 or STAT 3005 or STAT 4604 or STAT 4705 or STAT 4714 or CMDA 2006",
+        "referencedCourses": [
+          "CMDA 2006",
+          "ECON 3254",
+          "STAT 3005",
+          "STAT 4604",
+          "STAT 4705",
+          "STAT 4714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4314",
+      "subject": "ECON",
+      "number": "4314",
+      "level": 4000,
+      "title": "Big Data Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Applied econometrics dealing with big data. Theoretical, computational, and statistical underpinnings of big data analysis. The use of econometric models and deep machine learning algorithms to analyze the high-dimensional data sets. Implications in research focusing on economic questions that arise from rapid changes in data availability and computational technology. Materials are hands-on tutorials that come with Python codes and real-world data sets.",
+      "prerequisites": {
+        "rawText": "ECON 3254 or ECON 4304 or CMDA 3654 or STAT 3006",
+        "referencedCourses": [
+          "CMDA 3654",
+          "ECON 3254",
+          "ECON 4304",
+          "STAT 3006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CMDA 4314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4424",
+      "subject": "ECON",
+      "number": "4424",
+      "level": 4000,
+      "title": "The Theory of Games and Economic Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to games and solution concepts, such as prisoners dilemma, noncooperative equilibrium and Nashs bargaining solution. These concepts are applied in analyzing economic problems including bargaining problems, oligopoly and agency.",
+      "prerequisites": {
+        "rawText": "ECON 3104",
+        "referencedCourses": [
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4434",
+      "subject": "ECON",
+      "number": "4434",
+      "level": 4000,
+      "title": "Experimental Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This is a course in the use of laboratory methods to study behavior in economics and the social sciences. Students will study state-of-the-art methodology in experimental economics, including experimental design, laboratory technique, financial incentives, and analysis of data. Students will participate in, design, and conduct experiments in bargaining, auctions, asset markets, public goods and commons situations, and risky decision-making.",
+      "prerequisites": {
+        "rawText": "ECON 3104 and (BIT 2406 or MSCI 2406 or STAT 2004 or STAT 3005)",
+        "referencedCourses": [
+          "BIT 2406",
+          "ECON 3104",
+          "STAT 2004",
+          "STAT 3005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4454",
+      "subject": "ECON",
+      "number": "4454",
+      "level": 4000,
+      "title": "Neuroeconomics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Neural processes related to reward, learning, reflection, delay of gratification, and social interaction. Clinical uses of neuroeconomics research techniques. Implications of neuroeconomics in economics, policy, law and business.",
+      "prerequisites": {
+        "rawText": "NEUR 2026 or ECON 3104",
+        "referencedCourses": [
+          "ECON 3104",
+          "NEUR 2026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NEUR 4454",
+        "PSYC 4454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4514",
+      "subject": "ECON",
+      "number": "4514",
+      "level": 4000,
+      "title": "Applied Analysis of Banking and Financial Markets",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of economic data with focus on understanding of decision-making in financial markets. Behavior of and optimal outcomes for individuals (consumption, savings, and investment), financial institutions (lending, borrowing, and risk management), regulators, and policy makers. Statistical tools and inference using recent data sets.",
+      "prerequisites": {
+        "rawText": "ECON 3254 or ECON 4304",
+        "referencedCourses": [
+          "ECON 3254",
+          "ECON 4304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4614",
+      "subject": "ECON",
+      "number": "4614",
+      "level": 4000,
+      "title": "R Programming in Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Using R to combine economic theory and data. Focus on general R programming fundamentals related to data science techniques and economic data (gathering, standardizing and cleaning, analysis, and visualization). Hands-on experience with a variety of data, data sources, and techniques within R. Flaws and limitations of data. Direct application with individual project combining economic theory and data using R.",
+      "prerequisites": {
+        "rawText": "ECON 2005 and (ECON 3254 or ECON 4304)",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 3254",
+          "ECON 4304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4754",
+      "subject": "ECON",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship in Economics",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Qualified students are placed in an industry or government position under the combined supervision of a faculty member and a responsible supervisor in the employing agency to apply disciplinary skills to contemporary problems and situations in a site-based work setting related to their career interests. Develop career-ready competencies including leadership, teamwork/collaboration, critical thinking/problem-solving, oral/written communication, professionalism/work ethic, digital technology, career management, and global/intercultural fluency . Satisfactory evaluation from employer, detailed reports on the internship experience and a specific project in which the student will recognize and summarize experience gained from the benefit of supervision and coaching from a professional in their field as the student evaluated the outcome of the internship experience. May be repeated one time with different content for a maximum of 6 credit hours. Pre: Three hours of appropriate advanced economics courses, Junior standing, a screening interview, good academic standing, and consent of the department required.",
+      "prerequisites": {
+        "rawText": "ECON 2005 and ECON 2006",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4864",
+      "subject": "ECON",
+      "number": "4864",
+      "level": 4000,
+      "title": "Developing Behavioral Science Policies and Interventions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Senior-level capstone course that involves producing and presenting original behavioral experimental research, supported by statistical analysis techniques suitable for drawing conclusions from behavioral experimental data. Design, statistical analysis, and evaluation of applied behavioral policies, interventions, or experiments on decision-making behavior. Ethical and societal implications of designing and testing behavioral interventions in the field and conducting experiments and behavioral interventions on human populations.",
+      "corequisites": {
+        "rawText": "ECON/BDS 3134 or PPE 2894 or SOC 2004",
+        "referencedCourses": [
+          "BDS 3134",
+          "PPE 2894",
+          "SOC 2004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BDS 4864"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4964",
+      "subject": "ECON",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4974",
+      "subject": "ECON",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4974H",
+      "subject": "ECON",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4984",
+      "subject": "ECON",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4994",
+      "subject": "ECON",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ECON 4994H",
+      "subject": "ECON",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/econ/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

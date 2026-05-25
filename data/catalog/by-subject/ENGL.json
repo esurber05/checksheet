@@ -1,0 +1,2795 @@
+{
+  "subject": "ENGL",
+  "scrapedAt": "2026-05-25T21:19:50.266Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ENGL 1004",
+      "subject": "ENGL",
+      "number": "1004",
+      "level": 1000,
+      "title": "Books, Libraries, Archives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "First-Year Experience course that introduces students to primary objects and methods of inquiry and invention in English studies. Introduction to library and archival research, ethical inquiry, social and historical function of reading, role of books in society, technologies of publication and reading, and writing effective summaries and critical reflections.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1105",
+      "subject": "ENGL",
+      "number": "1105",
+      "level": 1000,
+      "title": "First-Year Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "1105: Introduction to rhetorical analysis, visual rhetoric, critical writing, and critical thinking; intensive reading of works in multiple genres; practice in writing and revision; fundamentals of oral presentations. 1106: Continued study in rhetorical analysis and the conventions of various genres; intensive instruction in writing and revision of work that incorporates research; experience in oral presentations.",
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1106",
+      "subject": "ENGL",
+      "number": "1106",
+      "level": 1000,
+      "title": "First-Year Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "1105: Introduction to rhetorical analysis, visual rhetoric, critical writing, and critical thinking; intensive reading of works in multiple genres; practice in writing and revision; fundamentals of oral presentations. 1106: Continued study in rhetorical analysis and the conventions of various genres; intensive instruction in writing and revision of work that incorporates research; experience in oral presentations.",
+      "prerequisites": {
+        "rawText": "ENGL 1105",
+        "referencedCourses": [
+          "ENGL 1105"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1504",
+      "subject": "ENGL",
+      "number": "1504",
+      "level": 1000,
+      "title": "Introduction to Contemporary Linguistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the sounds of language, processes by which words and sentences are formed, how the meanings of words are established by context, and why languages vary and change over time.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1514",
+      "subject": "ENGL",
+      "number": "1514",
+      "level": 1000,
+      "title": "Language and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "English language variation considered from social, regional, ethnic, gender, and style perspectives. Emphasis on vernacular varieties of American English. Attention paid to the social evolution of different language varieties and sociolinguistic perceptions of language ideologies. Introduction of methods of data analytics.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1524",
+      "subject": "ENGL",
+      "number": "1524",
+      "level": 1000,
+      "title": "Language and the Mind",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of what is unique about human language and the evidence that language affects thought. Investigation of how listeners categorize sounds, parse sentences, and access meaning. Examination of what brain damage and speech errors reveal about language in the brain and mind.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSYC 1524"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1604",
+      "subject": "ENGL",
+      "number": "1604",
+      "level": 1000,
+      "title": "Introduction to Poetry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of poetry across historical periods, cultural contexts, and geographical areas. Emphasis on poetic forms and conventions, elements of poetic technique, poetic genres, and the vocabulary of poetic craft.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1614",
+      "subject": "ENGL",
+      "number": "1614",
+      "level": 1000,
+      "title": "Introduction to Short Fiction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of short fiction and novellas from different historical periods and cultures. Emphasis on the structural elements of fiction, on its flexibility as a form for exploring human desires, conflicts, and values, and on its employment by writers from different cultures, ethnicities, and genders.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1624",
+      "subject": "ENGL",
+      "number": "1624",
+      "level": 1000,
+      "title": "Introduction to Detective Fiction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of classic and modern texts of detective fiction selected from a variety of historical periods and cultural traditions. Emphasis on the structural elements of detective fiction, on its various sub-genres, and on its employment by writers from different cultures, ethnicities, and genders.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1634",
+      "subject": "ENGL",
+      "number": "1634",
+      "level": 1000,
+      "title": "Introduction to Shakespeare",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Shakespeares drama and poetry, including at least one modern adaptation of a Shakespearean play (play, novel, movie, opera, etc.). Emphasis on the structural elements and conventions of the different genres of Shakespearean plays and poetry and on their representations of gender and ethnicity.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1644",
+      "subject": "ENGL",
+      "number": "1644",
+      "level": 1000,
+      "title": "Introduction to World Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "World literature in translation. Texts from different time periods, nations, and cultures. Emphasis on close reading, literary elements and conventions, recurring themes, historical and cultural contexts.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1654",
+      "subject": "ENGL",
+      "number": "1654",
+      "level": 1000,
+      "title": "Introduction to Science Fiction and Fantasy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction of literary works within the genres of science fiction and fantasy, focusing on the development and principal characteristics of each genre. Emphasis on the social, cultural, and historical contexts in which particular speculative texts have been produced.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1664",
+      "subject": "ENGL",
+      "number": "1664",
+      "level": 1000,
+      "title": "Introduction to Womens Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to literature written by women, primarily in English. Focus on literary and cultural questions raised in womens writing throughout history and from different social and cultural backgrounds.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1704",
+      "subject": "ENGL",
+      "number": "1704",
+      "level": 1000,
+      "title": "The Harry Potter Phenomenon",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to a millennial childrens literature phenomenon, J.K. Rowlings seven-volume Harry Potter series, and to various critical and cultural responses to the books. Subgenres of fiction used in the series, such as the boarding-school novel and the sports novel; recurring themes in the series; critical concepts such as the Byronic hero and the anti-hero; the role of media in making the series an economic phenomenon; and the relationships of the novels to film versions and fan-fiction spin-offs.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1714",
+      "subject": "ENGL",
+      "number": "1714",
+      "level": 1000,
+      "title": "True Crime Stories in American Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of true crime stories across various media and genres. Emphasis on the origins of true crime, narrative features and conventions of true crime stories, and the social, political, and ethical issues raised by their production and consumption, particularly in terms of race, gender, class, and other components of identity.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 1724",
+      "subject": "ENGL",
+      "number": "1724",
+      "level": 1000,
+      "title": "Learning from Play: What Video Games Teach About Humanity and Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces findings from social, behavioral, and humanistic research on psychological, social, and cultural dimensions of video games, simulations, and virtual environments. Informs a general conceptual and practical understanding of concepts and phenomena related to human behavior. Uses research on video games, simulations, and virtual environments as a lens to understand human behavior in a range of settings. Explores social and ethical concerns related to human impacts of media technologies in the context of research on ethical dimensions of human behavior.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2014",
+      "subject": "ENGL",
+      "number": "2014",
+      "level": 2000,
+      "title": "Food Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the study, analysis, and production of food writing and food media; applied, iterative writing practices within multiple genres focused on the cultural and humanistic qualities of food.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2024",
+      "subject": "ENGL",
+      "number": "2024",
+      "level": 2000,
+      "title": "AI, Creativity, and the Art of Being Human",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design narratives that explore the boundaries between human and artificial creativity. Generate stories, poems, and art through collaboration with AI partners. Analyze how large language models attempt to replicate human emotion and consciousness. Create digital personas that challenge our understanding of authenticity and voice. Evaluate how AI mirrors and transforms human creative expression. Investigate the cultural and ethical implications of artificial consciousness. No programming experience required.",
+      "pathwaysConcepts": [
+        "2",
+        "6A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2034",
+      "subject": "ENGL",
+      "number": "2034",
+      "level": 2000,
+      "title": "Analyzing the Sounds of Language",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the acoustic attributes of vowels and consonants using quantitative techniques. Statistical analysis of acoustical differences between and within speakers, enabling predictions about future language choices and outcomes. Basic introduction to using computational software for data processing and visualization, and to ethical issues that arise in collecting an analyzing data.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2044",
+      "subject": "ENGL",
+      "number": "2044",
+      "level": 2000,
+      "title": "Contemporary African American Theatre",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Contributions of U.S. Black theatre artists; intersectional identities; performances spaces and society; critical race theory; dramatic storytelling; cultural behaviors; racial discrimination.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2044",
+        "TA 2044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2434",
+      "subject": "ENGL",
+      "number": "2434",
+      "level": 2000,
+      "title": "Legends of King Arthur",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to legends of King Arthur, including stories, novels, and films from a wide historical timespan. Tales of knights, kings, and fair maidens that have entertained generations and irrevocably shaped cultural values surrounding gender relations, justice, violence, and the use and abuse of power. Analysis of individual texts and broader consideration of the Arthurian tradition during key literary-historical periods from the medieval era to the present.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2434"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2444",
+      "subject": "ENGL",
+      "number": "2444",
+      "level": 2000,
+      "title": "Ancient Greek and Roman Mythology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys ancient Greek and Roman mythology. Provides students with an introduction to selected myths from ancient Greek and Roman literature, including appropriate historical background information. Familiarizes students with how theories of myth have been applied to individual stories and how such mythological tales have been received by authors and artists in subsequent cultures. Explores the interaction and interdependence of mythological tales from different cultures and perspectives. In English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CLA 2444",
+        "RLCL 2444"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2534",
+      "subject": "ENGL",
+      "number": "2534",
+      "level": 2000,
+      "title": "American Literary History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to American literary traditions, from the Colonial period through Modernism. Emphases on historical, social, and cultural contexts as these are reflected by representative texts.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2544",
+      "subject": "ENGL",
+      "number": "2544",
+      "level": 2000,
+      "title": "British Literary History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to British literary traditions, from the Anglo-Saxon period through Modernism. Emphasis on historical, social, and cultural contexts as these are reflected by representative texts.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2604",
+      "subject": "ENGL",
+      "number": "2604",
+      "level": 2000,
+      "title": "Introduction to Critical Reading",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Writing-intensive introduction to the techniques and theoretical implications of close reading and literary and rhetorical analysis. Elements and conventions of four genres: poetry, drama, fiction, and nonfiction. Analytical skills, basic critical terminology, and conventions of literary and rhetorical criticism essential to advanced English studies. Intended primarily for English majors and minors.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2634",
+      "subject": "ENGL",
+      "number": "2634",
+      "level": 2000,
+      "title": "Writing and Social Justice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of writings about social justice in various local and global contexts. Critical and rhetorical analysis of discourses in social justice through intersectional approaches.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2644",
+      "subject": "ENGL",
+      "number": "2644",
+      "level": 2000,
+      "title": "Introduction to African-American Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the principal themes, genres, and historical contexts of African-American literature. Formal elements of both the vernacular and written traditions. Impact of historical and social contexts. Ethical questions raised in the literature.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2644"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2664",
+      "subject": "ENGL",
+      "number": "2664",
+      "level": 2000,
+      "title": "Being Human: Literature and Human Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Depictions of nature, the inhuman, and the superhuman in literature; literary explorations of empathy, technology, race, gender, language, dis/ability, and labor in human experience. Novels, short stories, and poems that explore issues of the human: how to define what is human (recognizing flexible and perhaps permeable boundaries between human and nonhuman), how to defend the human (humans at war with themselves and others), how humans are exploited (labor and human capital), and how humans change (technological development and future human evolution). Imaginative and ethical issues in different genres. Revolving topics course; may be repeated once for credit.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2724",
+      "subject": "ENGL",
+      "number": "2724",
+      "level": 2000,
+      "title": "Introduction to Displacement Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines key concepts, ideas, and technologies in global population displacement, including categorization, distribution and governance of displaced groups. Introduces displacement drivers such as natural disaster, climate change, civil unrest, infectious disease, and forced relocation. Identifies digital infrastructures used for, by, and against displaced populations. Describes experiences of displaced people.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2724",
+        "LAHS 2724",
+        "STS 2724"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2744",
+      "subject": "ENGL",
+      "number": "2744",
+      "level": 2000,
+      "title": "Introduction to Creative Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A workshop for beginning writers who will identify and apply formal elements of a variety of genres and employ the skills, tools, methods, and iterative processes used by creative writers to produce fully developed works of art.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2804",
+      "subject": "ENGL",
+      "number": "2804",
+      "level": 2000,
+      "title": "Contemporary Native American Literatures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course offers a sampling of fiction, poetry, and non-fiction by the most influential American Indian writers since 1970, authors such as Momaday, Silko, Deloria, Welch, Harjo, and Alexie. Students also learn about those aspects of cosmology and storytelling traditionally shared by all American Indian Nations, as well as about those aspects specific to the individual tribal traditions from which the authors and their characters come.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL H1204 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 2804"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2814",
+      "subject": "ENGL",
+      "number": "2814",
+      "level": 2000,
+      "title": "Writing for Podcasts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of exemplary and diverse podcasts, in both audio and transcribed formats. Application of creative writing and technical skills necessary for the composition of original and diverse audio programs. Implementation of formal podcast elements, such as development, performance, structure, production, and promotion. Exploration of creative projects involving scriptwriting, serialized storytelling, hybridized genres, vocal performance, extemporization.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2844",
+      "subject": "ENGL",
+      "number": "2844",
+      "level": 2000,
+      "title": "Introduction to Technical and Scientific Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundations of technical and scientific communication and their functions in professional and public settings. Develop skills in writing genres essential to both technical and scientific fields, such as proposals, reports, literature reviews, research papers, posters, and slide decks. Practice collaborative teamwork while analyzing how elements such as design, language choices, and data representation affect a document's credibility, usability, and implications for diverse audiences. Emphasis on clear, concise, ethical, and accurate communication of technical and scientific concepts.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2964",
+      "subject": "ENGL",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2974",
+      "subject": "ENGL",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2974H",
+      "subject": "ENGL",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 2984",
+      "subject": "ENGL",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3024",
+      "subject": "ENGL",
+      "number": "3024",
+      "level": 3000,
+      "title": "Religion and Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Read works from world literature, guided by selected critical readings. Compare/contrast diverse models of religion and literature. Study how modernity has impacted traditions of religion and culture. Interpret literary texts that draw from multiple religions. Analyze religion-literature controversies in a range of social, cultural, political contexts. Synthesize sources of multiple media, formats, and contexts.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3134",
+      "subject": "ENGL",
+      "number": "3134",
+      "level": 3000,
+      "title": "Gender and Linguistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of differences--real and imagined--in the speech of men and women, and the relationship between these differences to culture. Exploration of how language can reflect and reinforce gender inequality. Linguistic phenomena covered: pitch, vocabulary, sound change, language ideologies, and discourse strategies and types.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "WGS 3134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3144",
+      "subject": "ENGL",
+      "number": "3144",
+      "level": 3000,
+      "title": "Language and Ethnicity in the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of how racial and ethnic identity are expressed through the use of different languages and dialects. Examination of how language is related to issues of equality, social opportunity, and discrimination in the United States.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 3144"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3154",
+      "subject": "ENGL",
+      "number": "3154",
+      "level": 3000,
+      "title": "Literature, Medicine, and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The representation of health and illness in literature and the cultural aspects of medicine as a practice.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3204",
+      "subject": "ENGL",
+      "number": "3204",
+      "level": 3000,
+      "title": "Medieval Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course presents medieval British literature from ca. 700 to 1500 in its representative modes and defining contexts, including the literary influences of pagan antiquity, the native British (Celtic) tradition, Scandinavian and contemporary continental influences, the Crusades, the Byzantine Empire, and the philosophical traditions of neoplatonism and scholasticism. Specific authors and texts will vary, but will include poetry, prose, and drama.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3214",
+      "subject": "ENGL",
+      "number": "3214",
+      "level": 3000,
+      "title": "Renaissance Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course presents Renaissance British literature from 1500-1660 in its representative modes and defining contexts, including the discovery of the Copernican universe and the new world, the rise of Protestantism, the resultant Counter-reformation, the movement from humanism to empiricism, and the institution of Parliamentary democracy. Specific authors and texts will vary, but will include poetry, prose, and drama.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3304",
+      "subject": "ENGL",
+      "number": "3304",
+      "level": 3000,
+      "title": "The Languages of Native America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the structures of the native languages of the Americas; their interrelationships; their use in individual speech communities; contact with other languages; the interrelationships of linguistic structure, culture, and thought; their future survival.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 3304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3315",
+      "subject": "ENGL",
+      "number": "3315",
+      "level": 3000,
+      "title": "Playwriting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A workshop course in the craft and art of playwriting which emphasizes the development of craft and the nurturing of vision and art. 3315: primary focus is on the writing of original scripts with additional attention paid to the work of influential playwrights and critics. 3316: primary focus is on the creative process of developing a play with the collaborative influences of a director, actors, designers, and other theatre professionals. Consent of instructor required for 3316.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "TA 3315"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3324",
+      "subject": "ENGL",
+      "number": "3324",
+      "level": 3000,
+      "title": "Acts of Interpretation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundational interpretive approaches in literary and rhetorical studies. Emphasis on broad frameworks and their implications for textual analysis.",
+      "prerequisites": {
+        "rawText": "ENGL 2604",
+        "referencedCourses": [
+          "ENGL 2604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3364",
+      "subject": "ENGL",
+      "number": "3364",
+      "level": 3000,
+      "title": "Topics in Literature by Women",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This rotating topics course examines literature written by women with different national and ethnic identities and from different historical periods. Specific content varies, but the common focus is on the fundamental issues surrounding womens writing, the critical methodologies commonly employed to analyze this writing, and the historical, social, and literary contexts influencing the particular writing being studied. May be repeated once with different content.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3424",
+      "subject": "ENGL",
+      "number": "3424",
+      "level": 3000,
+      "title": "Topics in Russian Literature in English",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Variable-content course devoted to the study of Russian literary classics. From general surveys of nineteenth- and twentieth-century literature to more intensive study of the works of a single major author. Aesthetic and rhetorical strategies. Interactions between literary movements and political, historical, and cultural events. May be repeated once with different content for a maximum of 6 credits. Readings and lectures in English. No knowledge of Russian required.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RUS 3424"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3434",
+      "subject": "ENGL",
+      "number": "3434",
+      "level": 3000,
+      "title": "The Works of Vladimir Nabokov",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Readings in major works of Vladimir Nabokov from the 1920s through the 1970s. Aesthetic and rhetorical strategies, literary analysis, major themes, immigration and cultural knowledge. Taught in English.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RUS 3434"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3474",
+      "subject": "ENGL",
+      "number": "3474",
+      "level": 3000,
+      "title": "Rhetoric for Professional Writers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Rhetorical theory and writing in professional, technical, and public contexts. Culture, access, power, and ethics in relation to rhetoric in professional and technical writing. Rhetoric strategies for textual and digital production.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3514",
+      "subject": "ENGL",
+      "number": "3514",
+      "level": 3000,
+      "title": "Ethnic Literature for Children",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines the historical contexts of and issues surrounding ethnic literature for children. The course considers the literature in terms of aesthetics, cultural representations, and identity. Ethnic literatures considered may include Native American, African American, Asian American, and Latino/a. The course also introduces other ethnic literary traditions, such as world folk tales, that influence or parallel American ethnic childrens books.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3524",
+      "subject": "ENGL",
+      "number": "3524",
+      "level": 3000,
+      "title": "Literature for Children",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "General critical and historical survey of traditional and contemporary writing for children: picture books, folk literature, modern fantasy, poetry, drama, modern fiction, historical fiction.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3534",
+      "subject": "ENGL",
+      "number": "3534",
+      "level": 3000,
+      "title": "Literature and the Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of fiction, poetry, and non-fiction that examine environmental issues, sustainability, and the relationship between the human and natural worlds within a local and global context.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3544",
+      "subject": "ENGL",
+      "number": "3544",
+      "level": 3000,
+      "title": "Literature and Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Works of literature and the films into which they have been transformed; emphasis on differences between media.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CINE 3544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3624",
+      "subject": "ENGL",
+      "number": "3624",
+      "level": 3000,
+      "title": "Appalachian Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Appalachian literature from the region’s beginnings to the present, including such diverse voices as women, Native American, Affrilachian, LGBTQ, and Latinx populations. Literary perspectives on the relationships between self, family, and community; place and displacement; and humans and the natural world. Analysis of stereotypes that have perpetuated inequity and displacement of power, as well as consideration of regional efforts to reclaim equity, power, place, and identity.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 3624"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3644",
+      "subject": "ENGL",
+      "number": "3644",
+      "level": 3000,
+      "title": "The Postcolonial Novel",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A study of novels examining the historical, social, and cultural contexts before, during, and after colonization. Emphasis on major writers (e.g., Achebe, Coetzee, Roy, Phillips) across continents (Africa, Asia, North America) and the significant themes, tropes, and theories of the genre.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3654",
+      "subject": "ENGL",
+      "number": "3654",
+      "level": 3000,
+      "title": "Ethnic American Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Variable content course which introduces major American ethnic literatures: African-American, Asian-American, Chicano/a, Arab-American, and Native American. Representative texts from one or two of these categories are examined within the cultural, historical, and geographical matrices within which they are written. May be repeated twice for credit if the content is different.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3684",
+      "subject": "ENGL",
+      "number": "3684",
+      "level": 3000,
+      "title": "Literature and the Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces students to the representation of the law and lawyers in literature. Emphasis is placed on the cultural and historical contexts that shape our perception of the law and legal practice and on the use of facts, research, interpretation, and rhetoric in legal argument. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3684H",
+      "subject": "ENGL",
+      "number": "3684H",
+      "level": 3000,
+      "title": "Literature and the Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces students to the representation of the law and lawyers in literature. Emphasis is placed on the cultural and historical contexts that shape our perception of the law and legal practice and on the use of facts, research, interpretation, and rhetoric in legal argument. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3704",
+      "subject": "ENGL",
+      "number": "3704",
+      "level": 3000,
+      "title": "Creative Writing: Fiction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is designed for students who want to focus in some depth on the writing of various forms of fiction such as the short story and novella. Emphasis is on the writing the critiquing of original fiction in a workshop/studio environment, and the analysis of exemplary texts which serve as models. Students produce a body of original fiction in draft and revised forms. May be repeated for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3714",
+      "subject": "ENGL",
+      "number": "3714",
+      "level": 3000,
+      "title": "Creative Writing: Poetry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is designed for students who want to focus in some depth on the writing of poetry. Emphasis is on the writing and critiquing of original poetry in a workshop/studio environment, and the analysis of exemplary poems which serve as models. Students analyze various poetic forms and produce a revised body of original poetry. May be repeated for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3724",
+      "subject": "ENGL",
+      "number": "3724",
+      "level": 3000,
+      "title": "Creative Writing: Creative Non-fiction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is designed for students who want to focus in some depth on the writing of creative non-fiction in its various forms, including memoir, personal experience writing, the lyrical essay, travel narratives, and nature writing. Emphasis is on the writing and critiquing of original creative non-fiction in a workshop/studio, environment and the analysis of exemplary texts which serve as models. Students produce a body of original non-fiction in draft and revised forms. May be repeated for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3734",
+      "subject": "ENGL",
+      "number": "3734",
+      "level": 3000,
+      "title": "Community Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the theory and practice of managing service- learning writing projects in schools, community centers, retirement communities, and public libraries. Survey of best practices in creative writing pedagogy and in creating sustainable community partnerships.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3734H",
+      "subject": "ENGL",
+      "number": "3734H",
+      "level": 3000,
+      "title": "Community Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the theory and practice of managing service- learning writing projects in schools, community centers, retirement communities, and public libraries. Survey of best practices in creative writing pedagogy and in creating sustainable community partnerships.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3744",
+      "subject": "ENGL",
+      "number": "3744",
+      "level": 3000,
+      "title": "Writing Center Theory and Practice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on the theory and practice of teaching writing across the disciplines in the Writing Center setting. Emphasis is on writing center theory applied to one-on-one teaching strategies and on techniques for responding appropriately to student writing. To take this course you must first have the professors consent.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3744H",
+      "subject": "ENGL",
+      "number": "3744H",
+      "level": 3000,
+      "title": "Writing Center Theory and Practice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on the theory and practice of teaching writing across the disciplines in the Writing Center setting. Emphasis is on writing center theory applied to one-on-one teaching strategies and on techniques for responding appropriately to student writing. To take this course you must first have the professors contest.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3754",
+      "subject": "ENGL",
+      "number": "3754",
+      "level": 3000,
+      "title": "Advanced Writing and Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced study in critical reading and writing for diverse academic, professional, civic, and/or personal contexts, culminating in a course portfolio; applied practice with audience-specific texts in multiple genres, modes, and styles; advanced instruction in research strategies and writing processes for complex rhetorical environments; emphasis on the influence of social and cultural identities across writing contexts.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3764",
+      "subject": "ENGL",
+      "number": "3764",
+      "level": 3000,
+      "title": "Technical Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and processes of effective written communication of technical information. Strategies for analyzing various workplace communication situations, adapting to audiences, evaluating online content, understanding ethical dimensions of research, and composing technical discourse, including organizing visual and verbal information. Practice in writing, individually and collaboratively, instructions and procedures, proposals and reports, correspondence, and presentations. Junior standing.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3774",
+      "subject": "ENGL",
+      "number": "3774",
+      "level": 3000,
+      "title": "Business Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and processes of effective communication required to succeed in business in global and intercultural contexts. Strategies for writing effective messages, analyzing workplace communication situations, adapting information to various audiences, conducting ethical research, giving oral presentations. Practice in writing memos, letters, emails, blog posts, proposals, and reports. Junior standing required.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3784",
+      "subject": "ENGL",
+      "number": "3784",
+      "level": 3000,
+      "title": "Screenwriting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A workshop course in the craft and art of screenwriting, acquainting students with the standard format of screenplays and evaluation of dramatic structures of influential screenplays. Emphasis on construction of dramatic situations, employing the use of action in developing character and theme. Employment of scene as a visual unit of composition, and the evaluation of dramatic structures of influential screenplays.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3804",
+      "subject": "ENGL",
+      "number": "3804",
+      "level": 3000,
+      "title": "Technical Editing and Style",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Technical Editing and Style explores the art of editing from the initial writing task to the final delivery of the document. In addition to learning document management, students study and practice the roles, responsibilities, and tasks that editors perform. The course also covers the rules that govern the fundamentals of style (correctness, clarity, and propriety) and the principles needed to match the tone and formality to the aim, audience, and occasion of the work. Must have pre-requisites or the consent of the Director of Professional Writing.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3814",
+      "subject": "ENGL",
+      "number": "3814",
+      "level": 3000,
+      "title": "Creating User Documentation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course prepares students to produce both print and online user documentation that enables people to accomplish a given set of tasks (e.g., user guides, online help, policy and procedure manuals, tutorials, and how-to books). Readings include rhetorical theory and discussions of professional practice. Students learn the principles of user and task analysis, information design, usability testing, and indexing. In addition, they have opportunities for hands-on experience with clients and end-users. Must have pre-requisites or the consent of the Director of Professional Writing.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3824",
+      "subject": "ENGL",
+      "number": "3824",
+      "level": 3000,
+      "title": "Visual Rhetoric and Document Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and practice of visual rhetoric and document design, including attention to ethical design standards and the sociocultural implications of design. Analysis of rhetorical situations to determine the needs of diverse audiences and make effective and ethical design choices. Application of rhetorical theories and formal design strategies to the production of print and digital artifacts using industry-standard design tools (i.e., Adobe InDesign, Illustrator, and Photoshop). Development of the ability to analyze and critique the work of others and to apply such assessments to improve designs in terms of aesthetics and usability.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3834",
+      "subject": "ENGL",
+      "number": "3834",
+      "level": 3000,
+      "title": "Intercultural Issues in Professional Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intercultural and global dimensions of professional and technical writing, including theoretical perspectives and practical applications. Theories of culture, context, identity, language, and technology as relevant to technical and professional communication. Issues of social equity and justice in the field of professional and technical writing. Approaches to engaging in intercultural communication in practice, including localization, globalization, translation, and designing information for and with communities.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3844",
+      "subject": "ENGL",
+      "number": "3844",
+      "level": 3000,
+      "title": "Writing and Digital Media",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental exercises in the production of digital media for internet-capable devices, such as data visualizations, videos, web design, and more. Introduction to ethical reasoning, and its application to contemporary issues about digital media and writing within the context of broader business, organizational, and political practices to collect and use user data.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3900",
+      "subject": "ENGL",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3954",
+      "subject": "ENGL",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 9
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "(1-9 Lec, 1-9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3954B",
+      "subject": "ENGL",
+      "number": "3954B",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "2"
+      ],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3954M",
+      "subject": "ENGL",
+      "number": "3954M",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 9
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "(1-9 Lec, 1-9 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 3984",
+      "subject": "ENGL",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4004",
+      "subject": "ENGL",
+      "number": "4004",
+      "level": 4000,
+      "title": "Linguistic Discourse Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to discourse analysis. This course examines spoken and written discourses of English. Further attention will be paid to how discourse functions in political, legal, medical, and educational contexts.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4054",
+      "subject": "ENGL",
+      "number": "4054",
+      "level": 4000,
+      "title": "History of the English Language",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of English including both its internal history (sounds, vocabulary, inflections, syntax) and its external history (political, social, and intellectual forces). Indo-European origins through the present, with special emphasis on the English Language in America.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4074",
+      "subject": "ENGL",
+      "number": "4074",
+      "level": 4000,
+      "title": "Syntax",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the systemic organization of sentence patterns in human languages. Formulation of problems and evaluation of competing syntatic analyses at the phrase and sentence levels. Analysis of the architecture of phases and of movement processes for grammatical and pragmatic informational coding.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4084",
+      "subject": "ENGL",
+      "number": "4084",
+      "level": 4000,
+      "title": "Conducting Research in the Language Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research methodology for the study of linguistic structure, sociolinguistic variation, and cross-field approaches. Ethical research methods, data collection, data processing and analysis, presentation of research.",
+      "prerequisites": {
+        "rawText": "ENGL 1504 and (ENGL 3134 or WGS 3134 or ENGL 3144 or RLCL 3144 or SOC 3144)",
+        "referencedCourses": [
+          "ENGL 1504",
+          "ENGL 3134",
+          "ENGL 3144",
+          "SOC 3144",
+          "WGS 3134"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ENGL 4074, ENGL 4144",
+        "referencedCourses": [
+          "ENGL 4074",
+          "ENGL 4144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4114",
+      "subject": "ENGL",
+      "number": "4114",
+      "level": 4000,
+      "title": "Chaucer",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical analysis of themes, styles, and structures in works of Geoffrey Chaucer. Ethical issues, historical context, and cultural traditions. Structure and vocabulary of Middle English. Influence in literary and critical traditions historically and today.",
+      "prerequisites": {
+        "rawText": "(ENGL 1106 or ENGL 1204H) or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4124",
+      "subject": "ENGL",
+      "number": "4124",
+      "level": 4000,
+      "title": "Introduction to Old English",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Old English grammar and reading of Old English poetry and prose. Senior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4134",
+      "subject": "ENGL",
+      "number": "4134",
+      "level": 4000,
+      "title": "Language Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of theories, mechanisms, and processes in human language development. Empirical overview of phonology, semantics, syntax, and pragmatics. Developmental trajectories of mono-and multilingual children. Cultural constraints on language. Perception of language and production of language, in typical and atypical subpopulations (e.g., hearing impairment). Junior/Senior Standing.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 or PSYC 2004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSYC 4134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4144",
+      "subject": "ENGL",
+      "number": "4144",
+      "level": 4000,
+      "title": "Phonology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the systematic organization of sounds in human languages based upon problem-based learning. Analysis of syllables and morae, articulatory features, timing of articulatory gestures, and phonological processes that lead to sound change. Assessment of various theoretical and computational approaches to phonology including Articulatory Phonology, Prosodic Phonology, and Optimality Theory.",
+      "prerequisites": {
+        "rawText": "ENGL 1504",
+        "referencedCourses": [
+          "ENGL 1504"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4164",
+      "subject": "ENGL",
+      "number": "4164",
+      "level": 4000,
+      "title": "Studies in Shakespeare",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Revolving topics in Shakespeares drama and poetry, with emphases on poetic and dramatic genres, historical and cultural contexts, significant themes, and popular reception. Additional attention paid to the critical discourse surrounding Shakespeares work. May be repeated twice with different content for a maximum of nine credit hours.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4204",
+      "subject": "ENGL",
+      "number": "4204",
+      "level": 4000,
+      "title": "Hybrid Forms",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced writing workshop. Focus on the fusion of genres, such as prose poetry and multimedia writing, with special emphasis on anomalous and/or experimental forms, like cronicas/chronicles, manifesto/artist’s statement, microfiction, erasure, collage, third person nonfiction, flash nonfiction, and the lyric essay. Skills, tools, methods, and iterative processes essential to the production of works of literary art.",
+      "prerequisites": {
+        "rawText": "ENGL 3704 or ENGL 3714 or ENGL 3724",
+        "referencedCourses": [
+          "ENGL 3704",
+          "ENGL 3714",
+          "ENGL 3724"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4214",
+      "subject": "ENGL",
+      "number": "4214",
+      "level": 4000,
+      "title": "Milton",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Miltons poetry from the early works, including COMUS, LYCIDAS, and the sonnets, to his major late works PARADISE LOST, PARADISE REGAINED, and SAMSON AGONISTES; with some attention to the important prose and to the historical context in which he wrote.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4314H",
+      "subject": "ENGL",
+      "number": "4314H",
+      "level": 4000,
+      "title": "Narrative Medicine",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the field of narrative medicine, with attention to narrative competence, the use of narrative in medical education, and the function of narratives in the experience of healing. Includes narrative approaches to biomedical ethics.",
+      "prerequisites": {
+        "rawText": "ENGL 3154 or ENGL 3324",
+        "referencedCourses": [
+          "ENGL 3154",
+          "ENGL 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4474",
+      "subject": "ENGL",
+      "number": "4474",
+      "level": 4000,
+      "title": "Special Topics in Professional and Technical Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced, variable-content course that explores a significant or emergent professional & technical writing issue. Examines relevant theories and historical contexts to analyze relationships among rhetoric, culture, access, and power. Identifies common themes and approaches and applies these themes and approaches, shaped by current theories, to professional and technical writing projects. Individual sections focus on differing areas of professional and technical writing (to be specified in the subtitle of the course). May be repeated twice with different content for a maximum of nine credit hours. Pre: Junior Standing.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4504",
+      "subject": "ENGL",
+      "number": "4504",
+      "level": 4000,
+      "title": "Modern Poetry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "British and American poetry from 1900 to World War II with emphasis on such figures as Pound, Williams, Stevens, Yeats, Plath, Smith, and Eliot.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4514",
+      "subject": "ENGL",
+      "number": "4514",
+      "level": 4000,
+      "title": "Contemporary Poetry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "British and American poetry from World War II to the present, with emphasis on such figures as Bishop, Lowell, Ashbery, Heaney, and Hughes.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4634",
+      "subject": "ENGL",
+      "number": "4634",
+      "level": 4000,
+      "title": "Studies in an American Author before 1900",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines the life, work, and critical reception of a single major American author (or a pair of closely associated authors) writing before 1900. May be taken up to three times with different content. Junior standing is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4664",
+      "subject": "ENGL",
+      "number": "4664",
+      "level": 4000,
+      "title": "Contemporary Fiction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fiction since 1945 with emphasis upon the most recent two decades: the late modernist narratives of Bellow, Updike, and Percy; the new fiction of Barth, Hawkes, Barthelme; the postmodern fiction of Federman, Carter, Fowles, Katz, Sukenick.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4684",
+      "subject": "ENGL",
+      "number": "4684",
+      "level": 4000,
+      "title": "Special Topics in Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An advanced, variable-content course which explores a significant or emergent literary issue or approach, or a body of literature. May be taken twice with different content.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4704",
+      "subject": "ENGL",
+      "number": "4704",
+      "level": 4000,
+      "title": "Advanced Creative Writing: Fiction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed for senior English majors who have selected the Creative Writing option, this is an intensive, advanced workshop. This capstone course builds on skills students have acquired in creative writing workshops. Primary focus is on the writing and critiquing of original fiction, while paying close attention to the work of established writers who are acknowledged masters of their genres. Students hone their skills as peer reviewers and constructive critics. In the process, they produce a portfolio of their own fiction.",
+      "prerequisites": {
+        "rawText": "ENGL 3704",
+        "referencedCourses": [
+          "ENGL 3704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4714",
+      "subject": "ENGL",
+      "number": "4714",
+      "level": 4000,
+      "title": "Advanced Creative Writing: Poetry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed for senior English majors who have selected the Creative Writing option, this is an intensive, advanced workshop. This capstone course builds on the skills acquired in previous creative writing workshops. Primary focus is on the writing and critiquing of original poems, while paying close attention to the work of established poets who are acknowledged masters of their genres. Students hone their skills as peer reviewers and constructive critics. In the process, they produce a portfolio of their own poetry.",
+      "prerequisites": {
+        "rawText": "ENGL 3714",
+        "referencedCourses": [
+          "ENGL 3714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4724",
+      "subject": "ENGL",
+      "number": "4724",
+      "level": 4000,
+      "title": "Creative Writing: Fiction for Young People",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is conducted in a workshop setting in which students compose original stories for young people. Elementary techniques of fiction are emphasized, such as plot structure, point of view, setting, characterization, and audience. Must have prerequisites or permission of the instructor.",
+      "prerequisites": {
+        "rawText": "ENGL 3704",
+        "referencedCourses": [
+          "ENGL 3704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4744",
+      "subject": "ENGL",
+      "number": "4744",
+      "level": 4000,
+      "title": "Editing an Undergraduate Research Journal: Philologia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A seminar and professional development course on editing and producing a scholarly research journal. Emphasis on the day-to-day production operations of a research journal; the analysis, evaluation, and editing of manuscripts; journal design and layout; website content development; development and distribution of promotional materials; and the production of editorial exchange with authors.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4754",
+      "subject": "ENGL",
+      "number": "4754",
+      "level": 4000,
+      "title": "Editing a Literary Journal",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An experiential learning and professional development course on the history and day-to-day operations of literary journal editing with emphasis on composing blog posts and promotional materials, analyzation of the history of print culture, analyzation of current publications, the practice of copyediting and developmental editing, the evaluation of manuscripts for inclusion in a literary journal, the evaluation of job opportunities, and the composition of application materials.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 and ENGL 2744",
+        "referencedCourses": [
+          "ENGL 1106",
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4764",
+      "subject": "ENGL",
+      "number": "4764",
+      "level": 4000,
+      "title": "Small Press Publishing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A seminar and professional development course on the history and day-to-day operations of small press culture and production. Emphasis on the design and distribution of promotional materials; the analysis, evaluation, and editing of manuscripts; and practice the art of editorial exchange with authors. Evaluation of job opportunities and composition of application materials. May be repeated 2 times with different content for a maximum of credit hours.",
+      "prerequisites": {
+        "rawText": "ENGL 2744",
+        "referencedCourses": [
+          "ENGL 2744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4784",
+      "subject": "ENGL",
+      "number": "4784",
+      "level": 4000,
+      "title": "Senior Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed for senior English majors, this is a variable topics, in-depth study of a particular issue or theme in language or literature. This capstone course aims to integrate and synthesize previous work in the discipline, focusing especially on close reading, research, and writing skills.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4804",
+      "subject": "ENGL",
+      "number": "4804",
+      "level": 4000,
+      "title": "Grant Proposals and Reports",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course prepares students to write effective proposals, reports, and informational articles. Students learn to define and write problem statements, program objectives, plans of action, evaluation plans, budget presentations, and summaries. In addition, they sharpen their teamwork, editing, writing, audience awareness, and design skills as they engage in collaborative projects with campus and/or non-profit organizations in the community. Prerequisite or consent of the instructor is required.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4814",
+      "subject": "ENGL",
+      "number": "4814",
+      "level": 4000,
+      "title": "Developing Online Content",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Covers the process of creating documents for online environments. Builds on knowledge and skills acquired in foundational Professional Writing courses. Involves production of websites from scratch, starting with low-fidelity mockups and advancing to formatting layouts adaptable to the diverse screen sizes of computers and mobile devices. Focuses on a balance of structure (code), content (information), and format (presentation and design).",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4824",
+      "subject": "ENGL",
+      "number": "4824",
+      "level": 4000,
+      "title": "Science Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Normative conventions in scientific writing, workplace genres, research designs, and analytic methods. Communication of specialist knowledge to non-specialists, along with strategies in science popularizations. Concise, evidence-based communication strategies for public and peer audiences, both individually and collaboratively.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4854",
+      "subject": "ENGL",
+      "number": "4854",
+      "level": 4000,
+      "title": "Writing, Research, Study Abroad",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic abroad experience to students disciplinary studies on campus. Conducted after international education abroad experience. Collaborative writing and research projects as well as individual, independent research. Approval of course instructor required. Open to all majors. Pre-requisite: A formal study abroad educational experience; department approval.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4874",
+      "subject": "ENGL",
+      "number": "4874",
+      "level": 4000,
+      "title": "Issues in Professional and Public Discourse",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In this course designed for English majors in the Professional Writing Option, students will focus on the ways in which scientific, technical, and professional communication influence, and are influenced by, public discourse. Drawing on strategies of rhetorical criticism, students will gain an understanding of the persuasive value of style, arrangement, and delivery by investigating their professional roles in helping to structure public debate. Pre: Completion of at least 9 credit hours from the following courses: 2844, 3104, 3474, 3804, 3814, 3824, 3834, 3844, 4474, 4804, 4814, 4824.",
+      "prerequisites": {
+        "rawText": "ENGL 3104 or ENGL 2844",
+        "referencedCourses": [
+          "ENGL 2844"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4954",
+      "subject": "ENGL",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad: Issues and Texts",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "An advanced, variable-content and multi-disciplinary course that explores global themes and literature(s) during a month-long, faculty-led summer study abroad experience. Pre-requisite: Junior Standing required. Variable credit course, repeatable up to 6 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4954B",
+      "subject": "ENGL",
+      "number": "4954B",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "2"
+      ],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4964",
+      "subject": "ENGL",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4974",
+      "subject": "ENGL",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4974H",
+      "subject": "ENGL",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4984",
+      "subject": "ENGL",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4994",
+      "subject": "ENGL",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGL 4994H",
+      "subject": "ENGL",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engl/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

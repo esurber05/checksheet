@@ -1,0 +1,820 @@
+{
+  "subject": "FST",
+  "scrapedAt": "2026-05-25T21:20:08.991Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FST 2004",
+      "subject": "FST",
+      "number": "2004",
+      "level": 2000,
+      "title": "Exploring Food Science Careers",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Food science specialization areas and career opportunities. Experiential learning opportunities developed through bridge experience platform. Introduction to research, internship, study abroad and individualized learning. Career preparation, job and internship search strategies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2014",
+      "subject": "FST",
+      "number": "2014",
+      "level": 2000,
+      "title": "Introduction to Food Science",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals for food science and technology. Integration of basic principles of food safety, human nutrition, food spoilage, and sensory evaluation with the appropriate technology of food preservation and processing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2024",
+      "subject": "FST",
+      "number": "2024",
+      "level": 2000,
+      "title": "From Raw to Burnt: Exploring Science and Society through Foods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Food as a method of studying scientific principles and development of society, including acquiring, preserving, processing and consuming foods. Integration of chemistry, biology and physics of grains; salt and spices; meat, poultry, and fish; dairy and eggs; fruits and vegetables; and fat and oils, with the advancements in and the cost to human civilization from historical and ethical perspectives of food production. Scientific principles demonstrated in food preparation.",
+      "pathwaysConcepts": [
+        "2",
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2044",
+      "subject": "FST",
+      "number": "2044",
+      "level": 2000,
+      "title": "Food, War and Conflict",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores historical developments in food preservation, processing and distribution relative to the commencement or continuation of conflict. Examines why and how wars have been fought over economic policies, food trade, and control of food supplies. Examines food defense efforts to protect food and water from intentional contamination and acts of terrorism and bioterrorism. Focus on food products and the preservation, processing and distribution technologies that arose from, or enabled, war and conflict.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2044",
+        "PSCI 2044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2244",
+      "subject": "FST",
+      "number": "2244",
+      "level": 2000,
+      "title": "Topics in Food Science and Technology",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Variable topics in food science and technology such as emerging trends, challenges and regulatory policy. Qualitatively and quantitatively explore relevant and timely issues facing food systems. May be repeated for a maximum of six credits with different topics. Pre: Sophomore standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2424",
+      "subject": "FST",
+      "number": "2424",
+      "level": 2000,
+      "title": "Introduction to Food and Beverage Fermentation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles, processes, and applications of fermentation in the context of food and beverage production. Explores various fermentation techniques, the chemical processes and microbiology involved, and the role of fermentation in enhancing flavor, texture, preservation, and nutritional value. Hands-on experience through workshops and sensory evaluation.",
+      "prerequisites": {
+        "rawText": "CHEM 1036",
+        "referencedCourses": [
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2544",
+      "subject": "FST",
+      "number": "2544",
+      "level": 2000,
+      "title": "Functional Foods for Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to functional foods (foods with additional value beyond basic nutrition) including development of functional foods, novel sources, and traditional foods with value-added health benefit; regulatory issues; and media messages.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HNFE 2544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2974",
+      "subject": "FST",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2984",
+      "subject": "FST",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 2994",
+      "subject": "FST",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3024",
+      "subject": "FST",
+      "number": "3024",
+      "level": 3000,
+      "title": "Principles of Sensory Evaluation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of sensory evaluation including theory, sensory physiology and psychology, experimental methods, applications, and statistical analysis.",
+      "prerequisites": {
+        "rawText": "STAT 3005 or STAT 3615",
+        "referencedCourses": [
+          "STAT 3005",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3114",
+      "subject": "FST",
+      "number": "3114",
+      "level": 3000,
+      "title": "Wines and Vines",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of a working knowledge of world wine styles, wine appreciation, and sensory evaluation of wine. Emphasis on the influences of grape growing and winemaking practices on wine quality, style, economic value, and significance in global food culture. Pre: Must be at least 21 years of age.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HORT 3114"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3124",
+      "subject": "FST",
+      "number": "3124",
+      "level": 3000,
+      "title": "Brewing Science and Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of chemical reactions important in brewing of beer and hard cider. Effects of variations in malting, mashing, and other processing steps on characteristics and quality of beer; fruit sugar, acid and fermentation impacts on cider composition and quality. Investigation of reactions that cause flavor deterioration.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3214",
+      "subject": "FST",
+      "number": "3214",
+      "level": 3000,
+      "title": "Principles of Meat Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Muscle biology and biochemistry, fresh meat processing, meat merchandising, processed meats, food safety, meat cookery, and regulations.",
+      "prerequisites": {
+        "rawText": "ALS 2304 and CHEM 1036",
+        "referencedCourses": [
+          "ALS 2304",
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APSC 3214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3324",
+      "subject": "FST",
+      "number": "3324",
+      "level": 3000,
+      "title": "Food Processing and Engineering I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles of unit operations. Heat and mass transfer. Equipment in commercially important food processing applications. Source and variability of raw food materials. Raw food materials and packaging. Processing methods to ensure food safety and quality. Raw agricultural material conversion to a given food product",
+      "prerequisites": {
+        "rawText": "BIOL 2604 and (MATH 1025 or MATH 1524 or MATH 1225)",
+        "referencedCourses": [
+          "BIOL 2604",
+          "MATH 1025",
+          "MATH 1225",
+          "MATH 1524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3514",
+      "subject": "FST",
+      "number": "3514",
+      "level": 3000,
+      "title": "Food Analysis",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Data analysis, sampling techniques, theory and practice of chemical and physical methods of food analysis for determination of food composition; application of analytical methods of quality control and food laws and regulations.",
+      "prerequisites": {
+        "rawText": "(STAT 3615 or BIT 2405) and (CHEM 2535 or CHEM 2514)",
+        "referencedCourses": [
+          "BIT 2405",
+          "CHEM 2514",
+          "CHEM 2535",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3604",
+      "subject": "FST",
+      "number": "3604",
+      "level": 3000,
+      "title": "Food Microbiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the role of microbes (bacteria, fungi, viruses and parasites) in food safety and quality and strategies for facilitating their control. Understanding microbes used in food production, including fermented foods and beverages.",
+      "prerequisites": {
+        "rawText": "BIOL 2604",
+        "referencedCourses": [
+          "BIOL 2604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3614",
+      "subject": "FST",
+      "number": "3614",
+      "level": 3000,
+      "title": "Food Microbiology Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Methods to quantify, identify, and characterize spoilage, pathogenic, and pathogenic microbes in foods and food processing environments. Comparison of classical and rapid detection methods to characterize and identify microbes in food. Characterization of effects of food processing methods on microbes in food.",
+      "prerequisites": {
+        "rawText": "BIOL 2614",
+        "referencedCourses": [
+          "BIOL 2614"
+        ]
+      },
+      "corequisites": {
+        "rawText": "FST 3604",
+        "referencedCourses": [
+          "FST 3604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 3900",
+      "subject": "FST",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4004",
+      "subject": "FST",
+      "number": "4004",
+      "level": 4000,
+      "title": "Food Science Experiential Learning Reflection",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Reflection of skills and knowledge developed during food science experiential learning process. Analyze curriculum. Development of communication skills to reflect and evaluate their experience.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4014",
+      "subject": "FST",
+      "number": "4014",
+      "level": 4000,
+      "title": "Concepts of Food Product Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application to the food industry of principles and standard practices of research and product development; functionality of food ingredients; students will work in teams to design and develop a new food product.",
+      "prerequisites": {
+        "rawText": "FST 3604",
+        "referencedCourses": [
+          "FST 3604"
+        ]
+      },
+      "corequisites": {
+        "rawText": "FST 4405, FST 4504",
+        "referencedCourses": [
+          "FST 4504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4104",
+      "subject": "FST",
+      "number": "4104",
+      "level": 4000,
+      "title": "Applied Brewing Science and Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Chemistry, biochemistry, and engineering aspects of brewing operations in the production of beer. Barley, malting, hops, brewing operations, fermentation chemistry, yeast characteristics and finishing operations examined. Calculations of raw materials, brewing and fermentation schedules, and final specifications conducted. Laboratory exercises focused on brewing, brewery engineering, and analysis of intermediate and final products.",
+      "prerequisites": {
+        "rawText": "FST 3604",
+        "referencedCourses": [
+          "FST 3604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4204",
+      "subject": "FST",
+      "number": "4204",
+      "level": 4000,
+      "title": "Advanced Topics in Food Science and Technology",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Variable advanced topics in food science and technology such as emerging trends, challenges and regulatory policy. Qualitative and quantitative exploration of relevant and timely issues facing food systems. May be repeated for a maximum of six credits with different topics. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4304",
+      "subject": "FST",
+      "number": "4304",
+      "level": 4000,
+      "title": "Food Processing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles of unit operations. Heat and mass transfer. Equipment in commercially important food processing applications. Raw food materials and packaging. Processing methods to ensure food safety and quality.",
+      "prerequisites": {
+        "rawText": "BIOL 2604 and BIOL 2614 and (MATH 1025 or MATH 1524)",
+        "referencedCourses": [
+          "BIOL 2604",
+          "BIOL 2614",
+          "MATH 1025",
+          "MATH 1524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4314",
+      "subject": "FST",
+      "number": "4314",
+      "level": 4000,
+      "title": "Food Processing Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Safety and good manufacturing practice of food processing. Operation of key equipment found in the food industry. Collection, analysis and interpretation of data acquired in lab exercises. Documentation and reporting of findings.",
+      "corequisites": {
+        "rawText": "4304 or BSE 4604.",
+        "referencedCourses": [
+          "BSE 4604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4324",
+      "subject": "FST",
+      "number": "4324",
+      "level": 4000,
+      "title": "Food Processing and Engineering II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced principles of food engineering, including unsteady heat and mass transfer, rheology, and process design, and their application in current thermal and mechanical processing technologies, such as extrusion and microwave heating. Emerging food processing technologies such as high-pressure processing, cold plasma, and membrane separation. Sustainability in food processing through waste management, packaging, and process optimization. Simulation and automation tools to enhance food system efficiency.",
+      "prerequisites": {
+        "rawText": "FST 3324",
+        "referencedCourses": [
+          "FST 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4504",
+      "subject": "FST",
+      "number": "4504",
+      "level": 4000,
+      "title": "Food Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the chemical and functional properties of food components including major (water, proteins, carbohydrates, enzymes and lipids) and minor (vitamins, minerals, flavors, pigments) constituents; chemical, biochemical reactions and physical phenomena occuring during food handling, processing, and storage; their impact on the nutritional and sensorial quality of food.",
+      "prerequisites": {
+        "rawText": "BCHM 2024",
+        "referencedCourses": [
+          "BCHM 2024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4524",
+      "subject": "FST",
+      "number": "4524",
+      "level": 4000,
+      "title": "Food Safety and Quality Assurance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Monitoring safety and quality of food as well as compliance with government regulations. Description of regulatory agencies and food regulations. Development of specifications, food standards and safety critical control points. Systems to assure a safe and quality product, including acceptance sampling and statistical process control.",
+      "prerequisites": {
+        "rawText": "FST 3604 and FST 4304",
+        "referencedCourses": [
+          "FST 3604",
+          "FST 4304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4534",
+      "subject": "FST",
+      "number": "4534",
+      "level": 4000,
+      "title": "Food Chemistry Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of functional properties of proteins, carbohydrates, and lipids in processed foods including effect of environmental conditions; solubility, foaming ability and textural properties of proteins, carbohydrate crystallization, ability of polysaccharides to form gels and pastes, lipid absorption and tenderization, characterization of a natural-occurring enzyme.",
+      "corequisites": {
+        "rawText": "FST 4504",
+        "referencedCourses": [
+          "FST 4504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4544",
+      "subject": "FST",
+      "number": "4544",
+      "level": 4000,
+      "title": "Distillation and Fermentation Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sampling and analysis of pre-and post-fermentation foods and beverages to determine process termination, efficiency, and formation of desired and non-desired products. Laws and regulations pertaining to fermented foods and beverages. Distillation as an analytical tool and as a production method for food/beverage products.",
+      "prerequisites": {
+        "rawText": "FST 4504 and FST 3514",
+        "referencedCourses": [
+          "FST 3514",
+          "FST 4504"
+        ]
+      },
+      "corequisites": {
+        "rawText": "FST 4104",
+        "referencedCourses": [
+          "FST 4104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4634",
+      "subject": "FST",
+      "number": "4634",
+      "level": 4000,
+      "title": "Epidemiology Foodborne Disease",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of causes, transmission, and epidemiology of major environmental, food, and water borne diseases. Outbreak and sporadic detection, source tracking and control of pathogens. Overview of the impact of foodborne outbreaks on regulatory activities at the national and international level. Corequisite: Enrollment in either FST 3604 or BIOL 4674.",
+      "corequisites": {
+        "rawText": "BIOL 4674, FST 3604",
+        "referencedCourses": [
+          "BIOL 4674",
+          "FST 3604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4644",
+      "subject": "FST",
+      "number": "4644",
+      "level": 4000,
+      "title": "Fermentation Microbiology",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Physiology, biochemistry, and genetics of microorganisms used for production of food ingredients, fermented foods, and beverages. How microorganisms are used in fermentation and the effects of processing and manufacturing conditions on production of fermented foods.",
+      "prerequisites": {
+        "rawText": "BIOL 2604",
+        "referencedCourses": [
+          "BIOL 2604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4654",
+      "subject": "FST",
+      "number": "4654",
+      "level": 4000,
+      "title": "Food and Beverage Fermentation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the broad range of fermented foods and beverages. Defining quality parameters of fermented foods and beverages. In-depth examination of the processing methods and equipment employed in commercial-scale production of fermented foods and beverages. Historical, cultural, sensory, and nutritional attributes of fermented foods and beverages. Course requirements may be satisfied by taking FST 3604 or FST 4504 prior to or concurrent with course.",
+      "prerequisites": {
+        "rawText": "FST 4504 or FST 3604",
+        "referencedCourses": [
+          "FST 3604",
+          "FST 4504"
+        ]
+      },
+      "corequisites": {
+        "rawText": "FST 4644",
+        "referencedCourses": [
+          "FST 4644"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4974",
+      "subject": "FST",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4984",
+      "subject": "FST",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FST 4994",
+      "subject": "FST",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fst/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

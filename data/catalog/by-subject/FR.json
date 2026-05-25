@@ -1,0 +1,854 @@
+{
+  "subject": "FR",
+  "scrapedAt": "2026-05-25T21:20:17.296Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FR 1105",
+      "subject": "FR",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the French language with emphasis on grammar, reading, composition, and conversation. 1105 for students with no prior knowledge of the language; 1106 for students who have completed 1105 or less than three years in high school.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 1106",
+      "subject": "FR",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the French language with emphasis on grammar, reading, composition, and conversation. 1105 for students with no prior knowledge of the language; 1106 for students who have completed 1105 or less than three years in high school.",
+      "prerequisites": {
+        "rawText": "FR 1105",
+        "referencedCourses": [
+          "FR 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 1114",
+      "subject": "FR",
+      "number": "1114",
+      "level": 1000,
+      "title": "Accelerated Elementary French",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to Elementary French, designed for learners who wish to progress rapidly through the beginning stages of language learning. Development of the four language skills (speaking, listening, reading, writing) and basic cultural competency through the study of authentic materials. Duplicates FR 1105 and FR 1106. Taught in French.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2105",
+      "subject": "FR",
+      "number": "2105",
+      "level": 2000,
+      "title": "Intermediate French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes comprehension of written and spoken French, communication in French, literature, and culture of French-speaking world.",
+      "prerequisites": {
+        "rawText": "FR 1106",
+        "referencedCourses": [
+          "FR 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2106",
+      "subject": "FR",
+      "number": "2106",
+      "level": 2000,
+      "title": "Intermediate French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes comprehension of written and spoken French, communication in French, literature, and culture of French-speaking world.",
+      "prerequisites": {
+        "rawText": "FR 2105",
+        "referencedCourses": [
+          "FR 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2114",
+      "subject": "FR",
+      "number": "2114",
+      "level": 2000,
+      "title": "Accelerated Intermediate French",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to intermediate French, designed for learners who wish to progress rapidly through the intermediate stages of language learning. Develops the four language skills (speaking, listening, reading, writing) in a cultural context using authentic materials. Taught in French. Accelerated version of 2105-2106. Duplicates 2105-2106.",
+      "prerequisites": {
+        "rawText": "FR 1106 or FR 1114",
+        "referencedCourses": [
+          "FR 1106",
+          "FR 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2164",
+      "subject": "FR",
+      "number": "2164",
+      "level": 2000,
+      "title": "Intermediate Business French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course emphasizes all four language skills (reading, writing, speaking, and listening) by focusing on various facets of the world of business and technology. It also develops students understanding of French institutions and business practices.",
+      "prerequisites": {
+        "rawText": "FR 2105",
+        "referencedCourses": [
+          "FR 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2714",
+      "subject": "FR",
+      "number": "2714",
+      "level": 2000,
+      "title": "Introduction to French Culture and Civilization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "French culture and civilization from prehistoric cave paintings to the present. Interdisciplinary approach to literature, film, art, achitecture, intellectual movements, and lifestyle in the context of French political history, society, and globalization, including elements of French culture that arrived through conquerors, migrants, and immigrants. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 0 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2794H",
+      "subject": "FR",
+      "number": "2794H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2964",
+      "subject": "FR",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2974",
+      "subject": "FR",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2974H",
+      "subject": "FR",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 2984",
+      "subject": "FR",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3105",
+      "subject": "FR",
+      "number": "3105",
+      "level": 3000,
+      "title": "Composition, Conversation and Grammar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of the ability to write and speak through the effective use of French syntax and morphology. Increased reading and listening skills through the study of authentic materials in the target language. Understanding the role of culture in communication. Conducted in French.",
+      "prerequisites": {
+        "rawText": "FR 2106 or FR 2164",
+        "referencedCourses": [
+          "FR 2106",
+          "FR 2164"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3106",
+      "subject": "FR",
+      "number": "3106",
+      "level": 3000,
+      "title": "Composition, Conversation and Grammar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of the ability to write and speak through the effective use of French syntax and morphology. Increased reading and listening skills through the study of authentic materials in the target language. Understanding the role of culture in communication. Conducted in French.",
+      "prerequisites": {
+        "rawText": "FR 2106 or FR 2164",
+        "referencedCourses": [
+          "FR 2106",
+          "FR 2164"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3125",
+      "subject": "FR",
+      "number": "3125",
+      "level": 3000,
+      "title": "French for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For acquisition of measured levels of proficiency in speaking and understanding spoken French. Content-based instruction in small groups. 3125: to achieve an oral proficiency rating comparable to Intermediate-high on the American Council on the Teaching of Foreign Languages Oral Proficiency Interview (ACTFL-OPI) or S -1+ on the Foreign Service Institute (FSI) scale. 3126: to achieve an oral proficiency rating comparable to Advanced on the ACTFL-OPI or a 2 on the FSI scale. Admission by oral exam.",
+      "prerequisites": {
+        "rawText": "FR 3105 and FR 3106",
+        "referencedCourses": [
+          "FR 3105",
+          "FR 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3126",
+      "subject": "FR",
+      "number": "3126",
+      "level": 3000,
+      "title": "French for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For acquisition of measured levels of proficiency in speaking and understanding spoken French. Content-based instruction in small groups. 3125: to achieve an oral proficiency rating comparable to Intermediate-high on the American Council on the Teaching of Foreign Languages Oral Proficiency Interview (ACTFL-OPI) or S -1+ on the Foreign Service Institute (FSI) scale. 3126: to achieve an oral proficiency rating comparable to Advanced on the ACTFL-OPI or a 2 on the FSI scale. Admission by oral exam.",
+      "prerequisites": {
+        "rawText": "FR 3105 and FR 3106",
+        "referencedCourses": [
+          "FR 3105",
+          "FR 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3154",
+      "subject": "FR",
+      "number": "3154",
+      "level": 3000,
+      "title": "French for the Natural Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Knowledge of the French language and its cultures to the natural sciences. Study of scientific materials in French. Practice in communication skills through contextualized use of specific vocabulary, idiomatic expressions, grammar structures and cultural practices in real-world situations. Discussion on scientific topics and debates of the French-speaking world. Comparison of the practices and world views of scientists and clinicians in French and English-speaking countries. Taught in French.",
+      "prerequisites": {
+        "rawText": "FR 3106",
+        "referencedCourses": [
+          "FR 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3164",
+      "subject": "FR",
+      "number": "3164",
+      "level": 3000,
+      "title": "Advanced Business French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In this skills-based course, students learn to use appropriate French technical vocabulary for different business contexts, do translation, write professional correspondence, and read articles related to the worlds of business, economics, and finance. Cross-cultural differences regarding the work place are also a focus of the course.",
+      "prerequisites": {
+        "rawText": "FR 3105 and FR 3106",
+        "referencedCourses": [
+          "FR 3105",
+          "FR 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3304",
+      "subject": "FR",
+      "number": "3304",
+      "level": 3000,
+      "title": "Introduction to French Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to French literature through analysis and discussion of selected texts from different periods and genres. Methods, terminology, and practice of literary analysis. Intensive writing component.",
+      "prerequisites": {
+        "rawText": "FR 3105 or FR 3106",
+        "referencedCourses": [
+          "FR 3105",
+          "FR 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3314",
+      "subject": "FR",
+      "number": "3314",
+      "level": 3000,
+      "title": "Introduction to Francophone Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the literatures and cultures of French-speaking regions outside of France including North Africa, the Caribbean, Sub-Saharan Africa, and Quebec. Examination of thematic and cultural aspects of literatures of those regions within their socio-historical contexts. Exploration of movements and notions as Negritude, postcolonialism, identity, race, and nation as they relate to the legacy of colonial France. Development of research skills such as finding appropriate sources and proper citation, and of intercultural sensitivity through analysis of works outside Western traditions. Taught in French.",
+      "prerequisites": {
+        "rawText": "FR 3304",
+        "referencedCourses": [
+          "FR 3304"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3424",
+      "subject": "FR",
+      "number": "3424",
+      "level": 3000,
+      "title": "French Culture from Middle Ages to Renaissance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of major events, currents, ideas, works, and figures in French culture from the Middle Aes to the end of the Renaissance. Emphasis on nation-building and cultural production. Critical reading and writing in French. Analysis of a variety of literary texts and cultural artifacts affects from a chronological and thematic perspective. Taught in French.",
+      "prerequisites": {
+        "rawText": "FR 3304",
+        "referencedCourses": [
+          "FR 3304"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3434",
+      "subject": "FR",
+      "number": "3434",
+      "level": 3000,
+      "title": "French Culture from Baroque to Revolution",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of major events, currents, ideas, works, and figures in French culture from the Baroque era to the French Revolution (1610-1799). Emphasis on nation-building and cultural production in a European and Global context. Critical reading and writing in French. Analysis of a variety of literary texts and cultural artifacts from a chronological and thematic perspective. Taught in French.",
+      "prerequisites": {
+        "rawText": "FR 3304",
+        "referencedCourses": [
+          "FR 3304"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3444",
+      "subject": "FR",
+      "number": "3444",
+      "level": 3000,
+      "title": "French Culture from Romanticism to Belle Epoque",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of major events, movements, ideas, works, and figures in French culture from the Romantic period (1800) through the Belle Epoque (1914). Emphasis on literary and cultural works in their social and historical contexts. Critical reading and analysis in French. Study of the impact of French history on French culture. Interpretation of intercultural experiences according to different world views. Taught in French.",
+      "prerequisites": {
+        "rawText": "FR 3304",
+        "referencedCourses": [
+          "FR 3304"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3454",
+      "subject": "FR",
+      "number": "3454",
+      "level": 3000,
+      "title": "French Culture from World Wars to Global Present",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of major events, currents, ideas, works, and figures in French culture from World War I to the present, a period characterized by colonialism, world conflict, and globalization. Analysis of literary and cultural works in their social and historical contexts, toward an understanding of the French language as a global idiom involving diverse worldviews and cultures. Critical reading and writing in French. Taught in French.",
+      "prerequisites": {
+        "rawText": "FR 3304",
+        "referencedCourses": [
+          "FR 3304"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3954",
+      "subject": "FR",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 3984",
+      "subject": "FR",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4154",
+      "subject": "FR",
+      "number": "4154",
+      "level": 4000,
+      "title": "Advanced Composition and Stylistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intensive work in written French. Development of the students ability to write clear, correct, and articulate French in a variety of modes (e.g., epistolary style, the formal and informal essay). Writing intensive.",
+      "prerequisites": {
+        "rawText": "FR 3106",
+        "referencedCourses": [
+          "FR 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4164",
+      "subject": "FR",
+      "number": "4164",
+      "level": 4000,
+      "title": "Special Topics in Business French",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable content course devoted to developing and perfecting highly advanced language skills through the study of special topics in the French and francophone business worlds. Emphasis on a mastery of specialized French for professional settings. May be repeated for credit with different content. Taught even years.",
+      "prerequisites": {
+        "rawText": "FR 3106 and FR 3164",
+        "referencedCourses": [
+          "FR 3106",
+          "FR 3164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 998.99 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4314",
+      "subject": "FR",
+      "number": "4314",
+      "level": 4000,
+      "title": "Studies in French Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study of a selected topic in French literature, such as an author, a group of authors, a literary movement or genre during a specific period of French literary history (i.e., Voltaire, the Pleiade, Romanticism, the nouveau roman). May be repeated for credit with different content.",
+      "prerequisites": {
+        "rawText": "FR 3304 and (FR 3314 or FR 3424 or FR 3434 or FR 3444 or FR 3454)",
+        "referencedCourses": [
+          "FR 3304",
+          "FR 3314",
+          "FR 3424",
+          "FR 3434",
+          "FR 3444",
+          "FR 3454"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 99 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4324",
+      "subject": "FR",
+      "number": "4324",
+      "level": 4000,
+      "title": "Special Topics in French Life, Literature and Language",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study of a selected topic in French culture or language as manifested in creative and historical literature, music, art, film, etc., such as phonetics, translation techniques, or the staging of dramatic works in French. May be repeated for credit with different content.",
+      "prerequisites": {
+        "rawText": "FR 3304 and (FR 3314 or FR 3424 or FR 3434 or FR 3444 or FR 3454)",
+        "referencedCourses": [
+          "FR 3304",
+          "FR 3314",
+          "FR 3424",
+          "FR 3434",
+          "FR 3444",
+          "FR 3454"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 99 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4794",
+      "subject": "FR",
+      "number": "4794",
+      "level": 4000,
+      "title": "Senior Tutorial in French Studies",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Individual or small group sessions which give the student the opportunity to hone special language skills, with a focus on post-graduation application of these skills. May concentrate on areas such as technical or business language, linguistics, translation, interpreting, creative writing, specialized literary, or cultural studies. May be taken twice for credit with different content. Must be pre-arranged three weeks before end of previous semester. One 4000 level French course, senior standing, French major, and consent of French Section required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4964",
+      "subject": "FR",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4974",
+      "subject": "FR",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4974H",
+      "subject": "FR",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4984",
+      "subject": "FR",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4994",
+      "subject": "FR",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FR 4994H",
+      "subject": "FR",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fr/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

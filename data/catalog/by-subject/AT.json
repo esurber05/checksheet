@@ -1,0 +1,954 @@
+{
+  "subject": "AT",
+  "scrapedAt": "2026-05-25T21:18:14.550Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AT 0124",
+      "subject": "AT",
+      "number": "0124",
+      "level": 0,
+      "title": "Ag Mach Mech",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the operation and maintenance of internal combustion engines, field machinery, tractor and power units, and shop to include the fundamentals of gas and arc welding.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0144",
+      "subject": "AT",
+      "number": "0144",
+      "level": 0,
+      "title": "Communication Skills",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Written and oral communication skills, including business and technical writing, public speaking, and interpersonal communication. Instruction and practice in the application of communication skills for business and agriculture. Emphasis on effective use of word processing and email software.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 2 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0164",
+      "subject": "AT",
+      "number": "0164",
+      "level": 0,
+      "title": "Introduction to Animal Science",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Study of animal products, production methods, and management systems for beef, sheep, horses, dairy, swine and poultry. Classroom instruction, demonstrations, and hands-on experience with livestock and poultry.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0174",
+      "subject": "AT",
+      "number": "0174",
+      "level": 0,
+      "title": "Fundamentals of Turfgrass Mgmt",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Turfgrass identification, morphology, adaptations, and management systems for parks, lawns, athletic fields, roadsides, and golf courses. Mowing, irrigation, fertilization, soil management, pest management, and other practices that impact turf management. Turfgrass management planning utilizing Integrated Pest Management and Best Management Practices.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0184",
+      "subject": "AT",
+      "number": "0184",
+      "level": 0,
+      "title": "Plant Science for Agriculture and the Green Industries",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic botanical and chemical principles and their applications to sound plant production and management practices. Emphasis on practical experiences in laboratory and field settings.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0194",
+      "subject": "AT",
+      "number": "0194",
+      "level": 0,
+      "title": "Ag Tech Internship",
+      "credits": {
+        "min": 1,
+        "max": 2
+      },
+      "isVariableCredit": true,
+      "description": "Practical experience in a selected agricultural or green industry enterprise, under the direct supervision of owner, manager, or supervisor. Internship will be evaluated by faculty member. Written reports of work experience activities are required. May be repeated twice for a maximum of three credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-2 Lec, 1-2 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0204",
+      "subject": "AT",
+      "number": "0204",
+      "level": 0,
+      "title": "Applied Agricultural Personal Finance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines issues of agricultural financial principles, financing individual and family needs. This course includes: financial institutions, budgeting, banking services, investing, borrowing, credit management, types of insurance, personal taxes, expense management, personal investments, and time value of money.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0224",
+      "subject": "AT",
+      "number": "0224",
+      "level": 0,
+      "title": "Agricultural Technology Management of Personnel and Sales",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices in recruitment, selection, training, compensation, evaluation, discipline, and dismissal of employees for businesses in the agricultural and green industries. Emphasis is placed on employer/employee relationships. Fundamental understanding of professional selling in the agricultural and green industries. Preparation of sales presentations for agricultural products.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0234",
+      "subject": "AT",
+      "number": "0234",
+      "level": 0,
+      "title": "Intro Agribus & Financial Mgt",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Functions of agribusiness enterprises within the U.S. economic framework. Economic systems, cooperatives, essential elements of business organization, management tools for decision-making, creating financial statements, business planning, development and analysis of budgets, investing in a business, and time value of money.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0244",
+      "subject": "AT",
+      "number": "0244",
+      "level": 0,
+      "title": "Ag Law and Tax Mgnt",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of law involved in the operation of farm and agribusinesses, emphasizing contracts, land ownership problems, legal liability, leases, tax and inheritance laws. Special topics in areas of land ownership, estates, depreciation and gift taxes of primary importance to the farm and agribusiness firm. Even years.",
+      "prerequisites": {
+        "rawText": "AT 0134",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0274",
+      "subject": "AT",
+      "number": "0274",
+      "level": 0,
+      "title": "Agribus Marktng & Entrepreneur",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of marketing through the agribusiness industry including the strategic management of products, distribution, promotion, and pricing to improve business performance. Entrepreneurship is explored as a career alternative including methods for acquiring necessary start-up capital. Solving business problems utilizing finance and marketing tools.",
+      "prerequisites": {
+        "rawText": "AT 0234",
+        "referencedCourses": [
+          "AT 0234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0294",
+      "subject": "AT",
+      "number": "0294",
+      "level": 0,
+      "title": "Livestock Merchandising",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "A comprehensive study of the principles and activities involved in successfully promoting and merchandising livestock. A livestock auction will be held at the conclusion of the course to provide experiences in advertising, salesmanship, facility development, sale management, and budgeting. Pre: Second year student.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0324",
+      "subject": "AT",
+      "number": "0324",
+      "level": 0,
+      "title": "Livestock Reproduction",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices of reproductive management used to maximize reproductive efficiency in dairy and beef cattle, sheep, swine, and horses. Must be second year student in Agriculture Technology.",
+      "prerequisites": {
+        "rawText": "AT 0164",
+        "referencedCourses": [
+          "AT 0164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0344",
+      "subject": "AT",
+      "number": "0344",
+      "level": 0,
+      "title": "Grain Crop Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices of efficient grain crop management with an emphasis on Virginia cropping systems.",
+      "prerequisites": {
+        "rawText": "AT 0184 and AT 0414",
+        "referencedCourses": [
+          "AT 0184",
+          "AT 0414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0354",
+      "subject": "AT",
+      "number": "0354",
+      "level": 0,
+      "title": "Feeds and Feeding",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices of livestock feeding. Anatomy and physiology of ruminant and non-ruminant digestive systems. Emphasis on nutrient requirements and ration formulation. Computerized ration formulation and evaluation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0394",
+      "subject": "AT",
+      "number": "0394",
+      "level": 0,
+      "title": "Golf Course Practicum",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles and techniques of golf course preparation and maintenance required for a high-end golf course. Off-site fieldwork, laboratory experience. Practice maintenance procedures needed to rejuvenate the golf course from the summer season.",
+      "prerequisites": {
+        "rawText": "AT 0174",
+        "referencedCourses": [
+          "AT 0174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0404",
+      "subject": "AT",
+      "number": "0404",
+      "level": 0,
+      "title": "Irrigation and Drainage",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles applied to solving irrigation and drainage problems. Emphasis placed on hydraulics, irrigation design, irrigation scheduling, and components including heads, valves, controllers, backflow prevention, wire, pipe, and fittings.",
+      "corequisites": {
+        "rawText": "AT 0114",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0414",
+      "subject": "AT",
+      "number": "0414",
+      "level": 0,
+      "title": "Soils and Nutrient Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical, chemical, and biological properties of soils; soils suitability for production of a range of agricultural crops to include turfgrass and landscape plants. Properties of common liming, biosolid, manure, and fertilizer materials with emphasis on their environmental impacts. Soil and plant sampling procedures and the analysis of soil tests. Nutrient management plans.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0424",
+      "subject": "AT",
+      "number": "0424",
+      "level": 0,
+      "title": "Nutrient Management Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic soil science and fertility principles necessary for crop production. Environmental impacts of phosphorus and nitrogen, environmentally sensitive site considerations, regulations, and how to write a nutrient management plan.",
+      "prerequisites": {
+        "rawText": "AT 0184 and AT 0414",
+        "referencedCourses": [
+          "AT 0184",
+          "AT 0414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0434",
+      "subject": "AT",
+      "number": "0434",
+      "level": 0,
+      "title": "Pest Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identification, classification, and life cycles of economically important insects, plant pathogens, and weeds. Pest management strategies and techniques: cultural practices, chemical control, biological control, host plant resistance, etc.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0444",
+      "subject": "AT",
+      "number": "0444",
+      "level": 0,
+      "title": "CAD for Landscaping",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study and hands-on experience essential to landscape horticulture graphics in a digital format using industry appropriate software.",
+      "prerequisites": {
+        "rawText": "AT 0684",
+        "referencedCourses": [
+          "AT 0684"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0464",
+      "subject": "AT",
+      "number": "0464",
+      "level": 0,
+      "title": "Forages and Forage Animal Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Use of cool-season and warm-season forage species currently grown in Virginia in forage-based animal systems.",
+      "prerequisites": {
+        "rawText": "AT 0184 and AT 0414",
+        "referencedCourses": [
+          "AT 0184",
+          "AT 0414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0484",
+      "subject": "AT",
+      "number": "0484",
+      "level": 0,
+      "title": "Precision Ag and Data Mgmt",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to various tools and applications related to precision agriculture. Collection, analysis, and effective interpretation and utilization of precision agriculture data, including soil test data, precision fertilizer, and pesticide data.",
+      "prerequisites": {
+        "rawText": "AT 0184 and AT 0344",
+        "referencedCourses": [
+          "AT 0184",
+          "AT 0344"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0494",
+      "subject": "AT",
+      "number": "0494",
+      "level": 0,
+      "title": "Dairy Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts of efficient and profitable management of modern dairy herds. Application of basic principles of business, milking, mastitis control, milk quality, herd replacements, feeding, breeding, reproduction, herd health, housing, and milk marketing management to profitable dairy farming.",
+      "prerequisites": {
+        "rawText": "AT 0164",
+        "referencedCourses": [
+          "AT 0164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0504",
+      "subject": "AT",
+      "number": "0504",
+      "level": 0,
+      "title": "AT First Year Experience",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Orientation course for first semester AT students providing skills, resources and fundamental knowledge to enhance learning experiences and support success. Introduction to study skills and good testing habits, program requirements, opportunities and careers within options, and skills that are essential to become leaders in the agriculture and green industries.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0514",
+      "subject": "AT",
+      "number": "0514",
+      "level": 0,
+      "title": "Cont Ag Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A survey course designed to acquaint the student with the concerns and critical issues impacting the field of agriculture. Contemporary agricultural issues will be explored.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0524",
+      "subject": "AT",
+      "number": "0524",
+      "level": 0,
+      "title": "Whole Farm Planning",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles of whole farm and agricultural business planning including creating business plans, personal financial plans, and farm/business transition plans. Identifying and solving real-world agribusiness problems utilizing proper planning.",
+      "prerequisites": {
+        "rawText": "AT 0234",
+        "referencedCourses": [
+          "AT 0234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 0 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0544",
+      "subject": "AT",
+      "number": "0544",
+      "level": 0,
+      "title": "Horticulture Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Production of vegetable, fruit, flowering, and nursery crops, including propagation of these crops. Focus is on the culture of these commodities as alternative agricultural crops, including environmental and cultural requirements for high quality production.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0554",
+      "subject": "AT",
+      "number": "0554",
+      "level": 0,
+      "title": "Chemical Application",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Proper application of pesticides and other agricultural chemicals used in landscape and turf management and in production agriculture; including application methods, equipment calibration and configuration, occupational health and safety, and pesticide laws and regulations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0564",
+      "subject": "AT",
+      "number": "0564",
+      "level": 0,
+      "title": "Herbaceous Plants",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Identification, selection, requirements, and uses of herbaceous plant materials commonly found in landscapes; includes annuals, perennials, bulbs, and grasses.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0574",
+      "subject": "AT",
+      "number": "0574",
+      "level": 0,
+      "title": "Woody Landscape Plants",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Identification and uses of evergreen and deciduous woody plant materials common in the landscape industry; including trees, shrubs, and ground covers; proper plant selection and location in the landscape site.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0594",
+      "subject": "AT",
+      "number": "0594",
+      "level": 0,
+      "title": "Specialized Turf Equipment Operation and Maintenance",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "This course will focus on the specialized equipment utilized for maintaining quality, low-cut turf in golf course, sports field, or high-end lawn settings. Course will include implementation, maintenance, and repair of equipment. Equipment will include but not be limited to reel and rotary mowers, as well as spraying and spreading equipment. Design lab studio.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0614",
+      "subject": "AT",
+      "number": "0614",
+      "level": 0,
+      "title": "Beef and Sheep Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Beef cattle/sheep production and management. Emphasis on genetics, nutrition, herd health, reproduction, and marketing to optimize performance and profit. Management and flock decisions based on economic and business principles. Practical experience enhanced through laboratory activities.",
+      "prerequisites": {
+        "rawText": "AT 0164",
+        "referencedCourses": [
+          "AT 0164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0624",
+      "subject": "AT",
+      "number": "0624",
+      "level": 0,
+      "title": "Horse Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Horse production and management. Emphasis on genetics, nutrition, herd health, reproduction, and marketing to optimize performance and profit. Management decisions based on economic and business principles. Practical experience enhanced through laboratory activities.",
+      "prerequisites": {
+        "rawText": "AT 0164",
+        "referencedCourses": [
+          "AT 0164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0664",
+      "subject": "AT",
+      "number": "0664",
+      "level": 0,
+      "title": "Golf & Sports Turf Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Management of turfgrass on modified soil. Advanced management techniques and manipulation of nutrition and cultural practices to reduce plant stress or increase plant tolerance. Intensive turfgrass pest identification, life cycles, environmental conditions, and methods of effective control. Integrated pest management and best management practices.",
+      "prerequisites": {
+        "rawText": "AT 0174",
+        "referencedCourses": [
+          "AT 0174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0674",
+      "subject": "AT",
+      "number": "0674",
+      "level": 0,
+      "title": "Spanish for the Green Industry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Dialogue-based language skills focused on vocabulary and grammatical structures common to agricultural and green industries. Includes vocabulary and contexts specific to activities in greenhouse, nursery, turf, and landscape environments. Elements of Spanish culture are included throughout the course. Pre: Prior study in Spanish is helpful but not required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0684",
+      "subject": "AT",
+      "number": "0684",
+      "level": 0,
+      "title": "Landscape Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices involved in the development and interpretation of landscape designs; proper selection and use of landscape construction materials and methods of construction. Introduction to utilizing computer-aided drafting.",
+      "prerequisites": {
+        "rawText": "AT 0564",
+        "referencedCourses": [
+          "AT 0564"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AT 0574",
+        "referencedCourses": [
+          "AT 0574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0694",
+      "subject": "AT",
+      "number": "0694",
+      "level": 0,
+      "title": "Landscape Contracting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interpreting a landscape design and properly installing plant materials. Preparing bids for customers using cost accounting principles. Maintaining and renovating landscapes as well as exploring careers and business opportunities in the landscaping industry.",
+      "prerequisites": {
+        "rawText": "AT 0564 and AT 0574",
+        "referencedCourses": [
+          "AT 0564",
+          "AT 0574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0704",
+      "subject": "AT",
+      "number": "0704",
+      "level": 0,
+      "title": "Turfgrass Capstone Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Capstone course for the Landscape Turfgrass Management option of the Agricultural Technology program. Problem based learning course to evaluate selected turfgrass problems for stakeholders such as golf courses, athletic fields and parks and recreation departments facility administrators. Students to look holistically at a problem and use critical thinking, experiences and knowledge from previous class work to create custom solutions. For second-year students only.",
+      "prerequisites": {
+        "rawText": "AT 0664",
+        "referencedCourses": [
+          "AT 0664"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 4 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0714",
+      "subject": "AT",
+      "number": "0714",
+      "level": 0,
+      "title": "Hardscape Materials & Instal",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Non-plant portions of landscape construction such as rock walls, paver floors, arbors, and water gardens. The course covers the materials, construction. Restricted to students in the Landscape & Turf Management option in the Agricultural Technology Program.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0724",
+      "subject": "AT",
+      "number": "0724",
+      "level": 0,
+      "title": "Landscape Skills Practicum",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "This course provide an introduction to a multitude of skills that are important for success in the landscape industry. Each session is set in a competitive environment emphasizing the development of a selection of hands-on skills, including safe equipment operation, landscape and hardscape installation, management and estimating techniques, and arboculture methods.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0734",
+      "subject": "AT",
+      "number": "0734",
+      "level": 0,
+      "title": "Risk Management in Agriculture",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of managing risk in agriculture, particularly for production of row crops and livestock, including sources of risk and cost/benefit analysis of various risk mitigation strategies. Commodity futures contracts and options as price risk management tools. Government policies, particularly crop and livestock insurance provisions of the current Farm Bill.",
+      "corequisites": {
+        "rawText": "AT 0234",
+        "referencedCourses": [
+          "AT 0234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0744",
+      "subject": "AT",
+      "number": "0744",
+      "level": 0,
+      "title": "Agricultural Technology Leadership Skills Capstone",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Knowledge and skills to engage successfully as leaders in their businesses, organizations, and communities. Hands-on experiences that will build upon learned concepts of leadership, successful teams, meeting facilitation, and action planning. Meaningful connections to further students' understanding of self. Active learning and student participation through student run project teams working with alumni and industry partners to solve real world problems. Pre: Students who take this course must be in their last semester of the AT program.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0974",
+      "subject": "AT",
+      "number": "0974",
+      "level": 0,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0984",
+      "subject": "AT",
+      "number": "0984",
+      "level": 0,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AT 0994",
+      "subject": "AT",
+      "number": "0994",
+      "level": 0,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/at/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "subject": "CEP",
+  "scrapedAt": "2026-05-25T21:19:23.279Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CEP 3084",
+      "subject": "CEP",
+      "number": "3084",
+      "level": 3000,
+      "title": "University Internship",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "To be used of Cooperative Education Program - University Internships. No Credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cep/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEP 4084",
+      "subject": "CEP",
+      "number": "4084",
+      "level": 4000,
+      "title": "Cooperative Education Program",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "To be used for co-ops in industry. No credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cep/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

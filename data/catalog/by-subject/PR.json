@@ -1,0 +1,285 @@
+{
+  "subject": "PR",
+  "scrapedAt": "2026-05-25T21:22:07.603Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PR 2044",
+      "subject": "PR",
+      "number": "2044",
+      "level": 2000,
+      "title": "Principles of Public Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of public relations practice; public relations in organizations; responsibilities of the public relations practitioner; legal and ethical considerations; role of public relations in society; history of the field and key people who influenced its development; choosing appropriate communication channels/media.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 3014",
+      "subject": "PR",
+      "number": "3014",
+      "level": 3000,
+      "title": "Public Relations Cases",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of contemporary and historic public relations cases. Emphasis on theories, research techniques, planning methods, implementation strategies, evaluation standards, and ethical considerations in public relations programs and campaigns.",
+      "prerequisites": {
+        "rawText": "COMM 2044 or PR 2044",
+        "referencedCourses": [
+          "PR 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 3034",
+      "subject": "PR",
+      "number": "3034",
+      "level": 3000,
+      "title": "Topics in Public Relations and Advertising",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics in public relations and advertising. Emphasis on theoretical, practical, or ethical issues in selected contexts. May be repeated 1 time with different content for a maximum of 6 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ADV 3034"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 3144",
+      "subject": "PR",
+      "number": "3144",
+      "level": 3000,
+      "title": "Writing and Editing for Public Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced writing and editing used to structure and present information in public relations practice. Includes message development, message design for delivery through various media, copyediting skills and tools, strategies for dissemination, and legal and ethical issues in public relations writing.",
+      "prerequisites": {
+        "rawText": "COMM 2024",
+        "referencedCourses": [
+          "COMM 2024"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 3324",
+      "subject": "PR",
+      "number": "3324",
+      "level": 3000,
+      "title": "Corporate Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines communication theories, strategies and tactics that corporations use in their public relations efforts to reach and influence publics. Prepares students for in-house public relations work and familiarizes them with expectations of corporate clients. Introduces students to the important role communication plays within and between for-profit, nonprofit, and government institutions. Emphasis on the influence of corporate culture, ethics and values on communication styles. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 3334",
+      "subject": "PR",
+      "number": "3334",
+      "level": 3000,
+      "title": "Public Relations and Corporate Social Responsibility",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores role of communication in corporate social responsibility. Emphasis on the ethical implications of communicating the need to generate profits with the need to ensure that corporate actions do not harm important stakeholders such as employees, investors, customers, and communities.",
+      "prerequisites": {
+        "rawText": "COMM 2044 or PR 2044",
+        "referencedCourses": [
+          "PR 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 3344",
+      "subject": "PR",
+      "number": "3344",
+      "level": 3000,
+      "title": "Public Relations and Sports",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines communication theories, strategies, and tactics that sports organizations use in their public relations efforts. Introduces students to the dynamic relationship between sports organizations, media, and fans. Study of ethics and professional standards in sports public relations. Emphasizes the role of public relations in sports as a strategic communication and management function.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 4074",
+      "subject": "PR",
+      "number": "4074",
+      "level": 4000,
+      "title": "Organizational Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Role of communication in complex organizations; communication networks, communication and management, message systems, decision-making; relationships between organizational theory and communication.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 4304",
+      "subject": "PR",
+      "number": "4304",
+      "level": 4000,
+      "title": "Public Relations Campaigns",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Public relations campaign research, planning, implementation and evaluation. Emphasis on applying theory in campaign contexts; executing applied research; setting objectives; developing strategic plans, messages and budgets; carrying out courses of action; and evaluating results.",
+      "prerequisites": {
+        "rawText": "COMM 2124 and (COMM 3144 or PR 3144) and (COMM 3014 or PR 3014)",
+        "referencedCourses": [
+          "COMM 2124",
+          "PR 3014",
+          "PR 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 4364",
+      "subject": "PR",
+      "number": "4364",
+      "level": 4000,
+      "title": "Crisis Communication and Issue Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Communication theories of risk, crisis, emergency, and public/private issue management. Legal and ethical considerations in issue management and crisis communication. Communication strategies and tactics for issue and crisis management. Reputation management and image restoration as they relate to risk, crises, emergencies, and issues.",
+      "prerequisites": {
+        "rawText": "PR 2044",
+        "referencedCourses": [
+          "PR 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 4404",
+      "subject": "PR",
+      "number": "4404",
+      "level": 4000,
+      "title": "Strategic Communication Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research and theory in strategic communication. Cultural awareness of diverse publics. Relationship, reputation, crisis, and issue management in interpersonal, group, organizational, and corporate communication contexts. Ethical standards in strategic communication. Corporate social responsibility.",
+      "prerequisites": {
+        "rawText": "PR 2044 and AHRM 1014 and (ACIS 1004 or ACIS 2115) and (COMM 1016 or COMM 2004)",
+        "referencedCourses": [
+          "ACIS 1004",
+          "ACIS 2115",
+          "AHRM 1014",
+          "COMM 1016",
+          "COMM 2004",
+          "PR 2044"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PR 4414",
+      "subject": "PR",
+      "number": "4414",
+      "level": 4000,
+      "title": "Public Relations Standards and Practices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Addresses complexities of public relations research, planning, implementation, and evaluation required for professional certification. Includes special emphasis on public relations legal and ethical practices. Senior standing.Fee $150.",
+      "prerequisites": {
+        "rawText": "(COMM 2044 or PR 2044) and PR 4304",
+        "referencedCourses": [
+          "PR 2044",
+          "PR 4304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pr/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

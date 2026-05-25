@@ -1,0 +1,1014 @@
+{
+  "subject": "BMES",
+  "scrapedAt": "2026-05-25T21:18:45.857Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "BMES 2004",
+      "subject": "BMES",
+      "number": "2004",
+      "level": 2000,
+      "title": "Concussion Perspectives: Medical, Scientific and Societal Perspectives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Broad, multidisciplinary description of concussion as it relates to variety of fields including: medicine, psychology, injury biomechanics, technology, equipment design, ethics, and law. Concussion modeling, animal models, diagnosis, neurocognitive testing, and treatment. Testing and instrumentation. Research efforts, credibility and conflicts of interest. Ethical considerations in sports, medicine, and science. Legal implications.",
+      "pathwaysConcepts": [
+        "1A",
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2014",
+      "subject": "BMES",
+      "number": "2014",
+      "level": 2000,
+      "title": "Biomedical Engineering Professional Practice",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics selected to foster professional development of the Biomedical Engineering (BME) student, including training for experiential learning opportunities, such as research, internships, co-ops, and design. Overview of BME specialization and research areas, career pathways, and preparation for interactions with industry, including the regulatory approval process associated with medical device development. Emphasis on teamwork, communication, employment opportunities, the development of a professional portfolio, ethical considerations, additive manufacturing, and engineering documentation using real-world examples and a design sprint/challenges.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2024",
+      "subject": "BMES",
+      "number": "2024",
+      "level": 2000,
+      "title": "ESTEEMED Program Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Professional development seminar series for National Institutes of Health (NIH) Enhancing Science, Technology, EnginEering, and Math Educational Diversity (ESTEEMED) program scholars. Professional development and construction of professional portfolio. Overview of safety and ethical considerations within biomedical engineering research. Development of scientific literature searching and summarizing skills. Communication skill development of written and oral content. Strategies for mentoring relationships. May be repeated 3 times with different content for a maximum of 4 credit hours. Pre: Only available to students in the ESTEEMED program.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 4 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2054",
+      "subject": "BMES",
+      "number": "2054",
+      "level": 2000,
+      "title": "Electrical Principles for Biomedical Engineers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of electrical circuits and their applications in biomedical engineering. Analysis of resistive, capacitive, and inductive components in AC and DC circuits. Application of Kirchoff’s laws, voltage and current dividers, impedance, and operational amplifiers. Introduction to active and passive filters, frequency domain analysis, and Laplace transforms. Hands-on laboratory exercises integrating circuit analysis with biomedical instrumentation, including sensors, data acquisition systems, and microcontrollers for conversion of analog biosignals.",
+      "corequisites": {
+        "rawText": "MATH 2214, PHYS 2306",
+        "referencedCourses": [
+          "MATH 2214",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2074",
+      "subject": "BMES",
+      "number": "2074",
+      "level": 2000,
+      "title": "Computational Methods in Biomedical Engineering",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Numerical methods and software applied to biomedical engineering applications. Structured programming and problem solving within programming environment such as MATLAB. Error estimation, root finding, curve fitting, interpolation, solving linear simultaneous equations, numerical differentiation, numerical integration, and numerical solutions to ordinary differential equations.",
+      "prerequisites": {
+        "rawText": "MATH 1226 and (ENGE 1215 or ENGE 1414)",
+        "referencedCourses": [
+          "ENGE 1215",
+          "ENGE 1414",
+          "MATH 1226"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 2114 or MATH 2114H or MATH 2405H",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2405H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2104",
+      "subject": "BMES",
+      "number": "2104",
+      "level": 2000,
+      "title": "Introduction to Biomedical Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identification, exploration, and evaluation of real-world, complex biomedical engineering problems including safety and ethical considerations. Emphasis on critical thinking, problem solving, group skills, and communication related to the field of biomedical engineering. Literature review and experimental design in biomedical engineering research.",
+      "prerequisites": {
+        "rawText": "(ENGE 1216 or ENGE 1414) and MATH 1226",
+        "referencedCourses": [
+          "ENGE 1216",
+          "ENGE 1414",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2974",
+      "subject": "BMES",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2984",
+      "subject": "BMES",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 2994",
+      "subject": "BMES",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3004",
+      "subject": "BMES",
+      "number": "3004",
+      "level": 3000,
+      "title": "Helmet Design: Biomechanics to Health & Social Disparities in Sports",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides a multidisciplinary description of helmet design with applications to all sports. The biomechanical design parameters for helmets are presented in the broader context of health and social disparities. Through reasoning in the social sciences the class investigates how sex and gender roles have shaped sports and their individual helmet design disparities. A critical analysis of equity relative to race and healthcare is analyzed as it pertains to helmets and concussion treatments and outcomes. Demonstrate the interdisciplinary nature of helmet design and how ethical reasoning and social constructs have shaped the industry.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3024",
+      "subject": "BMES",
+      "number": "3024",
+      "level": 3000,
+      "title": "BME Cell Engineering Laboratory and Design",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles of cell engineering, experiment design, quantitative alyses. Laboratory notebook keeping, report writing and oral presentation in a team setting. Measurement of biological molecules such as DNA, RNA, and proteins. Assessment of animal cell viability, migration, mechanics and interactions with biomaterials. Identification of cell phenotypes.",
+      "corequisites": {
+        "rawText": "BIOL 1105, BMES 2104",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BMES 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3034",
+      "subject": "BMES",
+      "number": "3034",
+      "level": 3000,
+      "title": "Bioinstrumentation Laboratory and Design for Living Systems",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles of biomedical sensors and their usage for experimental design. Collection of biological signals using analog signal amplifiication and filters, biopotentials, digital acquisition, digital filtering and processing. Analysis of physiological signals on living systems with focus on neural, cadiovascular, respiratory, and muscular systems using a group problem solving approach. Instrumental regulation and safety considerations.",
+      "prerequisites": {
+        "rawText": "BMES 2104 and ECE 3054",
+        "referencedCourses": [
+          "BMES 2104",
+          "ECE 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3114",
+      "subject": "BMES",
+      "number": "3114",
+      "level": 3000,
+      "title": "Needs Identification in Healthcare",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Define open-ended problem statements related to healthcare. Immersive clinical observation and transdisciplinary medical technology innovation. Needs exploration and screening, disease state fundamentals, and evaluation of existing solutions. User-centered research planning, contextual inquiry, data documentation, stakeholder and market analysis, and regulatory and reimbursement basics.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3124",
+      "subject": "BMES",
+      "number": "3124",
+      "level": 3000,
+      "title": "Introduction to Biomechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles of biomechanics. Basic musculoskeletal anatomy. Application of classical mechanics to biological systems. Emphasis placed on mechanical behavior (stress and strain), structural behavior, motion, and injury tolerance of the human body. Biomechanics of medical devices and implants. Advances in safety equipment used in automotive, military, and sports applications.",
+      "prerequisites": {
+        "rawText": "BMES 2104 and ESM 2204 and ESM 2304",
+        "referencedCourses": [
+          "BMES 2104",
+          "ESM 2204",
+          "ESM 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3134",
+      "subject": "BMES",
+      "number": "3134",
+      "level": 3000,
+      "title": "Introduction to Biomedical Imaging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to major biomedical imaging modalities. Emphasis on X-rays, computerized tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET), ultrasound, and optical imaging. Essential physics and imaging equations of the imaging system. Sources of noise and primary artifacts. Patient safety and clinical application.",
+      "prerequisites": {
+        "rawText": "BMES 2104 and (MATH 2204 or MATH 2204H) and PHYS 2306",
+        "referencedCourses": [
+          "BMES 2104",
+          "MATH 2204",
+          "MATH 2204H",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3144",
+      "subject": "BMES",
+      "number": "3144",
+      "level": 3000,
+      "title": "Biomedical Devices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design and uses of biomedical devices for diagnosis and therapy of human and animal diseases. Disease eiologies, progression, risk factors, and epidemiology. Tissue, organ, and systems dysfunction and failure and relevance to life stages (pediatric, adolescent, adult, aged). Useful characteristics of engineered materials for device fabrication, including biocompatibility. Gaps between medical needs and current medical devices.",
+      "prerequisites": {
+        "rawText": "BMES 2104",
+        "referencedCourses": [
+          "BMES 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3154",
+      "subject": "BMES",
+      "number": "3154",
+      "level": 3000,
+      "title": "Biosignal Processing and Classification",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the concepts and applications of digital signal processing and machine learning on bioinstrumentation signals from physiologic systems. Emphasis on processing techniques for electrocardiogram (ECG), electromyography (EMG), and speech signals. Apply basic machine learning algorithms for diagnostic classification of biosignals.",
+      "prerequisites": {
+        "rawText": "BMES 2104 and (CS 1044 or CS 1054 or CS 1064 or CS 1114 or ME 2004 or AOE 2074 or ESM 2074 or BSE 3144 or BMES 2074)",
+        "referencedCourses": [
+          "AOE 2074",
+          "BMES 2074",
+          "BMES 2104",
+          "BSE 3144",
+          "CS 1044",
+          "CS 1054",
+          "CS 1064",
+          "CS 1114",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3164",
+      "subject": "BMES",
+      "number": "3164",
+      "level": 3000,
+      "title": "Fundamentals of Regenerative Medicine and Tissue Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of cell biology, physiology, and engineering of regenerative medicine. Techniques and technologies of regenerative medicine and tissue engineering. Biomaterial selection and manufacturing techniques for regenerative medicine and tissue engineering applications. Overview of genetic and immuno- therapies. Design criteria and process from bench to clinical implementation of tissue engineering solutions. Ethical implications in regenerative medicine.",
+      "prerequisites": {
+        "rawText": "BMES 4064",
+        "referencedCourses": [
+          "BMES 4064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3184",
+      "subject": "BMES",
+      "number": "3184",
+      "level": 3000,
+      "title": "Problem Solving in BME",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Computational and analytical approaches to analyzing biological systems and solving biomedical engineering problems. Problem formulation and exploration of problem-solving techniques to validate computational solutions. Self-directed inquiry and team-based approaches that use reverse engineering, user-in-mind design, and engineering software tools.",
+      "prerequisites": {
+        "rawText": "BMES 2104 and (ESM 2074 or BMES 2074) and MATH 2214",
+        "referencedCourses": [
+          "BMES 2074",
+          "BMES 2104",
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3224",
+      "subject": "BMES",
+      "number": "3224",
+      "level": 3000,
+      "title": "Automobile Safety",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides multidisciplinary analysis of automobile safety around the world. Illustration of the details about the invention of the wheel and how various cultures advanced the wheel into carts for transportation. Design process of seatbelt systems, frontal airbag and side airbag systems. Analysis of vehicle design parameters to optimize restraint systems. Analysis of the design challenges of protecting all occupants including men, women, children, elderly and pregnant occupants. Ethical analysis of the history of laws, media, and societal norms around seatbelt use and current distracted drivers using cell phones.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3234",
+      "subject": "BMES",
+      "number": "3234",
+      "level": 3000,
+      "title": "Foundations of Biotransport",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to fundamental principles of fluid mechanics, mass, momentum, and energy transport in physiological systems (tissue, organs, whole body) and biomedical devices. Application of differential equations to physiological systems. Diffusion, convection, and reaction kinetics in physiological and biomedical contexts. Applications include blood flow, oxygen transport, drug delivery, and biomaterials transport.",
+      "prerequisites": {
+        "rawText": "BIOL 1105 and MATH 2204 and MATH 2214",
+        "referencedCourses": [
+          "BIOL 1105",
+          "MATH 2204",
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3704",
+      "subject": "BMES",
+      "number": "3704",
+      "level": 3000,
+      "title": "Computer Aided Design for Biomedical Engineering Applications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and applications of computer-aided design (CAD) for engineering and biomedical design intent and optimization. SolidWorks for 3D modeling, drafting, and assembly of components and structures. Integration of SolidWorks with computational tools for finite element analysis (FEA) and structural validation. Creation of machine design elements and assemblies for practical engineering and medical device applications. Preparation for the Certified SolidWorks Associate (CSWA) exam with guided practice and skill-building. Design reproducibility, efficiency, and manufacturing integration through CAD techniques. Professional standards for documentation.",
+      "prerequisites": {
+        "rawText": "ESM 2204 or ESM 2114 or AOE 2014",
+        "referencedCourses": [
+          "AOE 2014",
+          "ESM 2114",
+          "ESM 2204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3844",
+      "subject": "BMES",
+      "number": "3844",
+      "level": 3000,
+      "title": "Computational Neuroscience and Neural Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to computational and systems neuroscience. Data analysis and signal processing techniques for neural data. Neural modeling to include mean field models, Hodgkin-Huxley models, integrate and fire models. Neural engineering and brain machine interface (BMI) applications.",
+      "prerequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NEUR 3844"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3900",
+      "subject": "BMES",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 3984",
+      "subject": "BMES",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4015",
+      "subject": "BMES",
+      "number": "4015",
+      "level": 4000,
+      "title": "BME Senior Design and Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4015: Apply biomedical engineering principles to the design of an approved project using the team approach. Develop design and communication skills. Integrate ethical, global and social issues in engineering. 4016: Apply biomedical engineering principles to develop solutions for an approved design project using a team approach. Complete a project resulting in prototype medical device, circuit, or system. Refine design and communication. Integrate ethical, global, environmental and social issues in engineering. Pre: Senior standing for 4015.",
+      "prerequisites": {
+        "rawText": "BMES 3034 and BMES 3184",
+        "referencedCourses": [
+          "BMES 3034",
+          "BMES 3184"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4016",
+      "subject": "BMES",
+      "number": "4016",
+      "level": 4000,
+      "title": "BME Senior Design and Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4015: Apply biomedical engineering principles to the design of an approved project using the team approach. Develop design and communication skills. Integrate ethical, global and social issues in engineering. 4016: Apply biomedical engineering principles to develop solutions for an approved design project using a team approach. Complete a project resulting in prototype medical device, circuit, or system. Refine design and communication. Integrate ethical, global, environmental and social issues in engineering. Pre: Senior standing for 4015.",
+      "prerequisites": {
+        "rawText": "BMES 4015",
+        "referencedCourses": [
+          "BMES 4015"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4024",
+      "subject": "BMES",
+      "number": "4024",
+      "level": 4000,
+      "title": "Advanced Cellular Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced techniques and principles in cellular engineering. Identification of cellular markers through immunohistochemistry methods. Staining techniques for cell identification and characterization. Overview of microscopy and imaging technologies and cellular tracking applications. Analysis of static versus dynamic cell culture. Experimental design, relevant statistical approaches, and communication of scientific results.",
+      "prerequisites": {
+        "rawText": "BMES 3024",
+        "referencedCourses": [
+          "BMES 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4034",
+      "subject": "BMES",
+      "number": "4034",
+      "level": 4000,
+      "title": "Wearable Bioinstrumentation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of science, engineering, and data analytics principles behind wearable technology. Non-invasive measurement and assessment of human physiology and behavior. Data processing and analysis of non-invasive biosignals. Data privacy, protection, and ethical considerations of wearable devices.",
+      "prerequisites": {
+        "rawText": "(CS 1044 or CS 1054 or CS 1064 or CS 1114 or ME 2004 or AOE 2074 or ESM 2074 or BSE 3144 or BMES 2074) and (STAT 3615 or STAT 3704 or STAT 4604) and (ECE 2054 or ECE 3054)",
+        "referencedCourses": [
+          "AOE 2074",
+          "BMES 2074",
+          "BSE 3144",
+          "CS 1044",
+          "CS 1054",
+          "CS 1064",
+          "CS 1114",
+          "ECE 2054",
+          "ECE 3054",
+          "ME 2004",
+          "STAT 3615",
+          "STAT 3704",
+          "STAT 4604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4064",
+      "subject": "BMES",
+      "number": "4064",
+      "level": 4000,
+      "title": "Introduction to Medical Physiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introductory to the principles of medical physiology. Designed primarily for (but not limited to), undergraduate students minoring in biomedical engineering, and other related engineering and physical sciences majors with little or no formal background in biological sciences. Basic principles and concepts of human physiology. Special emphasis on the interactions of human systems biology in their entirety rather than individual genes and pathways. Pre: Junior standing or permission of instructor.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4134",
+      "subject": "BMES",
+      "number": "4134",
+      "level": 4000,
+      "title": "Global, Societal, and Ethical Considerations in Biomedical Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of contemporary technological advances to improving human health. Comparison of healthcare systems, problems, and existing solutions throughout the developed and developing world. Consideration of legal and ethical issues associated with developing and implementing new medical technologies. Recognition and definition of gaps between medical needs and current methods and therapies between developed and developing countries. Conceptually design a novel technology.",
+      "prerequisites": {
+        "rawText": "BMES 2104",
+        "referencedCourses": [
+          "BMES 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4154",
+      "subject": "BMES",
+      "number": "4154",
+      "level": 4000,
+      "title": "Commercialization of BME Res",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Commercialization process applied to translational research. Regulatory aspects of biomedical engineering products and technologies (e.g. devices, diagnostics, drugs, biologics). Intellectual property, technology transfer processes, clinical trial design, commercialization of university research, modeling of development costs (e.g. cash flow and revenue projections). Small business startup approaches.",
+      "prerequisites": {
+        "rawText": "BMES 2104",
+        "referencedCourses": [
+          "BMES 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4214",
+      "subject": "BMES",
+      "number": "4214",
+      "level": 4000,
+      "title": "Musculoskeletal Biomechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Skeletal anatomy and mechanics. Muscle anatomy and mechanics. Theory and application of electromyography. Motion and force measuring equipment and techniques including force platforms. Inverse dynamics modeling of the human body. Current topics in musculoskeletal biomechanics research.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and (CS 1044 or CS 1064 or CS 1114 or AOE 2074 or ESM 2074 or ME 2004)",
+        "referencedCourses": [
+          "AOE 2074",
+          "CS 1044",
+          "CS 1064",
+          "CS 1114",
+          "ESM 2304",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ESM 4204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4224",
+      "subject": "BMES",
+      "number": "4224",
+      "level": 4000,
+      "title": "Biodynamics and Control",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of Lagrange mechanics to study of human movement dynamics and neuromuscular control of multi-degree-of-freedom systems. Computational simulation of forward-dynamics and state-space linear control of human movement to investigate functional performance and neuromuscular pathology.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and (CS 1044 or CS 1064 or CS 1114 or AOE 2074 or ESM 2074 or ME 2004 or BMES 2074)",
+        "referencedCourses": [
+          "AOE 2074",
+          "BMES 2074",
+          "CS 1044",
+          "CS 1064",
+          "CS 1114",
+          "ESM 2304",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ESM 4224"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4234",
+      "subject": "BMES",
+      "number": "4234",
+      "level": 4000,
+      "title": "Mechanics of Biological Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Anatomy and physiology of biological systems such as cells, tissues, and organs. Experimental techniques and mechanical tests for determining the mechanical behavior of biological systems. Simplified mechanics-based mathematical models of biological systems. Specific biological systems include cells, tissues, and organs of the musculoskeletal, cardiovascular, integumentary system, and reproductive systems.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and MATH 2214 and MATH 2114",
+        "referencedCourses": [
+          "ESM 2204",
+          "MATH 2114",
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ESM 4234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4574",
+      "subject": "BMES",
+      "number": "4574",
+      "level": 4000,
+      "title": "Biomaterials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Materials for biomedical applications. Basic material types and properties, functional uses of materials in medical applications, and tissue response mechanisms. Integrated design issues of multicomponent material design in prosthetic devices for hard and soft tissues, orthopedics , cardiovascular, and drug delivery applications.",
+      "prerequisites": {
+        "rawText": "MSE 2034 or MSE 2044",
+        "referencedCourses": [
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MSE 4574"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4614",
+      "subject": "BMES",
+      "number": "4614",
+      "level": 4000,
+      "title": "Probability-Based Modeling, Analysis, and Assessment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Uncertainty analysis of engineering data, parameters estimation, probability concepts, random variables, functions of random variables, probability-based performance functions and failure modes, risk and reliability functions, probability of failure and safety index, random sequences and stochastic processes, correlation functions and spectral densities, return period and extreme values, failure rates, performance monitoring and service life prediction.",
+      "prerequisites": {
+        "rawText": "ESM 2204",
+        "referencedCourses": [
+          "ESM 2204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ESM 4614"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4974",
+      "subject": "BMES",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4984",
+      "subject": "BMES",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4984A",
+      "subject": "BMES",
+      "number": "4984A",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "1A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4994",
+      "subject": "BMES",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 4994H",
+      "subject": "BMES",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMES 29844",
+      "subject": "BMES",
+      "number": "29844",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmes/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "subject": "BMSP",
+  "scrapedAt": "2026-05-25T21:18:43.762Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "BMSP 2135",
+      "subject": "BMSP",
+      "number": "2135",
+      "level": 2000,
+      "title": "Human Anatomy & Physiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure and function of the human body for students preparing for professions in the health fields. 2135: body plan and organization, homeostasis, cell structure and function, histology, integumentary system, skeletal system, muscular system, nervous system and special senses. 2136: endocrine system, circulatory & cardiovascular system, lymphatic system and immunity, respiratory system, digestive system, metabolism, excretion, reproduction, and development. BMSP 2135-2136 duplicates BIOL 2405-2406; may not receive credit for both.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 or BIOL 1006) or (BIOL 1105 or BIOL 1106) or (BIOL 1205H or BIOL 1206H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmsp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMSP 2136",
+      "subject": "BMSP",
+      "number": "2136",
+      "level": 2000,
+      "title": "Human Anatomy and Physiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure and function of the human body for students preparing for professions in the health fields. 2135: body plan and organization, homeostasis, cell structure and function, histology, integumentary system, skeletal system, muscular system, nervous system and special senses. 2136: endocrine system, circulatory & cardiovascular system, lymphatic system and immunity, respiratory system, digestive system, metabolism, excretion, reproduction, and development. BMSP 2135-2136 duplicates BIOL 2405-2406; may not receive credit for both.",
+      "prerequisites": {
+        "rawText": "BMSP 2135",
+        "referencedCourses": [
+          "BMSP 2135"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmsp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMSP 2145",
+      "subject": "BMSP",
+      "number": "2145",
+      "level": 2000,
+      "title": "Human Anatomy and Physiology Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory exercises investigating the structure and function of the human body for students preparing for professions in the health fields. 2145: body plan and organization, homeostasis, cell structure and function, histology, integumentary system, skeletal system, muscular system, nervous system and special senses. 2146: endocrine system, circulatory & cardiovascular system, lymphatic system and immunity, respiratory system, digestive system, metabolism, excretion, reproduction, and development. BMSP 2145-2146 duplicates BIOL 2414; may not receive credit for both.",
+      "corequisites": {
+        "rawText": "BMSP 2135",
+        "referencedCourses": [
+          "BMSP 2135"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmsp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMSP 2146",
+      "subject": "BMSP",
+      "number": "2146",
+      "level": 2000,
+      "title": "Human Anatomy and Physiology Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory exercises investigating the structure and function of the human body for students preparing for professions in the health fields. 2145: body plan and organization, homeostasis, cell structure and function, histology, integumentary system, skeletal system, muscular system, nervous system and special senses. 2146: endocrine system, circulatory & cardiovascular system, lymphatic system and immunity, respiratory system, digestive system, metabolism, excretion, reproduction, and development. BMSP 2145-2146 duplicates BIOL 2414; may not receive credit for both.",
+      "corequisites": {
+        "rawText": "BMSP 2136",
+        "referencedCourses": [
+          "BMSP 2136"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmsp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMSP 4974",
+      "subject": "BMSP",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmsp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMSP 4994",
+      "subject": "BMSP",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmsp/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

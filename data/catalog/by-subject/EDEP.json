@@ -1,0 +1,98 @@
+{
+  "subject": "EDEP",
+  "scrapedAt": "2026-05-25T21:19:39.833Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "EDEP 2374",
+      "subject": "EDEP",
+      "number": "2374",
+      "level": 2000,
+      "title": "Educational Psychology for PK-12 Teachers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theoretical, empirical, and practical foundations of educational psychology, including human learning, cognitive processes, development, motivation, classroom management, and instructional strategies for diverse students. Emphasis on application of theory to practice.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edep/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDEP 2444",
+      "subject": "EDEP",
+      "number": "2444",
+      "level": 2000,
+      "title": "Motivating Yourself and Others",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of human motivation research and research methodologies in education, psychology, and neuroscience. Application of this research in diverse populations, including analysis of human motivation and design of motivating activities. (3H,3C)",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edep/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDEP 2984",
+      "subject": "EDEP",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edep/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDEP 3474",
+      "subject": "EDEP",
+      "number": "3474",
+      "level": 3000,
+      "title": "Principles and Practices in PK-12 Assessment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theoretical, empirical, and practical foundations of assessment in PK-12. Basic test design and measurement principles and practices, the use of assessments in education, the use of assessment data, and critical issues in assessment. Emphasis on creating classroom-level assessment systems.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edep/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDEP 4984",
+      "subject": "EDEP",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edep/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

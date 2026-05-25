@@ -1,0 +1,293 @@
+{
+  "subject": "AAD",
+  "scrapedAt": "2026-05-25T21:18:29.129Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AAD 1004",
+      "subject": "AAD",
+      "number": "1004",
+      "level": 1000,
+      "title": "Exploring Architecture, Arts, and Design",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "First-Year Experience course for Explore AAD majors. Overview of the college and its degrees, majors and minors, and career opportunities available to CAUS graduates. Presents college and university resources and services that support student success. Introduces students to the basic principles of the research process by focusing on inquiry, problem-solving, and integration of ideas and experiences within the fields in the College of Architecture, Arts, and Design.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 1204",
+      "subject": "AAD",
+      "number": "1204",
+      "level": 1000,
+      "title": "Thinking Globally",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Seminar for first-year students enrolled in Rhizome Living-Learning Community. Introduction to history and theory of sustainable design in a global context. Investigations of works of sustainable design. Introduction to history and aims of United Nations Sustainable Development Goals (SDGS).",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 1214",
+      "subject": "AAD",
+      "number": "1214",
+      "level": 1000,
+      "title": "Acting Locally",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Course for first-year students enrolled in Rhizome Living-Learning Community. Project-based learning through student-client collaborations. Applies design history concepts and United Nations Sustainable Development Goals. Integrate diverse community perspectives. Introduces design thinking as a model for problem solving, including problem definition and iteration. Student presentations, proposal development, exhibition, client feedback and peer critiques.",
+      "prerequisites": {
+        "rawText": "AAD 1204",
+        "referencedCourses": [
+          "AAD 1204"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 1984",
+      "subject": "AAD",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 2974",
+      "subject": "AAD",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 2984",
+      "subject": "AAD",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 3900",
+      "subject": "AAD",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 3954",
+      "subject": "AAD",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 3974",
+      "subject": "AAD",
+      "number": "3974",
+      "level": 3000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 3984",
+      "subject": "AAD",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 3984L",
+      "subject": "AAD",
+      "number": "3984L",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6D"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 3984M",
+      "subject": "AAD",
+      "number": "3984M",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 4234",
+      "subject": "AAD",
+      "number": "4234",
+      "level": 4000,
+      "title": "Capstone Collaborations: Cross-Disciplinary Teams",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Collaborative cross-disciplinary research teams support discipline-specific capstones. Analyzes the interactive relationships between place, space, identity, and community in the United States and beyond. Engages in iterative research processes through reflective teamwork addressing complex problems in senior capstone projects. Synthesizes multiple, complex sources and creates coherent arguments including ethical analyses.",
+      "prerequisites": {
+        "rawText": "ENGE 2094 and PHIL 3334",
+        "referencedCourses": [
+          "ENGE 2094",
+          "PHIL 3334"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 4954",
+      "subject": "AAD",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAD 5954",
+      "subject": "AAD",
+      "number": "5954",
+      "level": 5000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aad/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

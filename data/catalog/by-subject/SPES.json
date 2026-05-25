@@ -1,0 +1,340 @@
+{
+  "subject": "SPES",
+  "scrapedAt": "2026-05-25T21:22:18.032Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "SPES 1004",
+      "subject": "SPES",
+      "number": "1004",
+      "level": 1000,
+      "title": "First Year Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of topics related to the School of Plant and Environmental Sciences from a multidisciplinary perspective focusing on communication and teamwork, problem-solving, inquiry, and digital literacy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 1984",
+      "subject": "SPES",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 2004",
+      "subject": "SPES",
+      "number": "2004",
+      "level": 2000,
+      "title": "Cannabis - Science, Industry, and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Major crops in the genus Cannabis (hemp and marijuana). Historical development, botanical aspects, and current research. Medicinal, recreational and industrial products and their use. Legal, cultural, political and socioeconomic issues surrounding cannabis crops.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 2014",
+      "subject": "SPES",
+      "number": "2014",
+      "level": 2000,
+      "title": "Professional Development Skills",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Professional development skills and planning for undergraduates in the School of Plant and Environmental Sciences (SPES). Explore career opportunities and resources available at Virginia Tech. Improve professional communication skills, resume and cover letter writing, and learning plans for experiential learning opportunities.",
+      "prerequisites": {
+        "rawText": "SPES 1004",
+        "referencedCourses": [
+          "SPES 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 2244",
+      "subject": "SPES",
+      "number": "2244",
+      "level": 2000,
+      "title": "World Crops: Food and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "How to feed the world in 2050, world crops, primary regions of production, factors that determine where they are grown, economic importance, and use in the human diet. Linkage between food and culture, recipe preparation, and their role in defining who we are, where we come from, and what we have experienced along the way. Tracing of food migration and the African, Caribbean, Asian, Latin American, and European influence on the American cuisine. The universality of food and how every single culture and religion uses food as part of the celebration of life, death, and many cultural events.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 2964",
+      "subject": "SPES",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 2974",
+      "subject": "SPES",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 2984",
+      "subject": "SPES",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 3900",
+      "subject": "SPES",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 3954",
+      "subject": "SPES",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 3984",
+      "subject": "SPES",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4014",
+      "subject": "SPES",
+      "number": "4014",
+      "level": 4000,
+      "title": "Career Development and Planning",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Professional development and skills gained during School of Plant and Environmental Sciences (SPES) experiential learning program. Linking experiential learning to future career planning and selection. Reflection on SPES curriculum and experiential learning as a path to fulfilling career goals. Explore role of mentoring and leadership in career development.",
+      "prerequisites": {
+        "rawText": "SPES 2014",
+        "referencedCourses": [
+          "SPES 2014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4114",
+      "subject": "SPES",
+      "number": "4114",
+      "level": 4000,
+      "title": "Topics: StudyAway: Production, Culture and Social Aspects US Agriculture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Experiential learning, hands-on and face-to-face experience with agricultural industries involved in food production, marketing and consumption. Comparative analysis of agriculture production history, practices and constraints in different regions of the US. The course has two components. One; the in-class (onsite) discussion, analysis, and comparison of the diverse agricultural production systems between Virginia and, two; the studying “away” part (Example, California, Arizona, the Mississippi Delta). Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4864",
+      "subject": "SPES",
+      "number": "4864",
+      "level": 4000,
+      "title": "Plant Sciences Capstone",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Writing and discussion-based learning synthesizing prior knowledge gained in Plant Science degree program. Practice in science-based expository writing and speaking applied to undergraduate coursework, undergraduate research, or work-related experience in the Plant Sciences. Restricted to students in Plant Science degree program. Pre: Junior or Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4964",
+      "subject": "SPES",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4974",
+      "subject": "SPES",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4984",
+      "subject": "SPES",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPES 4994",
+      "subject": "SPES",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spes/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

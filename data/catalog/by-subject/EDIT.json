@@ -1,0 +1,41 @@
+{
+  "subject": "EDIT",
+  "scrapedAt": "2026-05-25T21:20:48.465Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "EDIT 4974",
+      "subject": "EDIT",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edit/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDIT 4994",
+      "subject": "EDIT",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edit/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

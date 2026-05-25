@@ -1,0 +1,671 @@
+{
+  "subject": "AFST",
+  "scrapedAt": "2026-05-25T21:18:06.199Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AFST 1714",
+      "subject": "AFST",
+      "number": "1714",
+      "level": 1000,
+      "title": "Introduction to African American Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the interdisciplinary field of African American Studies. Consideration of key dimensions of African American experiences, including institutional contexts for African American cultural expression and responses to oppression. History of the field, exploration of subfields, and consideration of research methods. Emphasis on the interplay of African American Studies scholarship and activism.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 1814",
+      "subject": "AFST",
+      "number": "1814",
+      "level": 1000,
+      "title": "Introduction to African Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the interdisciplinary study of Africa and Africas place in the world. Consideration of history, politics, economics, arts, and culture of African societies. Exploration of representations and treatments of Africa in global context. Discussion of scholar-activism in the study of Africa.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2044",
+      "subject": "AFST",
+      "number": "2044",
+      "level": 2000,
+      "title": "Contemporary African American Theatre",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Contributions of U.S. Black theatre artists; intersectional identities; performances spaces and society; critical race theory; dramatic storytelling; cultural behaviors; racial discrimination.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 2044",
+        "TA 2044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2204",
+      "subject": "AFST",
+      "number": "2204",
+      "level": 2000,
+      "title": "Race and Gender in Religion and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Influence of race and gender on religion and culture. Overview of approaches to categories of diversity, particularly race and gender, in religious and cultural traditions. Utilization of humanistic and social scientific approaches to investigate geographically variable historical and/or contemporary case studies.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2204",
+        "WGS 2204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2264",
+      "subject": "AFST",
+      "number": "2264",
+      "level": 2000,
+      "title": "Race, Class, Gender, and Sexualities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on how race, class, gender, and sexualities form interlocking systems of privilege and oppression at individual and institutional levels. Emphasizes race, class, gender, and sexualities as changing social constructions and interactive systems that shape social institutions and organizations, meanings, and identities.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 2264",
+        "WGS 2264"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2275",
+      "subject": "AFST",
+      "number": "2275",
+      "level": 2000,
+      "title": "African-American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2275: African continent through Civil War. Examines trajectory of slavery as well as its global impacts and legacy, the development of racial thought, slave resistance and rebellions, the fight for Emancipation, and African American contributions to culture, economics and society of United States. 2276: Reconstruction through present. Examines impact and legacy of Reconstruction, the fight against Jim Crow segregation, and the social, cultural, political and economic contributions of African Americans in the nineteenth and twentieth century United States. Exploration of the global implications of race relations in the United States.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2275"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2276",
+      "subject": "AFST",
+      "number": "2276",
+      "level": 2000,
+      "title": "African-American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2275: African continent through Civil War. Examines trajectory of slavery as well as its global impacts and legacy, the development of racial thought, slave resistance and rebellions, the fight for Emancipation, and African American contributions to culture, economics and society of United States. 2276: Reconstruction through present. Examines impact and legacy of Reconstruction, the fight against Jim Crow segregation, and the social, cultural, political and economic contributions of African Americans in the nineteenth and twentieth century United States. Exploration of the global implications of race relations in the United States.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2276"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2354",
+      "subject": "AFST",
+      "number": "2354",
+      "level": 2000,
+      "title": "The Civil Rights Movement",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the Civil Rights Movement in the U.S. Both non-violent and violent resistance will be examined, as well as strategies used in organizing mass boycotts, sit-ins, and marches. Special attention will be paid to how the movement shaped civil rights legislation on the federal level. The course also examines how the Movement influenced student protest on college campuses.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2454",
+      "subject": "AFST",
+      "number": "2454",
+      "level": 2000,
+      "title": "Race and Racism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines theories of race and racism specifically as they relate to African Americans. We will explain conservative, neo-conservative, liberal, and progressive ideologies concerning race in past and recent United States contexts and how such theories emerged and continue to emerge in recent times. Though the majority of the course focuses on race and racism within the U.S., comparative analyses will be made with Brazil and South Africa.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 2454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2644",
+      "subject": "AFST",
+      "number": "2644",
+      "level": 2000,
+      "title": "Introduction to African-American Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the principal themes, genres, and historical contexts of African-American literature. Formal elements of both the vernacular and written traditions. Impact of historical and social contexts. Ethical questions raised in the literature.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 2644"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2734",
+      "subject": "AFST",
+      "number": "2734",
+      "level": 2000,
+      "title": "The Black Woman in the U.S.",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The emerging womanist perspective of interstructured oppression, (i.e., the simultaneous effects of racism, sexism, and classism) as relevant to the contributions of Black women in the U.S.; views of Black women from African backgrounds, the Atlantic slave trade, and the progressive rise of womanist/feminist liberation movements in Black culture; contributions of Black women in the U.S. and globally.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2754",
+      "subject": "AFST",
+      "number": "2754",
+      "level": 2000,
+      "title": "Sports and the Afro-American Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sports as a paradigm of the African-American experience. The forms of racism and the periodic significant social advances of the African-American community in the U.S. will be examined from the vantage point of African-American sports. Attention will also be paid to the continuing impact of sports on African-American culture. Sports heroes, successful teams and annual sporting events will be noted and analyzed.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2774",
+      "subject": "AFST",
+      "number": "2774",
+      "level": 2000,
+      "title": "Black Aesthetics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A definition of those qualities of black American arts which distinguish it from traditional U.S. arts through an analysis of theme, form, and technique as they appear in a representative sample of works by black creative artists.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2974",
+      "subject": "AFST",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2984",
+      "subject": "AFST",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 2984G",
+      "subject": "AFST",
+      "number": "2984G",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "7"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 3454",
+      "subject": "AFST",
+      "number": "3454",
+      "level": 3000,
+      "title": "African American Leadership for Social Change",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course will utilize the three major paradigmatic assumptions in Black Studies (centeredness, critical analysis, and empowerment) to examine historical and contemporary African American leadership concepts and styles and their impact on social change.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 3954",
+      "subject": "AFST",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 3984",
+      "subject": "AFST",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4354",
+      "subject": "AFST",
+      "number": "4354",
+      "level": 4000,
+      "title": "Topics in Africana Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable topics course examining the lives and circumstances of people of African descent. Students may repeat the course with a different topic for up to 6 credits. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4754",
+      "subject": "AFST",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4774",
+      "subject": "AFST",
+      "number": "4774",
+      "level": 4000,
+      "title": "Blacks in the Performing Arts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An examination of the performing arts as a paradigm of the African-American experience. Forms of U.S. racism and the periodic significant social advances of the U.S.s African-American community will be examined in this course from the vantage points of blacks in theatre, film, dance, and music. Emphasis will be placed on the continuing impact of performing arts on African-American culture. Performers, heroes, historical works and performing arts events will be analyzed.",
+      "prerequisites": {
+        "rawText": "AFST 1714",
+        "referencedCourses": [
+          "AFST 1714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4964",
+      "subject": "AFST",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4974",
+      "subject": "AFST",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4974H",
+      "subject": "AFST",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4984",
+      "subject": "AFST",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4994",
+      "subject": "AFST",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 4994H",
+      "subject": "AFST",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 5234",
+      "subject": "AFST",
+      "number": "5234",
+      "level": 5000,
+      "title": "Research Methods in Africana Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the two dominant paradigms in Africana Studies and their corresponding research methods. Topic areas include: purpose of research, the role of the researcher, the role of theory, methods used for data collection, and valid evidence for both paradigmatic approaches. Graduate standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 5314",
+      "subject": "AFST",
+      "number": "5314",
+      "level": 5000,
+      "title": "Theories in Africana Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on theories of the relationships between race, gender, class, culture, social structure, and power as they impact the lives of Africana people. Critical examination of five major theoretical approaches: critical race theory, social isolation, internal colonialism, racial formation, black feminist. Graduate standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 5974",
+      "subject": "AFST",
+      "number": "5974",
+      "level": 5000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 5984",
+      "subject": "AFST",
+      "number": "5984",
+      "level": 5000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 6234",
+      "subject": "AFST",
+      "number": "6234",
+      "level": 6000,
+      "title": "African American Identity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories of African American identity across multiple disciplinary and interdisciplinary traditions, including Africana Studies, psychology, sociology, literary theory, and cultural studies. The role of identity in definitions of group and individual interests, social movement appeal and participation, and responses to discrimination and racism.",
+      "prerequisites": {
+        "rawText": "AFST 5314 or AFST 5324",
+        "referencedCourses": [
+          "AFST 5314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AFST 6984",
+      "subject": "AFST",
+      "number": "6984",
+      "level": 6000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/afst/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

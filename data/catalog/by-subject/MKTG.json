@@ -1,0 +1,925 @@
+{
+  "subject": "MKTG",
+  "scrapedAt": "2026-05-25T21:21:17.648Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "MKTG 2104",
+      "subject": "MKTG",
+      "number": "2104",
+      "level": 2000,
+      "title": "Careers in Marketing",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Provide students with an early start on understanding the many career options within the marketing major. In-depth focus in developing an online professional branded website and career map. Enhance and broaden the understanding of customer’s needs, while gaining the sense of ownership over the product and/or service to meet customer’s needs through communication of marketing strategy. Serves as a foundational course in preparing students for career success in the Marketing field. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 2954",
+      "subject": "MKTG",
+      "number": "2954",
+      "level": 2000,
+      "title": "Business Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "This course provides students with an international business experience. It is only offered as part of a program outside of the United States. Students will learn from the structured educational experience developed by the faculty leader. This course is intended for students who want to develop marketing-related free electives. Pre: Instructors consent and the completion of 24 semester hours with a minimum GPA of 3.0 or departmental consent.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 2964",
+      "subject": "MKTG",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 2964H",
+      "subject": "MKTG",
+      "number": "2964H",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 2974",
+      "subject": "MKTG",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 2994",
+      "subject": "MKTG",
+      "number": "2994",
+      "level": 2000,
+      "title": "Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 3104",
+      "subject": "MKTG",
+      "number": "3104",
+      "level": 3000,
+      "title": "Marketing Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the marketing process from a macro and management viewpoint. The macro viewpoint includes the role of marketing in society. The management viewpoint includes the product, distribution, promotional, and pricing decisions. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 3104H",
+      "subject": "MKTG",
+      "number": "3104H",
+      "level": 3000,
+      "title": "Marketing Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the marketing process from a macro and management viewpoint. The macro viewpoint includes the role of marketing in society. The management viewpoint includes the product, distribution, promotional, and pricing decisions. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 3134",
+      "subject": "MKTG",
+      "number": "3134",
+      "level": 3000,
+      "title": "Personal Well-being and Professional Success",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study of the science of well-being and stress management for business and business professionals from multi-disciplinary perspective (Positive Psychology, Consumer Research, Behavioral Economics, Neuroscience, Sociology). Includes relevance of well-being data in marketing and business contexts. Application of well-being and stress management strategies to overcome wellbeing barriers, ensure work-life balance and create positive work environments. Exploration of policy implications of well-being data.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 3164",
+      "subject": "MKTG",
+      "number": "3164",
+      "level": 3000,
+      "title": "Introduction to Digital Marketing Strategy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the principles of digital marketing and its applications. lntegration of digital strategies with overall business and traditional marketing plans. Emphasis given to critical digital knowledge in inbound marketing, identifying and creating buyer personas, email marketing, search engine optimization, planning and executing digital content marketing calendars, social media marketing, web analytics and digital compliance legislation and regulations, and their ramifications.",
+      "corequisites": {
+        "rawText": "3104 or 3104H.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 3504",
+      "subject": "MKTG",
+      "number": "3504",
+      "level": 3000,
+      "title": "Advertising",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of advertising principles and its applications. The course covers advertising history, the impact of advertising on society, and ethical and regulatory issues. The process of creating and placing advertising is explored including advertising objectives, budgeting, media planning and mix, creative objectives and strategy, copy execution and production, and copy testing. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 3954",
+      "subject": "MKTG",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4054",
+      "subject": "MKTG",
+      "number": "4054",
+      "level": 4000,
+      "title": "Sales Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Course focus is on the integration of technology and data analytics to advance sales. Study of how technology is leveraged in the social sales process which includes how to successfully utilize technology in social selling situations. Emphasis given to Customer Relationship Management (CRM) strategies, benefits, operations, and application across the customer life cycle. Students demonstrate proficiency in CRM technology, through experiential learning by earning Salesforce, Hubspot and Smartfox badges.",
+      "prerequisites": {
+        "rawText": "MKTG 3104",
+        "referencedCourses": [
+          "MKTG 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4114",
+      "subject": "MKTG",
+      "number": "4114",
+      "level": 4000,
+      "title": "Introduction to AI in Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study Artificial Intelligence (AI) and machine learning concepts, myths vs. facts, and barriers associated with AI. Explore the need and uses of AI in marketing and sales. Includes strategies for firms to identify AI opportunities, and the pitfalls and barriers associated with AI implementation. Consider how to implement AI, measure AI success, and gain competitive advantage through AI. Analyze the consumer, firm, and societal impacts of AI from marketing and ethics perspectives, and suggest corrective strategies for firms. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4144",
+      "subject": "MKTG",
+      "number": "4144",
+      "level": 4000,
+      "title": "Business and Marketing Strategies for the Process Industries",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Business strategies and industrial marketing concepts, and their application in the chemical, pharmaceutical and related process industries. The course is designed for engineers and other students planning a career in the process industries. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CHE 4144"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4154",
+      "subject": "MKTG",
+      "number": "4154",
+      "level": 4000,
+      "title": "Marketing Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is a study of the scientific process of problem solving in a marketing context. It includes concepts of problem definition, hypotheses generation, questionnaire development, research design, implementation, analysis, and interpretation of statistical findings. Junior standing required.",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and (BIT 2405 or (STAT 3005 and STAT 3006) or STAT 3604 or (STAT 3615 and STAT 3616) or STAT 4604) and BIT 2406",
+        "referencedCourses": [
+          "BIT 2405",
+          "BIT 2406",
+          "MKTG 3104",
+          "MKTG 3104H",
+          "STAT 3005",
+          "STAT 3006",
+          "STAT 3604",
+          "STAT 3615",
+          "STAT 3616",
+          "STAT 4604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4164",
+      "subject": "MKTG",
+      "number": "4164",
+      "level": 4000,
+      "title": "Social Media and Content Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of social media channels and content creation processes and strategies. Integration of inbound marketing methodologies with social and digital media marketing. Emphasis given to content marketing distribution strategies, influencer marketing, social media advertising, and key content marketing tools including blogs, vlogs, and podcasts, as well as employee advocacy programs and social media and crisis management plans for organizations.",
+      "prerequisites": {
+        "rawText": "MKTG 3164",
+        "referencedCourses": [
+          "MKTG 3164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4174",
+      "subject": "MKTG",
+      "number": "4174",
+      "level": 4000,
+      "title": "Analytics & Metrics for Digital Marketing Strategy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the assessment of digital marketing analytics and metrics and their applications. Optimization of digital marketing results across all digital marketing strategies and tactics. Emphasis given to digital marketing measurement models, data-driven decision making including application of the decision-making framework, predictive analytics and data visualizations, website analytics, organic search analytics, social media metrics, email marketing metrics, as well as paid, owned and earned media analytics.",
+      "prerequisites": {
+        "rawText": "MKTG 3164",
+        "referencedCourses": [
+          "MKTG 3164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4204",
+      "subject": "MKTG",
+      "number": "4204",
+      "level": 4000,
+      "title": "Consumer Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An integrated analysis of individual and environmental influences on consumer decision making, purchase, and consumption behaviors with strong emphasis on implications for developing, executing, and assessing marketing strategy. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4204H",
+      "subject": "MKTG",
+      "number": "4204H",
+      "level": 4000,
+      "title": "Consumer Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An integrated analysis of individual and environmental influences on consumer decision making, purchase, and consumption behaviors with strong emphasis on implications for developing, executing, and assessing marketing strategy. Junior standing required. Honors section",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4254",
+      "subject": "MKTG",
+      "number": "4254",
+      "level": 4000,
+      "title": "Product and Price Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasis on strategic branding and product planning within the context of marketing management. Analysis of economic, financial, legal, and marketing principles to make effective pricing decisions. Examination of relationships between product and price management. Junior standing.",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and MKTG 4154 and (MKTG 4204 or MKTG 4204H)",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4154",
+          "MKTG 4204",
+          "MKTG 4204H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4264",
+      "subject": "MKTG",
+      "number": "4264",
+      "level": 4000,
+      "title": "Analytics for Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integrates conceptual and quantitative aspects of marketing. Provides concentrated emphasis on the role of analytical and computer models to enhance marketing decision making. Emphasis on managerial decision making in key areas, including segmentation and targeting, positioning, forecasting, new product design, forecasting and pricing. Role of consumer perceptions and behaviors on decision making. Hands-on experience with model building and using analytical tools.",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and MKTG 4154 and (MKTG 4204 or MKTG 4204H)",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4154",
+          "MKTG 4204",
+          "MKTG 4204H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4304",
+      "subject": "MKTG",
+      "number": "4304",
+      "level": 4000,
+      "title": "Marketing Communications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and application of an organizations marketing communications function. Includes traditional and digital channels. Development of a marketing communications plan, situation analysis, setting communication goals, creating message strategy, implementing the strategy using promotional mix variables, planning traditional and social media, and determining the communication budget. Junior standing.",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and (MKTG 4204 or MKTG 4204H)",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4204",
+          "MKTG 4204H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4354",
+      "subject": "MKTG",
+      "number": "4354",
+      "level": 4000,
+      "title": "Marketing Channels and Logistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Management of the firms distribution function. Study of the structure, functions, interactions, and activities of marketing channels. Analysis and development of integrated physical distribution and logistics systems for the firm. Junior standing required.",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and (BIT 2405 or (STAT 3005 and STAT 3006) or STAT 3604 or (STAT 3615 and STAT 3616) or STAT 4604) and BIT 2406",
+        "referencedCourses": [
+          "BIT 2405",
+          "BIT 2406",
+          "MKTG 3104",
+          "MKTG 3104H",
+          "STAT 3005",
+          "STAT 3006",
+          "STAT 3604",
+          "STAT 3615",
+          "STAT 3616",
+          "STAT 4604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4404",
+      "subject": "MKTG",
+      "number": "4404",
+      "level": 4000,
+      "title": "Field Practicum in Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of marketing concepts and theories to a specific business concept. On-site performance of marketing activities and a written analysis of the firms marketing strategy and execution. Junior Standing",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4454",
+      "subject": "MKTG",
+      "number": "4454",
+      "level": 4000,
+      "title": "Sales Force Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integration of behavioral research to provide an understanding of the role of the salesperson within the sales organization and in relation to the buyers. Personal selling examines the dyadic interaction between buyer and seller. Managing the sales force covers planning, organizing, directing, and controlling the activities of the sales personnel. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MKTG 4554 and (MKTG 3104 or MKTG 3104H) and MKTG 4204",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4204",
+          "MKTG 4554"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4554",
+      "subject": "MKTG",
+      "number": "4554",
+      "level": 4000,
+      "title": "Principles of Professional Selling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Learn about the management of relationships between buyers and sellers to effectively build partnerships, including the importance of understanding buyer behavior to facilitate the sales process. Explore the concepts of prospecting for customers, planning for the sales call, presentation skills, as well as the formal negotiation process and how these areas relate to adaptive selling. Address common sales management issues including how to manage cross-functional teams and their time and territories, as well as explore the ethical and legal issues that often arise throughout the sales process. Discuss the various career paths and opportunities within sales.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4604",
+      "subject": "MKTG",
+      "number": "4604",
+      "level": 4000,
+      "title": "Retail Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of managerial problems in retailing establishments, including traditional and online formats. Focus is on operational problems, retail and e-retail store organization, location analysis, buying, selling, sales promotion, and merchandise handling. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4644",
+      "subject": "MKTG",
+      "number": "4644",
+      "level": 4000,
+      "title": "Marketing, Society and the Public Interest",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The impact of marketing on society from a multi- disciplinary and multi-stakeholder perspective. Marketings role in solving societal problems is explored. Topics include at-risk market segments, controversial products and practices, and issues of social justice.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4704",
+      "subject": "MKTG",
+      "number": "4704",
+      "level": 4000,
+      "title": "International Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Assessing international markets, comparing marketing systems; management of international marketing operations; focusing on distribution, promotional, and pricing problems faced by firms engaging in world trade. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4734",
+      "subject": "MKTG",
+      "number": "4734",
+      "level": 4000,
+      "title": "Real Estate Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course extends the fundamental concepts of marketing into the study and practice of real estate. The course is concerned with the topics of demographic analysis, market information systems, market research, and marketing strategy of residential and commercial real estate, with particular emphasis on the important area of real estate personal selling. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4754",
+      "subject": "MKTG",
+      "number": "4754",
+      "level": 4000,
+      "title": "Strategic Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An integrative course in marketing policy and strategy, employing comprehensive case problems in the formulation of marketing action programs and business policy. Senior standing required. Any one of the following Marketing prerequisites--4304, 4354, 4554--may be taken concurrently with 4754.",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and MKTG 4154 and (MKTG 4204 or MKTG 4204H)",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4154",
+          "MKTG 4204",
+          "MKTG 4204H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4754H",
+      "subject": "MKTG",
+      "number": "4754H",
+      "level": 4000,
+      "title": "Stategic Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An integrative course in marketing policy and strategy, employing comprehensive case problems in the formulation of marketing action programs and business policy. Senior standing required. Any one of the following Marketing prerequisites - 4304, 4354, 4554 - may be taken concurrently with 4754H",
+      "prerequisites": {
+        "rawText": "(MKTG 3104 or MKTG 3104H) and MKTG 4154 and (MKTG 4204 or MKTG 4204H)",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4154",
+          "MKTG 4204",
+          "MKTG 4204H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4774",
+      "subject": "MKTG",
+      "number": "4774",
+      "level": 4000,
+      "title": "Advanced Professional Selling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced theory and practice of professional selling with primary focus on the professional sales process, analysis of associated strategic and ethical issues, and acquisition of critical skills required of successful salespeople. Builds on foundation created in Buyer/Seller Relationship (MKTG 4554) to expand knowledge and skills of students considering career in professional sales.",
+      "prerequisites": {
+        "rawText": "MKTG 4554 and MKTG 4204 and (MKTG 3104 or MKTG 3104H)",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H",
+          "MKTG 4204",
+          "MKTG 4554"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4954",
+      "subject": "MKTG",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4964",
+      "subject": "MKTG",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4964H",
+      "subject": "MKTG",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4974",
+      "subject": "MKTG",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4984",
+      "subject": "MKTG",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4994",
+      "subject": "MKTG",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MKTG 4994H",
+      "subject": "MKTG",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Honors Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mktg/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

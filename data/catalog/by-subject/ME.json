@@ -1,0 +1,1780 @@
+{
+  "subject": "ME",
+  "scrapedAt": "2026-05-25T21:21:23.926Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ME 2004",
+      "subject": "ME",
+      "number": "2004",
+      "level": 2000,
+      "title": "Engineering Analysis Using Numerical Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Numerical methods applied to engineering analysis with a design/lab studio. Numerical techniques including root finding, linear algebra, integration, ordinary differential equations, curve fitting, discrete Fourier transforms, optimization. Structured programming and iterative problem-solving using a high-level environment such as Matlab. Design/Lab Studio.",
+      "prerequisites": {
+        "rawText": "MATH 1226 and (MATH 2114 or MATH 2114H or MATH 2405H or MATH 2214 or MATH 2214H or MATH 2406H)",
+        "referencedCourses": [
+          "MATH 1226",
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 2134",
+      "subject": "ME",
+      "number": "2134",
+      "level": 2000,
+      "title": "Thermodynamics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Classical (equilibrium) thermodynamics and its applications. Includes thermodynamic properties of pure substances: property diagrams, property tables, property software, equations of state; the first law of thermodynamics; the second law of thermodynamics; gas mixtures; combustion: atomic and energy balances; and power and refrigeration cycles.",
+      "prerequisites": {
+        "rawText": "PHYS 2305 and (MATH 2204 or MATH 2204H or MATH 2406H) and CHEM 1035",
+        "referencedCourses": [
+          "CHEM 1035",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H",
+          "PHYS 2305"
+        ]
+      },
+      "corequisites": {
+        "rawText": "(MATH 2214 or MATH 2214H or MATH 2406H).",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 2974",
+      "subject": "ME",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 2974H",
+      "subject": "ME",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 2984",
+      "subject": "ME",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 2994",
+      "subject": "ME",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 2994H",
+      "subject": "ME",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3024",
+      "subject": "ME",
+      "number": "3024",
+      "level": 3000,
+      "title": "Engineering Design and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engineering design process; project management; product planning; customer needs, specifications, and Quality Function Deployment (QFD); benchmarking and intellectual property; concept generation, screening, scoring, and selection; design for assembly, product architecture, economic, and ethical considerations; concept testing. Written and oral communications of engineering design; computer aided design. Team-based term project with prototype fabrication of mechanical assembly manipulated by a microcontroller. For Pathways Advanced Discourse credit, must complete combination of ME 3024, ME 3034, and ME 4015-4016.",
+      "prerequisites": {
+        "rawText": "ESM 2104 and ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106",
+          "ESM 2104"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3034",
+      "subject": "ME",
+      "number": "3034",
+      "level": 3000,
+      "title": "Mechanical Engineering Discourse",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Principles and application of effective technical and professional communication in mechanical engineering; organizing, structuring, and developing effective written documents and oral presentations for a range of audiences, including technical reports, memorandums, laboratory reports, live and recorded presentations, and posters for public exhibition; use of effective language and style; development of effective visual aids; presentation delivery skills; acquiring new knowledge using appropriate learning strategies by finding, comprehending and evaluating information from a variety of sources; ethical and professional responsibilities in both identifying appropriate information and communicating technical results. For Pathways Advanced Discourse credit, must complete combination of ME 3024, ME 3034, and ME 4015-4016.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3124",
+      "subject": "ME",
+      "number": "3124",
+      "level": 3000,
+      "title": "Thermodynamics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Classical thermodynamics and its applications. Thermodynamic properties of pure substances: property tables, property software, equations of state. First law of thermodynamics. Second law of thermodynamics. Gas mixtures. Combustion: atom and energy balances. Power and refrigeration cycles.",
+      "prerequisites": {
+        "rawText": "(ME 2124 and MATH 2214 and MATH 2204) or (ME 2124 and MATH 2214 and MATH 2204H) or (ME 2124 and MATH 2214 and MATH 2224) or (ME 2124 and MATH 2214 and MATH 2224H) or (ME 2124 and MATH 2214H and MATH 2204) or (ME 2124 and MATH 2214H and MATH 2204H) or (ME 2124 and MATH 2214H and MATH 2224) or (ME 2124 and MATH 2214H and MATH 2224H) or (ME 2124 and MATH 2405H and MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3194",
+      "subject": "ME",
+      "number": "3194",
+      "level": 3000,
+      "title": "Technology, Innovation and Humanistic Engineering for a Sustainable Future",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundational understanding of converging, emerging and disruptive technologies. Pedagogical aspects of innovation, team dynamics and effective communication. Leadership Cube—Six principles of effective leadership. Humanistic engineering. Sustainable energy and sustainable water platforms. Smart device designs for disease diagnostics and mitigation. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3304",
+      "subject": "ME",
+      "number": "3304",
+      "level": 3000,
+      "title": "Heat and Mass Transfer",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive basic course in heat and mass transfer for mechanical engineering students. Principles of conduction, convection, and radiation with applications to heat exchangers and other engineering systems.",
+      "prerequisites": {
+        "rawText": "ME 2134 and ME 3414 and (MATH 2214 or MATH 2214H or MATH 2406H) and (MATH 2204 or MATH 2204H or MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H",
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3404",
+      "subject": "ME",
+      "number": "3404",
+      "level": 3000,
+      "title": "Fluid Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive first course in basic and applied fluid mechanics. Fluid properties, statics, kinematics, and dynamics. Eulers and Bernoullis equations. Hydrodynamics. Dimensional analysis and similitude. Real fluids, laminar and turbulent flows. Boundary layer model and approximate analysis. Compressible flow and propulsion devices. Flow measurement. Introduction to turbomachinery with applications.",
+      "prerequisites": {
+        "rawText": "(ME 2124 and MATH 2214 and MATH 2204) or (ME 2124 and MATH 2214 and MATH 2204H) or (ME 2124 and MATH 2214 and MATH 2224) or (ME 2124 and MATH 2214 and MATH 2224H) or (ME 2124 and MATH 2214H and MATH 2204) or (ME 2124 and MATH 2214H and MATH 2204H) or (ME 2124 and MATH 2214H and MATH 2224) or (ME 2124 and MATH 2214H and MATH 2224H) or (ME 2124 and MATH 2405H and MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 1 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3414",
+      "subject": "ME",
+      "number": "3414",
+      "level": 3000,
+      "title": "Fluid Dynamics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive first course in fluid dynamics. Fluid properties. Hydrostatics. Mass, momentum,and energy conservation in control volumes. Elementary dynamics and Bernoullis equation.Dimensional analysis and similitude. Laminar and turbulent flows. Introduction to Eulers and Navier-Stokes equations. Pipe flows. External flows and boundary layers. Introduction to compressible flows. Includes laboratory experiments.",
+      "prerequisites": {
+        "rawText": "ME 2004 and (MATH 2114 or MATH 2114H or MATH 2405H) and (MATH 2204 or MATH 2204H or MATH 2406H) and (MATH 2214 or MATH 2214H or MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H",
+          "ME 2004"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ME 2134",
+        "referencedCourses": [
+          "ME 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3504",
+      "subject": "ME",
+      "number": "3504",
+      "level": 3000,
+      "title": "Dynamic Systems - Vibrations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of dynamic system modeling with emphasis on second order mechanical systems. Harmonic and nonharmonic vibrations of single and multi-degree of freedom systems. Applications of computer simulation and analysis techniques in vibrations.",
+      "prerequisites": {
+        "rawText": "(ME 3514 and MATH 2214) or (ME 3514 and MATH 2214H) or (ME 3514 and MATH 2405H and MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3524",
+      "subject": "ME",
+      "number": "3524",
+      "level": 3000,
+      "title": "Mechanical Vibrations",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Development and application of mathematical methods, physical understanding, and computational tools for modeling, analysis, and design of vibrating systems. Free and forced vibration of single and multiple degree-of-freedom systems, particularly systems experiencing sinusoidal excitation. Distributed parameter systems. Practical engineering applications.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and (MATH 2114 or MATH 2114H or MATH 2405H) and (MATH 2214 or MATH 2214H or MATH 2406H) and ME 2004",
+        "referencedCourses": [
+          "ESM 2304",
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3534",
+      "subject": "ME",
+      "number": "3534",
+      "level": 3000,
+      "title": "Controls Engineering I",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of feedback control theory, time-domain and frequency-domain analysis, automatic control system design synthesis to meet performance and stability requirements, numerical simulation and discrete real-time implementation on microcontrollers.",
+      "prerequisites": {
+        "rawText": "ME 2004 and (MATH 2114 or MATH 2114H or MATH 2405H) and (MATH 2214 or MATH 2214H or MATH 2406H) and (MATH 2204 or MATH 2204H or MATH 2406H) and ESM 2104 and ESM 2304",
+        "referencedCourses": [
+          "ESM 2104",
+          "ESM 2304",
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3604",
+      "subject": "ME",
+      "number": "3604",
+      "level": 3000,
+      "title": "Kinematics and Dynamics of Machinery",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Kinematic analysis and design of cams, gears, and linkages, velocity, acceleration and force analysis, kinematic synthesis, balancing, kinematic and force analysis by complex numbers, computer-aided analysis, and synthesis of linkages.",
+      "prerequisites": {
+        "rawText": "ESM 2304",
+        "referencedCourses": [
+          "ESM 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3614",
+      "subject": "ME",
+      "number": "3614",
+      "level": 3000,
+      "title": "Mechanical Design I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design of mechanical components subject to static and fatigue loads. Design using screws, fasteners, springs and bearings. Computer-aided design using transfer matrix and finite element methods.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and (MATH 2214 or MATH 2214H) and (MATH 2114 or MATH 2114H)",
+        "referencedCourses": [
+          "ESM 2204",
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2214",
+          "MATH 2214H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3624",
+      "subject": "ME",
+      "number": "3624",
+      "level": 3000,
+      "title": "Mechanical Design",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive first course in mechanical design. Extension of the use of free body diagrams, combined stresses, and failure theories. Development of failure theories for static, buckling, and fatigue applied to mechanical design. Fundamentals of designing mechanical components subjected to static and cyclic loading. Design elements for screws, fasteners, springs, and welds. Hands-on laboratory learning of concepts discussed in class. Course credit will not be awarded for both ME 3614 and ME 3624. Design lab studio.",
+      "prerequisites": {
+        "rawText": "ME 2004 and ESM 2204 and (MATH 2214 or MATH 2214H or MATH 2406H)",
+        "referencedCourses": [
+          "ESM 2204",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 2 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3704",
+      "subject": "ME",
+      "number": "3704",
+      "level": 3000,
+      "title": "Introduction to Mechatronics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to electromechanical design. Fundamentals of electronics, including transistors, operational amplifiers, and digital signal processing; theory, analysis, design, and building of electronic circuits including interfaces and controllers; sensors and actuators; software development, microcontroller technology, and applications.",
+      "prerequisites": {
+        "rawText": "ME 2004 and (ECE 2054 or ECE 2024 or ECE 3054)",
+        "referencedCourses": [
+          "ECE 2024",
+          "ECE 2054",
+          "ECE 3054",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 3984",
+      "subject": "ME",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4005",
+      "subject": "ME",
+      "number": "4005",
+      "level": 4000,
+      "title": "Mechanical Engineering Lab",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of measurement, measurement standards and accuracy, detectors and transducers, digital data acquisition principles, signal conditioning systems and readout devices statistical concepts in measurement, experimental investigation of engineering systems, technical report writing.",
+      "prerequisites": {
+        "rawText": "(STAT 3704 or STAT 4604 or STAT 4705 or STAT 4714) and ME 3524 and ECE 2054",
+        "referencedCourses": [
+          "ECE 2054",
+          "ME 3524",
+          "STAT 3704",
+          "STAT 4604",
+          "STAT 4705",
+          "STAT 4714"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ME 3534",
+        "referencedCourses": [
+          "ME 3534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4006",
+      "subject": "ME",
+      "number": "4006",
+      "level": 4000,
+      "title": "Mechanical Engineering Lab",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of measurement, measurement standards and accuracy, detectors and transducers, digital data acquisition principles, signal conditioning systems and readout devices statistical concepts in measurement, experimental investigation of engineering systems, technical report writing.",
+      "prerequisites": {
+        "rawText": "ME 4005 and ECE 3254",
+        "referencedCourses": [
+          "ECE 3254",
+          "ME 4005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4015",
+      "subject": "ME",
+      "number": "4015",
+      "level": 4000,
+      "title": "Engineering Design and Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Team oriented, open-ended, multi-disciplinary design projects focused on industrially relevant problems. A specific, complex engineering design problem taken from problem definition to product realization and testing. Emphasis on documenting and reporting technical work. Making informed judgments which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts. 4015: Problem identification, including consideration of public health and welfare, as well as global, cultural, social, environmental, and economic factors and constraints; idea generation and concept selection; application of design, test, and analysis tools developed in previous courses; ethical and professional responsibilities; verification and validation; communication and working in teams. 4016: Project management; working on teams, analysis and optimization, fabrication and testing, and communicating technical ideas. For Pathways Advanced Discourse credit, must complete ME 4015-4016.",
+      "prerequisites": {
+        "rawText": "ME 3024 and ME 3524 and ME 3534 and ME 3624 and ME 4005 and (ME 3304 or MSE 2034) and ME 3414 and ME 2134",
+        "referencedCourses": [
+          "ME 2134",
+          "ME 3024",
+          "ME 3304",
+          "ME 3414",
+          "ME 3524",
+          "ME 3534",
+          "ME 3624",
+          "ME 4005",
+          "MSE 2034"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4016",
+      "subject": "ME",
+      "number": "4016",
+      "level": 4000,
+      "title": "Engineering Design and Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Team oriented, open-ended, multi-disciplinary design projects focused on industrially relevant problems. A specific, complex engineering design problem taken from problem definition to product realization and testing. Emphasis on documenting and reporting technical work. Making informed judgments which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts. 4015: Problem identification, including consideration of public health and welfare, as well as global, cultural, social, environmental, and economic factors and constraints; idea generation and concept selection; application of design, test, and analysis tools developed in previous courses; ethical and professional responsibilities; verification and validation; communication and working in teams. 4016: Project management; working on teams, analysis and optimization, fabrication and testing, and communicating technical ideas. For Pathways Advanced Discourse credit, must complete ME 4015-4016.",
+      "prerequisites": {
+        "rawText": "ME 4015",
+        "referencedCourses": [
+          "ME 4015"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4034",
+      "subject": "ME",
+      "number": "4034",
+      "level": 4000,
+      "title": "Bio-Inspired Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to engineering solutions inspired by biological systems. Overview over the approach of bio-inspired technology and the state of the art. Exploration of the relationship between engineered and natural biological systems. Explanation of concepts of biological systems, such as evolutionary optimization, sensing, actuation, control, system integration, assembly and materials in engineering terms. Practice of interdisciplinary analysis skills in technical report writing projects where man-made and biological systems are evaluated for parallels to engineering and their technological potential.",
+      "prerequisites": {
+        "rawText": "(PHYS 2205 and PHYS 2206) or (PHYS 2305 and PHYS 2306)",
+        "referencedCourses": [
+          "PHYS 2205",
+          "PHYS 2206",
+          "PHYS 2305",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4044",
+      "subject": "ME",
+      "number": "4044",
+      "level": 4000,
+      "title": "Soft Robotics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to robots made of soft materials with a low elastic modulus and high strain before failure. Assessment of soft actuation strategies including tendons and flexible pneumatics. Evaluation of responsive materials across different physical domains. Stiffening mechanism designs. Introduction to soft sensing and control. Fabrication and evaluation of soft robot prototypes for sophisticated manipulation or locomotion tasks.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and ME 3704",
+        "referencedCourses": [
+          "ESM 2204",
+          "ME 3704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4124",
+      "subject": "ME",
+      "number": "4124",
+      "level": 4000,
+      "title": "Computer Aided Design of Fluid-Thermal Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Review of physical laws and engineering concepts introduced in thermodynamics, fluid mechanics, and heat transfer with applications. Emphasis on analysis, modeling, and design of engineering systems, components, and physical phenomena with state-of-the-art computer software such as Ansys CFX, Star CCM, Aspen Plus, and ProSimPlus.",
+      "prerequisites": {
+        "rawText": "(ME 3124 or ME 2134) and (ME 3404 or ME 3414) and ME 3304",
+        "referencedCourses": [
+          "ME 2134",
+          "ME 3124",
+          "ME 3304",
+          "ME 3404",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4134",
+      "subject": "ME",
+      "number": "4134",
+      "level": 4000,
+      "title": "Cell Mechanobiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Plant and mammalian cellular mechanobiology, extracellular matrices, motor proteins, forces, cytoskeleton, focal adhesions, tissue engineering approaches, membrane trafficking, biochemistry, rules of life, ion channels, osmotic forces, nuclear dynamics.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and (ME 2134 or ME 3414 or ESM 3024 or ESM 3234)",
+        "referencedCourses": [
+          "ESM 2204",
+          "ESM 3024",
+          "ESM 3234",
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4164",
+      "subject": "ME",
+      "number": "4164",
+      "level": 4000,
+      "title": "Energy Systems for Buildings",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of the fundamental principles of thermodynamics, heat transfer, and fluid flow to analyze energy use for building environmental control. Exploration of approaches for configuring basic thermal-fluid engineering components (e.g. pumps, piping, fans, heat exchangers, refrigeration cycles, etc.) to yield systems that provide heating, cooling, and ventilation. Introduction to techniques and software tools for estimating energy use by these systems and the associated economic and environment impact. Examination of alternate technologies for meeting building energy needs including small scale combined heat and power systems and renewable energy systems.",
+      "prerequisites": {
+        "rawText": "ME 2134",
+        "referencedCourses": [
+          "ME 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4174",
+      "subject": "ME",
+      "number": "4174",
+      "level": 4000,
+      "title": "Spacecraft Propulsion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Spacecraft propulsion systems and their applications in orbital, interplanetary, and interstellar flight. Rocket propulsion fundamentals; advanced mission analysis; physics and engineering of chemical rockets, electrical thrusters, and propellantless systems (tethers and sails); spacecraft integration issues.",
+      "prerequisites": {
+        "rawText": "AOE 3164 or AOE 4234 or ME 4234",
+        "referencedCourses": [
+          "AOE 3164",
+          "AOE 4234",
+          "ME 4234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4174"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4184",
+      "subject": "ME",
+      "number": "4184",
+      "level": 4000,
+      "title": "Drone Technology and Flight Operations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic aviation science, skills training in uncrewed flight operations, and knowledge of the regulatory environment that governs drone flight. Aerodynamics, propulsion, aircraft performance, sensing and control, meteorology, the Federal Aviation Regulations, safety and risk management. Flight management tools for conducting preflight inspections and approving flight missions. Pre: Students in Mechanical Engineering will be given preference, other programs and students eligible with permission.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 1 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4194",
+      "subject": "ME",
+      "number": "4194",
+      "level": 4000,
+      "title": "Sustainable Energy Solutions for a Global Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Addresses energy metrics, global and US energy supply and demand, transitional energy sources (natural gas, petroleum, coal, nuclear), sustainable/renewable source (solar, geothermal, hydro, tidal, wind, biofuels), and methods for increasing efficiencies (energy storage, batteries, green building, conservation). Options for transportation, electricity, lighting and heating needs of industry, agriculture, community, and citizens. Production, transmission, storage, and disposal issues considered in the context of global political, economic, and environmental impacts.",
+      "prerequisites": {
+        "rawText": "(CHEM 1035 or CHEM 1055) and PHYS 2306",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ESM 4194"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4204",
+      "subject": "ME",
+      "number": "4204",
+      "level": 4000,
+      "title": "Internal Combustion Engines",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and design of gasoline and diesel engines. Fundamental processes and their application in current technology. Thermodynamics: air standard and air-fuel cycles. Combustion: stoichiometry, fuels, chemical equilibrium, chemical kinetics, flame propagation, knock, pollutant formation and control. Flow processes: volumetric efficiency, intake and exhaust tuning, two-stroke scavenging, carburetion, fuel injection, super- and turbo-charging.",
+      "prerequisites": {
+        "rawText": "ME 2134 and ME 3414",
+        "referencedCourses": [
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4224",
+      "subject": "ME",
+      "number": "4224",
+      "level": 4000,
+      "title": "Gas Turbines for Power and Propulsion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to various applications of gas turbines for land, sea and air. Aero-thermo-mechanical aspects of component performance and reliability. Operational characteristics, limitations and component matching. Industrial standards, development and certification requirements. Design of gas turbine engines and comparison of the predicted performance (specific fuel consumption) against the in-service operation.",
+      "prerequisites": {
+        "rawText": "ME 2134 and ME 3414",
+        "referencedCourses": [
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4234",
+      "subject": "ME",
+      "number": "4234",
+      "level": 4000,
+      "title": "Aerospace Propulsion Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design principles and performance analysis of atmospheric and space propulsion engines and systems. Application of thermodynamics, compressible fluid flow and combustion fundamentals to the design of gas turbine and rocket engines and components, including inlets, turbomachines, combustors, and nozzles. Matching of propulsion system to vehicle requirements. Must have a C- or better in pre-requisites ME 3404 and ME 3124 or AOE 3114 and AOE 3134.",
+      "prerequisites": {
+        "rawText": "AOE 3114 and (AOE 3164 or AOE 3264) or ME 3414 and ME 2134",
+        "referencedCourses": [
+          "AOE 3114",
+          "AOE 3164",
+          "AOE 3264",
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4324",
+      "subject": "ME",
+      "number": "4324",
+      "level": 4000,
+      "title": "Energy Systems: Theory and Applications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and applications of thermodynamic and fluid mechanics principles as applied to energy systems. Fundamental concepts on exergy, mixtures, psychrometry and thermochemistry. Analyses and applications include vapor and gas power systems, refrigeration, air conditioning, combustion processes and one-dimensional compressible flow.",
+      "prerequisites": {
+        "rawText": "ME 2134 and ME 3414",
+        "referencedCourses": [
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4344",
+      "subject": "ME",
+      "number": "4344",
+      "level": 4000,
+      "title": "Biological Transport Phenomena",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engineering analysis and predictive modeling of heat and mass transport in biological systems (e.g., tissues, organs, organisms, and biomedical devices). Examination of processes that involve conduction, convection, diffusion, generation/consumption. Application of analytical and computational methods to solve differential equations that describe unsteady and/or multi-dimensional transport. Topics include oxygen transport, pharmacokinetic analysis, kidney function, blood perfusion, burns, and cryopreservation.",
+      "prerequisites": {
+        "rawText": "(CHE 3114 and CHE 3154 and CHE 3144) or (ME 3304 and ME 3414)",
+        "referencedCourses": [
+          "CHE 3114",
+          "CHE 3144",
+          "CHE 3154",
+          "ME 3304",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CHE 4304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4454",
+      "subject": "ME",
+      "number": "4454",
+      "level": 4000,
+      "title": "Engineering Leadership in Practice Managing the Technical Design Process",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to management and mentoring skills associated with the application of the engineering design process. Course covers skills necessary for leading diverse teams of people through a technical design project. Managing teams of local high school students through an authentic technical design experience associated with design competitions. Course addresses the practical applications of science, math and engineering, while building and managing teams of people to meet technical project goals. Prerequisite: ME 4015 or similar team-based design experience, or by permission of instructor.",
+      "prerequisites": {
+        "rawText": "ME 4015",
+        "referencedCourses": [
+          "ME 4015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "EDCI 4454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4464",
+      "subject": "ME",
+      "number": "4464",
+      "level": 4000,
+      "title": "Introduction to Compressible Flows",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Derivation of mass, momentum, and energy conservation equations for one dimensional (1-D), steady, inviscid, compressible gas flows of calorically perfect gases. Departure from incompressible flow theory. Importance of Mach number. Isentropic flows. Steady and unsteady 1-D normal shock flows. Oblique shock flows (with surface reflections) and/or Prandtl-Meyer expansion waves. Converging and converging-diverging quasi-1-D nozzle flows. Inviscid flows in straight ducts with heat addition; adiabatic flows in straight ducts with friction. Introduction to Newtonian hypersonic flow theory, high temperature effects, and rarefied gas principles.",
+      "prerequisites": {
+        "rawText": "ME 2134 and ME 3414",
+        "referencedCourses": [
+          "ME 2134",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4504",
+      "subject": "ME",
+      "number": "4504",
+      "level": 4000,
+      "title": "Dynamic Systems - Controls Engineering I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of feedback control theory, classical analysis and design techniques for automatic controls, introduction to modern control theory.",
+      "prerequisites": {
+        "rawText": "(ME 3514 and MATH 2214) or (ME 3514 and MATH 2214H) or (ME 3514 and MATH 2405H and MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2405H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4524",
+      "subject": "ME",
+      "number": "4524",
+      "level": 4000,
+      "title": "Introduction to Robotics and Automation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Automation, robot technology, kinematics, dynamics, trajectory planning, and control of two-dimensional and spatial robots; robot programming; design and simulation of robotic devices.",
+      "prerequisites": {
+        "rawText": "ME 2004 and ME 3524 and ME 3534",
+        "referencedCourses": [
+          "ME 2004",
+          "ME 3524",
+          "ME 3534"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ME 4584",
+        "referencedCourses": [
+          "ME 4584"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4534",
+      "subject": "ME",
+      "number": "4534",
+      "level": 4000,
+      "title": "Land Vehicle Dynamics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analytical methods for land vehicle dynamics. Mechanics of pneumatic tires on pavement and steel wheels on rails. Vehicle stability, handling, response to random guideway and roadway irregularities, ride quality computation methods and standards, suspension design.",
+      "prerequisites": {
+        "rawText": "ME 3524",
+        "referencedCourses": [
+          "ME 3524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4544",
+      "subject": "ME",
+      "number": "4544",
+      "level": 4000,
+      "title": "Automotive Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vehicle performance, drive train, suspension, steering, and brake systems. Steady state and transient conditions. Senior standing in Mechanical Engineering required.",
+      "prerequisites": {
+        "rawText": "ME 3524",
+        "referencedCourses": [
+          "ME 3524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4554",
+      "subject": "ME",
+      "number": "4554",
+      "level": 4000,
+      "title": "Advanced Technology for Motor Vehicles",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Energy use and environmental issues for motor vehicles: Emissions standards, fleet requirements, dynamometer testing, fuel economy, and vehicle performance. Alternative fuel vehicles: Characteristics and infrastructure of fuels, batteries, electric vehicles, and hybrid electric vehicles. Vehicle design: Modeling and simulation of vehicle energy use and performance, component sizing. Fuel cells for transportation. Heavy-duty vehicles and busses. Low mass vehicles and future vehicle technology.",
+      "prerequisites": {
+        "rawText": "ME 2134",
+        "referencedCourses": [
+          "ME 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4564",
+      "subject": "ME",
+      "number": "4564",
+      "level": 4000,
+      "title": "Vehicle Control",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of vehicle control systems and control algorithms for anti-lock braking, stability, road holding, lane departure, traction control, and tire pressure monitoring. Advanced driver assist systems and intelligent tire technology. Hands-on experience with hardware-in-the- loop systems. Mathematical modeling and simulation of vehicle control.",
+      "prerequisites": {
+        "rawText": "ME 3524 and ME 3534",
+        "referencedCourses": [
+          "ME 3524",
+          "ME 3534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4584",
+      "subject": "ME",
+      "number": "4584",
+      "level": 4000,
+      "title": "Robotics Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Develop, compile, and test algorithms for serial and mobile robots. Robot forward and inverse kinematics, task planning, velocity kinematics, force rendering, control, haptics, mapping and localization, computer vision and path planning.",
+      "corequisites": {
+        "rawText": "ME 4524 or ECE 4704",
+        "referencedCourses": [
+          "ECE 4704",
+          "ME 4524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [
+        "ECE 4584"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4614",
+      "subject": "ME",
+      "number": "4614",
+      "level": 4000,
+      "title": "Mechanical Design II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design of mechanical elements such as welded joints hydrodynamic bearings, spur gears, shafts, brakes. Alternative fatigue design methods, cumulative fatigue, mechanical design computer software.",
+      "prerequisites": {
+        "rawText": "ME 3624",
+        "referencedCourses": [
+          "ME 3624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4624",
+      "subject": "ME",
+      "number": "4624",
+      "level": 4000,
+      "title": "Finite Element Practice in Mechanical Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of the finite element method to stress analysis problems in mechanical design. Modeling techniques, proper use of existing computer programs, interpreting of results, application to design modification.",
+      "prerequisites": {
+        "rawText": "ME 3624",
+        "referencedCourses": [
+          "ME 3624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4634",
+      "subject": "ME",
+      "number": "4634",
+      "level": 4000,
+      "title": "Introduction to Computer-aided Design and Manufacturing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Participants will study the computer-aided design and manufacturing of mechanical systems. A mechanical system will be designed including preliminary design, analysis, detail design, numerical control programming, and documentation. Applications programs will be written and interfaced to the CAD/CAM database. All assignments will be carried out on a CAD/CAM system.",
+      "prerequisites": {
+        "rawText": "ME 3024",
+        "referencedCourses": [
+          "ME 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4644",
+      "subject": "ME",
+      "number": "4644",
+      "level": 4000,
+      "title": "Introduction to Rapid Prototyping",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Participants will study topics fundamental to rapid prototyping and automated fabrication, including the generation of suitable CAD models, current rapid prototyping fabrication technologies, their underlying material science, the use of secondary processing, and the impact of these technologies on society. The rapid prototyping process will be illustrated by the actual design and fabrication of a part. Programming skills required.",
+      "prerequisites": {
+        "rawText": "ME 3024",
+        "referencedCourses": [
+          "ME 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4654",
+      "subject": "ME",
+      "number": "4654",
+      "level": 4000,
+      "title": "Optimization Techniques in Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental mathematical concepts for optimization and optimality conditions. Classification of optimization techniques/problems in engineering. Concepts of forward and inverse design. Linear programming. Step-size calculation methods. Search direction calculation methods. 1st and 2nd order gradient-based algorithms. Evolutionary strategies for optimization. Pattern search/genetic algorithm. Sensitivity analysis. Reliability-based and robustness-based optimization.",
+      "prerequisites": {
+        "rawText": "ME 2004 or (AOE 2074 and CS 1044 and CS 1054 and CS 1064 and CS 1114 and CS 1124 and ECE 1574)",
+        "referencedCourses": [
+          "AOE 2074",
+          "CS 1044",
+          "CS 1054",
+          "CS 1064",
+          "CS 1114",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4664",
+      "subject": "ME",
+      "number": "4664",
+      "level": 4000,
+      "title": "Introduction to Global Collegiate Engineering Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Participants will study topics fundamental to global collaborative engineering design, product data management, and collaborative product data management. These topics will be applied during a team project with team members located overseas, utilizing state-of-the-art collaborative engineering and product data management software and hardware technologies. Partially duplicates 5664. Credit may only be received for one course.",
+      "prerequisites": {
+        "rawText": "ME 3024",
+        "referencedCourses": [
+          "ME 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4674",
+      "subject": "ME",
+      "number": "4674",
+      "level": 4000,
+      "title": "Materials Selection in Mechanical Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Systematic approach to materials selection accounting for market need, functional requirements, shape, safety, cost and environmental issues. Overview of design process, material property charts, material indices, selection of materials with multiple constraints and/or conflicting objectives, shape factors, design considerations in hybrid materials, environmental issues as well as several case studies.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and MSE 2034",
+        "referencedCourses": [
+          "ESM 2204",
+          "MSE 2034"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ME 3624",
+        "referencedCourses": [
+          "ME 3624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4684",
+      "subject": "ME",
+      "number": "4684",
+      "level": 4000,
+      "title": "Industrial Internet of Things",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and applications of Industrial Internet of Things (IIoT). Industrial data flow, devices and network in manufacturing. Basics for IIoT architecture and implementation of IIoT solutions with cloud computing platforms and OEM IIoT platforms. Device connection, data transfer and application of diagnostics, maintenance, and predictive data analytics on IIoT platforms.",
+      "prerequisites": {
+        "rawText": "ME 3534 or (CS 1044 or CS 1054 or CS 1064 or CS 1114)",
+        "referencedCourses": [
+          "CS 1044",
+          "CS 1054",
+          "CS 1064",
+          "CS 1114",
+          "ME 3534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4724",
+      "subject": "ME",
+      "number": "4724",
+      "level": 4000,
+      "title": "Engineering Acoustics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic acoustical theory and practice, acoustic terminology, measurement, transmission, and perception of sound, muffler design, noise control techniques.",
+      "prerequisites": {
+        "rawText": "ME 3524",
+        "referencedCourses": [
+          "ME 3524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4734",
+      "subject": "ME",
+      "number": "4734",
+      "level": 4000,
+      "title": "Robotics and Mechatronics Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics in robotics and mechatronics. Invited lectures from industry, government organizations and universities. Recent research results, developments and challenges, providing a global and social context for the topics.",
+      "prerequisites": {
+        "rawText": "ME 3534 and ECE 3254",
+        "referencedCourses": [
+          "ECE 3254",
+          "ME 3534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4744",
+      "subject": "ME",
+      "number": "4744",
+      "level": 4000,
+      "title": "Mechatronics: Theory and Application",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Electromechanical design and control applications. Theory, modeling, simulation, analysis, design and building of electronic interfaces and controllers; sensors and actuators; software development, micro-controller technology, and applications. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "ME 3534 and ME 3704",
+        "referencedCourses": [
+          "ME 3534",
+          "ME 3704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 2 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4754",
+      "subject": "ME",
+      "number": "4754",
+      "level": 4000,
+      "title": "Mechatronics: Advanced Topics and Application",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Electromechanical design and control applications. Design and building of electronic interfaces and controllers including sensors, actuators, signal acquisition, filtering, and conditioning for applications. Systems integration with wireless communication; image processing; embedded programs for data acquisition and feedback control applications.",
+      "prerequisites": {
+        "rawText": "ME 4744",
+        "referencedCourses": [
+          "ME 4744"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4764",
+      "subject": "ME",
+      "number": "4764",
+      "level": 4000,
+      "title": "Audio Engineering Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and design in the field of audio engineering. Loudspeaker design and construction, microphone technology, digital audio acquisition, signal processing in audio engineering, human perception, technical acoustics, binuaral hearing, surround sound processing and production, theory, measurement, and reproduction of 3D surround sound, virtual instrument theory and practice, room acoustics and simulation, principles of audio effects (e.g., compression, reverberation, equalization), and acoustic materials engineering.",
+      "prerequisites": {
+        "rawText": "ME 3524 and ME 3534",
+        "referencedCourses": [
+          "ME 3524",
+          "ME 3534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4824",
+      "subject": "ME",
+      "number": "4824",
+      "level": 4000,
+      "title": "Introduction to Human-Robot Interaction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Formalizing interaction between robots and humans. Developing learning and control algorithms that enable robots to seamlessly and intelligently collaborate with humans. Mathematical approaches to human-robot interaction, learning from demonstration, Bayesian inference, intent detection, safe and optimal control, assistive autonomy, and user study design. Review and present existing literature.",
+      "prerequisites": {
+        "rawText": "ME 4524",
+        "referencedCourses": [
+          "ME 4524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4854",
+      "subject": "ME",
+      "number": "4854",
+      "level": 4000,
+      "title": "Nano and Micromechanics of Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of microstructural mechanics, crystal structures, defects, and dislocations. Mechanical behavior of crystalline materials at the microscale. Computational modeling of mechanical behavior in discrete atomistic and molecular systems, including molecular dynamics. Application of these methods to polymers and other soft materials, biological materials, carbon-based materials, and metallic alloys.",
+      "prerequisites": {
+        "rawText": "ESM 2204",
+        "referencedCourses": [
+          "ESM 2204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4864",
+      "subject": "ME",
+      "number": "4864",
+      "level": 4000,
+      "title": "Micro/Nano-Robotics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of Micro/Nano-robotic systems. Physics of reduced length scales (scaling effects in the physical parameters, surface forces, contact mechanics, and Micro/Nano-scale dynamical phenomena), Basics of Micro/Nano-manufacturing, microfabrication and soft lithography, Biomimetic design strategies for mobile micro-robots, Principle of transduction, material properties and characteristics of Micro/Nano-actuators (piezoelectric, shape-memory alloy, and a variety of MEMS and polymer actuators), Control requirements and challenges of Micro/Nano-actuators, Micro/Nano sensors for mobile microrobotic applications, Micro/Nano-manipulation (scanning probe microscopy, operation principles, designing experiments for nanoscale mechanical characterization of desired samples).",
+      "prerequisites": {
+        "rawText": "ME 3414 and ME 3624 and ME 3534",
+        "referencedCourses": [
+          "ME 3414",
+          "ME 3534",
+          "ME 3624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4974",
+      "subject": "ME",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4974H",
+      "subject": "ME",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4984",
+      "subject": "ME",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4984A",
+      "subject": "ME",
+      "number": "4984A",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "1A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4994",
+      "subject": "ME",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ME 4994H",
+      "subject": "ME",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/me/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

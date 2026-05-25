@@ -1,0 +1,1330 @@
+{
+  "subject": "SPAN",
+  "scrapedAt": "2026-05-25T21:22:28.432Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "SPAN 1105",
+      "subject": "SPAN",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Spanish",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of grammar, composition, and oral skills. Readings carefully selected for comprehension and simple conversation. 1105 for students with no high school Spanish; 1106 for students who have completed 1105 or who have less than three years of high school Spanish.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 1106",
+      "subject": "SPAN",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Spanish",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of grammar, composition, and oral skills. Readings carefully selected for comprehension and simple conversation. 1105 for students with no high school Spanish; 1106 for students who have completed 1105 or who have less than three years of high school Spanish.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 1114",
+      "subject": "SPAN",
+      "number": "1114",
+      "level": 1000,
+      "title": "Accelerated Elementary Spanish",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Condenses SPAN 1105 and 1106. Proficiency-oriented approach to elementary Spanish, designed for learners with some prior experience in the language or for those who wish to progress rapidly through the beginning stages of language learning. Supplemented with a self-instructional electronic component. Meets University and college foreign language requirement. SPAN 1114 duplicates SPAN 1106.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 2 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2105",
+      "subject": "SPAN",
+      "number": "2105",
+      "level": 2000,
+      "title": "Intermediate Spanish",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Review of grammar with increasing emphasis on reading, writing, and oral communication.",
+      "prerequisites": {
+        "rawText": "SPAN 1106 or SPAN 1114",
+        "referencedCourses": [
+          "SPAN 1106",
+          "SPAN 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2106",
+      "subject": "SPAN",
+      "number": "2106",
+      "level": 2000,
+      "title": "Intermediate Spanish",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Review of grammar with increasing emphasis on reading, writing, and oral communication.",
+      "prerequisites": {
+        "rawText": "SPAN 2105 or SPAN 2124",
+        "referencedCourses": [
+          "SPAN 2105",
+          "SPAN 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2114",
+      "subject": "SPAN",
+      "number": "2114",
+      "level": 2000,
+      "title": "Accelerated Intermediate Spanish",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to intermediate Spanish, designed for learners who wish to progress rapidly through the intermediate stages of language learning. Review of grammar with increasing emphasis on reading, writing, listening, and oral communication. Study of authentic materials and cultural artifacts in Spanish. Study of cultures, traditions, customs, and social conventions of the Spanish-speaking world. Not recommended for native speakers of Spanish. Accelerated version of 2105-2106. Duplicates 2105-2106.",
+      "prerequisites": {
+        "rawText": "SPAN 1106 or SPAN 1114",
+        "referencedCourses": [
+          "SPAN 1106",
+          "SPAN 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2124",
+      "subject": "SPAN",
+      "number": "2124",
+      "level": 2000,
+      "title": "Intermediate Spanish for Building Construction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to intermediate Spanish, designed for learners who wish to incorporate building construction topics at the intermediate stage of language learning. Review of grammar with increasing emphasis on reading, writing, listening, and oral communication applied to the field of Building Construction. Study of authentic materials related to personal and professional situations in the field of Building Construction. Development of communication strategies for risk assessment, health concerns, and basic instructions with Spanish-speaking workers in Building Construction. Duplicates Spanish 2105 Intermediate Spanish. Not recommended for native speakers of Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 1106 or SPAN 1114",
+        "referencedCourses": [
+          "SPAN 1106",
+          "SPAN 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2744",
+      "subject": "SPAN",
+      "number": "2744",
+      "level": 2000,
+      "title": "Topics in Spanish Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines fundamental concepts related to Spanish culture within a specific historical and geographical context. Interprets cultural artifacts of the period across selected genres, including drama, poetry, film, and/or art. Analyzes how cultural identity is constructed by multiple and diverse disciplinary perspectives and in response to global challenges and opportunities. Taught in English. Repeatable with different topics for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2754",
+      "subject": "SPAN",
+      "number": "2754",
+      "level": 2000,
+      "title": "Topics in Spanish American Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of fundamental concepts related to Spanish American culture in variable historical and geographical contexts through the study of one or more of the following: narrative; essay; drama; poetry; film; and art. Emphasis on the interpretation and analysis of cultural texts and other creative artifacts in the context of key historical and political events, in order to understand shifting concepts of cultural identity, advantages and challenges of diversity and inclusion, and global challenges and opportunities in the human world. Taught in English. Course may be repeated, with different topics, for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2764",
+      "subject": "SPAN",
+      "number": "2764",
+      "level": 2000,
+      "title": "Introduction to Latino American Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to interdisciplinary field of Latino American Studies. Exploration of debates and problems of Latin American and Latina/o history and culture. Examination and analysis of transnational, social, and cultural trends. Emphasis on connections between United States and Latin America, and local and regional Latina/o communities. In English.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2774",
+      "subject": "SPAN",
+      "number": "2774",
+      "level": 2000,
+      "title": "Minority Languages in the Spanish-Speaking Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of language policies and practices with regard to minority languages across the Spanish-speaking context, histories of minority languages in Spanish-speaking areas, and the current socio-political situations of these languages and their speakers. Exploration of issues concerning linguistic rights, such as access to education, economic opportunities, and political status; analysis of the implications of restrictions on minority groups linguistic rights. Discussion of why some minority-language speakers have been more successful in their language conservation or revitalization efforts than others. Taught in English. Does not count toward the Spanish major or minor.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2784",
+      "subject": "SPAN",
+      "number": "2784",
+      "level": 2000,
+      "title": "Sports Films in the U.S. and Latin America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of films dedicated to sports—baseball, basketball, boxing, soccer, etc.—within the U.S. Latinx and Latin American contexts. Study of sports and their visual depiction in relation to concepts of nationalism, race, ethnicity, gender, sexuality, politics, religion, economics, health, etc. Emphasis on the analysis of narrative, rhetorical, and stylistic conventions associated with sports films. Interpretation of the role of sports films in (re)conceptualizing ideas of national and social identity, shaping human experience, expressing political ideologies, (de)constructing dominant notions of gender and sexuality, questioning “official” versions of history, addressing issues of diversity and inclusion, and contextualizing sports from different regional and cultural perspectives. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2964",
+      "subject": "SPAN",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2974",
+      "subject": "SPAN",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2974H",
+      "subject": "SPAN",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 2984",
+      "subject": "SPAN",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3105",
+      "subject": "SPAN",
+      "number": "3105",
+      "level": 3000,
+      "title": "Grammar, Composition and Conversation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3105: Practice in communication skills in Spanish. Development of reading, writing, listening and speaking skills. Review and use of grammar. Comprehension of the role of culture in communicating and in understanding cultural differences. Study of authentic materials in Spanish. Not recommended for native speakers of Spanish. 3106: Practice in communication skills in Spanish. Development of reading, writing, listening and speaking skills. Review and use of grammar. Comprehension of the role of culture in communicating and in understanding cultural differences. Study of authentic materials in Spanish. Not recommended for native speakers of Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 2106",
+        "referencedCourses": [
+          "SPAN 2106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3106",
+      "subject": "SPAN",
+      "number": "3106",
+      "level": 3000,
+      "title": "Grammar, Composition and Conversation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3105: Practice in communication skills in Spanish. Development of reading, writing, listening and speaking skills. Review and use of grammar. Comprehension of the role of culture in communicating and in understanding cultural differences. Study of authentic materials in Spanish. Not recommended for native speakers of Spanish. 3106: Practice in communication skills in Spanish. Development of reading, writing, listening and speaking skills. Review and use of grammar. Comprehension of the role of culture in communicating and in understanding cultural differences. Study of authentic materials in Spanish. Not recommended for native speakers of Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 2106",
+        "referencedCourses": [
+          "SPAN 2106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3125",
+      "subject": "SPAN",
+      "number": "3125",
+      "level": 3000,
+      "title": "Spanish for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For acquisition of measured levels of proficiency in speaking and understanding spoken Spanish. Content-based instruction in small groups. 3125: to achieve an oral proficiency rating comparable to Intermediate-high on the American Council on the Teaching of Foreign Languages Oral Proficiency Interview (ACTFL-OPI) or S-1+ on the Foreign Service Institute (FSI) scale. 3126: to achieve an oral proficiency rating comparable to Advanced on the (ACTFL-OPI) or a 2 on the FSI scale. Admission by oral exam.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3126",
+      "subject": "SPAN",
+      "number": "3126",
+      "level": 3000,
+      "title": "Spanish for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For acquisition of measured levels of proficiency in speaking and understanding spoken Spanish. Content-based instruction in small groups. 3125: to achieve an oral proficiency rating comparable to Intermediate-high on the American Council on the Teaching of Foreign Languages Oral Proficiency Interview (ACTFL-OPI) or S-1+ on the Foreign Service Institute (FSI) scale. 3126: to achieve an oral proficiency rating comparable to Advanced on the (ACTFL-OPI) or a 2 on the FSI scale. Admission by oral exam.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3154",
+      "subject": "SPAN",
+      "number": "3154",
+      "level": 3000,
+      "title": "Spanish for the Natural Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Knowledge of the Spanish language and its cultures to the natural sciences. Study of scientific materials in Spanish. Practice in communication skills through contextualized use of specific vocabulary, idiomatic expressions, grammar structures and cultural practices in real-world situations. Discussion on scientific topics and debates of the Spanish-speaking world. Comparison of the practices and world views of scientists and clinicians in Hispanic and English-speaking countries. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3224",
+      "subject": "SPAN",
+      "number": "3224",
+      "level": 3000,
+      "title": "Topics in Latinx Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Transdisciplinary examination of fundamental concepts related to Latinx/Hispanic culture—among these, cultural hybridity, multilingualism, civil rights, activism, social justice, and marginalization—in variable cultural, historical, political, and geographical contexts. Study of one or more of the following: narrative, essay, drama, poetry, popular media and works of art. Emphasis on the interpretation and analysis of texts and other creative artifacts to understand Latinx culture’s intersections with race, ethnicity, gender, sexuality, class, religion, indigeneity, nationality, disability, etc., challenges of diversity and inclusion, and the sociopolitical issues affecting those who identify as Latinx or Hispanic in the United States. Course may be repeated, with different topics, for a maximum of 6 credits. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3304",
+      "subject": "SPAN",
+      "number": "3304",
+      "level": 3000,
+      "title": "Introduction to Hispanic Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Hispanic literary genres (poetry, narrative, essay, and drama) through analysis and discussion of the main historical, political and cultural concepts of Hispanic Literature from Spain and Latin America from the Middle Ages to the present. Identification of issues of diversity (race, gender, and social class) in the Spanish-speaking world. Methods, terminology, and practice of literary analysis. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3404",
+      "subject": "SPAN",
+      "number": "3404",
+      "level": 3000,
+      "title": "Topics in Early Modern Cultures of Spain",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of cultures of early modern Spain from the medieval to the end of the Early Modern period. Analysis of cultural production within the historical, political, social, and intellectual contexts in which they were created. Interpretation of canonical and non-canonical texts, including historical texts, narratives, poetry, drama, theater, art, architecture and music. Analysis of events and identification of changes brought on by globalization from an intercultural point of view. Articulation of advantages and challenges of cultural diversity. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3414",
+      "subject": "SPAN",
+      "number": "3414",
+      "level": 3000,
+      "title": "Topics in Modern Cultures of Spain",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of concepts of the cultures of modern Spain from 1700 to the present. Analysis of cultural production within the historical, political, social, and intellectual contexts in which they were created. Interpretation of canonical and non-canonical texts, including historical texts, narratives, poetry, drama, film, art, architecture, and music. Analysis of current events and identification of changes brought on by globalization from an intercultural point of view. Articulation of advantages and challenges of cultural diversity. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3444",
+      "subject": "SPAN",
+      "number": "3444",
+      "level": 3000,
+      "title": "Topics in Early Spanish American Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of concepts of the cultural development of Spanish America from the pre-Hispanic era to Independence from Spain in the 19th century. Examination of key canonical and non-canonical cultural production within the historical, political, and social context in which they were created. Interpretation of historical texts, narrative, poetry, drama, art, architecture, and music from an intercultural perspective. Articulation of advantages and challenges of cultural diversity. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3464",
+      "subject": "SPAN",
+      "number": "3464",
+      "level": 3000,
+      "title": "Topics in Modern Mexican and Central American Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of concepts of Mexican and Central American cultures from the post-independence periods to the present. Analysis of cultural production within the historical, political, social, and intellectual contexts in which they were created. Interpretation of canonical and non-canonical texts, including historical texts, narratives, poetry, drama, film, art, architecture, and music. Analysis of current events and identification of changes brought on by globalization from an intercultural point of view. Articulation of advantages and challenges of cultural diversity. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3474",
+      "subject": "SPAN",
+      "number": "3474",
+      "level": 3000,
+      "title": "Topics in Modern Hispanic Caribbean Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of Hispanic Caribbean cultures from the post-independence periods to the present. Analysis of cultural production within the historical, political, social, and intellectual contexts in which they were created. Interpretation of canonical and non-canonical texts, including historical texts, narratives, poetry, drama, film, art, architecture, and music. Analysis of current events and identification of changes brought on by globalization from an intercultural point of view. Articulation of advantages and challenges of cultural diversity. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3484",
+      "subject": "SPAN",
+      "number": "3484",
+      "level": 3000,
+      "title": "Topics in Modern Andean and Southern Cone Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of concepts in Andean and Southern Cone cultures from the post-independence periods to the present. Analysis of cultural production within the historical, political, social, and intellectual contexts in which they were created. Interpretation of canonical and non-canonical texts, including historical texts, narratives, poetry, drama, film, art, architecture, and music. Analysis of current events and identification of changes brought on by globalization from an intercultural point of view. Articulation of advantages and challenges of cultural diversity. May be completed one time for a maximum of 3 credit hours. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3494",
+      "subject": "SPAN",
+      "number": "3494",
+      "level": 3000,
+      "title": "Introduction to Hispanic Linguistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to fundamental concepts of Hispanic linguistics. Examination of linguistic properties in Spanish (e.g.,morphology, syntax, and semantics/pragmatics). Exploration of context-appropriate language use. Interpret experiences with language from different perspectives. Examination of complexities of cross-cultural communication. In Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3514",
+      "subject": "SPAN",
+      "number": "3514",
+      "level": 3000,
+      "title": "Spanish for Medical Professions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Specialized course applying knowledge of the Spanish language and its cultures to the medical professions. Contextualized use of specific vocabulary, idiomatic expressions, grammar structures, and cultural practices in real-world situations and written formats. Cross-cultural discussions on healthcare issues in the Hispanic world. Analysis of medical topics related to Spanish-speaking populations in a global context. Examination of Hispanic cultural artifacts such as film and narrative that explore issues of cultural and linguistic diversity in the medical professions. Analysis of political and cultural history of the Hispanic and Latino populations in the US. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3524",
+      "subject": "SPAN",
+      "number": "3524",
+      "level": 3000,
+      "title": "Introduction to Spanish Translation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the translation of various types of texts, such as literature, business correspondence, commercial advertising, and legal documents. Includes translation from English to Spanish and from Spanish to English, as well as a thorough review of Spanish grammar and idiomatic language. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3534",
+      "subject": "SPAN",
+      "number": "3534",
+      "level": 3000,
+      "title": "Spanish for Business Professions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Specialized course applying knowledge of the Spanish language and its cultures to the business professions. Contextualized use of specific vocabulary, idiomatic expressions, grammar structures, and cultural practices in real-world situations and written formats such as cover letters and business memos. Discussion on cultures of business in the Hispanic world. Analysis of business topics related to Spanish-speaking populations in a global context. Examination of Hispanic cultural artifacts such as film and narrative that explore issues of cultural and linguistic diversity in the business professions. Analysis of economic and political history of Spanish-speaking populations. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3544",
+      "subject": "SPAN",
+      "number": "3544",
+      "level": 3000,
+      "title": "Sounds of Spanish",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides students with an overview of phonetics and phonology in Spanish and familiarizes students with the articulatory descriptions of vowels and consonants of Spanish. Compares and contrasts the sound systems of Spanish and English. Analyzes the sound system using theories and methods in linguistics. Explores the social meaning of the phonetic variation that exists throughout the Spanish-speaking world. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3554",
+      "subject": "SPAN",
+      "number": "3554",
+      "level": 3000,
+      "title": "Teaching Spanish",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of theories and approaches to second-language and heritage-language learning and teaching. Discussion of technological resources and authentic materials that promote language teaching and individual differences that affect language learning. Analysis of pedagogical materials for the Spanish-language classroom. Hands-on experience with lesson-plan design for teaching Spanish. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3564",
+      "subject": "SPAN",
+      "number": "3564",
+      "level": 3000,
+      "title": "Community through Service: Latino NRV",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A service-learning course in Spanish. Exploration of Latino cultures in the U.S.; weekly service with members of local Latino communities who have requested help; reflection on community work and student citizenship; exploration of cultural factors involved in the construction of community, including the challenges of immigration, multiculturalism, and multilingualism within the U.S.; analysis of literary readings, films, and works of art from U.S. Latino communities; discussion of readings on Hispanic migrations and border studies, as well as articles on social privilege, service-learning, education, health care, language, and language learning. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3574",
+      "subject": "SPAN",
+      "number": "3574",
+      "level": 3000,
+      "title": "Spanish for Legal Professions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Specialized course applying knowledge of the Spanish language and its cultures to the legal professions. Contextualized use of specific vocabulary, idiomatic expressions, grammar structures, and cultural practices in real-world situations and written formats. Cross-cultural discussions on legal issues in the Hispanic world. Analysis of legal topics and concepts related to Spanish-speaking populations in a global context. Examination of Hispanic cultural artifacts such as film and narrative that explore issues of cultural, ethical, and linguistic diversity in the legal professions. Analysis of political and cultural history of the Hispanic and Latino populations in the US. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3954",
+      "subject": "SPAN",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 3984",
+      "subject": "SPAN",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4104",
+      "subject": "SPAN",
+      "number": "4104",
+      "level": 4000,
+      "title": "Advanced Grammar and Style",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of and practice with advanced grammatical and stylistic concepts, including idiomatic and colloquial usage. Intended to help advanced students achieve high levels of proficiency in writing and speaking Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3106",
+        "referencedCourses": [
+          "SPAN 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4114",
+      "subject": "SPAN",
+      "number": "4114",
+      "level": 4000,
+      "title": "Topics in Spanish Linguistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Variable content course that surveys linguistic concepts and methods as related to the Spanish language. Topics may include the study of the phonology, morphology, syntax, and semantics of Spanish; the pedagogical application of these language systems; the psychological and social context of language; and the development of Spanish from its origins to its modern form. May be repeated for credit with different content.",
+      "prerequisites": {
+        "rawText": "SPAN 3494 or SPAN 3544",
+        "referencedCourses": [
+          "SPAN 3494",
+          "SPAN 3544"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4205",
+      "subject": "SPAN",
+      "number": "4205",
+      "level": 4000,
+      "title": "Advanced Topics in Hispanic Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced topics course devoted to the examination of Hispanic cultures. In-depth analysis of a variety of authentic materials from Hispanic cultures. Inclusion of various geographical regions or time periods. Connections between theoretical accounts of cultural analysis and real-world applications. Taught in Spanish. May be taken up to 3 times with different content for a maximum of 9 credits (each course). 4205: Cultural artifacts; broad central themes such as film, art, and dance. 4206: Social practices of language; broad central themes such as bilingualism, social and professional settings, and human rights.",
+      "prerequisites": {
+        "rawText": "SPAN 3154 or SPAN 3404 or SPAN 3414 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484 or SPAN 3494 or SPAN 3514 or SPAN 3524 or SPAN 3534 or SPAN 3544 or SPAN 3554 or SPAN 3564 or SPAN 3574",
+        "referencedCourses": [
+          "SPAN 3154",
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484",
+          "SPAN 3494",
+          "SPAN 3514",
+          "SPAN 3524",
+          "SPAN 3534",
+          "SPAN 3544",
+          "SPAN 3554",
+          "SPAN 3564",
+          "SPAN 3574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4206",
+      "subject": "SPAN",
+      "number": "4206",
+      "level": 4000,
+      "title": "Advanced Topics in Hispanic Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced topics course devoted to the examination of Hispanic cultures. In-depth analysis of a variety of authentic materials from Hispanic cultures. Inclusion of various geographical regions or time periods. Connections between theoretical accounts of cultural analysis and real-world applications. Taught in Spanish. May be taken up to 3 times with different content for a maximum of 9 credits (each course). 4205: Cultural artifacts; broad central themes such as film, art, and dance. 4206: Social practices of language; broad central themes such as bilingualism, social and professional settings, and human rights.",
+      "prerequisites": {
+        "rawText": "SPAN 3154 or SPAN 3404 or SPAN 3414 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484 or SPAN 3494 or SPAN 3514 or SPAN 3524 or SPAN 3534 or SPAN 3544 or SPAN 3554 or SPAN 3564 or SPAN 3574",
+        "referencedCourses": [
+          "SPAN 3154",
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484",
+          "SPAN 3494",
+          "SPAN 3514",
+          "SPAN 3524",
+          "SPAN 3534",
+          "SPAN 3544",
+          "SPAN 3554",
+          "SPAN 3564",
+          "SPAN 3574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4304",
+      "subject": "SPAN",
+      "number": "4304",
+      "level": 4000,
+      "title": "Topics in Early Modern Literature and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Variable topics in Hispanic and/or Latin American literature and culture of the Early Modern period. Texts and/or cultural artifacts selected for aesthetic value, historical importance and thematic significance. Related scholarly criticism representing a variety of approaches. Emphasis on historical, social and cultural context. May be repeated twice for credit with different content. Taught in Spanish.",
+      "prerequisites": {
+        "rawText": "SPAN 3404 or SPAN 3414 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484",
+        "referencedCourses": [
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4314",
+      "subject": "SPAN",
+      "number": "4314",
+      "level": 4000,
+      "title": "Studies in 18th and 19th Century Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable content course devoted to Hispanic literature of the 18th and 19th centuries. The texts selected are studied not only for their aesthetic value but also in terms of their historical and cultural significance. May be taken twice for credit with different content. Taught alternate years. I",
+      "prerequisites": {
+        "rawText": "SPAN 3414 or SPAN 3404 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484",
+        "referencedCourses": [
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4324",
+      "subject": "SPAN",
+      "number": "4324",
+      "level": 4000,
+      "title": "Studies in 20th and 21st Century Hispanic Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable content course devoted to Hispanic literature of the 20th and 21st centuries. Offers an in-depth literary exploration of a significant historical period, cultural movement, theme, or genre. Focuses on literary and cultural analysis from a variety of perspectives. Practices advanced Spanish oral and writing skills. Examines texts that have aesthetic value and historical and cultural significance. May be taken up to three times for credit with different content.",
+      "prerequisites": {
+        "rawText": "SPAN 3404 or SPAN 3414 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484",
+        "referencedCourses": [
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4334",
+      "subject": "SPAN",
+      "number": "4334",
+      "level": 4000,
+      "title": "Special Topics in Hispanic Life, Literature, and Language",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Broad central themes of Hispanic culture as manifested in creative and historical literature, music, art, film, etc., or in language, such as the history of the Spanish language, translation techniques, or the staging of dramatic works in Spanish. Historical and/or national boundaries are crossed whenever the nature of the topic permits. May be repeated for credit with different content. Taught alternate years.",
+      "prerequisites": {
+        "rawText": "SPAN 3404 or SPAN 3414 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484",
+        "referencedCourses": [
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4344",
+      "subject": "SPAN",
+      "number": "4344",
+      "level": 4000,
+      "title": "Hispanic Literature and the Representation of History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the relationship between history and literature in the Hispanic world through an interdisciplinary lens. Examines different geographical regions of the Hispanic world, theoretical readings, and the ways that authors have used various literary styles to portray, re-write, subvert, and even contradict their countries official history. Examines texts that have aesthetic value and historical and cultural significance. Practices advanced Spanish oral and writing skills. This variable topics course may be repeated up to three times if topics are different.",
+      "prerequisites": {
+        "rawText": "SPAN 3404 or SPAN 3414 or SPAN 3444 or SPAN 3464 or SPAN 3474 or SPAN 3484",
+        "referencedCourses": [
+          "SPAN 3404",
+          "SPAN 3414",
+          "SPAN 3444",
+          "SPAN 3464",
+          "SPAN 3474",
+          "SPAN 3484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4794",
+      "subject": "SPAN",
+      "number": "4794",
+      "level": 4000,
+      "title": "Senior Tutorial in Spanish Studies",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Individual or small group sessions which give the student the opportunity to hone special language skills, with a focus on post-graduation application of these skills. May concentrate on areas such as technical or business language, linguistics, translation, interpreting, creative writing, specialized literary, or cultural studies. May be taken twice for credit with different content. Must be pre-arranged three weeks before end of previous semester. One 4000 level Spanish course required. Restricted to Seniors. Restricted to Spanish majors. Consent of Spanish Section required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4964",
+      "subject": "SPAN",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4964H",
+      "subject": "SPAN",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4974",
+      "subject": "SPAN",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4974H",
+      "subject": "SPAN",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4984",
+      "subject": "SPAN",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4994",
+      "subject": "SPAN",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPAN 4994H",
+      "subject": "SPAN",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/span/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

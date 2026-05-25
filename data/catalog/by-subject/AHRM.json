@@ -1,0 +1,183 @@
+{
+  "subject": "AHRM",
+  "scrapedAt": "2026-05-25T21:18:22.877Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AHRM 1014",
+      "subject": "AHRM",
+      "number": "1014",
+      "level": 1000,
+      "title": "Design and Art for Consumers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of art and design principles and elements with a focus on their application in the creation and promotion of apparel, housing, and residential technology products for diverse consumers. Review of historical art and design trends and theories in relation to these products. Interpretative strategies and methodologies in visual art and design. Exploration of the design process, including examinations of human factors and user needs.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 1104",
+      "subject": "AHRM",
+      "number": "1104",
+      "level": 1000,
+      "title": "Introduction to AHRM and Student Resources",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the Department of Apparel, Housing, and Resource Management (AHRM), majors and curriculum requirements. Introduces students to experiential learning opportunities, undergraduate research, and career opportunities. Exploration of programs and services to enhance awareness of opportunities and support systems available for student success.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 2014",
+      "subject": "AHRM",
+      "number": "2014",
+      "level": 2000,
+      "title": "Design for Consumers Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration and application of design principles and elements in two-dimensional and three-dimensional designs that support the development and promotion of products for diverse consumers, including apparel, housing, residential technologies. Application of skills, tools, and methods to the creation of design. Utilization of the design process to develop plans for consumer products for diverse users. Design Lab/Studio.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 2404",
+      "subject": "AHRM",
+      "number": "2404",
+      "level": 2000,
+      "title": "Consumer Rights",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Role of consumers in society and in national and international markets. Consumer rights, responsibilities, policies, regulations and redress. Consumer decision making and planned buying. Current consumer issues such as: product safety, food, health care, housing, environmental impact, banking, credit and insurance from an intercultural perspective.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 2954",
+      "subject": "AHRM",
+      "number": "2954",
+      "level": 2000,
+      "title": "Professional Development",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Professional Development guides students through the field study process and skill development, focusing on key areas such as resumes and cover letters, interview techniques, professional etiquette and communication, professional development plans, and self-evaluative assessments. Students will learn to research companies, internships, and job opportunities using various resources and gain proficiency with application platforms and online tools (i.e., LinkedIn, Handshake). Additionally, students will learn effective networking strategies and participate in mock experiences to simulate real-world scenarios.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 3464",
+      "subject": "AHRM",
+      "number": "3464",
+      "level": 3000,
+      "title": "Appalachian Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The concept of community in Appalachia using an interdisciplinary approach and experiential learning. Interrelationships among geographically, culturally, and socially constituted communities, public policy, and human development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 3464",
+        "GEOG 3464",
+        "HUM 3464",
+        "SOC 3464",
+        "UAP 3464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 3954",
+      "subject": "AHRM",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 4954",
+      "subject": "AHRM",
+      "number": "4954",
+      "level": 4000,
+      "title": "Integrative Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "An integration of knowledge from the Consumer Studies, Fashion Merchandising and Design, Property Management, and Residential Environments and Design disciplines. Emphasis on interdisciplinary connections, ethical decision-making, career development, workplace culture, mentorship, networking, and digital wellness. Critical analysis of real-world issues and examples relevant to the AHRM disciplines. Engagement with departmental resources in support of professional transition.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AHRM 4984",
+      "subject": "AHRM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ahrm/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

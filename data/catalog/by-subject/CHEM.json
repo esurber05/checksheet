@@ -1,0 +1,1821 @@
+{
+  "subject": "CHEM",
+  "scrapedAt": "2026-05-25T21:18:58.349Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CHEM 1004",
+      "subject": "CHEM",
+      "number": "1004",
+      "level": 1000,
+      "title": "First Year Experience in Chemistry",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Orientation to the Chemistry Department and to the discipline of chemistry for chemistry majors and for individuals considering CHEM as a major, including transfer students. Resources for success, both generally as a college student and specifically as a chemistry major. Opportunities for mentoring, individual research and community involvement across the university and within the Chemistry Department. Exploration of career pathways for chemistry majors. Interconnections among professional practice, disciplinary progress, accepted standards for ethical use of information, principles of diversity and inclusion, and individual or personal value systems. Scientific communication, professional networking, and chemistry in the public eye.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1014",
+      "subject": "CHEM",
+      "number": "1014",
+      "level": 1000,
+      "title": "Calculations in Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mathematical problem solving skills required for success in general chemistry. Manipulation of symbolic algebraic formulas. Dimensional analysis and narrative mathematical exercises. Application of problem solving techniques to chemical processes and reactions. Generation and interpretation of graphs using computer software. Elementary features of atoms, molecules, and the periodic table of the elements. Molar quantities, chemical nomenclature, reaction stoichiometry, and introductory solution chemistry.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1015",
+      "subject": "CHEM",
+      "number": "1015",
+      "level": 1000,
+      "title": "Chemistry in Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of chemistry across areas of specialization for students enrolled in curricula other than science and engineering. History and fundamental concepts and theories of chemistry, including the consequences of changes in parameters on chemical systems. Impact of chemistry in the context of areas of public concern and policy, including best practices for sustainability, rational decision-making, ethical use of scientific information, product and process stewardship. Chemistry as a basis for decision-making in the context of individual values and beliefs, and the roles of values and beliefs in the progress of chemistry as a human endeavor. The foregoing to be based on the concepts of chemistry as follows: 1015: Periodicity and atomic structure; nuclear chemistry; chemical bonding and reactivity; organic chemistry, polymer chemistry, and medicinal chemistry. 1016: Chemical stoichiometry including conservation of matter and energy; acid-base and oxidation-reduction chemistry of solutions; stoichiometry and thermodynamics, agricultural and environmental chemistry, chemistry of household and personal care products (Duplicates 1035-1036.)",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1016",
+      "subject": "CHEM",
+      "number": "1016",
+      "level": 1000,
+      "title": "Chemistry in Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of chemistry across areas of specialization for students enrolled in curricula other than science and engineering. History and fundamental concepts and theories of chemistry, including the consequences of changes in parameters on chemical systems. Impact of chemistry in the context of areas of public concern and policy, including best practices for sustainability, rational decision-making, ethical use of scientific information, product and process stewardship. Chemistry as a basis for decision-making in the context of individual values and beliefs, and the roles of values and beliefs in the progress of chemistry as a human endeavor. The foregoing to be based on the concepts of chemistry as follows: 1015: Periodicity and atomic structure; nuclear chemistry; chemical bonding and reactivity; organic chemistry, polymer chemistry, and medicinal chemistry. 1016: Chemical stoichiometry including conservation of matter and energy; acid-base and oxidation-reduction chemistry of solutions; stoichiometry and thermodynamics, agricultural and environmental chemistry, chemistry of household and personal care products (Duplicates 1035-1036.)",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1025",
+      "subject": "CHEM",
+      "number": "1025",
+      "level": 1000,
+      "title": "Introduction to Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Virtual laboratory exercises and reading and writing assignments designed to accompany 1015 and 1016, as applicable. Illustrates and elaborates on principles addressed in lecture, including history and fundamental concepts, theories, contexts, with an emphasis on sustainability issues and ethical consequences of decision- making in chemistry. Students will identify foundational concepts in chemistry, enumerate parameters likely to influence the outcome of an experiment, analyze the ways that values and beliefs influence progress in the discipline and communicate chemical concepts to a lay audience.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1026",
+      "subject": "CHEM",
+      "number": "1026",
+      "level": 1000,
+      "title": "Introduction to Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Virtual laboratory exercises and reading and writing assignments designed to accompany 1015 and 1016, as applicable. Illustrates and elaborates on principles addressed in lecture, including history and fundamental concepts, theories, contexts, with an emphasis on sustainability issues and ethical consequences of decision- making in chemistry. Students will identify foundational concepts in chemistry, enumerate parameters likely to influence the outcome of an experiment, analyze the ways that values and beliefs influence progress in the discipline and communicate chemical concepts to a lay audience.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1034",
+      "subject": "CHEM",
+      "number": "1034",
+      "level": 1000,
+      "title": "General Chemistry Recitation",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A companion course for students needing supplemental help with mathematical and problem-solving skills required for CHEM 1035 General Chemistry. Manipulation of algebraic formulas. Application of problem-solving techniques to chemical processes and reactions. Quantitative methods applied to unit conversions, reaction yields, energy of reactions, and gas properties. Examination of atomic structure, periodicity, and molecular bonding. May not count towards degree requirements; consult advisor. Pass/Fail only.",
+      "corequisites": {
+        "rawText": "CHEM 1035",
+        "referencedCourses": [
+          "CHEM 1035"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1035",
+      "subject": "CHEM",
+      "number": "1035",
+      "level": 1000,
+      "title": "General Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "First chemistry course for students in science curricula. Applications of reasoning in the natural sciences using chemical laws in an applied context and in the student’s own discipline. Overview of the universal aspects of chemistry and of application of chemistry to address global challenges. 1035: Problem-solving, elements and periodic table, stoichiometry of chemical reactions, gas phase of matter, energy flow and chemical change, atomic structure, and theories of chemical bonding. 1036: Properties of the three states of matter alone and in mixtures, kinetics, aqueous equilibrium, thermodynamics, electrochemistry. (Duplicates 1015-1016.) Students may bypass prerequisites for 1035 through testing alternatives listed in the Registrar’s Timetable.",
+      "prerequisites": {
+        "rawText": "CHEM 1014 or MATH 1014 or MATH 1025 or MATH 1536 or MATH 1225 or MATH 1214 or MATH 1524",
+        "referencedCourses": [
+          "CHEM 1014",
+          "MATH 1014",
+          "MATH 1025",
+          "MATH 1214",
+          "MATH 1225",
+          "MATH 1524",
+          "MATH 1536"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1036",
+      "subject": "CHEM",
+      "number": "1036",
+      "level": 1000,
+      "title": "General Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "First chemistry course for students in science curricula. Applications of reasoning in the natural sciences using chemical laws in an applied context and in the student’s own discipline. Overview of the universal aspects of chemistry and of application of chemistry to address global challenges. 1035: Problem-solving, elements and periodic table, stoichiometry of chemical reactions, gas phase of matter, energy flow and chemical change, atomic structure, and theories of chemical bonding. 1036: Properties of the three states of matter alone and in mixtures, kinetics, aqueous equilibrium, thermodynamics, electrochemistry. (Duplicates 1015-1016.) Students may bypass prerequisites for 1035 through testing alternatives listed in the Registrar’s Timetable.",
+      "prerequisites": {
+        "rawText": "CHEM 1035 or CHEM 1055 or CHEM 1055H",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1045",
+      "subject": "CHEM",
+      "number": "1045",
+      "level": 1000,
+      "title": "General Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Hands-on, real-world activities that illustrate and elaborate on concepts taught in general chemistry lecture (1035-1036), including acids and bases, heat capacity, ideal gases, states of matter, concentration, mixtures, energy flow and spontaneity in processes, equilibrium, kinetics, colligative properties, and electrochemistry. Use of instrumentation to analyze water and soil contaminants, biofuel mixtures, nanoparticles, and polymer properties. Laboratory safety, chemical hygiene, hazard mitigation, waste management, and the influence of procedure on experimental outcomes. Global challenges, including recycling and sustainable energy sources, water resource management, global warming, and environmentally friendly reagents in chemical contexts. Use of computers in data analysis, collaboration, and report-writing.",
+      "prerequisites": {
+        "rawText": "CHEM 1014 or MATH 1014 or MATH 1025 or MATH 1536 or MATH 1225 or MATH 1214 or MATH 1524",
+        "referencedCourses": [
+          "CHEM 1014",
+          "MATH 1014",
+          "MATH 1025",
+          "MATH 1214",
+          "MATH 1225",
+          "MATH 1524",
+          "MATH 1536"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 1035",
+        "referencedCourses": [
+          "CHEM 1035"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1046",
+      "subject": "CHEM",
+      "number": "1046",
+      "level": 1000,
+      "title": "General Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Hands-on, real-world activities that illustrate and elaborate on concepts taught in general chemistry lecture (1035-1036), including acids and bases, heat capacity, ideal gases, states of matter, concentration, mixtures, energy flow and spontaneity in processes, equilibrium, kinetics, colligative properties, and electrochemistry. Use of instrumentation to analyze water and soil contaminants, biofuel mixtures, nanoparticles, and polymer properties. Laboratory safety, chemical hygiene, hazard mitigation, waste management, and the influence of procedure on experimental outcomes. Global challenges, including recycling and sustainable energy sources, water resource management, global warming, and environmentally friendly reagents in chemical contexts. Use of computers in data analysis, collaboration, and report-writing.",
+      "prerequisites": {
+        "rawText": "CHEM 1045 or CHEM 1065",
+        "referencedCourses": [
+          "CHEM 1045",
+          "CHEM 1065"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 1036",
+        "referencedCourses": [
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1055",
+      "subject": "CHEM",
+      "number": "1055",
+      "level": 1000,
+      "title": "General Chemistry for Chemistry Majors",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "In depth treatment of chemical bonding, thermodynamics, chemical equilibrium, reaction kinetics, descriptive chemistry of the elements, acid-base chemistry, chemistry of gases, liquids and solids, and other topics. This class is restricted to chemistry and biochemistry majors. Other students may request consent of instructor.",
+      "prerequisites": {
+        "rawText": "CHEM 1014 or MATH 1014 or MATH 1025 or MATH 1536 or MATH 1225 or MATH 1214",
+        "referencedCourses": [
+          "CHEM 1014",
+          "MATH 1014",
+          "MATH 1025",
+          "MATH 1214",
+          "MATH 1225",
+          "MATH 1536"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1056",
+      "subject": "CHEM",
+      "number": "1056",
+      "level": 1000,
+      "title": "General Chemistry for Chemistry Majors",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "In depth treatment of chemical bonding, thermodynamics, chemical equilibrium, reaction kinetics, descriptive chemistry of the elements, acid-base chemistry, chemistry of gases, liquids and solids, and other topics. This class is restricted to chemistry and biochemistry majors. Other students may request consent of instructor.",
+      "prerequisites": {
+        "rawText": "CHEM 1055 or CHEM 1055H",
+        "referencedCourses": [
+          "CHEM 1055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1065",
+      "subject": "CHEM",
+      "number": "1065",
+      "level": 1000,
+      "title": "General Chemistry for Chemistry Majors Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Accompanies 1055-1056. Selected experiments illustrate principles taught in lecture. This class is restricted to chemistry and biochemistry majors. Other students may request consent of instructor.",
+      "prerequisites": {
+        "rawText": "CHEM 1014 or MATH 1014 or MATH 1025 or MATH 1536 or MATH 1225 or MATH 1214",
+        "referencedCourses": [
+          "CHEM 1014",
+          "MATH 1014",
+          "MATH 1025",
+          "MATH 1214",
+          "MATH 1225",
+          "MATH 1536"
+        ]
+      },
+      "corequisites": {
+        "rawText": "1055 or 1055H.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 1066",
+      "subject": "CHEM",
+      "number": "1066",
+      "level": 1000,
+      "title": "General Chemistry for Chemistry Majors Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Accompanies 1055-1056. Selected experiments illustrate principles taught in lecture. This class is restricted to chemistry and biochemistry majors. Other students may request consent of instructor.",
+      "prerequisites": {
+        "rawText": "CHEM 1065",
+        "referencedCourses": [
+          "CHEM 1065"
+        ]
+      },
+      "corequisites": {
+        "rawText": "1056 or 1056H.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2114",
+      "subject": "CHEM",
+      "number": "2114",
+      "level": 2000,
+      "title": "Analytical Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A first course in analytical chemistry. Topics covered include volumetric and gravimetric analysis, and elementary spectroscopy.",
+      "prerequisites": {
+        "rawText": "CHEM 1036 or CHEM 1056 or CHEM 1056H",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2124",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2124",
+      "subject": "CHEM",
+      "number": "2124",
+      "level": 2000,
+      "title": "Analytical Chemistry Laboratory Techniques and Practice",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Practical introduction to wet methods of quantitative chemical analysis based on fundamental chemical principles. Prior credit for OR concurrent registration of 2114 lecture is required for 2124 lab.",
+      "prerequisites": {
+        "rawText": "CHEM 1046 or CHEM 1066",
+        "referencedCourses": [
+          "CHEM 1046",
+          "CHEM 1066"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2114",
+        "referencedCourses": [
+          "CHEM 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2154",
+      "subject": "CHEM",
+      "number": "2154",
+      "level": 2000,
+      "title": "Analytical Chemistry for Chemistry Majors",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "A one-semester course in analytical chemistry emphasizing the principles of equilibrium with examples from acid-base, complexation, solubility, and redox chemistry. The course also introduces the principles of spectroscopic, electrochemical, and chromatographic instrumentation.",
+      "prerequisites": {
+        "rawText": "CHEM 1036 or CHEM 1056 or CHEM 1056H or ISC 1106",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "ISC 1106"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2164",
+        "referencedCourses": [
+          "CHEM 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2164",
+      "subject": "CHEM",
+      "number": "2164",
+      "level": 2000,
+      "title": "Analytical Chemistry for Chemistry Majors Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A one-semester laboratory course in analytical chemistry that provides practical training in wet chemical methods, atomic and molecular spectroscopy, electrochemistry, and separations.",
+      "prerequisites": {
+        "rawText": "CHEM 1046 or CHEM 1066 or ISC 1116",
+        "referencedCourses": [
+          "CHEM 1046",
+          "CHEM 1066",
+          "ISC 1116"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2154",
+        "referencedCourses": [
+          "CHEM 2154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2424",
+      "subject": "CHEM",
+      "number": "2424",
+      "level": 2000,
+      "title": "Descriptive Inorganic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of fundamental principles in a systematic study of bonding and reactivity of the elements and their compounds.",
+      "prerequisites": {
+        "rawText": "CHEM 1036 or CHEM 1056 or CHEM 1056H",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2514",
+      "subject": "CHEM",
+      "number": "2514",
+      "level": 2000,
+      "title": "Survey of Organic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Short course in fundamentals of organic chemistry with emphasis on nomenclature, isomerism, and properties of organic compounds. Compounds of importance to biology and biochemistry stressed. (Prior credit for 2535 precludes credit for this course.) One year of Chemistry required.",
+      "prerequisites": {
+        "rawText": "CHEM 1036 or CHEM 1056 or CHEM 1056H or ISC 1106H",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "ISC 1106H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2535",
+      "subject": "CHEM",
+      "number": "2535",
+      "level": 2000,
+      "title": "Organic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, stereochemistry, reactions, and synthesis of organic compounds.",
+      "prerequisites": {
+        "rawText": "CHEM 1036 or CHEM 1056 or CHEM 1056H or ISC 1106 or ISC 1106H",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "ISC 1106",
+          "ISC 1106H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2536",
+      "subject": "CHEM",
+      "number": "2536",
+      "level": 2000,
+      "title": "Organic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, stereochemistry, reactions, and synthesis of organic compounds. Pre: One year of chemistry, including lab.",
+      "prerequisites": {
+        "rawText": "CHEM 2535 or (CHEM 2565 or CHEM 2565H)",
+        "referencedCourses": [
+          "CHEM 2535",
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2545",
+      "subject": "CHEM",
+      "number": "2545",
+      "level": 2000,
+      "title": "Organic Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "The laboratory accompanies lectures in organic chemistry 2535 and 2536.",
+      "prerequisites": {
+        "rawText": "CHEM 1046 or CHEM 1065 or ISC 1116",
+        "referencedCourses": [
+          "CHEM 1046",
+          "CHEM 1065",
+          "ISC 1116"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2535, CHEM 2565",
+        "referencedCourses": [
+          "CHEM 2535",
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2546",
+      "subject": "CHEM",
+      "number": "2546",
+      "level": 2000,
+      "title": "Organic Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "The laboratory accompanies lectures in organic chemistry 2535 and 2536.",
+      "prerequisites": {
+        "rawText": "CHEM 2545",
+        "referencedCourses": [
+          "CHEM 2545"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2536",
+        "referencedCourses": [
+          "CHEM 2536"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2555",
+      "subject": "CHEM",
+      "number": "2555",
+      "level": 2000,
+      "title": "Organic Synthesis and Techniques Lab",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Synthesis and characterization of organic compounds using modern laboratory techniques.",
+      "prerequisites": {
+        "rawText": "CHEM 1045 or CHEM 1065",
+        "referencedCourses": [
+          "CHEM 1045",
+          "CHEM 1065"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2565",
+        "referencedCourses": [
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2556",
+      "subject": "CHEM",
+      "number": "2556",
+      "level": 2000,
+      "title": "Organic Synthesis and Techniques Lab",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Synthesis and characterization of organic compounds using modern laboratory techniques.",
+      "prerequisites": {
+        "rawText": "CHEM 2555",
+        "referencedCourses": [
+          "CHEM 2555"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2564",
+      "subject": "CHEM",
+      "number": "2564",
+      "level": 2000,
+      "title": "Problem-Solving in Organic Chemistry",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Writing organic reaction mechanisms; rationalizing and predicting organic reaction outcomes; selecting reagents for organic reactions; designing syntheses of several elementary steps; visualizing molecular stereochemistry.",
+      "prerequisites": {
+        "rawText": "CHEM 1035 or CHEM 1055",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 2565",
+        "referencedCourses": [
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2565",
+      "subject": "CHEM",
+      "number": "2565",
+      "level": 2000,
+      "title": "Principles of Organic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Organic chemistry for chemistry majors. Structure and reactions of organic compounds, with emphasis on fundamental principles, theories, synthesis, and reaction mechanisms. The subject matter partially duplicates that of 2535-2536; no credit will be given for the duplicated courses.",
+      "prerequisites": {
+        "rawText": "CHEM 1035 or CHEM 1055 or CHEM 1035H or CHEM 1055H",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2566",
+      "subject": "CHEM",
+      "number": "2566",
+      "level": 2000,
+      "title": "Principles of Organic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Organic chemistry for chemistry majors. Structure and reactions of organic compounds, with emphasis on fundamental principles, theories, synthesis, and reaction mechanisms. The subject matter partially duplicates that of 2535-2536; no credit will be given for the duplicated courses.",
+      "prerequisites": {
+        "rawText": "CHEM 2565",
+        "referencedCourses": [
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2964",
+      "subject": "CHEM",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2974",
+      "subject": "CHEM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2974H",
+      "subject": "CHEM",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2984",
+      "subject": "CHEM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 2994",
+      "subject": "CHEM",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3004",
+      "subject": "CHEM",
+      "number": "3004",
+      "level": 3000,
+      "title": "Bridge to the Future",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Exploration and development of post-baccalaureate career options, including non-traditional options, for chemistry students. Opportunities in the government, private and academic sectors. Career planning. Managing application processes for graduate school, professional school, and employment. Development of materials (resumes, cover letters, portfolios, and personal statements) needed for applications. Fellowships and scholarships for graduate study. Opportunities for career-relevant experience before graduation. Integrity in career development. Open to majors in Chemistry, Medicinal Chemistry, and Polymer Chemistry.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3054",
+      "subject": "CHEM",
+      "number": "3054",
+      "level": 3000,
+      "title": "Postconsumer Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Chemistry and global impacts of postconsumer materials including trash, biodegradable, recyclable, and reusable materials. Waste management of metals, ceramics, and polymers in the context of their chemical properties. Reliability and accuracy of information sources on postconsumer materials. Complex contemporary issues involving disposal and repurposing of postconsumer materials including health impacts, energy, cost, water quality, return value, and environmental and cultural considerations.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3615",
+      "subject": "CHEM",
+      "number": "3615",
+      "level": 3000,
+      "title": "Physical Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of thermodynamics, kinetics, and quantum mechanics applied to chemical equilibria, reactivity, and structure. Partly duplicates 4615, cannot receive credit for both 3615 and 4615.",
+      "prerequisites": {
+        "rawText": "(CHEM 1035 or CHEM 1055 or CHEM 1055H) and (CHEM 1036 or CHEM 1056 or CHEM 1056H) and (MATH 2204 or MATH 2204H or MATH 2224)",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1036",
+          "CHEM 1055",
+          "CHEM 1056",
+          "MATH 2204",
+          "MATH 2204H"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3616",
+      "subject": "CHEM",
+      "number": "3616",
+      "level": 3000,
+      "title": "Physical Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of thermodynamics, kinetics, and quantum mechanics applied to chemical equilibria, reactivity, and structure. Partly duplicates 4616, cannot receive credit for both 3616 and 4616.",
+      "prerequisites": {
+        "rawText": "CHEM 3615",
+        "referencedCourses": [
+          "CHEM 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3625",
+      "subject": "CHEM",
+      "number": "3625",
+      "level": 3000,
+      "title": "Physical Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory study of selected physico-chemical principles and methods. Data acquisition, data analysis, and report writing are stressed.",
+      "prerequisites": {
+        "rawText": "CHEM 3615 or CHEM 3615H or CHEM 4615 or CHE 2164",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHEM 3615",
+          "CHEM 4615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3626",
+      "subject": "CHEM",
+      "number": "3626",
+      "level": 3000,
+      "title": "Physical Chemistry Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory study of selected physico-chemical principles and methods. Data acquisition, data analysis, and report writing are stressed. I",
+      "prerequisites": {
+        "rawText": "(CHEM 3616 or CHEM 3616H or CHEM 4616) and CHEM 3625 and CHEM 4014",
+        "referencedCourses": [
+          "CHEM 3616",
+          "CHEM 3625",
+          "CHEM 4014",
+          "CHEM 4616"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3684",
+      "subject": "CHEM",
+      "number": "3684",
+      "level": 3000,
+      "title": "Quantum Software I",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Organization of quantum information (assemblies of bits) for quantum-computing applications in chemistry, physics, biology, and computer science. Numerical methods for quantum software, emphasizing spin lattices and simulations such as quantum games. Best practices for programming, including techniques for quantum-coding (in Python or Julia), structuring a software product for quantum-computational science use, version control, and cloud-based documentation and code-sharing (via Github). Classical/quantum translation.",
+      "prerequisites": {
+        "rawText": "MATH 2114 or MATH 2114H or MATH 3144",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [
+        "PHYS 3684"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3900",
+      "subject": "CHEM",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 3984",
+      "subject": "CHEM",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4014",
+      "subject": "CHEM",
+      "number": "4014",
+      "level": 4000,
+      "title": "Chemistry Writing",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Roles of the primary and secondary literature in advancing chemistry as a science. Using electronic databases and literature search tools to identify, curate, and cite published content for topical reviews and reports. Elements of style for chemistry writing. Aspects of design for impact in posters and presentations. Peer review concepts and processes. Ethical standards of scientific publication and dissemination of results. Introduction to intellectual property processes and products in chemistry. Pre: Junior Standing. Restricted to majors in chemistry, medicinal chemistry, and polymer chemistry.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4034",
+      "subject": "CHEM",
+      "number": "4034",
+      "level": 4000,
+      "title": "Capstone Laboratory for BA Chemistry Majors",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "A senior-level laboratory course that integrates previous laboratory and lecture experiences to illustrate the interconnectedness of the curriculum leading to the BA in Chemistry. Modern experimental methods and instrumentation, including chromatographic separations, nuclear magnetic resonance, infrared spectrometry, and mass spectrometry. Independent experimental design and execution of an experimental synthetic reaction in chemistry, including scaling, selection of reagents and solvents, and development of a procedure for completing the reaction, isolating the product, and characterizing it for structure and bulk purity. Best practices in lab safety, chemical hygiene, note-keeping, and professional report-writing. Principles of green chemistry. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "CHEM 2164 and (CHEM 2546 or CHEM 2566)",
+        "referencedCourses": [
+          "CHEM 2164",
+          "CHEM 2546",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4074",
+      "subject": "CHEM",
+      "number": "4074",
+      "level": 4000,
+      "title": "Laboratory in Polymer Science",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Experimental techniques used in the synthesis of various linear polymers, copolymers, and crosslinked networks. Determination of polymer molecular weights and molecular weight distribution. Methods used in the thermal, mechanical, and morphological characterization of polymeric systems.",
+      "prerequisites": {
+        "rawText": "CHEM 4534 and CHEM 3625 and (CHEM 3615 or CHE 2164)",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHEM 3615",
+          "CHEM 3625",
+          "CHEM 4534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [
+        "MSE 4544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4114",
+      "subject": "CHEM",
+      "number": "4114",
+      "level": 4000,
+      "title": "Instrumental Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of instrumental methods including data analysis, phase equilibrium, spectroscopy, and electrochemistry. Applications of modern instrumentation to chemical analyses using chromatography, electrophoresis, atomic and molecular spectroscopy, potentiometry, and voltammetry. Note: Graduate students will not be expected to take the corequisite lab 4124.",
+      "prerequisites": {
+        "rawText": "CHEM 2154",
+        "referencedCourses": [
+          "CHEM 2154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4124",
+      "subject": "CHEM",
+      "number": "4124",
+      "level": 4000,
+      "title": "Instrumental Analysis Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Hands-on experience with modern instrumental methods of analysis. Experiments use spectroscopy, electrochemistry, and separations.",
+      "prerequisites": {
+        "rawText": "CHEM 4114",
+        "referencedCourses": [
+          "CHEM 4114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4404",
+      "subject": "CHEM",
+      "number": "4404",
+      "level": 4000,
+      "title": "Physical Inorganic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A study of spectroscopic, bonding, and structural properties of inorganic compounds.",
+      "prerequisites": {
+        "rawText": "(CHEM 3616 or CHEM 3616H) and CHEM 2424",
+        "referencedCourses": [
+          "CHEM 2424",
+          "CHEM 3616"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4414",
+      "subject": "CHEM",
+      "number": "4414",
+      "level": 4000,
+      "title": "Inorganic Chemistry Lab",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Synthesis and characterization of inorganic compounds using modern laboratory techniques.",
+      "prerequisites": {
+        "rawText": "CHEM 2424 and (CHEM 3616 or CHEM 3616H) and CHEM 4404",
+        "referencedCourses": [
+          "CHEM 2424",
+          "CHEM 3616",
+          "CHEM 4404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4424",
+      "subject": "CHEM",
+      "number": "4424",
+      "level": 4000,
+      "title": "Polysaccharide Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, properties, and applications of natural polysaccharides. Natural sources and methods of isolation. Synthetic chemistry and important polysaccharide derivatives. Relation of structure and properties to performance in critical applications including pharmaceuticals, coatings, plastics, rheology control, and films. Conversion by chemical and biochemical methods of polysaccharide biomass to fuels and materials.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SBIO 4424"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4434",
+      "subject": "CHEM",
+      "number": "4434",
+      "level": 4000,
+      "title": "Organometallic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Synthesis, structure, properties, and reactivity patterns of main-group and transitionmetal organometallic compounds. Applications of organometallic compounds in chemical synthesis and catalysis.",
+      "prerequisites": {
+        "rawText": "CHEM 2424 and CHEM 2565 and CHEM 2566 and CHEM 4404",
+        "referencedCourses": [
+          "CHEM 2424",
+          "CHEM 2565",
+          "CHEM 2566",
+          "CHEM 4404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4444",
+      "subject": "CHEM",
+      "number": "4444",
+      "level": 4000,
+      "title": "Bioinorganic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles underpinning the study of metal ions in biological systems. Review of basic coordination chemistry. Evolution of the distribution of metal ions in biology. Uptake of metal ions from the environment into living organisms. Regulation of metal ion concentrations in cells. Central functions of metal ions in biological systems including modulation of structure, electron transfer reactions, substrate binding and activation, and selective transfer of atoms and groups. Roles of biopolymers in the binding, regulation, and function of metal ions. Physical methods of analysis relevant to bioinorganic chemical research questions. Senior standing.",
+      "prerequisites": {
+        "rawText": "CHEM 2566 or CHEM 2535",
+        "referencedCourses": [
+          "CHEM 2535",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4514",
+      "subject": "CHEM",
+      "number": "4514",
+      "level": 4000,
+      "title": "Green Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sustainability, waste prevention, conservation of energy resources, avoidance of toxins, pollutants, and hazards in chemical processes and products. Life-cycle analysis applied to case studies involving process development and product stewardship. Applications in chemical industry, process and product design, and public policy.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4524",
+      "subject": "CHEM",
+      "number": "4524",
+      "level": 4000,
+      "title": "Identification of Organic Compounds",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure determination of organic compounds by spectroscopic methods. Interpretation of 1H and 13C nuclear magnetic resonance (NMR) spectra including two-dimensional (2D) spectra. Mass spectrometric (MS) techniques including tandem MS. Selection and application of minor organic-analytical techniques for structure elucidation. Formatting of spectroscopic data for publication. Course credit will not be awarded for both CHEM 4524 and CHEM 5524G.",
+      "prerequisites": {
+        "rawText": "(CHEM 2536 or CHEM 2566) and (CHEM 3616 or CHEM 4616)",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566",
+          "CHEM 3616",
+          "CHEM 4616"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4534",
+      "subject": "CHEM",
+      "number": "4534",
+      "level": 4000,
+      "title": "Organic Chemistry of Polymers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, synthesis, and basic characteristics of the major classes of polymerization reactions including step-growth (condensation) and chain growth (addition), free radical, and ionic mechanisms.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4544",
+      "subject": "CHEM",
+      "number": "4544",
+      "level": 4000,
+      "title": "Medicinal Chemistry Capstone Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory experience tracing a standard pathway that potential drug targets follow in many medicinal chemistry laboratories. Synthesis of potential drug compounds and verification of their purity and structural identity primarily using mass spectrometry and nuclear magnetic resonance (NMR) spectroscopy. Optimization of conditions for a biochemical assay and verification of its reproducibility. Use of an optimized assay to measure the potency of potential drug compounds to achieve a desired biochemical effect. Application of structure-activity relationships to propose new chemical structures that might show further improvements in potency. Best practices in laboratory safety, chemical hygiene, note-keeping, and professional report-writing. Senior standing.",
+      "prerequisites": {
+        "rawText": "CHEM 4584 and BIOL 1105 and BIOL 1106",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "CHEM 4584"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4554",
+      "subject": "CHEM",
+      "number": "4554",
+      "level": 4000,
+      "title": "Drug Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, synthesis, and physiological effects of major classes of pharmaceutical agents including CNS depressants and stimulants, analgesics, anesthetics, cardiovascular agents, chemotherapeutic drugs, and oral contraceptives.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4584",
+      "subject": "CHEM",
+      "number": "4584",
+      "level": 4000,
+      "title": "Bioorganic Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The organic chemistry underlying the structure and properties of amino acids, peptides, and nucleic acids. Mechanisms of enzyme catalysis and coenzyme-mediated reactions. Mechanisms and thermodynamics of catabolism and anabolism of fats, carbohydrates, and proteins, and of other key biological reactions. Principles of solid-phase synthesis applied to peptides and nucleic acids. Biosynthesis of lipids, sugars, and terpenoids.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4615",
+      "subject": "CHEM",
+      "number": "4615",
+      "level": 4000,
+      "title": "Physical Chemistry for the Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of thermodynamics, chemical kinetics, and chemical bonding for students in the life sciences. 4615: Laws and applications of thermodynamics. 4616: Chemical kinetics and chemical bonding including spectroscopy. Partly duplicates 3615, cannot receive credit for 3615 and 4615.",
+      "prerequisites": {
+        "rawText": "ISC 2106H or (CHEM 1036 or CHEM 1056 or CHEM 1056H) and (MATH 1026 or MATH 1226)",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "ISC 2106H",
+          "MATH 1026",
+          "MATH 1226"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2206 or PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2206",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4616",
+      "subject": "CHEM",
+      "number": "4616",
+      "level": 4000,
+      "title": "Physical Chemistry for the Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of thermodynamics, chemical kinetics, and chemical bonding for students in the life sciences. 4615: Laws and applications of thermodynamics. 4616: Chemical kinetics and chemical bonding including spectroscopy. Partly duplicates 3616, cannot receive credit for both 3616 and 4616.",
+      "prerequisites": {
+        "rawText": "ISC 2106H or (CHEM 1036 or CHEM 1056 or CHEM 1056H) and (MATH 1026 or MATH 1226) and (PHYS 2206 or PHYS 2306)",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "ISC 2106H",
+          "MATH 1026",
+          "MATH 1226",
+          "PHYS 2206",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4624",
+      "subject": "CHEM",
+      "number": "4624",
+      "level": 4000,
+      "title": "Materials Chemistry in Energy Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental principles of solid-state materials chemistry in energy sciences. Thermodynamics and kinetics of electron and ion transport in solid materials. Application of electrochemical and photochemical principles to batteries, fuel cells, solar cells, and other energy devices. Analytical tools and characterization methods for elucidating mechanisms within electrochemical and photoelectrochemical cells, with an emphasis on using electrochemical principles to evaluate battery chemistry. Solid-liquid interfacial mechanisms in energy devices. Formulation of hypotheses and experimental design for improving device performance. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "CHEM 3615 or CHEM 4615 or CHE 2164",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHEM 3615",
+          "CHEM 4615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4634",
+      "subject": "CHEM",
+      "number": "4634",
+      "level": 4000,
+      "title": "Polymer and Surface Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical chemical fundamentals of polymers and surfaces including adhesives and sealants.",
+      "prerequisites": {
+        "rawText": "CHEM 3615 or CHEM 4615",
+        "referencedCourses": [
+          "CHEM 3615",
+          "CHEM 4615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4684",
+      "subject": "CHEM",
+      "number": "4684",
+      "level": 4000,
+      "title": "Quantum Software II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Modern software collaboration techniques and tools including collaborative code repositories and cloud-based documentation. Application of structure and version control to software and documentation. Developing code with industry-standard quantum-software modules. Hands-on scientific coding for quantum problems. Project management skills including proposal development and technical presentation delivery.",
+      "prerequisites": {
+        "rawText": "CHEM 3684 or PHYS 3684",
+        "referencedCourses": [
+          "CHEM 3684",
+          "PHYS 3684"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "PHYS 4684"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4734",
+      "subject": "CHEM",
+      "number": "4734",
+      "level": 4000,
+      "title": "Environmental Soil Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Chemistry of inorganic and organic soil components with emphasis on environmental significance of soil solution-solid phase equilibria, sorption phenomena, ion exchange processes, reaction kinetics, redox reactions, and acidity and salinity processes.",
+      "prerequisites": {
+        "rawText": "CSES 3114 or ENSC 3114 or GEOS 3614 and CSES 3124 or ENSC 3124 or GEOS 3624 and CHEM 2514 or CHEM 2535 and CHEM 2114 and (MATH 1026 or MATH 1226)",
+        "referencedCourses": [
+          "CHEM 2114",
+          "CHEM 2514",
+          "CHEM 2535",
+          "CSES 3114",
+          "CSES 3124",
+          "GEOS 3614",
+          "GEOS 3624",
+          "MATH 1026",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENSC 4734"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4964",
+      "subject": "CHEM",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4974",
+      "subject": "CHEM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4974H",
+      "subject": "CHEM",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4984",
+      "subject": "CHEM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4994",
+      "subject": "CHEM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHEM 4994H",
+      "subject": "CHEM",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chem/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

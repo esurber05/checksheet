@@ -1,0 +1,823 @@
+{
+  "subject": "FIW",
+  "scrapedAt": "2026-05-25T21:20:06.886Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FIW 2114",
+      "subject": "FIW",
+      "number": "2114",
+      "level": 2000,
+      "title": "Principles of Fish and Wildlife Conservation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles, key people, agencies and laws guiding the science-based conservation and management of fish and terrestrial animals. Conservation and management of organisms, habitats, and human users examined in terms of biological, physical, ecological, ethical and sociological theories and practices. Local to global illustration from both recreational and commercial resources.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2234",
+      "subject": "FIW",
+      "number": "2234",
+      "level": 2000,
+      "title": "Fish, Fishing, and Conservation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sensory perception, behavior, and consciousness in fish. Principles, as related to fish and why they matter, fish conservation ethics, food security, recreational fishing, and responsible fishing practices. Ethical reasoning applied to the contemporary issues of conservation and use of fish, such as subsistence fishing, fish farming, marine protected areas, highly migratory fishes, sharks tourism, and ornamental fishes.",
+      "pathwaysConcepts": [
+        "3",
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2314",
+      "subject": "FIW",
+      "number": "2314",
+      "level": 2000,
+      "title": "Wildlife Biology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Summary of biological characteristics of wild birds and mammals, especially relating to management by humans. Physiological, functional, structural, and behavioral adaptations of individuals to their environments and foods.",
+      "prerequisites": {
+        "rawText": "(BIOL 1105 or BIOL 1205H) and (BIOL 1106 or BIOL 1206H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2324",
+      "subject": "FIW",
+      "number": "2324",
+      "level": 2000,
+      "title": "Wildlife Field Biology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Systematics, identification, and natural history of common native vertebrates and plants. Exposure to habitats/ecosystems of western Virginia. Observation, collection, and reporting of field data. Self-scheduled field and media lab activities required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2334",
+      "subject": "FIW",
+      "number": "2334",
+      "level": 2000,
+      "title": "Urbanization and Biodiversity Conservation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of challenges and opportunities that urban environments create for biodiversity conservation and human wellbeing, with a focus on social sciences theories and approaches. How urbanization is changing people’s relationship with their environment and what that means for biodiversity conservation and human wellbeing. Examination of how data collection, analysis, and interpretation occur using social sciences methods applied to biodiversity conservation. Diversity, Equity, and Inclusion in the context of urbanization and conservation.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "UAP 2334"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2514",
+      "subject": "FIW",
+      "number": "2514",
+      "level": 2000,
+      "title": "Fish and Wildlife Conservation Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundations of U.S. and Virginia fish and wildlife conservation policy (FWC), including international agreements. Ethical, religious, and legal foundations of FWC policy. Roles of values and beliefs in conservation behavior. Constitutional basis for FWC policy in the U.S. How FWC policies are made, implemented, and revised through state and federal agencies. Major conservation policy strategies, particularly the value of stakeholder collaboration for successful policy development, passage, and implementation. Conduct independent and group social science research to identify and present compelling policy solutions for an FWC problem.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2964",
+      "subject": "FIW",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2974",
+      "subject": "FIW",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2984",
+      "subject": "FIW",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 2994",
+      "subject": "FIW",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 3514",
+      "subject": "FIW",
+      "number": "3514",
+      "level": 3000,
+      "title": "Fisheries Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of field and laboratory methods in fisheries management and research. Experience with fisheries equipment and techniques.",
+      "prerequisites": {
+        "rawText": "FIW 2114 and STAT 3615",
+        "referencedCourses": [
+          "FIW 2114",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 3954",
+      "subject": "FIW",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 3954C",
+      "subject": "FIW",
+      "number": "3954C",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "3"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 3954D",
+      "subject": "FIW",
+      "number": "3954D",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "4"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 3964",
+      "subject": "FIW",
+      "number": "3964",
+      "level": 3000,
+      "title": "Internship Through Directed Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 3984",
+      "subject": "FIW",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4114",
+      "subject": "FIW",
+      "number": "4114",
+      "level": 4000,
+      "title": "Biodiversity Conservation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced concepts and practices related to the conservation and enhancement of biological diversity. Understanding and analysis of causes of biological scarcity. Designing actions to mitigate biodiversity loss. Integration of legal, economic, social, and biological principles to develop solutions to conservation of organisms, populations and ecosystems. Cannot be taken for credit by Wildlife Conservation (WLC) majors.",
+      "prerequisites": {
+        "rawText": "FIW 2114",
+        "referencedCourses": [
+          "FIW 2114"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4214",
+      "subject": "FIW",
+      "number": "4214",
+      "level": 4000,
+      "title": "Wildlife Field Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Field research methods for wild vertebrates in terrestrial environments. Application of research methodology including animal capture and marking, determination of sex, age, and condition, radio telemetry and map/compass/GPS orienteering, non-invasive methods of capture, habitat selection, and supervised group research projects. COURSE FEE $299.",
+      "prerequisites": {
+        "rawText": "FIW 4414 and STAT 3615",
+        "referencedCourses": [
+          "FIW 4414",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4244",
+      "subject": "FIW",
+      "number": "4244",
+      "level": 4000,
+      "title": "Applied Epidemiology of Fish and Wildlife Diseases",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and data analyses from veterinary epidemiology applied to fish and wildlife management. Biological sampling methods and data collection in fish and wildlife for epidemiological surveillance in free-ranging populations. Fish and wildlife epidemiology concepts, methods and applications for private, non-profit, academic, state, and federal agencies. Ethically measure, characterize, and forecast epidemics in fish and wildlife.",
+      "prerequisites": {
+        "rawText": "(BIOL 2704 or BIOL 2704H) and STAT 3615",
+        "referencedCourses": [
+          "BIOL 2704",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4314",
+      "subject": "FIW",
+      "number": "4314",
+      "level": 4000,
+      "title": "Conservation of Biological Diversity",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices of conserving biological diversity. Causes, consequences and rates of extinction. Application of philosophical, biological, sociological and legal principles to the conservation of genes, plant and animal species and ecosystems.",
+      "prerequisites": {
+        "rawText": "FIW 4414 and FIW 4434",
+        "referencedCourses": [
+          "FIW 4414",
+          "FIW 4434"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4324",
+      "subject": "FIW",
+      "number": "4324",
+      "level": 4000,
+      "title": "Genetics of Natural and Managed Populations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory genetics with an emphasis on evolutionary processes relevant to natural and managed populations of both plant and animal species. Traditional and modern genetics, including quantitative and population genetics, molecular evolution, genomics, and biotechnology.",
+      "prerequisites": {
+        "rawText": "BIOL 1105 and BIOL 1106 and (STAT 3005 or STAT 3615 or FREC 3214)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "FREC 3214",
+          "STAT 3005",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 4324"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4334",
+      "subject": "FIW",
+      "number": "4334",
+      "level": 4000,
+      "title": "Mammalogy",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Biology of mammals, including evolution, systematics, anatomy, physiology, ecology, and conservation challenges. Laboratory focus on identification, morphology, and zoogeography.",
+      "prerequisites": {
+        "rawText": "BIOL 2704 or BIOL 2704H",
+        "referencedCourses": [
+          "BIOL 2704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4344",
+      "subject": "FIW",
+      "number": "4344",
+      "level": 4000,
+      "title": "Herpetology",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Biology of amphibians and reptiles, including evolution, systematics, anatomy, physiology, ecology, and conservation challenges. Laboratory focus on identification, morphology, and zoogeography.",
+      "prerequisites": {
+        "rawText": "BIOL 2704 or BIOL 2704H",
+        "referencedCourses": [
+          "BIOL 2704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4414",
+      "subject": "FIW",
+      "number": "4414",
+      "level": 4000,
+      "title": "Population Dynamics and Estimation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Population growth, structure, and regulation of fish and wildlife populations including harvested populations, non-harvested populations, and small or declining populations. Methods of estimating demographic parameters such as population size, survival, and recruitment. Population viability analysis and genetic considerations in population dynamics.",
+      "prerequisites": {
+        "rawText": "FIW 2114",
+        "referencedCourses": [
+          "FIW 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4424",
+      "subject": "FIW",
+      "number": "4424",
+      "level": 4000,
+      "title": "Ichthyology",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Morphology and physiology, systematics, zoogeography, and identification of fishes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 6 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4434",
+      "subject": "FIW",
+      "number": "4434",
+      "level": 4000,
+      "title": "Wildlife Habitat Ecology and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Relationship of wildlife species to their habitats. Factors influencing distribution and abundance of wildlife populations. Vegetation succession and structure, habitat classification, modeling wildlife habitat relationships and management of habitats in forests, agricultural lands, rangelands, riparian/wetland and urban areas.",
+      "prerequisites": {
+        "rawText": "FIW 2114",
+        "referencedCourses": [
+          "FIW 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4454",
+      "subject": "FIW",
+      "number": "4454",
+      "level": 4000,
+      "title": "Human-Wildlife Conflicts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Current and emerging human-wildlife interactions that lead to conflict; application of knowledge of animal behavior and life history, population dynamics, human dimensions, and ecosystem functions to analyze conflicts and formulate effective resolution; legal statutes and regulatory constraints on resolution; reliance on case studies of existing conflict situations to gain applied experience in diagnosing and solving human-wildlife conflicts using Vertebrate Integrated Pest Management protocols. Pre: Senior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4464",
+      "subject": "FIW",
+      "number": "4464",
+      "level": 4000,
+      "title": "Human Dimensions of Fisheries and Wildlife",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Values, attitudes, and opinions of people toward fish and wildlife. Social, economic, legal, and political aspects of fisheries and wildlife management. Roles of professionals and the public in fish and wildlife policy processes. Contemporary fish and wildlife policy issues. Senior standing required.",
+      "prerequisites": {
+        "rawText": "FIW 2114",
+        "referencedCourses": [
+          "FIW 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4474",
+      "subject": "FIW",
+      "number": "4474",
+      "level": 4000,
+      "title": "Wildlife Habitat Evaluation",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Methods to evaluate habitat quality for selected wildlife species. Determining habitat characteristics important to a selected species. Developing a habitat assessment approach to estimate habitat quality. Measuring and quantifying habitat characteristics. Assessing effects of management actions and habitat alterations on a selected wildlife species. Applying habitat assessment models to guide management and mitigation decisions. Techniques for oral and written presentations. Restricted to Wildlife Conservation Majors.",
+      "corequisites": {
+        "rawText": "FIW 4434",
+        "referencedCourses": [
+          "FIW 4434"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4484",
+      "subject": "FIW",
+      "number": "4484",
+      "level": 4000,
+      "title": "Freshwater Biomonitoring",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Concepts and practices of using macroinvertebrates and fish to monitor the environmental health of freshwater ecosystems. Effects of different types of pollution and environmental stress on assemblages of organisms and underlying ecological principles. Role of biological studies in environmental regulation. Study design, field and laboratory methods, data analysis and interpretation, verbal and written presentation of results.",
+      "prerequisites": {
+        "rawText": "(BIOL 2804) and (BIOL 4354 or BIOL 4004 or ENT 4354 or FIW 4424 or FIW 4614)",
+        "referencedCourses": [
+          "BIOL 2804",
+          "BIOL 4004",
+          "BIOL 4354",
+          "ENT 4354",
+          "FIW 4424",
+          "FIW 4614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [
+        "BIOL 4484",
+        "ENT 4484"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4534",
+      "subject": "FIW",
+      "number": "4534",
+      "level": 4000,
+      "title": "Ecology and Management of Wetland Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the variety of wetland systems found in North America, though emphasis will focus on eastern and mid-Atlantic wetland systems. Origin and processes of formation of wetlands, functions and values of wetlands, wetland delineation, wetland classification, regulatory processes affecting wetlands. Objectives of and management techniques used to protect and/or manipulate wetland systems for wildlife and other human needs. Enrollment restricted to junior, seniors and graduate students.",
+      "prerequisites": {
+        "rawText": "BIOL 3204",
+        "referencedCourses": [
+          "BIOL 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4614",
+      "subject": "FIW",
+      "number": "4614",
+      "level": 4000,
+      "title": "Fish Ecology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interactions of fish with the physical and biological environment. Adaptations of organisms, populations, and communities. Impacts of human activities on major aquatic ecosystems and important fishes. Ecological principles for management of important sport, commercial, and prey fishes.",
+      "prerequisites": {
+        "rawText": "BIOL 1106",
+        "referencedCourses": [
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4624",
+      "subject": "FIW",
+      "number": "4624",
+      "level": 4000,
+      "title": "Marine Ecology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Marine organism, biological, ecological, chemical and physical processes of marine ecosystems in open sea, coastal and benthic environments, research methods and models in marine ecosystem simulation; fisheries in a dynamic ecosystem: human interference and conservation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4714",
+      "subject": "FIW",
+      "number": "4714",
+      "level": 4000,
+      "title": "Fisheries Management",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "History, theory, and practice of fisheries management. Emphasis on basic strategies used in effective management and setting management objectives. Synthesis of fish population dynamics and manipulation, habitat improvement, and human management to achieve objectives. Case studies of major fisheries.",
+      "prerequisites": {
+        "rawText": "FIW 3514",
+        "referencedCourses": [
+          "FIW 3514"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4964",
+      "subject": "FIW",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4974",
+      "subject": "FIW",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4984",
+      "subject": "FIW",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIW 4994",
+      "subject": "FIW",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fiw/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "subject": "ALCE",
+  "scrapedAt": "2026-05-25T21:18:08.289Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ALCE 2094",
+      "subject": "ALCE",
+      "number": "2094",
+      "level": 2000,
+      "title": "Introduction to Metal Fabrication",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to metal working tools, equipment/operation and safety practices. Including the fundamentals of Oxy-Acetylene (OA) gas welding, Shielded Metal Arc Welding (SMAW) and Gas Metal Arc Welding (GMAW).",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 2294",
+      "subject": "ALCE",
+      "number": "2294",
+      "level": 2000,
+      "title": "Animal Structures and Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Functional considerations in facilities development for production agriculture. Concepts of farmstead planning and system development. Techniques for providing safe and efficient animal production environments, especially for confinement facilities.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 2414",
+      "subject": "ALCE",
+      "number": "2414",
+      "level": 2000,
+      "title": "Identity and Inclusion in Agricultural and Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines histories of persons representing different social identities, statuses, space, place, and traditions in agricultural and life sciences. Explores how differences influence experiences individuals may have in agricultural and life sciences. Apply ethical reasoning practices to recognize and addresses critical issues surrounding inclusion of diverse populations within agricultural and life sciences education and leadership.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 2414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 2484",
+      "subject": "ALCE",
+      "number": "2484",
+      "level": 2000,
+      "title": "Engine and Power Train Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engine and power train technology with an emphasis on the fundamentals of internal combustion engines, electrical systems, power transmission systems and maintenance practices.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 2964",
+      "subject": "ALCE",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 2974",
+      "subject": "ALCE",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 2984",
+      "subject": "ALCE",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3004",
+      "subject": "ALCE",
+      "number": "3004",
+      "level": 3000,
+      "title": "Educational Programs in Agricultural and Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Offers a foundation for student engagement and exploration of educational programs within agricultural and life sciences. Formal and non-formal learning contexts in local community programs. Opportunities include fieldwork assignments.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3014",
+      "subject": "ALCE",
+      "number": "3014",
+      "level": 3000,
+      "title": "Leadership Effectiveness for Professionals in Agricultural Organizations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Leadership theory and skills required to perform effectively in leadership positions within agricultural organizations and communities. Leadership skills, personal development, teamwork, and social responsibility in agriculture industry.",
+      "prerequisites": {
+        "rawText": "LDRS 1015 or LDRS 1414",
+        "referencedCourses": [
+          "LDRS 1414"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3084",
+      "subject": "ALCE",
+      "number": "3084",
+      "level": 3000,
+      "title": "Agricultural Metal Fabrication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to metal working tools, equipment, and processes. Fundamentals of hot and cold metal working, plumbing, and welding applications, including inert gas welding processes. Junior standing or consent of instructor is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3494",
+      "subject": "ALCE",
+      "number": "3494",
+      "level": 3000,
+      "title": "Advanced Welding Technology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Techniques in metal work and welding that include tool maintenance, Oxy-Acetylene (OA), Shielded Metal Arc Welding (SMAW), Gas Metal Arc Welding (GMAW), Gas Tungsten Arc Welding (GTAW). Design of welded structures, fundamentals of heat treatment, plastic welding and Plasma Arc Cutting (PAC). Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3624",
+      "subject": "ALCE",
+      "number": "3624",
+      "level": 3000,
+      "title": "Communicating Ag and Life Sciences in Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Communication skills necessary to carry out work with the general public and audiences in the food, agriculture, and natural resources fields. Professional writing for diverse audiences, assessing best written communication practices, and on creation of a portfolio, utilizing multiple platforms of written communication. Pre: Junior standing.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3634",
+      "subject": "ALCE",
+      "number": "3634",
+      "level": 3000,
+      "title": "Communicating Ag and Life Sciences in Speaking",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Strategies and techniques for effective oral communication in professions related to food, agriculture, and natural resources. Oral, visual, and interpersonal communication, ethical framing of complex problems, group leadership, and meeting management.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3814",
+      "subject": "ALCE",
+      "number": "3814",
+      "level": 3000,
+      "title": "Life Sciences Communication & Public Engagement",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identifying principles of inclusive and culturally responsive public engagement. Creating life sciences communication strategies and community-centered approaches that maximize public engagement. Evaluating effects of life sciences communication strategies on public engagement.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3844",
+      "subject": "ALCE",
+      "number": "3844",
+      "level": 3000,
+      "title": "Intercultural Life Sciences Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploring the role culture plays in shaping people’s perceptions, values, and behaviors related to life sciences. Examining cultural trends and intercultural communication issues within the life sciences, specifically, global food systems. Interpreting culturally coded communication behaviors, including verbal and non-verbal expressions. Creating intercultural communication strategies to effectively communicate across cultures, emphasizing diversity and inclusivity.",
+      "prerequisites": {
+        "rawText": "ALCE 2414",
+        "referencedCourses": [
+          "ALCE 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3854",
+      "subject": "ALCE",
+      "number": "3854",
+      "level": 3000,
+      "title": "Brand Development for the Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluating characteristics of strong brands and brand presentation within the agricultural and life sciences industries, with a focus on understanding strategic branding concepts and theories in brand development. Creating comprehensive brand guides for agricultural and life sciences organizations using industry-standard design tools and technologies, including brand identity elements such as logo design, color palettes, and typography. Collaborating with industry partners to develop effective branding or rebranding initiatives, ensuring alignment with brand identity principles.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3900",
+      "subject": "ALCE",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 3954",
+      "subject": "ALCE",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4014",
+      "subject": "ALCE",
+      "number": "4014",
+      "level": 4000,
+      "title": "Introduction to Cooperative Extension",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An overview of the Cooperative Extension Service as it applies to non-formal education for citizens and communities. Major areas discussed include history, organization, functional areas, responsibilities of local agents, employment in extension, and educational program planning.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4024",
+      "subject": "ALCE",
+      "number": "4024",
+      "level": 4000,
+      "title": "Managing Agricultural Supervised Occupational Experience Project",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Major emphasis will be given to the agricultural teachers responsibility for supervision of the Supervised Occupational Experience Program (SOEP). The course will emphasize the ownership project, the cooperative placement project, maintaining record books, and supervising the SOEP.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4034",
+      "subject": "ALCE",
+      "number": "4034",
+      "level": 4000,
+      "title": "Methods of Planning Education Programs for Agriculture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Course examines the procedures involved in the development of courses, curriculum, and instructional materials for education programs in agriculture.",
+      "prerequisites": {
+        "rawText": "ALCE 3004",
+        "referencedCourses": [
+          "ALCE 3004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "EDCT 4034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4044",
+      "subject": "ALCE",
+      "number": "4044",
+      "level": 4000,
+      "title": "Agricultural Sciences Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A senior capstone course addressing issues of importance for majors in Agricultural Sciences. The course will emphasize a synthesis of research results from collected data and information on contemporary problems in agriculture and related fields and a sharing of the results. It will emphasize the development of skills in critical analysis. Senior Standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4054",
+      "subject": "ALCE",
+      "number": "4054",
+      "level": 4000,
+      "title": "Internship in Coop Extension",
+      "credits": {
+        "min": 1,
+        "max": 16
+      },
+      "isVariableCredit": true,
+      "description": "Off-campus participation experience for those preparing to become extension agents in the Cooperative Extension Service. Variable Credit; 6-16 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-16 Lec, 1-16 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4064",
+      "subject": "ALCE",
+      "number": "4064",
+      "level": 4000,
+      "title": "Ag Mechanical Lab Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Plan, organize, and manage secondary school mechanics laboratories. Management of the instructional program, facility, equipment, inventory, safety, liability, personnel, material control, and student customer work.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4234",
+      "subject": "ALCE",
+      "number": "4234",
+      "level": 4000,
+      "title": "Curriculum for Career and Occupational Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides current and prospective career and occupational education teachers with research bases, resources, and available curricula for teaching content in the respective disciplines. Develops the ability to plan, manage, develop, and evaluate curricula. The prerequisite EDCT 2604 will be waived for Agricultural Education students. Pre: Junior Standing",
+      "prerequisites": {
+        "rawText": "EDCT 2604",
+        "referencedCourses": [
+          "EDCT 2604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4244",
+      "subject": "ALCE",
+      "number": "4244",
+      "level": 4000,
+      "title": "Teaching and Training Methods in Agricultural and Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of strategies for design, implementation, and evaluation of instruction and training practices in agricultural life sciences. Applications of principles in formal and non-formal educational settings, including schools, extension, and industry. Pre: Junior standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4304",
+      "subject": "ALCE",
+      "number": "4304",
+      "level": 4000,
+      "title": "Community Education and Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive examination of community education and development. Community/sustainable community development, strategies for mobilizing social change in/with communities. Explore participatory, popular, and community-based education from rural and urban settings. Globalization, sustainability, and social movement discourse with emphasis on agricultural, health, and food system examples. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4754",
+      "subject": "ALCE",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship in Education",
+      "credits": {
+        "min": 1,
+        "max": 16
+      },
+      "isVariableCredit": true,
+      "description": "Planned program of clinical practice in education under the direction and supervision of a university supervisor and a selected practitioner. Recommendation of program area and successful completion of Professional Studies required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-16 Lec, 1-16 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4814",
+      "subject": "ALCE",
+      "number": "4814",
+      "level": 4000,
+      "title": "Life Sciences Field Photography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Operating modern camera equipment. Applying advanced photography composition techniques to create compelling visual narratives. Employing photography as a storytelling medium to capture the cultural and human elements within food, agricultural, and life sciences settings. Producing photographs optimized for media and corporate outlets. Examining the business aspects of photography careers, including entrepreneurial and marketing strategies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4824",
+      "subject": "ALCE",
+      "number": "4824",
+      "level": 4000,
+      "title": "Crisis Communication in the Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploring practical applications of risk communication and crisis management in food, agricultural, and other life sciences-related industries, while adhering to professional ethical principles. Analyzing and mitigating public risk perceptions related to agricultural and life sciences by thinking critically and creatively. Creating crisis communication plans and response strategies. Using news media and social media in crisis response efforts to manage reputation. Communicating and evaluating response strategies post-crisis to improve future efforts.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4834",
+      "subject": "ALCE",
+      "number": "4834",
+      "level": 4000,
+      "title": "Life Sciences Communication Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engaging in collaborative, real-world experiences as a member of a communications team. Designing, developing, and disseminating a life sciences communication capstone project through experiential learning. Applying specialized skills based on team roles. Demonstrating ethical and professional standards in life sciences communication production.",
+      "prerequisites": {
+        "rawText": "COMM 2024",
+        "referencedCourses": [
+          "COMM 2024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4884",
+      "subject": "ALCE",
+      "number": "4884",
+      "level": 4000,
+      "title": "Youth Program Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Organizational design of educational youth programs such as 4-H and FFA, including administrative planning, human resource development, recruitment, marketing, and budgeting.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "EDCT 4884"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4964",
+      "subject": "ALCE",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4974",
+      "subject": "ALCE",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4984",
+      "subject": "ALCE",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALCE 4994",
+      "subject": "ALCE",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/alce/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

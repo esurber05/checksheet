@@ -1,0 +1,163 @@
+{
+  "subject": "BDS",
+  "scrapedAt": "2026-05-25T21:18:33.298Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "BDS 2005",
+      "subject": "BDS",
+      "number": "2005",
+      "level": 2000,
+      "title": "Fundamentals of Behavioral Decision Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the major scientific models of decision making and applications to real-life situations. Economic models highlighting optimal choices and psychological models highlighting decision making tendencies. 2005: Emphasis on individual decision making in non-strategic choice settings. Probabilistic reasoning and economic model of rationality. Violations of the rational choice model, and psychological, physiological, and statistical models that accommodate this behavior. Applications to social settings and longer periods of time. Common ethical dilemmas and making ethical choices as an individual. 2006: Individual decision making in interactive and strategic choice settings as well as group decision making. Simultaneous, sequential, dynamic, repeated, and incomplete information games. Preferences for fairness, reciprocity, and cultural differences in interactions. Limitations when making group decisions. Ethical reasoning and computational analysis of strategy. Applications to voting, negotiations, and cooperation.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BDS 2006",
+      "subject": "BDS",
+      "number": "2006",
+      "level": 2000,
+      "title": "Fundamentals of Behavioral Decision Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the major scientific models of decision making and applications to real-life situations. Economic models highlighting optimal choices and psychological models highlighting decision making tendencies. 2005: Emphasis on individual decision making in non-strategic choice settings. Probabilistic reasoning and economic model of rationality. Violations of the rational choice model, and psychological, physiological, and statistical models that accommodate this behavior. Applications to social settings and longer periods of time. Common ethical dilemmas and making ethical choices as an individual. 2006: Individual decision making in interactive and strategic choice settings as well as group decision making. Simultaneous, sequential, dynamic, repeated, and incomplete information games. Preferences for fairness, reciprocity, and cultural differences in interactions. Limitations when making group decisions. Ethical reasoning and computational analysis of strategy. Applications to voting, negotiations, and cooperation.",
+      "pathwaysConcepts": [
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BDS 3134",
+      "subject": "BDS",
+      "number": "3134",
+      "level": 3000,
+      "title": "Choice and Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories of rational choice, utility, and revealed preference. Intertemporal decision problems and choice under uncertainty with applications to insurance and investments. Behavioral regularities and evidence of violations of rational choice theory. Behavioral models that accommodate this behavior. Applications of behavioral models to economic problems, ethical questions, policy, and organization design. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "ECON 2005 or BDS 2005",
+        "referencedCourses": [
+          "BDS 2005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 3134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BDS 4194",
+      "subject": "BDS",
+      "number": "4194",
+      "level": 4000,
+      "title": "Predicting Social Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the process of predicting human choices, preferences, and actions in social contexts. Applications of measurement theory to data preparation, formatting, and scaling. Implications of psychological biases for data transformation and cleaning. Theory-guided predictor variable selection and development. Applications of machine learning to social settings. Evaluating prediction quality, bias, and generalizability. Developing predictive models in software. Ethical and societal implications of predicting human behavior.",
+      "prerequisites": {
+        "rawText": "(PSYC 1094 or ECON 3254) and (BIT 2405 or STAT 2004 or STAT 3604 or STAT 3005 or STAT 3615)",
+        "referencedCourses": [
+          "BIT 2405",
+          "ECON 3254",
+          "PSYC 1094",
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSYC 4194"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BDS 4864",
+      "subject": "BDS",
+      "number": "4864",
+      "level": 4000,
+      "title": "Developing Behavioral Science Policies and Interventions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Senior-level capstone course that involves producing and presenting original behavioral experimental research, supported by statistical analysis techniques suitable for drawing conclusions from behavioral experimental data. Design, statistical analysis, and evaluation of applied behavioral policies, interventions, or experiments on decision-making behavior. Ethical and societal implications of designing and testing behavioral interventions in the field and conducting experiments and behavioral interventions on human populations.",
+      "corequisites": {
+        "rawText": "ECON/BDS 3134 or PPE 2894 or SOC 2004",
+        "referencedCourses": [
+          "BDS 3134",
+          "PPE 2894",
+          "SOC 2004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 4864"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BDS 4994",
+      "subject": "BDS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bds/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

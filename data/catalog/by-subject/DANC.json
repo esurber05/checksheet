@@ -1,0 +1,125 @@
+{
+  "subject": "DANC",
+  "scrapedAt": "2026-05-25T21:19:31.540Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "DANC 2004",
+      "subject": "DANC",
+      "number": "2004",
+      "level": 2000,
+      "title": "Anatomy for Performers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An experiential course merging the artistic, experiential, and conceptual understanding of the human body, and how all of its elements work together to produce motion and the sense of being. Study of the anatomical structures of the body through an experiential lens of motion and sensory perception. Introduction of the concepts of kinesiology through the study of bone, joint, tissue, muscular, and organ structures. Emphasis on holistic perspectives of the body through active listening, ethical reasoning, healthy self-image, and attention to practices of equitable embodied identity. Lecture, demonstration, and experience-based partnering work that draw from a variety of somatic traditions including yoga, pilates, Body-Mind Centering, release technique, Alexander and Feldenkrais techniques, Gyrotonic/Gyrokinesis, and mediation. Designed for performers in the arts, athletes, martial artists, or any students wishing to study the body from an experiential lens.",
+      "pathwaysConcepts": [
+        "6A",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/danc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "DANC 2014",
+      "subject": "DANC",
+      "number": "2014",
+      "level": 2000,
+      "title": "Introduction to Dance History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of dance history as an art form with global scope. Language of dance criticism and dance writing practices. International dance forms and the emergence and development of 20th and 21st century modern and post-modern concert dance in the United States from the confluence of European folk and court dances, ballet, African and Caribbean influences, and other American cultural dynamics. Emphasis on ethical and aesthetic modes of viewing dance performance with attention to issues of gender and sexuality, race and ethnicity, ability, class, and identity.",
+      "pathwaysConcepts": [
+        "6A",
+        "7",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/danc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "DANC 2024",
+      "subject": "DANC",
+      "number": "2024",
+      "level": 2000,
+      "title": "Introduction to Dance Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Beginner-level studio dance course. Introduction of movement techniques, improvisation/composition, performance, experiential anatomy, and an overview to concepts in dance history. Development of flexibility, strength, coordination, rhythm, and vocabulary in the modern idiom. Concepts of time, space, energy, and choreographic form presented through set movement exercises, improvisation, and a final compositional project. Training in a variety of movement vocabularies including modern/contemporary, ballet, and cultural dance forms. May be repeated once with different content for a maximum of 6 credits. Design Lab/Studio.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/danc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "DANC 2104",
+      "subject": "DANC",
+      "number": "2104",
+      "level": 2000,
+      "title": "Moving Body, Moving Mind",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods of working intentionally towards cultivating optimal brain states. Mind/body practices to develop connections between contemporary neuroscience, movement, and meditative practices. Studies in the intersection of consciousness, movement, and thought. Introduction to yoga, meditation, authentic movement, experiential anatomy, and somatic work. Emphasis on holistic perspectives of the body through active listening, ethical reasoning, healthy self-image, and attention to the practices of intentional embodiment.",
+      "pathwaysConcepts": [
+        "6A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HNFE 2104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/danc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "DANC 3024",
+      "subject": "DANC",
+      "number": "3024",
+      "level": 3000,
+      "title": "Intermediate/Advanced Dance Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intermediate/advanced level course in movement techniques. Training in a variety of movement vocabularies including modern/contemporary, ballet, and cultural dance forms. Improvisation/composition, performance, concepts in anatomy/kinesiology, and 21st century contemporary dance forms. Development of flexibility, strength, coordination, rhythm, vocabulary in the modern idiom, and focused study of partnering concepts from a variety of hybrid forms. Concepts of time, space, energy, and choreographic form presented through set movement exercises and two compositional projects. May be repeated 3 times with different content for a maximum of 9 credits. Design/Lab Studio.",
+      "prerequisites": {
+        "rawText": "DANC 2024",
+        "referencedCourses": [
+          "DANC 2024"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/danc/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

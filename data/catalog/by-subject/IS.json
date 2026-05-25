@@ -1,0 +1,2940 @@
+{
+  "subject": "IS",
+  "scrapedAt": "2026-05-25T21:20:54.716Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "IS 1004",
+      "subject": "IS",
+      "number": "1004",
+      "level": 1000,
+      "title": "Nations and Nationalities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to world and American ethnic and indigenous cultures and to social constructions of human and group identity, nationalism and extreme ethno-nationalism. History of the political, economic, and cultural transition from primordial communities to sovereign states. Introduction to the rise of racism, sexism, ethnicism, classism, nativism, xenophobia, etc. in modern societies and episodes of mass political violence including ethnic cleansing and genocide.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 1004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 1024",
+      "subject": "IS",
+      "number": "1024",
+      "level": 1000,
+      "title": "Comp Gov & Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Government and politics of selected countries outside the United States; nature of politics and government, types of political systems, linkages of people and governments, and current political issues.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 1024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 1034",
+      "subject": "IS",
+      "number": "1034",
+      "level": 1000,
+      "title": "Introduction to International Studies and Political Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the fields of International Studies and Political Science and their respective subfields. Familiarizes students with the undergraduate programs in International Studies and Political Science and emphasizes student preparation for careers in the respective fields. Focuses on inquiry, problem-solving, integration of ideas and experiences with a focus on International Studies and Political Science. Familiarizes students with the basic principles of the research and writing process.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 1034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 1204",
+      "subject": "IS",
+      "number": "1204",
+      "level": 1000,
+      "title": "Topics in Global Dialogues",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the impact of culture in world politics. Topics under examination include: culture and global diversity; culture, identity, and order in world politics; international conflict and intercultural relations. Extensive use of case studies. May be repeated twice with different content for a maximum of three (3) credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "PSCI 1204"
+      ],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2004",
+      "subject": "IS",
+      "number": "2004",
+      "level": 2000,
+      "title": "Research and Writing in International Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces the research and writing process in the field of International Studies. Addresses topics such as selecting and planning a research project, conceptualizing a research design, gathering and analyzing data, interpreting the results and writing a report. Prioritizes research within a framework of rigorous, well-rounded and thorough practices of research ethics. Emphasizes intercultural and diverse research and practices.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2034",
+      "subject": "IS",
+      "number": "2034",
+      "level": 2000,
+      "title": "Geography of Global Conflict",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geographical dimensions of global conflicts, international management of conflicts, conflicts of differences, historical, ideological, failed states and resources will be examined. Background to conflicts, current status of conflicts, different points of view in conflict. Topics in the course will change as the geography of global conflict changes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2034",
+        "PSCI 2034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2044",
+      "subject": "IS",
+      "number": "2044",
+      "level": 2000,
+      "title": "Food, War and Conflict",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores historical developments in food preservation, processing and distribution relative to the commencement or continuation of conflict. Examines why and how wars have been fought over economic policies, food trade, and control of food supplies. Examines food defense efforts to protect food and water from intentional contamination and acts of terrorism and bioterrorism. Focus on food products and the preservation, processing and distribution technologies that arose from, or enabled, war and conflict.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FST 2044",
+        "PSCI 2044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2054",
+      "subject": "IS",
+      "number": "2054",
+      "level": 2000,
+      "title": "Introduction to World Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the prevalent methods and theories in the study of world politics. Topics include: historical context of contemporary world politics, global actors and power relations, conflict and conflict resolution, international law, and contemporary global issues.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2054",
+        "PSCI 2054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2064",
+      "subject": "IS",
+      "number": "2064",
+      "level": 2000,
+      "title": "The Global Economy and World Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to theories and methods in the study of global political economy. Topics include: historical origins, comparative advantage, the factor endowment trade theory, the gold standard, economic nationalism, the Great Depression, the Bretton Woods System, Keynesianism, the Nixon shocks, international organizations, monetary governance, the Great Recession, poverty and underdevelopment, and contemporary challenges of income inequality within and among economies.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2064",
+        "PSCI 2064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2084",
+      "subject": "IS",
+      "number": "2084",
+      "level": 2000,
+      "title": "The Evolution of World Order",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A historical and comparative study of states systems (i.e, ancient, medieval, modern, and contemporary states system). Emphasis on the globalization of the European states system, its various aspects (political, economic, cultural, religious, civilizational, and technological) and its implications for contemporary world order (i.e., the question of human equality and the impact of colonialism and post-colonialism on the question of social, political and economic justice).",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 2084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2104",
+      "subject": "IS",
+      "number": "2104",
+      "level": 2000,
+      "title": "Europe Country Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the politics, economics, culture, society, population patterns, and history of individual European countries. Impact of individual European states’ domestic affairs on their respective European sub-regions and Europe as a whole. Analysis of intra-European regional developments. Examination of differing country perspectives on European integration.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 2104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2114",
+      "subject": "IS",
+      "number": "2114",
+      "level": 2000,
+      "title": "Transatlantic Political Frameworks",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of transatlantic political, security and economic institutions, such as the Organization for Economic Cooperation & Development (OECD), the North Atlantic Treaty Organization (NATO), and the Organization for Security & Cooperation in Europe (OSCE). Impact of domestic politics and external policies on the operation of transatlantic institutions. US-European relations and their impact on transatlantic institutions and European security. Bilateral political links between European and North America States (i.e., the UK-US- Canada, and France-Canada) and their impact on transatlantic relations and European security.",
+      "prerequisites": {
+        "rawText": "IS 1114 or PSCI 1114",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 2114"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2134",
+      "subject": "IS",
+      "number": "2134",
+      "level": 2000,
+      "title": "Geography of the Global Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geographical dimensions of the global economy since World War II. Globalization and the emergence of a new international division of labor. The relative decline of the United States and the growth of Japan, East Asia and the European Union. Changing geographies of foreign direct investment location. Places and regions in geo-economic discourse. Population and resources issues in the early twenty-first century.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2134",
+        "PSCI 2134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2224",
+      "subject": "IS",
+      "number": "2224",
+      "level": 2000,
+      "title": "Geography of Europe",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Europe: as an idea, as a place, as a space, and as a political entity. Basic knowledge of Europe’s historical physical environments, political geography, population distribution, varied cultures, and economic development. Cultural variations and their implications on settlement patterns, political divisions, and economic patterns and processes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2224",
+        "PSCI 2224"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2474",
+      "subject": "IS",
+      "number": "2474",
+      "level": 2000,
+      "title": "Religion and Violence",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of the categories of religion and secularity as they apply to war and peace. Analysis of episodes from both past and present in which religion seems to have played a role. Introduction to research skills related to the study of religion and violence, building from theoretical and historical considerations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2474"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2484",
+      "subject": "IS",
+      "number": "2484",
+      "level": 2000,
+      "title": "Religion and Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of religion and politics as distinct categories in different times and places. Analysis of episodes from both past and present in which religion and politics have come together, or have been kept apart. Examination of the roles religion and politics play in the modern world and how they impact the lived experience of diverse populations both in the United States and throughout the world.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 2484",
+        "RLCL 2484"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2964",
+      "subject": "IS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2974",
+      "subject": "IS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2974H",
+      "subject": "IS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 2984",
+      "subject": "IS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3004",
+      "subject": "IS",
+      "number": "3004",
+      "level": 3000,
+      "title": "Professionalism and Careers in Political Science and International Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed to teach students how to synthesize skills and information learned in their Political Science and International Studies classes. Exploration of various career options, graduate school options, and proper procedures for seeking and applying for employment and graduate school. Introduction to professionalism in the workplace and professional development in the area of political science and international studies. Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3034",
+      "subject": "IS",
+      "number": "3034",
+      "level": 3000,
+      "title": "The CIA: Its Capabilities in Todays Geo-Political World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Role of the discipline of geography in the origins, procedures, and history of CIA. Role of the CIA in providing national intelligence at both strategic and operational levels. Origins and changes to the CIA since WWII. Capabilities to support both policy-makers and national security entities. Case studies illustrating the CIAs operations in different regions of the world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 3034",
+        "PSCI 3034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3044",
+      "subject": "IS",
+      "number": "3044",
+      "level": 3000,
+      "title": "The Politics of Internet Governance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to theoretical, technological, and policy debates in Internet governance. Topics include multistakeholder governance, cybersecurity and cybercrime, network investigative techniques, data protection, vulnerability disclosure, use of anonymity-granting technologies, network neutrality, virtual currencies, big data, algorithmic bias and decision-making, politics of the domain name system, privacy, free expression, cross-border dispute resolution, data ownership, and challenges to state authority.",
+      "prerequisites": {
+        "rawText": "PSCI 2054 or IS 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3054",
+      "subject": "IS",
+      "number": "3054",
+      "level": 3000,
+      "title": "The Dark Web and Threat Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to dual-use anonymity-granting technologies such as the Dark Web. Covers open source threat intelligence as a technique to assess trends and trajectories in anonymous online content. Substantive topics include the use of Dark Web technologies for political expression in repressive regimes, anonymity and privacy protection in an age of big data as well as the misuse of these tools for doxing, trolling, and the creation of illegal markets for drugs, guns, malicious software, human trafficking, and child abuse imagery. Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3064",
+      "subject": "IS",
+      "number": "3064",
+      "level": 3000,
+      "title": "Food Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on how scholars, pundits, citizens, and policymakers think about food on local, national, and global scales. Explores various ways of producing, distributing, and consuming food and how they are implicated in specific organizations of power and possibility. Examines how food, and the discourses surrounding food, help structure understandings of a variety of issues, such as identity, property, labor, gender, race, responsibility, and death.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3104",
+      "subject": "IS",
+      "number": "3104",
+      "level": 3000,
+      "title": "Security Studies: Theories and Concepts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces the various theoretical approaches to security. Examines key concepts in the field of Security Studies, such as uncertainty, polarity, war, coercion, terrorism, intelligence, genocide, crimes against humanity, ethnic conflict, and human security.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3114",
+      "subject": "IS",
+      "number": "3114",
+      "level": 3000,
+      "title": "Global Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores various theoretical approaches to security and discusses traditional and non-traditional security issues. Focuses on global, international and regional security challenges and examines alternative strategic and tactical solutions for addressing them.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3114"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3115",
+      "subject": "IS",
+      "number": "3115",
+      "level": 3000,
+      "title": "Selected World Problems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected world problems and how they affect various countries and regions. Each semester, a topic will be chosen. 3115: World problems in a global or regional context. 3116: World problems in a European context. 3115 and/or 3116 may be repeated for a combined maximum of 9 credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3115"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3116",
+      "subject": "IS",
+      "number": "3116",
+      "level": 3000,
+      "title": "Selected World Problems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected world problems and how they affect various countries and regions. Each semester, a topic will be chosen. 3115: World problems in a global or regional context. 3116: World problems in a European context. 3115 and/or 3116 may be repeated for a combined maximum of 9 credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3116"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3125",
+      "subject": "IS",
+      "number": "3125",
+      "level": 3000,
+      "title": "Intelligence and National Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the field of Intelligence Studies. Focuses on the structure, role and capabilities of the U.S. intelligence community and investigates the relationship between intelligence and national security strategy. Addresses topics pertaining to data collection and intelligence analysis, covert operations and counterintelligence. 3125: Intelligence and National Security. 3126: The Intelligence Process.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3125"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3126",
+      "subject": "IS",
+      "number": "3126",
+      "level": 3000,
+      "title": "Intelligence and National Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the field of Intelligence Studies. Focuses on the structure, role and capabilities of the U.S. intelligence community and investigates the relationship between intelligence and national security strategy. Addresses topics pertaining to data collection and intelligence analysis, covert operations and counterintelligence. 3125: Intelligence and National Security. 3126: The Intelligence Process.",
+      "prerequisites": {
+        "rawText": "IS 3125 or PSCI 3125",
+        "referencedCourses": [
+          "IS 3125",
+          "PSCI 3125"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3126"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3134",
+      "subject": "IS",
+      "number": "3134",
+      "level": 3000,
+      "title": "Global Conflict and War",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the causes, legal and moral constraints, impacts, and consequences of conflict and war. Explores historical and contemporary cases of conflict and war and investigates the role of state and non-state actors in these conflicts. Examines the impact of technology, religion, culture and identity on the present and future of war.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3135",
+      "subject": "IS",
+      "number": "3135",
+      "level": 3000,
+      "title": "Strategies of Modern Warfare",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3135: Analyzes the theory and practice of conventional warfare and investigates how strategic thought has influenced and shaped modern warfare. 3136: Examines the theory and practice of irregular warfare and focuses on the theory and practice of counterinsurgency and counterterrorism.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3135"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3136",
+      "subject": "IS",
+      "number": "3136",
+      "level": 3000,
+      "title": "Strategies of Modern Warfare",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3135: Analyzes the theory and practice of conventional warfare and investigates how strategic thought has influenced and shaped modern warfare. 3136: Examines the theory and practice of irregular warfare and focuses on the theory and practice of counterinsurgency and counterterrorism.",
+      "prerequisites": {
+        "rawText": "PSCI 2054 or IS 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3136"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3144",
+      "subject": "IS",
+      "number": "3144",
+      "level": 3000,
+      "title": "Global Governance and Public Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the norms, institutions, practices and processes developed by the international community to address global problems such as poverty, pandemics, global warming, displaced persons and transnational crime. Utilizes theories of decision- and policy-making and investigates the role of states, international governmental and non- governmental organizations, coalitions and corporations in global public policy-making.",
+      "prerequisites": {
+        "rawText": "(IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2064 or PSCI 2064 or GEOG 2064)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3144"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3154",
+      "subject": "IS",
+      "number": "3154",
+      "level": 3000,
+      "title": "Topics in Global Public Policies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines in depth selected global public policies pertaining to health, energy, environment, development, education, refugees or labor. May be repeated with different content for a maximum of nine (9) credits.",
+      "prerequisites": {
+        "rawText": "(IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2064 or PSCI 2064 or GEOG 2064)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3154"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3164",
+      "subject": "IS",
+      "number": "3164",
+      "level": 3000,
+      "title": "Global Trade: Structures and Policies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the operations of global trading system and its structure, theories of trade in international political economy, world trading powers and international and regional trade international organizations such as the World Trade Organization (WTO), the European Union (EU), the United States-Mexico-Canada Agreement (USMC), European Union (EU), United Nations Conference on Trade and Development (UNCTAD), the United Nations Industrial Development Organization (UNIDO) and the World Intellectual Property Organization (WIPO) and their policies.",
+      "prerequisites": {
+        "rawText": "IS 2064 or PSCI 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3164"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3165",
+      "subject": "IS",
+      "number": "3165",
+      "level": 3000,
+      "title": "Global Economic Governance and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3165: International Trade - Focuses on the operations of global and regional international organizations such as the World Trade Organization (WTO), the European Union (EU), the United Nations Conference on Trade and Development (UNCTAD), the United Nations Industrial Organization (UNIDO) and the World Intellectual Property Organization (WIPO) and examines their policies and regulations. 3166: International Finance - Focuses on the operations of global and regional international organizations such as the International Monetary Fund (IMF) and World Bank, the European Union (EU), the Organization for Economic Cooperation and Development (OECD) and examines their policies and regulations.",
+      "prerequisites": {
+        "rawText": "IS 2064 or PSCI 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3165"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3166",
+      "subject": "IS",
+      "number": "3166",
+      "level": 3000,
+      "title": "Global Economic Governance and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3165: International Trade - Focuses on the operations of global and regional international organizations such as the World Trade Organization (WTO), the European Union (EU), the United Nations Conference on Trade and Development (UNCTAD), the United Nationa Industrial Organization (UNIDO) and the World Intellectual Property Organization (WIPO) and examines their policies and regulations. 3166: International Finance - Focuses on the operations of global and regional international organizations such as the International Monetary Fund (IMF) and World Bank, the European Union (EU), the Organization for Economic Cooperation and Development (OECD) and examines their policies and regulations.",
+      "prerequisites": {
+        "rawText": "IS 2064 or PSCI 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3166"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3174",
+      "subject": "IS",
+      "number": "3174",
+      "level": 3000,
+      "title": "Monetary Foundations of the World Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the evolution the operations of global and structure of regional international organizations such as the International Monetary Fund (IMF) and World Bank, the global financial and monetary order. Theories of the global and monetary system in international political economy, the structure of world finance, international financial institutions, the rise of new financial powers in the world economy, central banking, monetary and financial regulation and financial crises and policy responses.",
+      "prerequisites": {
+        "rawText": "IS 2064 or PSCI 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3174"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3175",
+      "subject": "IS",
+      "number": "3175",
+      "level": 3000,
+      "title": "Global Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3175: The Politics of Development - Examines issues and politics of the developing world and investigates the forces that promote or cut off economic development in low-income countries. Discusses development issues in various world regions. 3176: Economic Development - Emphasizes economic development and focuses on domestic and international policies aiming at addressing poverty in the developing world.",
+      "prerequisites": {
+        "rawText": "(IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2064 or PSCI 2064 or GEOG 2064)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3175"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3176",
+      "subject": "IS",
+      "number": "3176",
+      "level": 3000,
+      "title": "Global Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3175: The Politics of Development - Examines issues and politics of the developing world and investigates the forces that promote or cut off economic development in low-income countries. Discusses development issues in various world regions. 3176: Economic Development - Emphasizes economic development and focuses on domestic and international policies aiming at addressing poverty in the developing world.",
+      "prerequisites": {
+        "rawText": "(IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2064 or PSCI 2064 or GEOG 2064)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3176"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3184",
+      "subject": "IS",
+      "number": "3184",
+      "level": 3000,
+      "title": "Human Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces the field of human security and examines the conceptual, theoretical, and methodological issues surrounding it. Identifies the relevant human security actors, explores the tools of human security, and discusses the application of human security. Investigates the implications of human security and discusses its future.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3184"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3194",
+      "subject": "IS",
+      "number": "3194",
+      "level": 3000,
+      "title": "Nuclear Strategy & Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the fundamentals of nuclear strategy and investigates the politics associated with the acquisition and proliferation of nuclear weapons. Focuses on nuclear doctrines and policies and explores international efforts associated with nuclear arms control and disarmament. Analyzes the nuclear postures of various nuclear states.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3194"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3344",
+      "subject": "IS",
+      "number": "3344",
+      "level": 3000,
+      "title": "Global Environmental Issues: Interdisciplinary Perspectives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical examination of major global environmental problems from a humanities perspective, including international community responses to global environmental problems such as global warming, atmospheric ozone depletion, acid rain, tropical deforestation, toxic waste. Actions by key actors in the international community to develop solutions. Relationship of justice, fairness, equality, and diversity to political questions of power or authority. Pre: 3 credits of Critical Issues in a Global Context.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3344",
+        "UAP 3344"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3374",
+      "subject": "IS",
+      "number": "3374",
+      "level": 3000,
+      "title": "The Politics of Energy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical and humanistic perspectives of energy and its global problems. Politics and ethics of fuel extraction, distribution, and consumption across cultures and histories. Energy narratives, discourses, and aesthetics in the formation of political identities. Energy and the rise of modern democracy and global capitalism, with an emphasis on the energy dimensions of climate justice. Pre: Junior Standing.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3374"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3384",
+      "subject": "IS",
+      "number": "3384",
+      "level": 3000,
+      "title": "Politics of Global and Comparative Migration",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories and politics of international migration. How policies in destination, transit, and origin countries influence migration. Why governments adopt the migration policies they do. Impacts of global, regional, and national politics and policies on migration among countries.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or IS 1024 or PSCI 2054 or IS 2054 or GEOG 2054 or PSCI 2064 or IS 2064 or GEOG 2064 or PSCI 2084 or IS 2084",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 1024",
+          "IS 2054",
+          "IS 2064",
+          "IS 2084",
+          "PSCI 1024",
+          "PSCI 2054",
+          "PSCI 2064",
+          "PSCI 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3384"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3394",
+      "subject": "IS",
+      "number": "3394",
+      "level": 3000,
+      "title": "Comparative Politics of Immigrant Inclusion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories of citizenship applied across levels of government. Comparative policies for political, social, and military inclusion. Explanations for variations in policies supporting citizenship and inclusion across countries. Explanations for differences among immigrants’ political inclusion across countries.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or IS 1024 or PSCI 2054 or IS 2054 or GEOG 2054 or PSCI 2064 or IS 2064 or GEOG 2064 or PSCI 2084 or IS 2084",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 1024",
+          "IS 2054",
+          "IS 2064",
+          "IS 2084",
+          "PSCI 1024",
+          "PSCI 2054",
+          "PSCI 2064",
+          "PSCI 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3394"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3514",
+      "subject": "IS",
+      "number": "3514",
+      "level": 3000,
+      "title": "Latin American Government and Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the political systems of Latin American countries, including legislative-executive relations, interest groups, political parties, electoral systems, political violence, and socio-political development.",
+      "prerequisites": {
+        "rawText": "PSCI 1014H or PSCI 1014 or PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1014",
+          "PSCI 1014H",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3514"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3515",
+      "subject": "IS",
+      "number": "3515",
+      "level": 3000,
+      "title": "European Political Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The government and politics of selected European states and of the European Union. 3515: normally includes the United Kingdom. 3516: normally includes Germany and Hungary.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3515"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3516",
+      "subject": "IS",
+      "number": "3516",
+      "level": 3000,
+      "title": "European Political Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The government and politics of selected European states and of the European Union. 3515: normally includes the United Kingdom. 3516: normally includes Germany and Hungary.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3516"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3524",
+      "subject": "IS",
+      "number": "3524",
+      "level": 3000,
+      "title": "Politics of Post-Communist Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Institutions, party structures, political economy, elite politics, ethnic conflicts, leadership dynamics, and mass political behavior in Russia and other post-communist political systems.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3524"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3534",
+      "subject": "IS",
+      "number": "3534",
+      "level": 3000,
+      "title": "African Government and Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of major concepts and themes in the study of African politics and development: analyses of the state, political institutions, social forces, democratization, sustainable development, issues of contemporary African politics.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3534"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3554",
+      "subject": "IS",
+      "number": "3554",
+      "level": 3000,
+      "title": "Comparative Political Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic policies and collective choice processes of pre-industrial, industrializing, and advanced industrial states; problems and crises of industrial development, economic distribution, and technological transfer in the transition from an agrarian to advanced industrial society.",
+      "prerequisites": {
+        "rawText": "PSCI 1014 or PSCI 1014H or PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1014",
+          "PSCI 1014H",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3574",
+      "subject": "IS",
+      "number": "3574",
+      "level": 3000,
+      "title": "Government and Politics of Japan",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to governmental institutions, patterns of political organization and behavior, and key policies of the Japanese political system.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3574"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3584",
+      "subject": "IS",
+      "number": "3584",
+      "level": 3000,
+      "title": "Governments and Politics of Asia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to governmental institutions, political behavior, and social and economic policy approaches of China and other selected countries in the Asian region.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3584"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3594",
+      "subject": "IS",
+      "number": "3594",
+      "level": 3000,
+      "title": "Topics in Middle East Politics and International Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Government and politics of Middle Eastern states. Religion, culture and society in the Middle East. Nationalism and Middle East politics. Regional conflicts and regional security. International relations of the Middle East. Great powers and Middle East politics. May be repeated twice with different content for a maximum of nine (9) credits.",
+      "prerequisites": {
+        "rawText": "IS 1024 or PSCI 1024 or IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 1024",
+          "IS 2054",
+          "PSCI 1024",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3594"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3615",
+      "subject": "IS",
+      "number": "3615",
+      "level": 3000,
+      "title": "International Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure and development of the modern international system, theories of international policies, international law; international organizations.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054 or PSCI 2064 or IS 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3615"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3616",
+      "subject": "IS",
+      "number": "3616",
+      "level": 3000,
+      "title": "International Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure and development of the modern international system; theories of international policies; international law; international organizations.",
+      "prerequisites": {
+        "rawText": "PSCI 2054 or IS 2054 or GEOG 2054 or PSCI 2064 or IS 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3616"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3624",
+      "subject": "IS",
+      "number": "3624",
+      "level": 3000,
+      "title": "Foreign Policy and Diplomacy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on actors, issues, and processes pertaining to foreign policy formulation and implementation. Examines theoretical and historical perspectives on foreign policy analysis. Investigates the national security, foreign policy, and diplomacy nexus. Discusses type of diplomacy and diplomatic methods.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3624"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3625",
+      "subject": "IS",
+      "number": "3625",
+      "level": 3000,
+      "title": "US-Russia Foreign Policies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3625: Formulation of American foreign policy; roles of the President; Congress; press; public; and bureaucracy; central themes, issues, and problems of American diplomacy; 3626: Development and operational practices of Russian foreign policy decision-making in the international environment; party and state political institutions; Marxist-Lenninist ideology.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or IS 1024 or PSCI 1024H or IS 1024H",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3625"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3626",
+      "subject": "IS",
+      "number": "3626",
+      "level": 3000,
+      "title": "US-Russia Foreign Policies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3625: Formulation of American foreign policy; roles of the President, Congress, press, and bureaucracy; central themes, issues, and problems of American diplomacy; 3626: Development and operational practices of Russian foreign policy decision-making in the international environment; party and state political institutions; Marxist-Leninist ideology.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H",
+        "referencedCourses": [
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3626"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3634",
+      "subject": "IS",
+      "number": "3634",
+      "level": 3000,
+      "title": "Human Rights: Global Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identification, articulation and clarification of the relationship between human rights and other contemporary international phenomena, issues, events, and processes that affect human rights. Detailed consideration of the diverse traditions and cultural interpretations of human rights.",
+      "prerequisites": {
+        "rawText": "PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H or PSCI 2054 or IS 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 1024",
+          "IS 2054",
+          "PSCI 1024",
+          "PSCI 1024H",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3634"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3644",
+      "subject": "IS",
+      "number": "3644",
+      "level": 3000,
+      "title": "Religion in the Middle East",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical issues in religion in the Middle East. Competing methods for analyzing religion in the Middle East. Key concepts relating to religion and inter-religious relations in the Middle East such as minority, majority, tolerance, citizenship, and family law. Critical thinking about the relationship between Islam and other religions with particular reference to Muslim-Jewish and Muslim-Christian relations.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ARBC 3644",
+        "RLCL 3644"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3694",
+      "subject": "IS",
+      "number": "3694",
+      "level": 3000,
+      "title": "Far-right Violence in the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Assessment of theoretical and conceptual foundations to understand the rise of far-right violence in the United States. Identification of causes of radicalization into the far-right. Comparison of case studies of historical and contemporary far-right violence. Evaluation of differences and similarities in historical and contemporary case studies. Appraisal of successful responses to far-right violence.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3694"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3704",
+      "subject": "IS",
+      "number": "3704",
+      "level": 3000,
+      "title": "National Security Strategy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the causes of war and the conditions of peace. Examines the logic, levels, and outcomes of strategy and investigates the impact of international law and politics on the use of force. Explores contemporary strategic theory and discusses current issues in grand strategy.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3704"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3734",
+      "subject": "IS",
+      "number": "3734",
+      "level": 3000,
+      "title": "National Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Post-1945 strategic problems, policies, and security commitments of major participants in international politics, especially the United States and Russia; effects of security policies on international and domestic political economies.",
+      "prerequisites": {
+        "rawText": "PSCI 2054 or IS 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3734"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3795",
+      "subject": "IS",
+      "number": "3795",
+      "level": 3000,
+      "title": "Global Terrorism and Counterterrorism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluation of theories and concepts used to analyze terrorism and counterterrorism. Identification and analysis of origins, causes, and consequences of terrorism globally. Comparison of historical and contemporary terrorism and counterterrorism. Appraisal of how histories of colonialism and the growth of new media affect terrorism and responses to terrorism. Identification of successful counterterrorism methods, strategies and practices. Evaluation of ethics and human rights in global counterterrorism. 3795: histories, origins, and spread of terrorism; 3796: strategies and practices of counterterrorism.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3795"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3796",
+      "subject": "IS",
+      "number": "3796",
+      "level": 3000,
+      "title": "Global Terrorism and Counterterrorism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluation of theories and concepts used to analyze terrorism and counterterrorism. Identification and analysis of origins, causes, and consequences of terrorism globally. Comparison of historical and contemporary terrorism and counterterrorism. Appraisal of how histories of colonialism and the growth of new media affect terrorism and responses to terrorism. Identification of successful counterterrorism methods, strategies and practices. Evaluation of ethics and human rights in global counterterrorism. 3795: histories, origins, and spread of terrorism; 3796: strategies and practices of counterterrorism.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3796"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3804",
+      "subject": "IS",
+      "number": "3804",
+      "level": 3000,
+      "title": "European Integration",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the process of industrial, political, legal, economic, social and cultural integration of states in Europe as a whole or within a European sub-region. History and theories of European integration. Examination of various European organizations whose actions reflect different approaches to and different degrees of integration in Europe.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3804"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3814",
+      "subject": "IS",
+      "number": "3814",
+      "level": 3000,
+      "title": "The European Union: Institutions and Policies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evolution, organizational structure, political dynamics, and decision-making mechanisms of the European Union. Major internal and external EU policies such as foreign, security and defense policy, economics, Single Market, and monetary union.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2084 or PSCI 2084 or GEOG 2084)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2084",
+          "IS 2054",
+          "IS 2084",
+          "IS 3804",
+          "PSCI 2054",
+          "PSCI 2084",
+          "PSCI 3804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3814"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3824",
+      "subject": "IS",
+      "number": "3824",
+      "level": 3000,
+      "title": "European Union's Foreign and Security Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The European Union (EU) as an actor in the foreign, security and defense policy fields. The external relations of the EU and its role in world affairs. The institutional arrangements of EU external relations and EU activity in policy areas including human rights, peacekeeping, environmental governance, trade, and economic development.",
+      "prerequisites": {
+        "rawText": "(IS 3814 or PSCI 3814) or (IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2084 or PSCI 2084 or GEOG 2084)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2084",
+          "IS 2054",
+          "IS 2084",
+          "IS 3814",
+          "PSCI 2054",
+          "PSCI 2084",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3824"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3825",
+      "subject": "IS",
+      "number": "3825",
+      "level": 3000,
+      "title": "European Union's Foreign Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The global strategy and foreign policy objectives of the European Union and the evolving relations between the EU and the rest of the world. EU’s role in world affairs. 3825: EU’s global strategy and its relations with major world powers, such as the United States, Russia, and China. 3826: EU’s global strategy and its relations with countries in various world regions as well as global multilateral organizations, such as the United Nations (UN) and the World Trade Organization (WTO).",
+      "prerequisites": {
+        "rawText": "IS 3814 or PSCI 3814",
+        "referencedCourses": [
+          "IS 3814",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3825"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3826",
+      "subject": "IS",
+      "number": "3826",
+      "level": 3000,
+      "title": "European Union's Foreign Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The global strategy and foreign policy objectives of the European Union and the evolving relations between the EU and the rest of the world. EU’s role in world affairs. 3825: EU’s global strategy and its relations with major world powers, such as the United States, Russia, and China. 3826: EU’s global strategy and its relations with countries in various world regions as well as global multilateral organizations, such as the United Nations (UN) and the World Trade Organization (WTO).",
+      "prerequisites": {
+        "rawText": "IS 3814 or PSCI 3814",
+        "referencedCourses": [
+          "IS 3814",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3826"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3834",
+      "subject": "IS",
+      "number": "3834",
+      "level": 3000,
+      "title": "European Security Governance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure and function of major European security organizations, such as the North Atlantic Treaty Organization (NATO), the European Union (EU), the Organization for Security and Cooperation in Europe (OSCE), and the Collective Security Treaty Organization (CSTO). In-depth analysis of those organizations’ role in the European security architecture. Examination of inter-organizational cooperation in addressing European security issues and conflicts.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 3814 or PSCI 3814) or (IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2084 or PSCI 2084 or GEOG 2084)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2084",
+          "IS 2054",
+          "IS 2084",
+          "IS 3804",
+          "IS 3814",
+          "PSCI 2054",
+          "PSCI 2084",
+          "PSCI 3804",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3834"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3844",
+      "subject": "IS",
+      "number": "3844",
+      "level": 3000,
+      "title": "European Geopolitics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impact of Geography on European politics and economics. Significance of territorial, identity, networking and environmental geopolitics. Theoretical debates in the fields of political and population geography. Current culture and demographic challenges and geopolitical disputes within Europe and particularly between the European Union (EU) and its neighboring world regions.",
+      "prerequisites": {
+        "rawText": "GEOG 2224 or IS 2224 or PSCI 2224",
+        "referencedCourses": [
+          "GEOG 2224",
+          "IS 2224",
+          "PSCI 2224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 3844",
+        "PSCI 3844"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3854",
+      "subject": "IS",
+      "number": "3854",
+      "level": 3000,
+      "title": "European Political Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The European Union’s major institutions and policies relating to economic and monetary union and trade. Monetary integration, fiscal and economic policy cooperation, financial integration (including the banking union), the single market and the common commercial policy, the common agricultural policy and the EU’s regional policy. The internal structure and organization of the European political economy and the external dimension of Europe and its impact on global economics, ranging from the World Trade Organization to EU enlargement and the Developing World.",
+      "prerequisites": {
+        "rawText": "(IS 3814 or PSCI 3814) or (IS 2064 or PSCI 2064 or GEOG 2064)",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "IS 3814",
+          "PSCI 2064",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3854"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3874",
+      "subject": "IS",
+      "number": "3874",
+      "level": 3000,
+      "title": "The European Business Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Political, legal, economic, socio-cultural, technological and environmental issues and policies affecting the operation and strategies of foreign companies in Europe. Business operations inside and outside the European Union. Impact of EU policies and the EU legal framework on business strategies and policies of non-EU companies. Business strategy for the European market, marketing and human resources management in Europe, and corporate governance and control in Europe. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MGT 3874",
+        "PSCI 3874"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3884",
+      "subject": "IS",
+      "number": "3884",
+      "level": 3000,
+      "title": "Culture and Society in Contemporary Europe",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The impact of religion and culture in contemporary European politics and societies. Nationalism versus European cosmopolitanism. Religion, religious radicalism and religious tolerance in Europe. Culture and society in European urban and rural areas. Attitudes towards women and LGBTQ in Europe. Social foundations and cultural determinants of marginalization of social groups, migrants and refugees.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3884",
+        "SOC 3884"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3894",
+      "subject": "IS",
+      "number": "3894",
+      "level": 3000,
+      "title": "Transatlantic Relations Since 1945",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the post- World War II transatlantic relations. Origins and historical context of the transatlantic partnership. Impact of the changing security context and domestic politics on the evolution of transatlantic relations. Causes of tensions and discord between the United States and its European allies and their impact on European security and world order.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3894"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3914",
+      "subject": "IS",
+      "number": "3914",
+      "level": 3000,
+      "title": "European Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Microeconomics, macroeconomics and economic policies of the European Union. EU economic law, institutions, decision-making, and budgeting. Historic and current influences on regional economic development. Monetary and fiscal policies. Economic research methods, analysis, and reporting.",
+      "prerequisites": {
+        "rawText": "ECON 2006",
+        "referencedCourses": [
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 3914",
+        "PSCI 3914"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3924",
+      "subject": "IS",
+      "number": "3924",
+      "level": 3000,
+      "title": "Theories of Transatlantic Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of historical, cultural, and civilizational approaches to the study of ties binding Europe and North America. Exploration of the role of identity and national interests in the analysis of transatlantic relations. Investigation of the causes of tensions between the United States and its European allies and the management of these tensions.",
+      "prerequisites": {
+        "rawText": "(IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2084 or PSCI 2084 or GEOG 2084)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2084",
+          "IS 2054",
+          "IS 2084",
+          "PSCI 2054",
+          "PSCI 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3924"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3934",
+      "subject": "IS",
+      "number": "3934",
+      "level": 3000,
+      "title": "NATO & European Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Origins and evolution of the North Atlantic Treaty Organization (NATO). Organizational structure, decision and policy-making, missions, and operations. NATO and the European Union's Common Foreign and Security policy (CFSP) and Common Security and Defense Policy (CSDP). Impact of domestic politics and external policies on the operation of NATO and European security.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 2054 or PSCI 2054 or GEOG 2054) or (IS 2084 or PSCI 2084 or GEOG 2084)",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2084",
+          "IS 2054",
+          "IS 2084",
+          "IS 3804",
+          "PSCI 2054",
+          "PSCI 2084",
+          "PSCI 3804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3934"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3944",
+      "subject": "IS",
+      "number": "3944",
+      "level": 3000,
+      "title": "International Enrollment",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved study abroad program without direct supervision of the Va Tech faculty but with required enrollment in an approved program of study in a foreign university.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3944S",
+      "subject": "IS",
+      "number": "3944S",
+      "level": 3000,
+      "title": "International Enroll Special 3",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved Study Abroad program without direct supervision of the Virginia Tech faculty but with required enrollment in an approved program of study in an international university. Course represents three billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3944T",
+      "subject": "IS",
+      "number": "3944T",
+      "level": 3000,
+      "title": "International Enroll Special 4",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved Study Abroad program without direct supervision of the Virginia Tech faculty but with required enrollment in an approved program of study in an international university. Course represents four billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3944U",
+      "subject": "IS",
+      "number": "3944U",
+      "level": 3000,
+      "title": "International Enroll Special 6",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved Study Abroad program without direct supervision of the Virginia Tech faculty but with required enrollment in an approved program of study in an international university. Course represents six billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3954",
+      "subject": "IS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 3984",
+      "subject": "IS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4004",
+      "subject": "IS",
+      "number": "4004",
+      "level": 4000,
+      "title": "Seminar in International Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdepartmental seminar to synthesize and articulate basic assumptions, theories, and methods of international studies. Senior standing in IS and instructor consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4014",
+      "subject": "IS",
+      "number": "4014",
+      "level": 4000,
+      "title": "International Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Utilizes development, gender, and social theory to examine the impact of aid programs on communities in the Third World. Analyzes such issues as the impact of development projects in agriculture, natural resources, and employment on the local people, the impact of aid on women; and the policies and administrative structures that direct the world of international development.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4024",
+      "subject": "IS",
+      "number": "4024",
+      "level": 4000,
+      "title": "Seminar in Diplomacy and Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth analysis of selected topics in diplomacy, strategy, and national security including issues pertaining to international conflict and cooperation; dimensions of national power; objectives of national policy and implementation of national strategy; diplomatic negotiations; and conflict resolution. Senior Standing.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4034",
+      "subject": "IS",
+      "number": "4034",
+      "level": 4000,
+      "title": "Topics in Diplomacy Lab",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the fundamentals of policy analysis and formulation and emphasizes research and writing on topics pertaining to diplomacy, security, and foreign policy. Focuses on policy analysis and evaluation and concentrates on policy design. Emphasizes preparation and presentation of policy reports. May be taken three times for credit with different policy topics. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4034"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4044",
+      "subject": "IS",
+      "number": "4044",
+      "level": 4000,
+      "title": "International Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comparative perspectives on global communication systems; problems with the flow of information; roles of international organizations; mass communication and national development; implications for conflict resolution; selected case studies. Senior standing required or instructor consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JMC 4044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4054",
+      "subject": "IS",
+      "number": "4054",
+      "level": 4000,
+      "title": "Seminar in Global Political Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines theoretical and historical approaches to global political economy and assesses their practical implications. Focuses on issue areas such as production, trade, money, finance and investment and analyzes their implications for the global economic and political order. Investigates issues pertaining to economies of development and in transition. Senior Standing.",
+      "prerequisites": {
+        "rawText": "IS 2064 or PSCI 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4064",
+      "subject": "IS",
+      "number": "4064",
+      "level": 4000,
+      "title": "Seminar in Global Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines how economic and political forces interact in the developing world, discusses the history of these interactions from the pre-colonial period to the present and explores how colonialism shaped the developing worlds economic and political trajectories. Utilizes case studies, historical analysis and development economics to better understand the economic and political condition of countries in the developing world. Senior Standing.",
+      "prerequisites": {
+        "rawText": "IS 2064 or PSCI 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2064",
+          "IS 2064",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4074",
+      "subject": "IS",
+      "number": "4074",
+      "level": 4000,
+      "title": "The Politics of Cybersecurity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analyses the politics of cybercrime, cyberwar, and the challenges of producing effective cybersecurity. Topics include the economics of cybersecurity, the cross-border nature of global cybercrime, encryption and anonymity-granting technologies, targeting critical national infrastructure, network investigative techniques, cybersecurity measurement, politics of zero-day vulnerabilities, and the process of providing effective cybersecurity at the individual, organizational, subnational, and national levels.",
+      "prerequisites": {
+        "rawText": "PSCI 3044 or IS 3044",
+        "referencedCourses": [
+          "IS 3044",
+          "PSCI 3044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4074"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4104",
+      "subject": "IS",
+      "number": "4104",
+      "level": 4000,
+      "title": "Topics in European Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected issues pertaining to European Studies, such as racism in Europe, European art and society, religion and society in Europe, gender politics, and demographic trends in Europe. May be repeated twice with different content for a maximum of nine (9) credits. Pre: Senior Standing.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 3814 or PSCI 3814)",
+        "referencedCourses": [
+          "IS 3804",
+          "IS 3814",
+          "PSCI 3804",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4104"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4114",
+      "subject": "IS",
+      "number": "4114",
+      "level": 4000,
+      "title": "Topics in European Union Policies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Governmental and non-governmental actors in environmental policy, climate, energy, health, agricultural, education, industrial, social or similar policymaking. EU organizational structures and decision-making mechanisms. Public opinion. Analysis of policy results and effectiveness. May be repeated twice with different content for a maximum of nine (9) credits. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "(IS 3814 or PSCI 3814) or (IS 3804 or PSCI 3804)",
+        "referencedCourses": [
+          "IS 3804",
+          "IS 3814",
+          "PSCI 3804",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4124",
+      "subject": "IS",
+      "number": "4124",
+      "level": 4000,
+      "title": "Topics in European Integration",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research and analysis of selected issues pertaining to European integration. Democracy and European governance. Nationalism and European integration. Impact of fascism and racism on European integration. Integration of refugees and migrants in European societies. May be repeated twice with different content for a maximum of nine (9) credits. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 3814 or PSCI 3814)",
+        "referencedCourses": [
+          "IS 3804",
+          "IS 3814",
+          "PSCI 3804",
+          "PSCI 3814"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4134",
+      "subject": "IS",
+      "number": "4134",
+      "level": 4000,
+      "title": "Capstone Research Project in European Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Independent research project focusing on contemporary Europe. Identifying a topic of inquiry, formulating a research question, conducting a literature review, and preparing a research proposal. Collecting, evaluating and analyzing data, composing a research paper and presenting the research findings. Topics may originate from any discipline contributing to European studies. Pre: Senior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4144",
+      "subject": "IS",
+      "number": "4144",
+      "level": 4000,
+      "title": "Topics in Transatlantic Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research and analysis of selected post World War II political, diplomatic and security issues pertaining to transatlantic relations. Topics under examination include: US-EU relations and European security; the transatlantic partnership and world order; transatlantic politics and the global economic system; causes of the transatlantic divide; British foreign policy, transatlantic relations and European security. May be repeated twice with different content for a maximum of nine (9) credits. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 3814 or PSCI 3814) or (IS 3894 or PSCI 3894)",
+        "referencedCourses": [
+          "IS 3804",
+          "IS 3814",
+          "IS 3894",
+          "PSCI 3804",
+          "PSCI 3814",
+          "PSCI 3894"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4144"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4154",
+      "subject": "IS",
+      "number": "4154",
+      "level": 4000,
+      "title": "Topics in Transatlantic Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research and analysis of selected issues pertaining to transatlantic studies. Topics under examination include: religion and the transatlantic world; the political economy of the transatlantic slave trade; and the role of culture, language, and literature in cementing transatlantic ties. May be repeated twice with different content for a maximum of nine (9) credits. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "(IS 3804 or PSCI 3804) or (IS 3814 or PSCI 3814) or (IS 3894 or PSCI 3894)",
+        "referencedCourses": [
+          "IS 3804",
+          "IS 3814",
+          "IS 3894",
+          "PSCI 3804",
+          "PSCI 3814",
+          "PSCI 3894"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4154"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4174",
+      "subject": "IS",
+      "number": "4174",
+      "level": 4000,
+      "title": "Climate Change and the International Policy Framework",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Science, causes and impacts of climate change. Mitigation and adaptation measures to address the causes and impacts of climate change. International climate change policy, with attention to the policy making process, in particular the role of the United Nations Framework Convention on Climate Change and climate negotiations. Science and diplomacy in climate negotiations to achieve successful outcomes. The ethical and social implications of climate change policies.",
+      "pathwaysConcepts": [
+        "1A",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 4174",
+        "PSCI 4174"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4184",
+      "subject": "IS",
+      "number": "4184",
+      "level": 4000,
+      "title": "Capstone Project Transatlantic Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Independent research project focusing on issues and topics pertaining to transatlantic studies. Identifying a topic of inquiry, formulating a research question, conducting a literature review, and preparing a research proposal. Collecting, evaluating and analyzing data, composing a research paper and presenting the research findings. Topics may originate from any discipline contributing to transatlantic studies. Pre: Senior Standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4184"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4614",
+      "subject": "IS",
+      "number": "4614",
+      "level": 4000,
+      "title": "Senior Seminar in International Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics in international relations, including objectives of national policy; dimensions and components of national power; comparative diplomacy; international conflict and cooperation; instruments of conflict resolution. Topics vary from semester to semester as announced. Must have senior standing and any two of the prerequisites.",
+      "prerequisites": {
+        "rawText": "PSCI 3615 or PSCI 3616 or IS 3615 or IS 3616 or PSCI 3625 or PSCI 3626 or PSCI 3734 or IS 3626 or IS 3734",
+        "referencedCourses": [
+          "IS 3615",
+          "IS 3616",
+          "IS 3626",
+          "IS 3734",
+          "PSCI 3615",
+          "PSCI 3616",
+          "PSCI 3625",
+          "PSCI 3626",
+          "PSCI 3734"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4614"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4624",
+      "subject": "IS",
+      "number": "4624",
+      "level": 4000,
+      "title": "The Washington Semester: Seminar in American Politics and Public Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This seminar is the integrative forum for the principal elements of the Washington Semester experience. The course explores both the role of political institutions in policy formation and implementation and the primary managerial and leadership challenges that arise for implementing organization managers in American democratic public policy-making. Pre: Junior standing or instructor consent and acceptance into the Washington Semester program.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4624",
+        "UAP 4624"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4714",
+      "subject": "IS",
+      "number": "4714",
+      "level": 4000,
+      "title": "Senior Seminar in Policy Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theoretical, analytical, and methodological approaches used to assess government activities and public policy. Topics vary from semester to semester as announced. Must have senior standing.",
+      "prerequisites": {
+        "rawText": "PSCI 3724 and PSCI 3734",
+        "referencedCourses": [
+          "PSCI 3724",
+          "PSCI 3734"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4714"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4734",
+      "subject": "IS",
+      "number": "4734",
+      "level": 4000,
+      "title": "Theories and Practices of International Conflict Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines alternative perspectives on peace, security, and international intervention and their implications for policy. Focuses on the role of international organizations and other actors in conflict resolution and peace-building and explores issues pertaining to humanitarian intervention, human security, and state-building. Utilizes case studies in peacekeeping and peace building to highlight the link between theory and practice.",
+      "prerequisites": {
+        "rawText": "PSCI 3616 or IS 3616",
+        "referencedCourses": [
+          "IS 3616",
+          "PSCI 3616"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4734"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4736",
+      "subject": "IS",
+      "number": "4736",
+      "level": 4000,
+      "title": "Topics in Multilateral Diplomacy Workshop",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Simulation of diplomatic practice in major global and regional international organizations. Diplomatic strategies and tactics. Effects of decision-making and policy-making structures and processes on diplomatic outcomes. Crisis management and conflict resolutions mechanisms. Diplomatic negotiations and diplomatic resolutions. Extensive use of simulations. 4735: Multilateral diplomacy in global organizations: United Nations (UN) and World Trade Organization (WTO). May be repeated once with different content for a maximum of six (6) credits. 4736: Multilateral diplomacy in sub-global/regional organizations: European Union (EU), North Atlantic Treaty Organization (NATO), and Organization for Security & Cooperation in Europe (OSCE). May be repeated once with different content for a maximum of six (6) credits. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4736"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4744",
+      "subject": "IS",
+      "number": "4744",
+      "level": 4000,
+      "title": "Intelligence Analysis Workshop",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the impact of historical experience and bureaucratic structures on intelligence analysis. Discusses the contents of the intelligence agenda and explores issues pertaining to intelligence analysis. Focuses on the intelligence process and offers a target-centric approach to intelligence analysis. Emphasizes and evaluates the use of structured analytic techniques in intelligence analysis.",
+      "prerequisites": {
+        "rawText": "IS 2054 or PSCI 2054 or GEOG 2054",
+        "referencedCourses": [
+          "GEOG 2054",
+          "IS 2054",
+          "PSCI 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4744"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4754",
+      "subject": "IS",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4964",
+      "subject": "IS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4974",
+      "subject": "IS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4974H",
+      "subject": "IS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4984",
+      "subject": "IS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4994",
+      "subject": "IS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "IS 4994H",
+      "subject": "IS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/is/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

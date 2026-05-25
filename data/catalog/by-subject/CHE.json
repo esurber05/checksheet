@@ -1,0 +1,881 @@
+{
+  "subject": "CHE",
+  "scrapedAt": "2026-05-25T21:18:56.257Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CHE 2004",
+      "subject": "CHE",
+      "number": "2004",
+      "level": 2000,
+      "title": "Chemical Engineering Sophomore Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Career opportunities and current topics of interest in the Chemical Engineering profession.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 2114",
+      "subject": "CHE",
+      "number": "2114",
+      "level": 2000,
+      "title": "Mass and Energy Balances",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Stoichiometric and composition relationships, behavior of gases, vapor pressures, solubility, mass balances, recycling operations, energy balances, first law of thermodynamics, thermophysics, thermochemistry, fuels and combustion, application to chemical operations.",
+      "prerequisites": {
+        "rawText": "MATH 1226 and (CHEM 1036 or CHEM 1036H or CHEM 1056 or CHEM 1056H)",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 2164",
+      "subject": "CHE",
+      "number": "2164",
+      "level": 2000,
+      "title": "Chemical Engineering Thermodynamics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "First and Second Laws, properties of fluids, properties of homogeneous mixtures; phase equilibria, chemical-reaction equilibria. Grade of C- or better required in prerequisite CHE 2114.",
+      "prerequisites": {
+        "rawText": "CHE 2114 and MATH 2204 and PHYS 2306",
+        "referencedCourses": [
+          "CHE 2114",
+          "MATH 2204",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 2974",
+      "subject": "CHE",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 2984",
+      "subject": "CHE",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3015",
+      "subject": "CHE",
+      "number": "3015",
+      "level": 3000,
+      "title": "Process Measurement & Control",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3015: Common process measurements; applications to theory and practice of automatic control of chemical processes; 3016: Design and laboratory practice underlying the automatic computer control of chemical processes.",
+      "prerequisites": {
+        "rawText": "MATH 2214 and CHE 3114",
+        "referencedCourses": [
+          "CHE 3114",
+          "MATH 2214"
+        ]
+      },
+      "corequisites": {
+        "rawText": "3124, (3184 or 3185), (3044 or 3154) for 3015",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3044",
+      "subject": "CHE",
+      "number": "3044",
+      "level": 3000,
+      "title": "Heat Transfer",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "One and two dimensional conduction, convection, and diffusion of thermal energy; heat transfer rates, steady state and unsteady state conduction, convection; design of heat exchangers; forced and free convection boiling and condensation.",
+      "prerequisites": {
+        "rawText": "CHE 2164 and CHE 3114 and MATH 4564",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHE 3114",
+          "MATH 4564"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3114",
+      "subject": "CHE",
+      "number": "3114",
+      "level": 3000,
+      "title": "Fluid Transport",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fluid statics, surface tension, fluid dynamics, Newtons Law of viscosity, momentum transport, laminar and turbulent flow, velocity profiles, flow in pipes, flow around objects, non-Newtonian fluids, design of piping systems, pumps and mixing.",
+      "prerequisites": {
+        "rawText": "CHE 2114 and PHYS 2305 and MATH 2204",
+        "referencedCourses": [
+          "CHE 2114",
+          "MATH 2204",
+          "PHYS 2305"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 2214",
+        "referencedCourses": [
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3124",
+      "subject": "CHE",
+      "number": "3124",
+      "level": 3000,
+      "title": "Chemical Engineering Simulations and Process Modeling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of strategies to pose and numerically solve sets of algebraic and differential equations that describe chemical engineering systems and processes. Iterative root finding and optimization approaches to solving non-linear equations, analyze data, and determine best-fit model parameters. Numerical strategies to integrate and differentiate models and data. Approaches to solve ordinary and partial differential equations that describe reaction kinetics, process control, and transport of momentum, heat and mass. Algorithm development, coding, and graphical representation of solutions. (3H,3C)",
+      "prerequisites": {
+        "rawText": "CHE 2114 and MATH 2214",
+        "referencedCourses": [
+          "CHE 2114",
+          "MATH 2214"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHE 3114",
+        "referencedCourses": [
+          "CHE 3114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3134",
+      "subject": "CHE",
+      "number": "3134",
+      "level": 3000,
+      "title": "Separation Processes",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Binary separations and multicomponent separations, distillation, batch distillation, extraction, absorption, McCabe-Thiele and Ponchon Savaret methods, short cut methods, design of plate columns, plate and column efficiencies.",
+      "prerequisites": {
+        "rawText": "CHE 2114 and MATH 2204 and PHYS 2306",
+        "referencedCourses": [
+          "CHE 2114",
+          "MATH 2204",
+          "PHYS 2306"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHE 2164 2164",
+        "referencedCourses": [
+          "CHE 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3144",
+      "subject": "CHE",
+      "number": "3144",
+      "level": 3000,
+      "title": "Mass Transfer",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidimensional molecular diffusion and convection of single and multi-component systems; mass transfer rates; steady state, quasi-steady state and transient mass transfer; effect of reactions on mass transfer; convective mass transfer coefficients; design of stage and continuous gas/liquid contractors, membrane, liquid-liquid and liquid-solid separation processes, artificial kidney and drug delivery systems.",
+      "prerequisites": {
+        "rawText": "CHE 3114 and CHE 2164 and MATH 2214",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHE 3114",
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3154",
+      "subject": "CHE",
+      "number": "3154",
+      "level": 3000,
+      "title": "Heat Transfer Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of conduction, convection, and radiation of thermal energy through one or more phases; analytical and numerical methods for modeling multi-dimensional and unsteady-state conduction; analysis of forced and free convection in conduits and around submerged bodies; design of heat exchangers; radiative heat transfer; boiling and condensation.",
+      "prerequisites": {
+        "rawText": "CHE 2164 and CHE 3114",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHE 3114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3185",
+      "subject": "CHE",
+      "number": "3185",
+      "level": 3000,
+      "title": "Chemical Reactor Analysis and Design",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to mathematical frameworks for analysis and modeling of chemical reactions within different reactor configurations. 3185: Reaction equilibria, power-law rate expressions, Arrhenius law, rate constants, analysis of kinetic data, design of single and multiple isothermal reactors. 3186: Reaction mechanisms, multiple reactions, selectivity, non-isothermal reactors, catalytic reactions and design of catalytic reactors.",
+      "prerequisites": {
+        "rawText": "CHE 2114 and (MATH 2214 or MATH 2214H)",
+        "referencedCourses": [
+          "CHE 2114",
+          "MATH 2214",
+          "MATH 2214H"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHE 2164, CHE 3114",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHE 3114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3186",
+      "subject": "CHE",
+      "number": "3186",
+      "level": 3000,
+      "title": "Chemical Reactor Analysis and Design",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to mathematical frameworks for analysis and modeling of chemical reactions within different reactor configurations. 3185: Reaction equilibria, power-law rate expressions, Arrhenius law, rate constants, analysis of kinetic data, design of single and multiple isothermal reactors. 3186: Reaction mechanisms, multiple reactions, selectivity, non-isothermal reactors, catalytic reactions and design of catalytic reactors.",
+      "prerequisites": {
+        "rawText": "CHE 3185 and CHE 3114 and CHE 3144 and (CHE 3044 or CHE 3154)",
+        "referencedCourses": [
+          "CHE 3044",
+          "CHE 3114",
+          "CHE 3144",
+          "CHE 3154",
+          "CHE 3185"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 3984",
+      "subject": "CHE",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4014",
+      "subject": "CHE",
+      "number": "4014",
+      "level": 4000,
+      "title": "Chemical Engineering Laboratory",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Practical experience in the planning of experimentation, gathering of experimental data, interpretation of data, and the preparation of written and oral reports. Use of small-scale processing equipment, automatic control, and data acquisition. Emphasis on teamwork, safety, engineering judgment, and professional behavior. Applications include fluid flow, mixing, filtration, and distillation, process control, heat transfer, mass transfer, and chemical reaction kinetics. Consideration of ethical choices in engineering practice and societal impacts of engineering solutions. In-major GPA of 2.0 or better.",
+      "prerequisites": {
+        "rawText": "CHE 2164 and CHE 3015 and CHE 3114 and CHE 3124 and CHE 3134 and CHE 3144 and (CHE 3044 or CHE 3154) and CHE 3185 and ENGL 3764",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHE 3015",
+          "CHE 3044",
+          "CHE 3114",
+          "CHE 3124",
+          "CHE 3134",
+          "CHE 3144",
+          "CHE 3154",
+          "CHE 3185",
+          "ENGL 3764"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(12 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4015",
+      "subject": "CHE",
+      "number": "4015",
+      "level": 4000,
+      "title": "Chemical Engineering Unit Operations Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Practical experience in the planning of experimentation, gathering of experimental data, interpretation of data, and the preparation of written and oral reports. Use of small-scale processing equipment, automatic control, and data acquisition. Emphasis on teamwork, safety, engineering judgment, and professional behavior. 4015: Applications include fluid flow, mixing, filtration, distillation, and chemical reaction kinetics. Consideration of ethical choices in engineering practice. 4016: Applications in process control, heat transfer, mass transfer, and catalysis. Consideration of the societal impacts of engineering solutions. In-major GPA of 2.0 or better.",
+      "prerequisites": {
+        "rawText": "CHE 2164 and CHE 3114 and CHE 3124 and CHE 3134 and (CHE 3184 or CHE 3185) and ENGL 3764",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHE 3114",
+          "CHE 3124",
+          "CHE 3134",
+          "CHE 3185",
+          "ENGL 3764"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4016",
+      "subject": "CHE",
+      "number": "4016",
+      "level": 4000,
+      "title": "Chemical Engineering Unit Operations Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Practical experience in the planning of experimentation, gathering of experimental data, interpretation of data, and the preparation of written and oral reports. Use of small-scale processing equipment, automatic control, and data acquisition. Emphasis on teamwork, safety, engineering judgment, and professional behavior. 4015: Applications include fluid flow, mixing, filtration, distillation, and chemical reaction kinetics. Consideration of ethical choices in engineering practice. 4016: Applications in process control, heat transfer, mass transfer, and catalysis. Consideration of the societal impacts of engineering solutions. In-major GPA of 2.0 or better.",
+      "prerequisites": {
+        "rawText": "CHE 3015 and (CHE 3044 or CHE 3154) and CHE 3124 and CHE 3134 and CHE 3144 and (CHE 3184 or CHE 3185) and ENGL 3764",
+        "referencedCourses": [
+          "CHE 3015",
+          "CHE 3044",
+          "CHE 3124",
+          "CHE 3134",
+          "CHE 3144",
+          "CHE 3154",
+          "CHE 3185",
+          "ENGL 3764"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4024",
+      "subject": "CHE",
+      "number": "4024",
+      "level": 4000,
+      "title": "Unit Operations and Scale-Up",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Research of a chemical process unit, design of experiments, analysis and interpretation of experimental data, and scale-up of the unit to meet specific objectives. Teamwork, oral communication, and appropriate use of published information. Consideration of safety, and the societal and environmental impacts of an engineering design. Pre: In-major GPA of 2.0 or better is required.",
+      "prerequisites": {
+        "rawText": "CHE 3015 and CHE 3044 and CHE 3124 and CHE 3134 and CHE 3144 and CHE 3184 and ENGL 3764",
+        "referencedCourses": [
+          "CHE 3015",
+          "CHE 3044",
+          "CHE 3124",
+          "CHE 3134",
+          "CHE 3144",
+          "ENGL 3764"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4104",
+      "subject": "CHE",
+      "number": "4104",
+      "level": 4000,
+      "title": "Process Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basics of materials science as it relates to the interest of the chemical engineer. The course emphasizes the three fundamental areas of material science being polymer materials, metallics, and ceramic/inorganic glasses. The general molecular structure property - application behavior of each area will be presented but with a focus when possible on topics related to the field of chemical engineering.",
+      "prerequisites": {
+        "rawText": "CHE 2164 and (CHEM 2535 or CHEM 2565)",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHEM 2535",
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4114",
+      "subject": "CHE",
+      "number": "4114",
+      "level": 4000,
+      "title": "Energy and Climate Change Solutions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of energy production technologies, alternative and renewable energy sources, electrochemical energy storage, direct carbon capture technologies, negative emissions technologies, and chemical process that use CO2 as a feedstock. Fundamentals of water purification technologies, the water cycle, and the impact of climate change on water resources and demands. Discussion of carbon and water economics, and how geographical, societal, and environmental factors affect energy and water management policies. Techno-economic analysis of solutions based on chemical technologies, and the communication of those solutions in the context of policy development.",
+      "prerequisites": {
+        "rawText": "CHE 3144 and CHE 3185",
+        "referencedCourses": [
+          "CHE 3144",
+          "CHE 3185"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4144",
+      "subject": "CHE",
+      "number": "4144",
+      "level": 4000,
+      "title": "Business and Marketing Strategies for the Process Industries",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Business strategies and industrial marketing concepts, and their application in the chemical, pharmaceutical and related process industries. The course is designed for engineers and other students planning a career in the process industries. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MKTG 4144"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4185",
+      "subject": "CHE",
+      "number": "4185",
+      "level": 4000,
+      "title": "Process and Plant Design",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Chemical process synthesis and plant design, economic analysis of alternative processes, process equipment design and specifications, computer-aided process design and simulation, design case studies, application of scientific and engineering knowledge to practical design problems. Grade of C- or better in all CHE prefix courses and in-major GPA of 2.0 or better is required.",
+      "prerequisites": {
+        "rawText": "CHE 3015 and (CHE 3044 or CHE 3154) and CHE 3124 and CHE 3134 and CHE 3144 and (CHE 3184 or CHE 3185) and ENGL 3764",
+        "referencedCourses": [
+          "CHE 3015",
+          "CHE 3044",
+          "CHE 3124",
+          "CHE 3134",
+          "CHE 3144",
+          "CHE 3154",
+          "CHE 3185",
+          "ENGL 3764"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4186",
+      "subject": "CHE",
+      "number": "4186",
+      "level": 4000,
+      "title": "Process and Plant Design",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Chemical process synthesis and plant design, economic analysis of alternative processes, process equipment design and specifications, computer-aided process design and simulation, design case studies, application of scientific and engineering knowledge to practical design problems. Grade of C- or better in all CHE prefix courses and in major GPA of 2.0 or better is required.",
+      "prerequisites": {
+        "rawText": "CHE 4185",
+        "referencedCourses": [
+          "CHE 4185"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4214",
+      "subject": "CHE",
+      "number": "4214",
+      "level": 4000,
+      "title": "Introduction to Polymer Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basics of polymeric materials including description and categorization of macromolecules; characterization; mechanical properties; rubbery, glassy, crystalline, and viscous flow behavior.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 and CHE 2164",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHEM 2536"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4224",
+      "subject": "CHE",
+      "number": "4224",
+      "level": 4000,
+      "title": "Introduction to Polymer Processing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles of momentum and heat transfer applied to the analysis of polymer processing operations. Introduction to polymer rheology.",
+      "prerequisites": {
+        "rawText": "CHE 3144 and (CHE 3044 or CHE 3154)",
+        "referencedCourses": [
+          "CHE 3044",
+          "CHE 3144",
+          "CHE 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4304",
+      "subject": "CHE",
+      "number": "4304",
+      "level": 4000,
+      "title": "Biological Transport Phenomena",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engineering analysis and predictive modeling of heat and mass transport in biological systems (e.g., tissues, organs, organisms, and biomedical devices). Examination of processes that involve conduction, convection, diffusion, generation/consumption. Application of analytical and computational methods to solve differential equations that describe unsteady and/or multi-dimensional transport. Topics include oxygen transport, pharmacokinetic analysis, kidney function, blood perfusion, burns, and cryopreservation.",
+      "prerequisites": {
+        "rawText": "(CHE 3114 and CHE 3154 and CHE 3144) or (ME 3304 and ME 3414)",
+        "referencedCourses": [
+          "CHE 3114",
+          "CHE 3144",
+          "CHE 3154",
+          "ME 3304",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ME 4344"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4334",
+      "subject": "CHE",
+      "number": "4334",
+      "level": 4000,
+      "title": "Introduction to Colloidal and Interfacial Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Properties and behavior of colloidal systems, primarily in liquid environments. Size characterization and description, Brownian motion, interparticle forces, dispersion stability, and experimental techniques for characterizing these systems.",
+      "prerequisites": {
+        "rawText": "CHEM 3615 or CHE 2164",
+        "referencedCourses": [
+          "CHE 2164",
+          "CHEM 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4404",
+      "subject": "CHE",
+      "number": "4404",
+      "level": 4000,
+      "title": "Machine Learning in Chemical Sciences and Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development and application of data-driven computational models. Focus on applications in chemical sciences and engineering (e.g., materials discovery, property prediction, anomaly detection, process optimization). Preprocessing, data management and visualization, clustering, classification, and regression algorithms, and common pitfalls and practices in training and evaluation of data-driven models. Pre: 3124",
+      "prerequisites": {
+        "rawText": "CHE 3124",
+        "referencedCourses": [
+          "CHE 3124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4544",
+      "subject": "CHE",
+      "number": "4544",
+      "level": 4000,
+      "title": "Protein Separation Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts, principles and applications of various unit operations used in protein separations. Properties of biological materials, such as cells and proteins, and their influences on process design. Design of processes for protein purification based on the impurities to be eliminated. Concepts and principles of scale-up of unit operations. Case studies in practical protein recovery and purification issues, with a focus on enhanced protein purification by genetic engineering. Protein purification process simulation and optimization using process simulation software.",
+      "prerequisites": {
+        "rawText": "BSE 3504 or CHE 3144",
+        "referencedCourses": [
+          "BSE 3504",
+          "CHE 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BSE 4544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4904",
+      "subject": "CHE",
+      "number": "4904",
+      "level": 4000,
+      "title": "Project and Report",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4974",
+      "subject": "CHE",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4984",
+      "subject": "CHE",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4994",
+      "subject": "CHE",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHE 4994H",
+      "subject": "CHE",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors course",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/che/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

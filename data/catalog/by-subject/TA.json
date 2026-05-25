@@ -1,0 +1,1028 @@
+{
+  "subject": "TA",
+  "scrapedAt": "2026-05-25T21:22:40.918Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "TA 1004",
+      "subject": "TA",
+      "number": "1004",
+      "level": 1000,
+      "title": "School of Performing Arts First Year Experience",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Orientation to the School of Performing Arts philosophy and the resources of the School, the College, and the University. Cultivate a common intellectual, analytical, and creative conversation among first-year students. Enhance student participation in the creative and scholarly life of the Schools programs. Foster a sense of community and understanding across disciplines.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "MUS 1004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2014",
+      "subject": "TA",
+      "number": "2014",
+      "level": 2000,
+      "title": "Introduction to Theatre",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Appreciation and understanding of theatre as a living, collaborative art form through historical and intercultural perspectives, readings of key texts and analysis of scripts, and explorations of all elements of the theater making process, including playwriting, directing, acting, and design.",
+      "pathwaysConcepts": [
+        "2",
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2024",
+      "subject": "TA",
+      "number": "2024",
+      "level": 2000,
+      "title": "Introduction to Acting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory performance class in acting skills and theories as a participant (actor) and observer (audience) for the non-major. Includes performances of dramatic literature/ improvisation for live audience, creating character biography and script analysis, historical and intercultural contexts, and techniques in constructive criticism that incorporate interpretive strategies.",
+      "pathwaysConcepts": [
+        "2",
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2044",
+      "subject": "TA",
+      "number": "2044",
+      "level": 2000,
+      "title": "Contemporary African American Theatre",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Contributions of U.S. Black theatre artists; intersectional identities; performances spaces and society; critical race theory; dramatic storytelling; cultural behaviors; racial discrimination.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2044",
+        "ENGL 2044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2104",
+      "subject": "TA",
+      "number": "2104",
+      "level": 2000,
+      "title": "Fundamentals of Theatre and Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to theatre vocabulary and understanding of the theatrical process, theatre aesthetics, theatrical modes of expression, basic script analysis, production analysis, theory and practice of collaboration, theatre organizations, history and operations of professional theatres. (T & C majors and minors only).",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2114",
+      "subject": "TA",
+      "number": "2114",
+      "level": 2000,
+      "title": "Script Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Understanding of drama as an element of theatre with focus on the process of script analysis for theatrical production.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2134",
+      "subject": "TA",
+      "number": "2134",
+      "level": 2000,
+      "title": "Acting Lab",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the process of acting, through a variety of laboratory experiences, beginning with basic performance skills and culminating in the performance experience. Emphasis is on improvisation, terminology, physical action, script analysis, characterization, and rehearsal and performance techniques. Limited to Theatre & Cinema Majors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2144",
+      "subject": "TA",
+      "number": "2144",
+      "level": 2000,
+      "title": "Foundations of Movement and Voice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the process of acting, through a variety of laboratory experiences, beginning with basic performance skills and culminating in the performance experience. Emphasis is on various methods of performance style and analysis, theater movement and body conditioning, and vocal awareness and production. Limited to Theatre & Cinema Majors.",
+      "prerequisites": {
+        "rawText": "TA 2134 or TA 2024",
+        "referencedCourses": [
+          "TA 2024",
+          "TA 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2164",
+      "subject": "TA",
+      "number": "2164",
+      "level": 2000,
+      "title": "Scene Design Lab",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the processes, technologies, and aesthetics of scene design for theatrical productions and analysis of playscripts. Students develop workshop drawing, conceptual design and vision, and collaborative skills related to scene design, and exploration is focused in historical and contemporary theatre practice. A range of design problems will offer opportunity to learn various design approaches and provide practice with different media and means of design expression. Design Lab.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2174",
+      "subject": "TA",
+      "number": "2174",
+      "level": 2000,
+      "title": "Costume Design Lab",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the processes, technologies, and aesthetics of costume design for theatrical productions and analysis of playscripts. Focus on developing workshop drawings, conceptual design and vision, and collaborative skills related to costume design, with special emphasis on historical and contemporary theatre practice. Various design approaches, different media, and a range of design problems are introduced. Design Lab/Studio.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2204",
+      "subject": "TA",
+      "number": "2204",
+      "level": 2000,
+      "title": "Creative Dance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the expressive elements of movement and dance. Basic choreographic procedures and small group work to design dances that emphasize particular movement concepts. Experience in music and movement of diverse dance cultures. Documentation of the pathways of dances in floorplans and written reflections on the creative processes.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2224",
+      "subject": "TA",
+      "number": "2224",
+      "level": 2000,
+      "title": "Intermediate Performance Intensive",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides the Theatre & Cinema major, who desires a rigorous exploration of acting, a forum for application of the techniques and skills learned. These skills will be strengthened and applied through observation of and participation in scene and monologue work. Focus will be placed on basic skills and concepts necessary to creative, truthful, and believable performance of selected scenes, including use of voice and body, imagination, relaxation, sense and emotion memory, and script analysis. Limited to Theatre & Cinema Majors.",
+      "prerequisites": {
+        "rawText": "TA 2134 or TA 2024",
+        "referencedCourses": [
+          "TA 2024",
+          "TA 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2404",
+      "subject": "TA",
+      "number": "2404",
+      "level": 2000,
+      "title": "Introduction to Applied Collaborative Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to principles of collaboration in applied theatre for non-majors. Situational awareness, intrapersonal and interpersonal awareness, audience engagement, effective storytelling, team creativity and conflict resolution, and communicating across difference in public and professional settings.",
+      "pathwaysConcepts": [
+        "1A",
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2414",
+      "subject": "TA",
+      "number": "2414",
+      "level": 2000,
+      "title": "Stage and Lighting Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A practical study of the technologies and specialized equipment employed in the construction, rigging and running of theatrical production; the planning and organization involved in mounting these productions; the tools, materials and techniques used to realize theatrical design and build scenery; and the fundamentals of stage lighting.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2604",
+      "subject": "TA",
+      "number": "2604",
+      "level": 2000,
+      "title": "Introduction to Arts Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the theories and practice of marketing and building community engagement as applied to arts activities and professional not-for-profit arts organizations, through a survey of standard marketing approaches, examination of current practices in the field, and direct hands-on experience.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MUS 2604"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2964",
+      "subject": "TA",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2974",
+      "subject": "TA",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2974H",
+      "subject": "TA",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2984",
+      "subject": "TA",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2984G",
+      "subject": "TA",
+      "number": "2984G",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "7"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 2984M",
+      "subject": "TA",
+      "number": "2984M",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3014",
+      "subject": "TA",
+      "number": "3014",
+      "level": 3000,
+      "title": "Theatre Production Lab",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Production experiences in the areas of performance, design and theatre technology, management, and writing. May be repeated for a maximum of nine credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lab, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3104",
+      "subject": "TA",
+      "number": "3104",
+      "level": 3000,
+      "title": "Sound Technology Topics",
+      "credits": {
+        "min": 3,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Rotating topics in theatre sound technology and sound design. Designed for advanced theatre arts and cinema majors who have foundational training in areas of theatre technology and design. May be repeated 2 times with different content for a maximum of 9 credit hours. Design Lab.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3-8 Lab, 3-6 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3105",
+      "subject": "TA",
+      "number": "3105",
+      "level": 3000,
+      "title": "History of Drama and Theatre",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of drama and theatre from primitive ritual to the present day and its relationship to the social, economic, and political forces from age to age. 3105: primitive, Greek, Roman, Medieval, Renaissance, and Asian. 3106: Restoration, eighteenth, nineteenth, and twentieth centuries. Junior standing required.",
+      "prerequisites": {
+        "rawText": "TA 2114",
+        "referencedCourses": [
+          "TA 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3106",
+      "subject": "TA",
+      "number": "3106",
+      "level": 3000,
+      "title": "History of Drama and Theatre",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of drama and theatre from primitive ritual to the present day and its relationship to the social, economic, and political forces from age to age. 3105: primitive, Greek, Roman, Medieval, Renaissance, and Asian. 3106: Restoration, eighteenth, nineteenth, and twentieth centuries.",
+      "prerequisites": {
+        "rawText": "TA 2114",
+        "referencedCourses": [
+          "TA 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3114",
+      "subject": "TA",
+      "number": "3114",
+      "level": 3000,
+      "title": "Scenography Topics",
+      "credits": {
+        "min": 9,
+        "max": 9
+      },
+      "isVariableCredit": false,
+      "description": "Rotating topics in scenography and related specific design applications. Designed for theatre arts majors who have foundational training in areas of theatre design. May be repeated for credit.",
+      "prerequisites": {
+        "rawText": "TA 2164",
+        "referencedCourses": [
+          "TA 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lec, 9 Lab, 9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3124",
+      "subject": "TA",
+      "number": "3124",
+      "level": 3000,
+      "title": "Costume Design and Technology Topics",
+      "credits": {
+        "min": 1,
+        "max": 9
+      },
+      "isVariableCredit": true,
+      "description": "Rotating topics of costume design and costume technology. Designed for advanced theatre arts majors who have foundational training in all areas if theatre design. May be repeated for credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-9 Lec, 1-9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3134",
+      "subject": "TA",
+      "number": "3134",
+      "level": 3000,
+      "title": "Lighting Topics",
+      "credits": {
+        "min": 1,
+        "max": 9
+      },
+      "isVariableCredit": true,
+      "description": "Rotating topics in lighting design and technology. Designed for advanced theatre arts majors who have foundational training in all areas of theatre arts. May be repeated for credit. (Variable credit)",
+      "prerequisites": {
+        "rawText": "TA 2414",
+        "referencedCourses": [
+          "TA 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-9 Lec, 1-9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3144",
+      "subject": "TA",
+      "number": "3144",
+      "level": 3000,
+      "title": "Theatre Technology Topics",
+      "credits": {
+        "min": 9,
+        "max": 9
+      },
+      "isVariableCredit": false,
+      "description": "Rotating topics in design and theatre technology. Designed for advanced theatre arts majors who have foundational training in all areas if theatre technology and design. May be repeated for unlimited number of credit hours.",
+      "prerequisites": {
+        "rawText": "TA 2414",
+        "referencedCourses": [
+          "TA 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lec, 9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3154",
+      "subject": "TA",
+      "number": "3154",
+      "level": 3000,
+      "title": "Acting Topics",
+      "credits": {
+        "min": 9,
+        "max": 9
+      },
+      "isVariableCredit": false,
+      "description": "Rotating topics in performance skills and theories. Designed For advanced theatre arts majors who have foundational training in acting, voice and movement. May be repeated for credit.",
+      "prerequisites": {
+        "rawText": "TA 2134 or TA 2024",
+        "referencedCourses": [
+          "TA 2024",
+          "TA 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lec, 9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3164",
+      "subject": "TA",
+      "number": "3164",
+      "level": 3000,
+      "title": "Voice and Speech Topics",
+      "credits": {
+        "min": 9,
+        "max": 9
+      },
+      "isVariableCredit": false,
+      "description": "Rotating topics in voice and speech skills, and theories and practice in performance. Designed for advanced theatre arts majors who have foundational training in acting, voice and movement. May be repeated for credit.",
+      "prerequisites": {
+        "rawText": "TA 2134 or TA 2024",
+        "referencedCourses": [
+          "TA 2024",
+          "TA 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lec, 9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3174",
+      "subject": "TA",
+      "number": "3174",
+      "level": 3000,
+      "title": "Movement Topics",
+      "credits": {
+        "min": 9,
+        "max": 9
+      },
+      "isVariableCredit": false,
+      "description": "Rotating topics in theatre movement, dance for the theatre and theories of physical expression in the performing arts. Designed for advanced theatre arts majors who have foundational training in acting voice and movement. May be repeated for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "TA 2134 or TA 2024",
+        "referencedCourses": [
+          "TA 2024",
+          "TA 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(9 Lec, 9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3315",
+      "subject": "TA",
+      "number": "3315",
+      "level": 3000,
+      "title": "Playwriting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A workshop course in the craft and art of playwriting which emphasizes the development of craft and the nurturing of vision and art. 3315: primary focus is on the writing of original scripts with additional attention paid to the work of influential playwrights and critics. 3316: primary focus is on the creative process of developing a play with the collaborative influences of a director, actors, designers, and other theatre professionals. Consent of instructor required.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3315"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3604",
+      "subject": "TA",
+      "number": "3604",
+      "level": 3000,
+      "title": "Arts Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The development of the not-for-profit arts organization, structures and characteristics of boards of directors, artistic missions and goals, funding, volunteer support, and fiscal control. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3624",
+      "subject": "TA",
+      "number": "3624",
+      "level": 3000,
+      "title": "Stage Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The systems, procedures, forms, and duties of the stage manager in the professional, academic, and community theatre are explored in relationship to the production process and other theatre artists.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3954",
+      "subject": "TA",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3954F",
+      "subject": "TA",
+      "number": "3954F",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6A",
+        "6D"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3954M",
+      "subject": "TA",
+      "number": "3954M",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 3984M",
+      "subject": "TA",
+      "number": "3984M",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4014",
+      "subject": "TA",
+      "number": "4014",
+      "level": 4000,
+      "title": "Contemporary Theatre Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Issues and concerns in contemporary theatre; production philosophies and approaches, employment opportunities, career options, and preparation of portfolio and resume materials. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4304",
+      "subject": "TA",
+      "number": "4304",
+      "level": 4000,
+      "title": "Theatre Outreach",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Participation in theatre projects or activities that focus on community and social issues. May be repeated for a maximum of six credits. Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4315",
+      "subject": "TA",
+      "number": "4315",
+      "level": 4000,
+      "title": "Directing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Script analysis, theories, techniques, and practical applications of theatrical direction. 4315: Theories and aesthetics of directing, functions of the director, script analysis, basic principles and techniques of staging. 4316: Rehearsal techniques, style determination realism, and non-realism. Senior standing required.",
+      "prerequisites": {
+        "rawText": "TA 2134 and TA 2114",
+        "referencedCourses": [
+          "TA 2114",
+          "TA 2134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4316",
+      "subject": "TA",
+      "number": "4316",
+      "level": 4000,
+      "title": "Directing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Script analysis, theories, techniques, and practical applications of theatrical direction. 4315: Theories and aesthetics of directing, functions of the director, script analysis, basic principles and techniques of staging. 4316: Rehearsal techniques, style determination realism, and non-realism.",
+      "prerequisites": {
+        "rawText": "TA 4315",
+        "referencedCourses": [
+          "TA 4315"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4704",
+      "subject": "TA",
+      "number": "4704",
+      "level": 4000,
+      "title": "Professional Theatre Internship",
+      "credits": {
+        "min": 9,
+        "max": 15
+      },
+      "isVariableCredit": true,
+      "description": "Internship of one semester in acting, directing, management, design, or technical theatre or cinema with a professional equity company for selected advanced students; classroom, workshop, and production experiences. Minimum 9 credits, maximum 15 credits. Audition and consent.",
+      "pathwaysConcepts": [],
+      "contactHours": "(9-15 Lec, 9-15 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 15 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4964",
+      "subject": "TA",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4974",
+      "subject": "TA",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4974H",
+      "subject": "TA",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4984",
+      "subject": "TA",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4994",
+      "subject": "TA",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TA 4994H",
+      "subject": "TA",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ta/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

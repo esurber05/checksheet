@@ -1,0 +1,46 @@
+{
+  "subject": "EDCO",
+  "scrapedAt": "2026-05-25T21:19:35.689Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "EDCO 2004",
+      "subject": "EDCO",
+      "number": "2004",
+      "level": 2000,
+      "title": "Healthy Relationships: Understanding Self and Others",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic concepts, skills, and theory associated with creating and sustaining healthy relationships in social and professional settings. Self-awareness as it relates to relationship-building. Characteristics and identities of self and others as they relate to relationship-building. Relationship-building skills such as active listening, perspective taking, and empathy.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edco/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCO 2984",
+      "subject": "EDCO",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edco/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

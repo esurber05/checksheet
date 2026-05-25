@@ -1,0 +1,238 @@
+{
+  "subject": "UNIV",
+  "scrapedAt": "2026-05-25T21:22:45.082Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "UNIV 1004",
+      "subject": "UNIV",
+      "number": "1004",
+      "level": 1000,
+      "title": "College Success Strategies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study and application of strategies, skills, attitudes and behaviors leading to effective academic learning in a college setting. Credit not applicable to meeting degree requirements; may not be repeated.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 1824",
+      "subject": "UNIV",
+      "number": "1824",
+      "level": 1000,
+      "title": "Pathways to Success: Exploring Your Future",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory experience course for University Studies and Explore Technology majors. Create fundamental knowledge and develop skills that facilitate successful transition to the university and develop decision-making skills, problem solving, inquiry, research majors and careers, critical thinking and integration of knowledge. Examine their personal decision towards their major utilizing psychosocial and identity in support of a successful transition. Evaluate sources of information to make an argument.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 1984",
+      "subject": "UNIV",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "May not count towards degree requirements; consult advisor.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 2114",
+      "subject": "UNIV",
+      "number": "2114",
+      "level": 2000,
+      "title": "Unleash Your HokiePotential",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "First-Year Experience course for transfer students. Establish fundamental knowledge and develop skills that facilitate a successful transition into Virginia Tech. Develop/refine decision-making skills, problem-solving skills, critical thinking, and inquiry. Examine personal strengths, values, goals, and integration of knowledge; establish academic, personal, and career goals in support of a successful transition to Virginia Tech. Topics covered will include: principles of community, academic integrity, campus resources, digital and informational literacy, career planning, academic planning, and goal setting.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 2394",
+      "subject": "UNIV",
+      "number": "2394",
+      "level": 2000,
+      "title": "Introduction to Residential Communities and Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides theories, basic principles, and skill development that serve as a knowledge base and framework for the peer helping, para-professional Resident Advisor position. This course is open only to students who are serving in their first semester as a Resident Advisor.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 2984",
+      "subject": "UNIV",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 3944",
+      "subject": "UNIV",
+      "number": "3944",
+      "level": 3000,
+      "title": "VT Study Abroad Enrollment",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved study abroad program without direct supervision of the VA Tech faculty but with required enrollment in an approved program of study in an international university. Course represents 12 billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 3944S",
+      "subject": "UNIV",
+      "number": "3944S",
+      "level": 3000,
+      "title": "VT Study Abroad Enrollment 3",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved study abroad program without direct supervision of the VA Tech faculty but with required enrollment in an approved program of study in an international university. Course represents three billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 3944T",
+      "subject": "UNIV",
+      "number": "3944T",
+      "level": 3000,
+      "title": "VT Study Abroad Enrollment 4",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved study abroad program without direct supervision of the VA Tech faculty but with required enrollment in an approved program of study in an international university. Course represents four billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 3944U",
+      "subject": "UNIV",
+      "number": "3944U",
+      "level": 3000,
+      "title": "VT Study Abroad Enrollment 6",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved study abroad program without direct supervision of the VA Tech faculty but with required enrollment in an approved program of study in an international university. Course represents six billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 3944V",
+      "subject": "UNIV",
+      "number": "3944V",
+      "level": 3000,
+      "title": "VT Study Abroad Enrollment 7",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Participation in an approved study abroad program without direct supervision of the VA Tech faculty but with required enrollment in an approved program of study in an international university. Course represents four billable hours and no academic credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 3954",
+      "subject": "UNIV",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UNIV 4984",
+      "subject": "UNIV",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/univ/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

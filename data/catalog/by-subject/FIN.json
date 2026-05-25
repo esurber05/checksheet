@@ -1,0 +1,1135 @@
+{
+  "subject": "FIN",
+  "scrapedAt": "2026-05-25T21:20:00.647Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FIN 2114",
+      "subject": "FIN",
+      "number": "2114",
+      "level": 2000,
+      "title": "Investments and Financial Literacy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines budgeting; taxes; long- and short-term borrowing; credit card debt; student loan debt; ethical issues in both lending and investments; insurance; the investment process; the financial markets; investing in common stock, bonds, and mutual funds; major financial decisions, and retirement planning. Coverage of time value of money and risk and return will provide fundamental tools for valuation and financial decision-making.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 2164",
+      "subject": "FIN",
+      "number": "2164",
+      "level": 2000,
+      "title": "Survey of Finance and Career Planning",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Career opportunities and skills nescessary in the finance field with reference to the finance courses that best help the student identify a career in his/her selected field.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 2954",
+      "subject": "FIN",
+      "number": "2954",
+      "level": 2000,
+      "title": "Business Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "This course provides students with an international business experience. It is only offered as part of a program outside of the United States. Students will learn from the structured educational experience developed by the faculty leader. Pre: Instructors consent and the completion of 30 SH with a minimum GPA of 3.0 or departmental consent.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 2974",
+      "subject": "FIN",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 2984",
+      "subject": "FIN",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3054",
+      "subject": "FIN",
+      "number": "3054",
+      "level": 3000,
+      "title": "Legal and Ethical Environment of Business",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines the legal and ethical environment in which businesses operate. Topics include legal systems, dispute resolution, torts, contracts, agency, employment, business forms, property, ethical theories, decision-making and other selected subjects. Emphasis is placed on problem solving through the application of principles and reasoned analysis. Pre: Sophomore Standing.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3074",
+      "subject": "FIN",
+      "number": "3074",
+      "level": 3000,
+      "title": "Legal, Ethical, and Financing Issues for Entrepreneurs",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction of key legal, ethical, and financing topics for new ventures. Ethical decision making in entrepreneurial situations. Choosing among legal entities for financing and ownership goals. Company governance. Creating and protecting intellectual property. Identifying and choosing financing options for new ventures. Employment issues for entrepreneurial firms. Basics of contracts. Enterprise risk management and compliance. Exit strategies. Partially duplicates FIN 3054 (Legal and Ethical Environment of Business). Students may not receive credit for both courses. Sophomore Standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3104",
+      "subject": "FIN",
+      "number": "3104",
+      "level": 3000,
+      "title": "Introduction to Finance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of financial decision-making process focusing on the creation of wealth. Topics covered include the time value of money, how stocks and bonds are valued, financial decision-making within a firm, an overview of financial markets, and investment banking. The course is designed for finance and non-finance majors.",
+      "prerequisites": {
+        "rawText": "(ACIS 2115 and ECON 2005 and BIT 2405) or (ACIS 2115 and ECON 2005 and CMDA 2005) or (ACIS 2115 and ECON 2005 and STAT 3005) or (ACIS 2115 and ECON 2005 and STAT 3604) or (ACIS 2115 and ECON 2005 and STAT 3615 and STAT 3616) or (ACIS 2115 and ECON 2005 and STAT 4604) or (ACIS 2115 and ECON 2005 and STAT 4705 and STAT 4706) or (ACIS 2115 and ECON 2025H and BIT 2405) or (ACIS 2115 and ECON 2025H and CMDA 2005) or (ACIS 2115 and ECON 2025H and STAT 3005) or (ACIS 2115 and ECON 2025H and STAT 3604) or (ACIS 2115 and ECON 2025H and STAT 3615 and STAT 3616) or (ACIS 2115 and ECON 2025H and STAT 4604) or (ACIS 2115 and ECON 2025H and STAT 4705 and STAT 4706)",
+        "referencedCourses": [
+          "ACIS 2115",
+          "BIT 2405",
+          "CMDA 2005",
+          "ECON 2005",
+          "ECON 2025H",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615",
+          "STAT 3616",
+          "STAT 4604",
+          "STAT 4705",
+          "STAT 4706"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3114",
+      "subject": "FIN",
+      "number": "3114",
+      "level": 3000,
+      "title": "Python/SQL for Data Analytics and Finance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A foundation in Python/SQL and the tools needed to implement a data-driven approach to financial problem solving. Emphasis on accessing external databases, merging databases, manipulating and transforming data, performing operations, generating an output or another dataset, and exporting in a readable or visual form. To prepare students to analyze datasets for making financial decisions.",
+      "prerequisites": {
+        "rawText": "FIN 3104",
+        "referencedCourses": [
+          "FIN 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3124",
+      "subject": "FIN",
+      "number": "3124",
+      "level": 3000,
+      "title": "Financial Planning for Professionals",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of financial needs, from the context of the individual, household or small business owner, related to financial situation (cash management and use of debt), income taxes, risk management, retirement planning, investment planning, estate planning, and other special needs. Utilizes mathematical and computing skills. FIN 3134 may be taken prior to or concurrent with course. Sophomore Standing required.",
+      "prerequisites": {
+        "rawText": "FIN 3104",
+        "referencedCourses": [
+          "FIN 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3134",
+      "subject": "FIN",
+      "number": "3134",
+      "level": 3000,
+      "title": "Financial Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides an understanding of the theory and practice of making financial decisions for corporations through the understanding of relevant data and applying computational and statistical methodologies to decision making. Topics include the time value of money, risk and return, security valuation, and interest rate determination. Some key concepts and computational and statistical modeling are completed in Excel. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "FIN 3104",
+        "referencedCourses": [
+          "FIN 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3144",
+      "subject": "FIN",
+      "number": "3144",
+      "level": 3000,
+      "title": "Investments: Debt, Equity and Derivatives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Risk, return and portfolio modeling theory, knowledge of financial securities and markets and the information and data contained within them. Introduction to mutual funds, financial securities, and markets. Application of financial computation and modeling through portfolio analysis, market efficiency and performance evaluation, bond valuation, term structure of interest rates, interest rate risk, security analysis and stock valuation, options, Black-Scholes option pricing model, and futures. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "FIN 3134",
+        "referencedCourses": [
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3154",
+      "subject": "FIN",
+      "number": "3154",
+      "level": 3000,
+      "title": "Corporate Financial Analytics and Strategy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides the understanding of the types of financial management decisions that firms make, the environment in which decisions are made, the available choices and decision criteria, and valuation consequences of these choices through financial analytical modeling. Determination of a firm’s optimal debt- equity ratio, estimation of cost of capital, evaluation of capital investments, payout policies, merger and acquisition decision-making, and sources of financing with emphasis on identifying and mitigating potential agency conflicts. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "FIN 3134",
+        "referencedCourses": [
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3174",
+      "subject": "FIN",
+      "number": "3174",
+      "level": 3000,
+      "title": "Finance Career Strategies",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and research of career opportunities in financial industry. Study of future trends in careers in financial industry. Development of short and long-term career goals. Building and developing a professional network. Identify types of finance interviews. Ethical negotiation of job offers.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3204",
+      "subject": "FIN",
+      "number": "3204",
+      "level": 3000,
+      "title": "Risk and Insurance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys the concept of risk as it applies to the nuclear family and as a socio-economic force in society. Risk management techniques utilizing social and proprietary insurance to neutralize the effect of risks inherent in daily life: termination or suspension of earnings, liability exposures, and potential losses of real and personal property values. Sophomore Standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3254",
+      "subject": "FIN",
+      "number": "3254",
+      "level": 3000,
+      "title": "Credit Risk Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the risks inherent in credit/lending decisions. Pricing of loans, appropriate documentation, and monitoring of the creditworthiness of businesses and individuals. Emphasis on making credit decisions and structuring of credit agreements.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3954",
+      "subject": "FIN",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 3984",
+      "subject": "FIN",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4004",
+      "subject": "FIN",
+      "number": "4004",
+      "level": 4000,
+      "title": "Wills, Trusts, and Estates",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the control of assets through the creation and use of trusts, and the control of property through estate planning. The course emphasizes financial planning through estate management both personally and as a part of a business plan.",
+      "prerequisites": {
+        "rawText": "FIN 3054 or FIN 3074",
+        "referencedCourses": [
+          "FIN 3054",
+          "FIN 3074"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4014",
+      "subject": "FIN",
+      "number": "4014",
+      "level": 4000,
+      "title": "Cyberlaw and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Cyber law, ethics, and policy in a changing world. National and international methods of regulation and protection of fundamental rights. Legal, ethical, and policy issues for Internet governance, speech, privacy, cybersecurity, surveillance, electronic commerce, intellectual property, and cyberwar. Examination of current issues and texts in light of fundamental ethical and legal principles and global discourse. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4024",
+      "subject": "FIN",
+      "number": "4024",
+      "level": 4000,
+      "title": "Legal and Regulatory Aspects of ESG",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the legal and regulatory issues raised by Environmental, Social, Governance (ESG) aspects of investments and corporate finance. Specific attention is given to ESG’s effect upon traditional corporate law principles, reporting and regulatory frameworks.",
+      "prerequisites": {
+        "rawText": "(FIN 3054 or FIN 3074) and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3054",
+          "FIN 3074",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4104",
+      "subject": "FIN",
+      "number": "4104",
+      "level": 4000,
+      "title": "Retirement Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of planning needs, products, and strategies used by financial professionals to help businesses, small business owners, and individuals choose and implement an effective retirement plan. Must have prerequisite or permission of instructor.",
+      "prerequisites": {
+        "rawText": "(FIN 3124 and ACIS 4344) or (FIN 3134 and ACIS 3314)",
+        "referencedCourses": [
+          "ACIS 3314",
+          "ACIS 4344",
+          "FIN 3124",
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4114",
+      "subject": "FIN",
+      "number": "4114",
+      "level": 4000,
+      "title": "Financial Planning Technology and Modeling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Use of professional software applications that support financial planning analyses, plan preparation, wealth management, and client relationships. Principles of personal investment portfolio research, construction, and performance applied to comprehensive financial planning and wealth management.",
+      "prerequisites": {
+        "rawText": "FIN 3124 and FIN 3144",
+        "referencedCourses": [
+          "FIN 3124",
+          "FIN 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4124",
+      "subject": "FIN",
+      "number": "4124",
+      "level": 4000,
+      "title": "Client Relationship Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of socio-psychological factors and communication/interviewing strategies that foster trust-based relationships essential to the success of financial advisors and other financial service professionals. Graduate students are expected to have completed AAEC 3104 or FIN 3124 or an equivalent course or may enroll with permission of the instructor.",
+      "prerequisites": {
+        "rawText": "FIN 3124",
+        "referencedCourses": [
+          "FIN 3124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4134",
+      "subject": "FIN",
+      "number": "4134",
+      "level": 4000,
+      "title": "Financial Planning Applications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integration of financial planning content in the resolution of client situations in the context of ethical and compliant workplace practices. Utilizes a case analysis approach applying financial planning processes and procedures. Graduate students are expected to have similar background from equivalent courses or professional experience or may enroll by permission of the instructor. ACIS 4344 or FIN 4004 taken simultaneously with the course can be substituted for the prerequisites.",
+      "prerequisites": {
+        "rawText": "FIN 3124 and FIN 3144 and FIN 3204 and ACIS 4344",
+        "referencedCourses": [
+          "ACIS 4344",
+          "FIN 3124",
+          "FIN 3144",
+          "FIN 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4144",
+      "subject": "FIN",
+      "number": "4144",
+      "level": 4000,
+      "title": "International Financial Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores the environmental challenges facing the financial manager of a multinational corporation and the tools and techniques developed to meet such challenges.",
+      "prerequisites": {
+        "rawText": "FIN 3104 or FIN 3134",
+        "referencedCourses": [
+          "FIN 3104",
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4154",
+      "subject": "FIN",
+      "number": "4154",
+      "level": 4000,
+      "title": "Real Estate Finance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces the fundamentals of both real estate financing and investment. Conventional mortgages as well as more creative financing methods will be analyzed. The secondary market for mortgages and relevant institutional factors also will be examined. Investment analysis of real estate will be viewed in a capital budgeting framework; appropriate tax law will be discussed as it affects real estate cash flows.",
+      "prerequisites": {
+        "rawText": "FIN 3134",
+        "referencedCourses": [
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4204",
+      "subject": "FIN",
+      "number": "4204",
+      "level": 4000,
+      "title": "Environmental, Social, and Governance Financial Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental, Social and Governance (ESG) factors impacting corporate investment and financing decisions. Analytical tools for incorporating ESG factors into various forms of financial analysis including capital budgeting, capital structure, financing decisions, and investment portfolio management.",
+      "prerequisites": {
+        "rawText": "(FIN 3054 or FIN 3074) and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3054",
+          "FIN 3074",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4214",
+      "subject": "FIN",
+      "number": "4214",
+      "level": 4000,
+      "title": "Financial Modeling in Excel",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts of finance applied to the construction of models in Excel. Construct models of financial statement to evaluate financial strategies for a firm; design risk/return models for investment portfolio strategies using equity and/or debt securities; build models to optimize bond portfolios including interest rate sensitivities, duration and convexity; develop models to analyze and dynamically hedge option and futures portfolios; assemble binomial tree models on American options; build simulation models to evaluate different types of options.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4224",
+      "subject": "FIN",
+      "number": "4224",
+      "level": 4000,
+      "title": "Fixed Income Securities: Analysis and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of fixed income securities, including corporate bonds, U.S. Treasury notes and bonds, municipal bonds, money market securities, and home mortgages. The analysis include interest rate risk, credit risk, bond valuation theory, and the valuation of embedded options in the bond contract. Theories of the term structure of interest rates are presented. Must have a grade of C or better in prerequisites of FIN 3144 and 3154.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4225",
+      "subject": "FIN",
+      "number": "4225",
+      "level": 4000,
+      "title": "Analytics for Fixed Income Securities and Portfolio Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4225: Management of fixed income securities in an experiential setting. Bond pricing and investment. Credit analysis and portfolio strategies in fixed income. Introduction to advanced analytical techniques in bond and portfolio analytics. Conduct research on individual companies, industries, and countries. Membership in BASIS (Bond And Securities Investing by Students). Must have a B- or better in prereq. Pass/Fail Only.",
+      "prerequisites": {
+        "rawText": "FIN 3134",
+        "referencedCourses": [
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4226",
+      "subject": "FIN",
+      "number": "4226",
+      "level": 4000,
+      "title": "Analytics Fixed Inc. Port Mgmt",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4226: Advanced management of fixed income portfolios in an experiential setting. Advanced credit analysis and modeling. Advanced analytical techniques for bonds and portfolios. Lead research teams. Research macroeconomic and international capital trends. Execute reports for internal and external distribution, especially for the clients. Membership in BASIS (Bond And Securities Investing by Students). Must have a B- or better in prereq. Pass/Fail Only.",
+      "prerequisites": {
+        "rawText": "FIN 4224 and FIN 4225",
+        "referencedCourses": [
+          "FIN 4224",
+          "FIN 4225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4234",
+      "subject": "FIN",
+      "number": "4234",
+      "level": 4000,
+      "title": "Venture Capital and Investment Banking",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores the venture capital cycles of fund-raising, investing in portfolio firms, and exiting the investment. Focuses on the role of investment banking in the exiting of investments by taking the portfolio firms public through initial public offerings. Includes a conceptual component and an applied component in which the case method is used. Must have a grade of C or better in prerequisites of FIN 3144 and 3154.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4244",
+      "subject": "FIN",
+      "number": "4244",
+      "level": 4000,
+      "title": "Asset Valuation and Corporate Governance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The effect of corporate governance on asset-valuation. Case oriented course focusing on the valuation of non-financial assets such as projects, business units, private and public firms. Topics include method of comparables, discounted cash flow methods and the real options approach to valuation. Examines the external and internal governance mechanisms for preserving and enhancing the value of a firm. Must have a grade of C or better in prerequisites of FIN 3144 and 3154.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4254",
+      "subject": "FIN",
+      "number": "4254",
+      "level": 4000,
+      "title": "Bank Management and Financial Services",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The functions of financial service providers and the risks inherent in the provision of banking and other financial services. Regulatory background and issues. Case oriented course. Must have a grade of C or better in prerequisites of FIN 3144 and 3154.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4255",
+      "subject": "FIN",
+      "number": "4255",
+      "level": 4000,
+      "title": "Credit Corps Lending Practicum",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Credit underwriting of commercial loans in an experiential setting. Project work spans two semesters. 4255: First project and basic management of cash flows on legacy portfolio of loans. Credit analysis of middle market companies leading to recommendations for lending to such companies. Research on individual companies, their industries, or on commercial real estate projects. Research on relative loan pricing, trends in leverage loan markets. Professional-level presentation of loan recommendations. Exhibit the highest ethical standards and confidentiality and maintain a high level of responsibility, initiative, and performance. 4256: Finalization of first 4255 project as needed. Continuation of credit analysis and research applied to companies in different three-digit industry code, advanced credit risk and financial modeling, loan portfolio management on legacy loans including takedown/paydown of revolving lines. Reporting for internal distribution and for sponsor.",
+      "prerequisites": {
+        "rawText": "FIN 3254 and FIN 4254 or FIN 4244",
+        "referencedCourses": [
+          "FIN 3254",
+          "FIN 4244",
+          "FIN 4254"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4256",
+      "subject": "FIN",
+      "number": "4256",
+      "level": 4000,
+      "title": "Credit Corps Lending Practicum",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Credit underwriting of commercial loans in an experiential setting. Project work spans two semesters. 4255: First project and basic management of cash flows on legacy portfolio of loans. Credit analysis of middle market companies leading to recommendations for lending to such companies. Research on individual companies, their industries, or on commercial real estate projects. Research on relative loan pricing, trends in leverage loan markets. Professional-level presentation of loan recommendations. Exhibit the highest ethical standards and confidentiality and maintain a high level of responsibility, initiative, and performance. 4256: Finalization of first 4255 project as needed. Continuation of credit analysis and research applied to companies in different three-digit industry code, advanced credit risk and financial modeling, loan portfolio management on legacy loans including takedown/paydown of revolving lines. Reporting for internal distribution and for sponsor.",
+      "prerequisites": {
+        "rawText": "FIN 4255",
+        "referencedCourses": [
+          "FIN 4255"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4264",
+      "subject": "FIN",
+      "number": "4264",
+      "level": 4000,
+      "title": "Managing Risk with Derivatives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The types, payoff, and pricing of derivative securities and contracts and their application in managing financial risks faced by corporations. Topics include options, forwards, futures and swaps; managing foreign currency risk, interest rate risk, stock price risk, and commodity price risk; and risk management techniques. Must have a grade of C or better in prerequisites of FIN 3144 and 3154.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4274",
+      "subject": "FIN",
+      "number": "4274",
+      "level": 4000,
+      "title": "Equity Securities: Analysis and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced valuation and analysis of equity securities with case applications. Critical analysis of advanced equity asset pricing models. Analysis of advanced equity portfolio management techniques, equity portfolio performance measurement, and equity portfolio performance attribution analysis. Identification and analysis of market anomalies and recent developments in equity analysis. Must have grade of C or better in prerequisites of FIN 3144 and 3154.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4275",
+      "subject": "FIN",
+      "number": "4275",
+      "level": 4000,
+      "title": "Analytics for Equity Securities and Portfolio Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selection and management of equity securities in an experimental setting. Analysis, selection, and investment in common stocks. Introduction to advanced analytical techniques in equity evaluation and portfolio analytics. Research individual companies, industries, economic sectors, and national and global macroeconomic trends. Use appropriate software to develop financial models. Present buy and sell recommendations for actual execution in the portfolio. Maintain a high level of fiduciary responsibility. Pass/Fail only. Membership in SEED (Student-Managed Endowment for Educational Development).",
+      "prerequisites": {
+        "rawText": "FIN 3134",
+        "referencedCourses": [
+          "FIN 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4276",
+      "subject": "FIN",
+      "number": "4276",
+      "level": 4000,
+      "title": "Analytics for Equity Securities and Portfolio Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced management of equity portfolios in an experiential setting. Equity valuation and investing in equity securities. Advanced equity valuation analysis and modeling. Conduct and take a leadership role on teams that research individual companies, industries, and sectors. Research macroeconomic and international capital trends. Lead a team to present buy and sell recommendations for the portfolio and/or construct reports on equity topics. Present buy and sell recommendations for actual execution in the portfolio. Exhibit the highest ethical standards. Mentor new SEED analysts. Pass/Fail only. Membership in SEED (Student- Endowment for Educational Development).",
+      "prerequisites": {
+        "rawText": "FIN 4274 and FIN 4275",
+        "referencedCourses": [
+          "FIN 4274",
+          "FIN 4275"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4294",
+      "subject": "FIN",
+      "number": "4294",
+      "level": 4000,
+      "title": "Commodity Invt. Portfolios",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of fundamental commodity analysis and valuation techniques utilized to create a commodity investment portfolio in an experiential setting. Analysis, selection, and advanced analytical techniques in domestic and international agricultural, energy and metal commodities applied to a simulated investment in a commodity portfolio. Maintain a high level of fiduciary responsibility through developing, maintaining, and interpreting portfolio performance on a daily basis.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4314",
+      "subject": "FIN",
+      "number": "4314",
+      "level": 4000,
+      "title": "Field Projects in Finance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Finance-related business projects with external clients, which will include gathering and analyzing data, understanding relevant financial issues in a business context, formulating recommendations, and presenting analyses and recommendations in oral and written form. May be repeated once with different content for a maximum of 6 credit hours.",
+      "prerequisites": {
+        "rawText": "FIN 3134 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "FIN 3134",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4414",
+      "subject": "FIN",
+      "number": "4414",
+      "level": 4000,
+      "title": "FinTech – Quantitative Finance Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integration and extension of previous coursework within the FinTech and Business Data Analytics (FBDA) major. Application of statistical methods for finance and business analytics. Hypothesis testing within the financial research process. Processing of financial data. Computer coding for data management and analysis. Discussion of limitations or caveats associated with research projects. Collection and citation of relevant statistical and financial research literature. Presentation of research findings in oral and written communication formats.",
+      "prerequisites": {
+        "rawText": "BIT 3424 and CMDA 3654 and FIN 3144 and FIN 3154",
+        "referencedCourses": [
+          "BIT 3424",
+          "CMDA 3654",
+          "FIN 3144",
+          "FIN 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4954",
+      "subject": "FIN",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4974",
+      "subject": "FIN",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4984",
+      "subject": "FIN",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Special Study",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4994",
+      "subject": "FIN",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FIN 4994H",
+      "subject": "FIN",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fin/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

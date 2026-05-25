@@ -1,0 +1,444 @@
+{
+  "subject": "APS",
+  "scrapedAt": "2026-05-25T21:18:20.807Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "APS 1704",
+      "subject": "APS",
+      "number": "1704",
+      "level": 1000,
+      "title": "Introduction to Appalachian Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the history of the Appalachian region from European contact to the present. Traces the idea of Appalachia by tracing ways in which Americans have imagined the region over time. Explores humanistic problems of cultural identity, race and ethnicity, place and globalization, and impacts of natural resource extraction.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 1704"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 2124",
+      "subject": "APS",
+      "number": "2124",
+      "level": 2000,
+      "title": "Music Traditions in Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey and study of music traditions in Appalachia. Investigation of the formal elements of this music, including instruments and musical terms and forms. Exploration of style as a reflection of many cultural influences. Study of the impact and development of these traditions in contemporary musical practices.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MUS 2124"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 2404",
+      "subject": "APS",
+      "number": "2404",
+      "level": 2000,
+      "title": "Folk Cultures in Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the expressive genres and cultural processes of communities in Appalachia. Documentation of art and skill in everyday life, including material culture (e.g., foodways, architecture), customary behavior (e.g., music, ritual, occupational practice), and verbal art (e.g., narrative, speechplay), and analysis of how people have used these forms to shape social identities, physical spaces, and power relations.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 2404"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 2434",
+      "subject": "APS",
+      "number": "2434",
+      "level": 2000,
+      "title": "The Cultural Politics of Music in Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines cultural, political, and social aspects of music in, of, and about Appalachia, including such commercialized and increasingly globalized products as “old-time,” “bluegrass,” and “country.” Ways in which music contests and reproduces social relations of race, class, and gender. Role of migration and racial diversity in formation of Appalachian music. Economic significance of music, such as Virginia’s The Crooked Road as a regional touristic undertaking.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 2974",
+      "subject": "APS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 2974H",
+      "subject": "APS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 2984",
+      "subject": "APS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 3124",
+      "subject": "APS",
+      "number": "3124",
+      "level": 3000,
+      "title": "Societal Health in North America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of human health within and across a variety of geographic contexts in North America. Describe the health consequences of inequity and injustice within and across American contexts. Consider the roles of collectives, social movements, mutual aid, interdisciplinary thinking, power and social justice in addressing pathologies of power and working towards human well-being. Advocate a biosocial lens that considers the dynamic relationships between biology and environmental, social, geographic, and historical contexts.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 3124"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 3214",
+      "subject": "APS",
+      "number": "3214",
+      "level": 3000,
+      "title": "History of Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Early settlement, religion, the pre-industrial economy, the coming of the coal and lumber industries, labor activism, politics, migration, and regional identity.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 3464",
+      "subject": "APS",
+      "number": "3464",
+      "level": 3000,
+      "title": "Appalachian Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The concept of community in Appalachia using an interdisciplinary approach and experiential learning. Interrelationships among geographically, culturally, and socially constituted communities, public policy, and human development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AHRM 3464",
+        "GEOG 3464",
+        "HUM 3464",
+        "SOC 3464",
+        "UAP 3464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 3624",
+      "subject": "APS",
+      "number": "3624",
+      "level": 3000,
+      "title": "Appalachian Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Appalachian literature from the region’s beginnings to the present, including such diverse voices as women, Native American, Affrilachian, LGBTQ, and Latinx populations. Literary perspectives on the relationships between self, family, and community; place and displacement; and humans and the natural world. Analysis of stereotypes that have perpetuated inequity and displacement of power, as well as consideration of regional efforts to reclaim equity, power, place, and identity.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3624"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 3984",
+      "subject": "APS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4034",
+      "subject": "APS",
+      "number": "4034",
+      "level": 4000,
+      "title": "Appalachian Languages and Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An empirical examination of how Appalachian speech both reflects and constitutes regional cultures. Emphasis is on applying sociological and anthropological methods and theories to the study of language in use.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 4054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4094",
+      "subject": "APS",
+      "number": "4094",
+      "level": 4000,
+      "title": "Appalachian Community Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Undergraduate participatory community research as applied to issues of cultural heritage, sustainability, and identity. Students engage in projects defined by community groups and organizations as being critical to their well-being, continuity, or growth. Emphasis is on developing concepts of civic professionalism and developmental democracy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHS 4094",
+        "SOC 4094"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4414",
+      "subject": "APS",
+      "number": "4414",
+      "level": 4000,
+      "title": "Issues in Appalachian Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research conducted by students on issues relevant to local or regional sustainability in contemporary Appalachia on contemporary environmental and community issues. Focus on environmental justice ethical issues expressed in or created by various forms of discourse.",
+      "prerequisites": {
+        "rawText": "HUM 1704 or APS 1704",
+        "referencedCourses": [
+          "APS 1704",
+          "HUM 1704"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 4414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4964",
+      "subject": "APS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4974",
+      "subject": "APS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4974H",
+      "subject": "APS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4984",
+      "subject": "APS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4994",
+      "subject": "APS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "APS 4994H",
+      "subject": "APS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aps/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

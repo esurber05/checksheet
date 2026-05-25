@@ -1,0 +1,251 @@
+{
+  "subject": "EDCT",
+  "scrapedAt": "2026-05-25T21:18:54.178Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "EDCT 1474",
+      "subject": "EDCT",
+      "number": "1474",
+      "level": 1000,
+      "title": "Computer Information Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of Information Technology. Social and individual impact of technology. Software and hardware technologies. Networking, programming, and development.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 2604",
+      "subject": "EDCT",
+      "number": "2604",
+      "level": 2000,
+      "title": "Introduction to Career and Technical Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Philosophies, history, legislation, context, administration and delivery systems of the various licensure areas included in Career and Technical Education.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 2964",
+      "subject": "EDCT",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 3964",
+      "subject": "EDCT",
+      "number": "3964",
+      "level": 3000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4004",
+      "subject": "EDCT",
+      "number": "4004",
+      "level": 4000,
+      "title": "International Trends in Workforce Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Trends in international workforce development including global talent supply and demand; portable skills and workforce readiness; social, economic and employment issues; worker values; impact of technology, and workplace communication skills for effective writing, speaking, reading, and listening.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4034",
+      "subject": "EDCT",
+      "number": "4034",
+      "level": 4000,
+      "title": "Methods of Planning Educational Programs in Agriculture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Course examines the procedures involved in the development of courses, curriculum, and instructional materials for education programs in agriculture.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "ALCE 4034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4624",
+      "subject": "EDCT",
+      "number": "4624",
+      "level": 4000,
+      "title": "Managing a Career and Technical Education Program",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Responsibilities of a Career and Technical Education teacher. Managing CTE program based on operational polices, promoting program to in-school and external stakeholders, implementing work-based learning, advising program student organizations, and creating a community-based program.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4634",
+      "subject": "EDCT",
+      "number": "4634",
+      "level": 4000,
+      "title": "Student Assessment in Career and Technical Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Assessment of standards-based outcomes of learning in workforce development and career and technical education programs. Focus on work-based learning, hands-on competencies, Cognitive Learning Targets, and performance assessment. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "EDCT 2604 and EDCT 2964",
+        "referencedCourses": [
+          "EDCT 2604",
+          "EDCT 2964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4754",
+      "subject": "EDCT",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship in Education",
+      "credits": {
+        "min": 1,
+        "max": 16
+      },
+      "isVariableCredit": true,
+      "description": "Planned program of clinical practice in education under the direction and supervision of a university supervisor and a selected practitioner. Pre: Recommendation of program area and successful completion of Professional Studies requirement.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-16 Lec, 1-16 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 16 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4884",
+      "subject": "EDCT",
+      "number": "4884",
+      "level": 4000,
+      "title": "Youth Program Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Organizational design of educational youth programs such as 4-H and FFA, including administrative planning, human resource development, recruitment, marketing, and budgeting.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ALCE 4884"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4964",
+      "subject": "EDCT",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4974",
+      "subject": "EDCT",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCT 4984",
+      "subject": "EDCT",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edct/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

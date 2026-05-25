@@ -1,0 +1,1509 @@
+{
+  "subject": "RLCL",
+  "scrapedAt": "2026-05-25T21:22:11.755Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "RLCL 1004",
+      "subject": "RLCL",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introduction to Religion and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces students to foundational concepts and debates within the humanities and social sciences by studying one of a rotating set of themes (e.g. love, evil, apocalypse) located at the intersection of religion and culture. Emphasis on cultural diversity, historical transformation, interdisciplinary inquiry, problem-solving and the application of academic discussions to everyday life situations.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1004H",
+      "subject": "RLCL",
+      "number": "1004H",
+      "level": 1000,
+      "title": "Intro to Religion & Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces students to foundational concepts and debates within the humanities and social sciences by studying one of a rotating set of themes (e.g. love, evil, apocalypse) located at the intersection of religion and culture. Emphasis on cultural diversity, historical transformation, interdisciplinary inquiry, problem-solving and the application of academic discussions to everyday life situations.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1014",
+      "subject": "RLCL",
+      "number": "1014",
+      "level": 1000,
+      "title": "World Religions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Formation of the category of world religions in the modern West. Basic worldviews, embodied practices, and traditions included under the rubric of world religions. The encounter of and mismatch between traditions identified as world religions and the category of world religions as an instrument of colonialism and imperialism.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1024",
+      "subject": "RLCL",
+      "number": "1024",
+      "level": 1000,
+      "title": "Judaism, Christianity, and Islam",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Nature of religion and the analysis of it from an academic perspective. Basic tenets of Judaism, Christianity, and Islam, including their manifestations in the United States and their involvement in critical issues in a global context Interpretation of key texts from various historical and cultural contexts.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1034",
+      "subject": "RLCL",
+      "number": "1034",
+      "level": 1000,
+      "title": "Religion and the Modern World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Modern challenges to traditional religion and responses to these challenges, including: religion as an object of critique; law, sovereignty, and religion; religion, gender, and race; religion, science, and technology; religion and media presentations.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1034H",
+      "subject": "RLCL",
+      "number": "1034H",
+      "level": 1000,
+      "title": "Religion and the Modern World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Modern challenges to traditional religion and responses to these challenges, including: religion as an object of critique; law, sovereignty, and religion; religion, gender, and race; religion, science, and technology; religion and media presentations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1044",
+      "subject": "RLCL",
+      "number": "1044",
+      "level": 1000,
+      "title": "Religious Ethics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Influential representative social and religious ethical perspectives from ancient Greek philosophers to the present; ethical reasoning on current pressing and perennial social issues - bioethics, sexuality, family, poverty-- based on historical and ethical analysis of case studies; theoretical assumptions about morality as the relation between living a virtuous life and performing ethical duties.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1054",
+      "subject": "RLCL",
+      "number": "1054",
+      "level": 1000,
+      "title": "Virginia Tech Prison Book Project",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A one-hour course with the Virginia Tech Prison Book Project. Students will complete a learning module about carceral institutions in the United States and the impact of educational opportunities on the lives of incarcerated people. They will then participate in a service learning event where they match individual requests from incarcerated readers to books and prepare the books for shipping.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lab, 1 Crd)",
+      "crossListedWith": [
+        "CRIM 1054",
+        "HUM 1054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1064",
+      "subject": "RLCL",
+      "number": "1064",
+      "level": 1000,
+      "title": "The Culture of Money",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the cultural, religious, and ethical dimensions of money and related topics, such as gifting, markets, the charging of interest, charity, pricing strategies, private property, and wage labor. Comparison of the disparate forms and uses of money and how money has worked in various cultural and historical frameworks. Evaluation of the differences between capitalist and non-capitalist money-systems, including philosophical debates about the relationship between money and human nature. Examination of ethical issues pertaining to money, such as the forgiveness of debt, money’s impact on social inequality, and the role of money in various projects of political empowerment and disempowerment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 1064",
+        "HUM 1064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1074",
+      "subject": "RLCL",
+      "number": "1074",
+      "level": 1000,
+      "title": "Ghosts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental humanities and social scientific frameworks underlying belief in ghosts and the paranormal as sites of human meaning-making and as expressions of cultural norms and anxieties concerning human behavior and social relationships, especially in US contexts pertaining to enslavement, displacement, and gender disparity. Introduces students to key concepts and methods such as auto-ethnography, the study of material culture, historical criticism, and literary criticism via an appealing and engaging topic. Training in ethical self-assessment and assessment of human meaning-making and behavior concerning ghosts and the paranormal such as affect theory, empiricism, and experience.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 1074"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1084",
+      "subject": "RLCL",
+      "number": "1084",
+      "level": 1000,
+      "title": "Food Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary introductory course explores how food shapes and is shaped by culture and society. Examines how people use food to express meanings (e.g., via foodways, story, art, architecture, religion, ethical codes), how food options, practices, and inequities are shaped by social structures (e.g. cultural and legal norms regarding race, class, and gender), and how the material properties of food (e.g., chemical, ecological, technological) are linked to identities, ideological commitments, and historical moments.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 1084",
+        "PSCI 1084",
+        "SOC 1084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1134",
+      "subject": "RLCL",
+      "number": "1134",
+      "level": 1000,
+      "title": "The Ancient Mediterranean World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Ancient cultures of the Mediterranean world with a focus on their embodiments in the arts, literature, history, philosophy, and religion. Emphasis on Greek, Hellenistic and Roman cultures, their interrelationships with each other and their historical, cultural, material and intellectual encounters with contemporary Mediterranean cultures as well as their influence on later and modern cultures.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CLA 1134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1214",
+      "subject": "RLCL",
+      "number": "1214",
+      "level": 1000,
+      "title": "The Medieval World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Europe and the Mediterranean world in the period between antiquity and the European encounter with the Americas. Investigation of the arts, literature, philosophy, and history of the period in the Christian, Jewish, and Islamic traditions and the multiple types of encounters that those communities experienced. Analysis of the impact the medieval world continues to have on the modern West.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1504",
+      "subject": "RLCL",
+      "number": "1504",
+      "level": 1000,
+      "title": "Introduction to Popular Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The development and formation of the category of popular culture. Competing theories and methods for analyzing popular culture. Activities, objects, and ideas included under the rubric of popular culture. Critical thinking about the production of popular culture in relation to race, gender, class, and other forms of human difference.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 1504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1904",
+      "subject": "RLCL",
+      "number": "1904",
+      "level": 1000,
+      "title": "Religion and Culture In Asia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical and geographical overview of diverse religious/cultural traditions in Asia, such as Hinduism, Buddhism, Sikhism, Confucianism, Daoism, and Shinto. Investigation of the categories religion and culture and their interactions in Asia. Examination of different methodological and interdisciplinary approaches and their integration, with emphasis on critical thinking about the complexities of studying religion and culture in Asia. Asia on a global stage, including Western views of Asia and Asian views of the West.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 1904H",
+      "subject": "RLCL",
+      "number": "1904H",
+      "level": 1000,
+      "title": "Religion and Culture in Asia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical and geographical overview of diverse religious/cultural traditions in Asia, such as Hinduism, Buddhism, Sikhism, Confucianism, Daoism, and Shinto. Investigation of the categories religion and culture and their interactions in Asia. Examination of different methodological and interdisciplinary approaches and their integration, with emphasis on critical thinking about the complexities of studying religion and culture in Asia. Asia on a global stage, including Western views of Asia and Asian views of the West.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2004",
+      "subject": "RLCL",
+      "number": "2004",
+      "level": 2000,
+      "title": "Case Studies in Religion and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Significant case studies in the study of religion and culture with an emphasis on influential and emerging research. Focused engagement with humanities and social sciences research grounded in analysis, comparison, and evaluation of relevant case studies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2054",
+      "subject": "RLCL",
+      "number": "2054",
+      "level": 2000,
+      "title": "Ethnography: Studying Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the methodological tools used by anthropologists and other social scientists to study culture. Engagement with the development of, and debates about, ethnographic methods, as well as their application to case studies. Focus on sample ethnographic accounts of peoples throughout the world, as well as research techniques applicable to many different cultural environments.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 2054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2104",
+      "subject": "RLCL",
+      "number": "2104",
+      "level": 2000,
+      "title": "Greek New Testament",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Readings from the New Testament in Greek, with attention to grammatical analysis, historical background and other clues interpretation. May repeated with different content for a maximum of 9 credits.",
+      "prerequisites": {
+        "rawText": "GR 1106",
+        "referencedCourses": [
+          "GR 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GR 2104"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2124",
+      "subject": "RLCL",
+      "number": "2124",
+      "level": 2000,
+      "title": "Religion in American Life",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Understanding and integrating source materials for the study of religion in American life. Genealogy of religion and culture in America (USA). Changes and transformations in religious beliefs and practices and their influences on American life. Debates about religion and culture. Entanglements of religion, politics, race, ethnicity, and law.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2134",
+      "subject": "RLCL",
+      "number": "2134",
+      "level": 2000,
+      "title": "Judaism: A Survey of History, Culture, and Heritage",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the academic study of Judaism; a variety of scholarly approaches to Jewish textual and cultural sources, including the Hebrew Bible, rabbinic literature, and diverse contemporary cultural, religious, and social expressions. Emphasis on developing skills in critical thinking, reading, and writing about Judaism as a way of understanding the beliefs, philosophies, and histories of global Jewish communities past and present.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 2134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2204",
+      "subject": "RLCL",
+      "number": "2204",
+      "level": 2000,
+      "title": "Race and Gender in Religion and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Influence of race and gender on religion and culture. Overview of approaches to categories of diversity, particularly race and gender, in religious and cultural traditions. Utilization of humanistic and social scientific approaches to investigate geographically variable historical and/or contemporary case studies.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2204",
+        "WGS 2204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2324",
+      "subject": "RLCL",
+      "number": "2324",
+      "level": 2000,
+      "title": "Islam",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Addresses the rise of Islam under the Prophet Muhammad in Arabia, the development of Islam in the Middle Ages, and its resurgence in the 20th century. Issues of geographical, temporal, and ideological diversity, and critical thinking about representations of Islam in the West. Islamic orthodoxy addressed by examining the question of who represents Islam, when, and how.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2374",
+      "subject": "RLCL",
+      "number": "2374",
+      "level": 2000,
+      "title": "Gods and Kings in Premodern India",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of India from pre-historical times to approximately 1700, with particular focus on the interplay between religion and politics. Emphasis on sources for and interpretations (historiography) of early Indian history. Literary versus archaeological record of pre-historic India, the earliest empires and rulers, and impact of the Islamic and wider world on India. Legacies of ancient and medieval India in the contemporary world.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2374"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2384",
+      "subject": "RLCL",
+      "number": "2384",
+      "level": 2000,
+      "title": "Gandhi in the Making of Modern India",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of India since approximately 1700, with particular focus on Gandhis influence on modern India and the world. Emphasis on sources for and interpretations (historiography) of modern Indian history. Examination of pre-colonial and colonial pasts and legacies. Exploration of Gandhis role in political, social, cultural, and religious movements of the early 20th century, and Gandhis legacy in the independent states of South Asia and the contemporary world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2384"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2394",
+      "subject": "RLCL",
+      "number": "2394",
+      "level": 2000,
+      "title": "Tofu to Tikka: Food in Asian History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the evolution and alterations of food and cuisines throughout Asian history. Examination of the economic, geographical, political, philosophical/religious, and social underpinnings of food in premodern Asian societies; influence of the Columbian Exchange of Asian and global cuisines; Euro-American imperialism’s impact on food and society in Asia and in the European and American metropoles; emergence of national cuisines in Asia; and Asian food in the post-colonial diaspora.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2394"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2414",
+      "subject": "RLCL",
+      "number": "2414",
+      "level": 2000,
+      "title": "Hebrew Bible/Old Testament",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the academic study of the Hebrew Bible (Old Testament), including its contents, contexts, major themes, and reception; a variety of scholarly approaches, including historical-critical, literary, ethical, and gender studies methods. Emphasis on developing skills in critical thinking, reading, and writing about the Hebrew Bible (Old Testament).",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 2414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2424",
+      "subject": "RLCL",
+      "number": "2424",
+      "level": 2000,
+      "title": "New Testament",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the academic study of the New Testament, including gospels, Pauline materials, theological themes, and sources on the emerging church. A variety of scholarly approaches to the New Testament texts and contexts, including historical-critical, redaction critical, and literary methods. Emphasis on developing skills in critical thinking, reading, and writing about the New Testament and the ancient Mediterranean world as a way of understanding the religion and history of early Christianity.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2434",
+      "subject": "RLCL",
+      "number": "2434",
+      "level": 2000,
+      "title": "Legends of King Arthur",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to legends of King Arthur, including stories, novels, and films from a wide historical timespan. Tales of knights, kings, and fair maidens that have entertained generations and irrevocably shaped cultural values surrounding gender relations, justice, violence, and the use and abuse of power. Analysis of individual texts and broader consideration of the Arthurian tradition during key literary-historical periods from the medieval era to the present.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 2434"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2444",
+      "subject": "RLCL",
+      "number": "2444",
+      "level": 2000,
+      "title": "Greek and Roman Myth",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys ancient Greek and Roman mythology. Provides students with an introduction to selected myths from ancient Greek and Roman literature, including appropriate historical background information. Familiarizes students with how theories of myth have been applied to individual stories and how such mythological tales have been received by authors and artists in subsequent cultures. Explores the interaction and interdependence of mythological tales from different cultures and perspectives. In English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CLA 2444",
+        "ENGL 2444"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2464",
+      "subject": "RLCL",
+      "number": "2464",
+      "level": 2000,
+      "title": "Religion and Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the relationships between religion and science in the western tradition. Basic frameworks for relationships between religion and science in historical and cultural context, types of human knowledge and truth, similarities and differences between science and religion, evolution, the origins of the creationist movement, and contemporary moral and ethical issues.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 2464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2474",
+      "subject": "RLCL",
+      "number": "2474",
+      "level": 2000,
+      "title": "Religion and Violence",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of the categories of religion and secularity as they apply to war and peace. Analysis of episodes from both past and present in which religion seems to have played a role. Introduction to research skills related to the study of religion and violence, building from theoretical and historical considerations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2474"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2484",
+      "subject": "RLCL",
+      "number": "2484",
+      "level": 2000,
+      "title": "Religion and Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of religion and politics as distinct categories in different times and places. Analysis of episodes from both past and present in which religion and politics have come together, or have been kept apart. Examination of the roles religion and politics play in the modern world and how they impact the lived experience of diverse populations both in the United States and throughout the world.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2484",
+        "PSCI 2484"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2504",
+      "subject": "RLCL",
+      "number": "2504",
+      "level": 2000,
+      "title": "Introduction to American Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methodology and tools of American Studies, with a focus on developing analytic skills to assess discourse across varied media. Interdisciplinary investigation of histories, politics, cultures, and beliefs in the Americas, including the impacts of encounter and exchange. Intensive study of a specific topic or period.",
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 2504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2514",
+      "subject": "RLCL",
+      "number": "2514",
+      "level": 2000,
+      "title": "Asian American Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary overview of the diverse Asian American experience, incorporating non-Eurocentric perspectives on the Asian immigrant experience and dialogue between Asian American and non-Asian American students. Examination of different historical tracks of various Asian ethnicities, experience of racism, discrimination, cultural adaptation and conflict, and economic survival and success. Gender, age, religious affiliation, family values and inter-generational differences among Asian Americans. The complexity of minority status and the stereotype of “model minority.” Activism, political participation, leadership and the meaning of citizenship among Asian Americans. Representations of Asian Americans in the arts and media.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 2514"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2964",
+      "subject": "RLCL",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2974",
+      "subject": "RLCL",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2974H",
+      "subject": "RLCL",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 2984",
+      "subject": "RLCL",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3014",
+      "subject": "RLCL",
+      "number": "3014",
+      "level": 3000,
+      "title": "Women and Gender in Islam",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An examination of women and gender in Islam from a variety perspectives including Muslim women in Islamic history, normative constructions of the role of women in Islam, and womens roles in contemporary Muslim societies. Understanding of women in classical Islam; feminist and reformist approaches; and Western constructions of the rights of women if Islam.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "WGS 3014"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3024",
+      "subject": "RLCL",
+      "number": "3024",
+      "level": 3000,
+      "title": "Religion and Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Read works from world literature, guided by selected critical readings. Compare/contrast diverse models of religion and literature. Study how modernity has impacted traditions of religion and culture. Interpret literary texts that draw from multiple religions. Analyze religion-literature controversies in a range of social, cultural, political contexts. Synthesize sources of multiple media, formats, and contexts.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3034",
+      "subject": "RLCL",
+      "number": "3034",
+      "level": 3000,
+      "title": "Theories of Popular Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of theories for understanding the ways in which popular objects and practices (such as television programs, films, or attending sporting events) represent, maintain, and contest societal norms, including norms regarding gender and sexuality, race and ethnicity, and class and place, with an emphasis on the United States.",
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 3034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3034H",
+      "subject": "RLCL",
+      "number": "3034H",
+      "level": 3000,
+      "title": "Theories of Popular Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of theories for understanding the ways in which popular objects and practices (such as television programs, films, or attending sporting events) represent, maintain, and contest societal norms, including norms regarding gender and sexuality, race and ethnicity, and class and place, with an emphasis on the United States.",
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 3034H"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3204",
+      "subject": "RLCL",
+      "number": "3204",
+      "level": 3000,
+      "title": "Multicultural Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of communication in and among various cultural groups through an examination of communicative practices, registers, discourse, and performance. Emphasis on understanding cultural differences and similarities in the different styles and stances in communication and their meanings to participants.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 3204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3204H",
+      "subject": "RLCL",
+      "number": "3204H",
+      "level": 3000,
+      "title": "Multicultural Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of communication in and among various cultural groups through an examination of communicative practices, registers, discourse, and performance. Emphasis on understanding cultural differences and similarities in the different styles and stances in communication and their meanings to participants.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 3204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3214",
+      "subject": "RLCL",
+      "number": "3214",
+      "level": 3000,
+      "title": "Religion and Culture in India",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary examination of the genealogy of Indian religions (including Hinduism, Buddhism, Jainism, and Sikhism) through anthropological, literary, historical, and textual source materials. Colonial construction and reform of these religions according to modern, universal European ideas of religion; how European notions of the modern nation-state, law, and religious tolerance, and European concepts of self, autonomy, community, (univocal) language, and multiculturalism impacted Indian religions. Pre-modern versus modern notions of tradition and power in Indian religions. Concepts of secularism, gender, race, conversion, caste, and religious-political identity.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3224",
+      "subject": "RLCL",
+      "number": "3224",
+      "level": 3000,
+      "title": "Religion and Culture in China and Japan",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Premodern model of Chinese and Japanese religions: interactions of various traditions (e.g. Confucianism, Buddhism, Daoism, Shinto, and folk); inseparability of religion, culture, society, and politics. Modern reinventions of religion in China and Japan in the late nineteenth and early twentieth centuries. Contemporary issues such as state-religion relations in East Asia, religions of China and Japan in America, East Asian religions and globalization.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3234",
+      "subject": "RLCL",
+      "number": "3234",
+      "level": 3000,
+      "title": "Religion & Culture in Latin America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of religion and culture in Abya Yala (Indigenous Latin America), focusing on histories and practices of Indigenous communities before and after 1491, as well as Christianity’s role in the colonization projects. Emphasizes visual and material culture. Considers Indigenous worldviews, their relationships to land, natural elements, and people, and how beliefs, ritual, and ceremonies have persisted or changed, particularly in Mesoamerica and the Andes. Students will learn to identify and discuss specific Indigenous communities, material culture, and their religious practices. Prior knowledge of Abya Yala or Religious Studies is not required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3344",
+      "subject": "RLCL",
+      "number": "3344",
+      "level": 3000,
+      "title": "Early Modern and Reformation History, 1500-1650",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The phenomenon of religious Reformations, and development of political, cultural and economic institutions,1500-1650. Themes include the advent of Protestantism, the reinvention of Catholicism, and adaptation of Islam and Judaism in early modern Europe. Contextualization of primary sources. Develops students' historical communication skills. Emphasis upon the shared challenges and divergent solutions of European religious sects to social, political, and theological challenges.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3344"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3404",
+      "subject": "RLCL",
+      "number": "3404",
+      "level": 3000,
+      "title": "Torah and Tradition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed study of the first five books of the Bible, known as the Torah or Pentateuch. Scholarly approaches will include historical-critical research; comparative mythology; form and canon criticism; gender and literary studies; and the reception of these books in the Hebrew Bible, the New Testament, and beyond.",
+      "prerequisites": {
+        "rawText": "RLCL 2414",
+        "referencedCourses": [
+          "RLCL 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 3404"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3404H",
+      "subject": "RLCL",
+      "number": "3404H",
+      "level": 3000,
+      "title": "Torah and Tradition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed study of the first five books of the Bible, known as the Torah or Pentateuch. Scholarly approaches will include historical-critical research; comparative mythology; form and canon criticism; gender and literary studies; and the reception of these books in the Hebrew Bible, the New Testament, and beyond.",
+      "prerequisites": {
+        "rawText": "RLCL 2414",
+        "referencedCourses": [
+          "RLCL 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 3404H"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3414",
+      "subject": "RLCL",
+      "number": "3414",
+      "level": 3000,
+      "title": "Jesus in Earliest Christianity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Literary survey of the various representations of Jesus of Nazareth in canonical and apocryphal Christian literature of the first four centuries. Perspectives on Jesus and the interpretive authority involved in producing such variety. Ancient and modern interpretive frameworks for understanding the person and legacy of Jesus in earliest Christianity, including historical-critical frameworks, redaction criticism, genre criticism, and other literary methods. Analyses of modern religious/political discourses as continuations of ancient theological debates. Emphasis on developing skills in critical thinking and close reading of early Christian texts as a means of understanding the religion(s) and histories of the earliest Christians.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3424",
+      "subject": "RLCL",
+      "number": "3424",
+      "level": 3000,
+      "title": "Orthodoxy and Heresy in Early Christianity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Literary survey focusing on the diversity of Christian beliefs in the first four centuries. Highlights a variety of theological debates and the historical and cultural contexts involved in the eventual production of a Christian orthodoxy, over and against so-called heresy. The history and content of early Christian texts, both canonical and apocryphal. Ancient and modern interpretive frameworks for understanding the variety and diversity of earliest Christian beliefs, including historical-critical frameworks, comparative reading, source criticism, and other literary methods. Emphasis on developing skills in critical thinking and close reading of early Christian texts as a means of understanding the religion(s) and histories of the earliest Christians.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3454",
+      "subject": "RLCL",
+      "number": "3454",
+      "level": 3000,
+      "title": "Philosophy of Religion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A consideration of religious belief and its justification with attention to such philosophical issues as the nature and existence of the Judeo-Christian-Muslim God, proofs for the existence of God, the problem of evil, a religious basis for ethics, the nature of faith, and the variety of religious beliefs.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHIL 3454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3494",
+      "subject": "RLCL",
+      "number": "3494",
+      "level": 3000,
+      "title": "The Holocaust",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides a historical account, a psychological analysis, and an occasion for philosophical contemplation on the Holocaust. We will examine the deliberate and systematic attempt to annihilate the Jewish people by the National Socialist German State during World War II. Although Jews were the primary victims, Gypsies, people with disabilities, homosexuals, Jehovahs Witnesses and political dissidents were targeted; we will discuss their fate as well. The class will be organized around the examination of primary sources: written accounts, photographic and film, personal testimony.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3494",
+        "JUD 3494"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3504",
+      "subject": "RLCL",
+      "number": "3504",
+      "level": 3000,
+      "title": "The Age of The Crusades",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The origins and development of religious violence examined from an interdisciplinary and cross-cultural perspective; the place of that phenomenon in medieval society. Christianity, Islam, Judaism and their interactions in the medieval world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3544",
+      "subject": "RLCL",
+      "number": "3544",
+      "level": 3000,
+      "title": "The State of Israel: A Political History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides a survey on the political history of the State of Israel and highlights major themes uniquely characterizing the specific events surrounding its establishment and its first 50 years of existence. Additionally, the course will add a comparative dimension by using the political history of Israel as a case study to discuss major themes in political science such as democracy, government, political, economy, etc.",
+      "prerequisites": {
+        "rawText": "JUD 2134 or PSCI 1024",
+        "referencedCourses": [
+          "JUD 2134",
+          "PSCI 1024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 3544",
+        "PSCI 3544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3644",
+      "subject": "RLCL",
+      "number": "3644",
+      "level": 3000,
+      "title": "Religion in the Middle East",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical issues in religion in the Middle East. Competing methods for analyzing religion in the Middle East. Key concepts relating to religion and inter-religious relations in the Middle East such as minority, majority, tolerance, citizenship, and family law. Critical thinking about the relationship between Islam and other religions with particular reference to Muslim-Jewish and Muslim-Christian relations.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ARBC 3644",
+        "IS 3644"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3884",
+      "subject": "RLCL",
+      "number": "3884",
+      "level": 3000,
+      "title": "Culture and Society in Contemporary Europe",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The impact of religion and culture in contemporary European politics and societies. Nationalism versus European cosmopolitanism. Religion, religious radicalism and religious tolerance in Europe. Culture and society in European urban and rural areas. Attitudes towards women and LGBTQ in Europe. Social foundations and cultural determinants of marginalization of social groups, migrants and refugees.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3884",
+        "SOC 3884"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 3954",
+      "subject": "RLCL",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4014",
+      "subject": "RLCL",
+      "number": "4014",
+      "level": 4000,
+      "title": "Religion and the Public Sphere",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Debates about the resurgence of religion in the modern world. Complexities involved in defining religion. Social-scientific, phenomenological, and cultural approaches to the study of religion. Theories concerning what role religion should play in the public sphere. Theories about secularism, secularization, and the differentiation between religion and politics.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4024",
+      "subject": "RLCL",
+      "number": "4024",
+      "level": 4000,
+      "title": "Sociology of Religion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Religion as a social structure as well as an institution; with special attention to the functions of religion for individuals, groups and societies, social organization; and the interplay between religion and other social institutions including economics and polity. Taught alternate years.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 4024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4104",
+      "subject": "RLCL",
+      "number": "4104",
+      "level": 4000,
+      "title": "Explorations in Advanced Humanities Topics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study of special interdisciplinary topic. Topics vary but involve a close and extensive study of the interrelationship between cultural ideas and their expressions in several of the following forms: literature, philosophy, religion, art, music, drama, material culture, and popular culture. May be repeated with different topics, for a maximum of 9 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 4104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4324",
+      "subject": "RLCL",
+      "number": "4324",
+      "level": 4000,
+      "title": "Topics in Religion and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics from the religions of the world such as time and the sacred, preliterate religions, women and religion, religion and science, mysticism. May be taken three times for credit with different topics.",
+      "prerequisites": {
+        "rawText": "RLCL 2004",
+        "referencedCourses": [
+          "RLCL 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4964",
+      "subject": "RLCL",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4974",
+      "subject": "RLCL",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4974H",
+      "subject": "RLCL",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4984",
+      "subject": "RLCL",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4994",
+      "subject": "RLCL",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RLCL 4994H",
+      "subject": "RLCL",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rlcl/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

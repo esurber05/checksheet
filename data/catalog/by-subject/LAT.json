@@ -1,0 +1,360 @@
+{
+  "subject": "LAT",
+  "scrapedAt": "2026-05-25T21:21:09.299Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "LAT 1105",
+      "subject": "LAT",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Latin",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Latin, for development of reading ability. 1105: Introduction to the basics of the language and short readings of graded difficulty. 1106: Introduction to the basics of the language, continued, with introduction of selected passages from ancient Roman authors for reading, comprehension, and translation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 1106",
+      "subject": "LAT",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Latin",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Latin, for development of reading ability. 1105: Accidence, syntax, and vocabulary, with translation of discrete sentences and short readings of graded difficulty. 1106: Accidence, syntax, and vocabulary continued, with the introduction of selected passages from ancient Roman authors for reading, comprehension, and translation.",
+      "prerequisites": {
+        "rawText": "LAT 1105",
+        "referencedCourses": [
+          "LAT 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2104",
+      "subject": "LAT",
+      "number": "2104",
+      "level": 2000,
+      "title": "Cicero and Livy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A course in two major Latin prose authors. Review and refinement of the language is combined with an increasing attention to historical, cultural, linguistic and literary questions. May be repeated with different content for a maximum of 9 credits.",
+      "prerequisites": {
+        "rawText": "LAT 1106",
+        "referencedCourses": [
+          "LAT 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2114",
+      "subject": "LAT",
+      "number": "2114",
+      "level": 2000,
+      "title": "Latin Epic: Vergil and Ovid",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A course in two important Latin poets of the Age of Augustus with a view to increasing the students ability to understand and read Latin. Review and refinement of the language is combined with an increasing attention to historical, linguistic, cultural, and literary questions. May be repeated with different content for a maximum of 9 credits.",
+      "prerequisites": {
+        "rawText": "LAT 1106",
+        "referencedCourses": [
+          "LAT 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2124",
+      "subject": "LAT",
+      "number": "2124",
+      "level": 2000,
+      "title": "Latin Lyric: Catullus and Horace",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Two important Latin poets of the Late Republic. Review and refinement of the language is combined with an increasing attention to historical, linguistic, cultural, and literary questions. May be repeated with different content for a maximum of 9 credits.",
+      "prerequisites": {
+        "rawText": "LAT 1105 and LAT 1106",
+        "referencedCourses": [
+          "LAT 1105",
+          "LAT 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2134",
+      "subject": "LAT",
+      "number": "2134",
+      "level": 2000,
+      "title": "Late Medieval Latin",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Post-classical Latin, from Augustine and Boethius through the Middle Ages, Renaissance, and the Modern Age. Review and refinement of the language is combined with an increasing attention to historical, cultural, linguistic and literary questions. May be repeated with different content for a maximum of 9 credits.",
+      "prerequisites": {
+        "rawText": "LAT 1105 and LAT 1106",
+        "referencedCourses": [
+          "LAT 1105",
+          "LAT 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2964",
+      "subject": "LAT",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2974",
+      "subject": "LAT",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2974H",
+      "subject": "LAT",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 2984",
+      "subject": "LAT",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 3004",
+      "subject": "LAT",
+      "number": "3004",
+      "level": 3000,
+      "title": "Readings in Latin Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable content course devoted to the study of major Latin texts not offered in the 2000-level courses. Emphasis is on content, style, and context. May be repeated for credit with different content. Two 2000-level courses in Latin or equivalent proficiency required. Writing Intensive.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4004",
+      "subject": "LAT",
+      "number": "4004",
+      "level": 4000,
+      "title": "Directed Studies in Latin Prose Composition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of Latin grammar structure to the translation of English into Latin. Original compositions are written in Latin. (Will be offered during the academic year whenever there is sufficient enrollment and available staffing). One 3000-level course in Latin required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4964",
+      "subject": "LAT",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4974",
+      "subject": "LAT",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4974H",
+      "subject": "LAT",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4984",
+      "subject": "LAT",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4994",
+      "subject": "LAT",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAT 4994H",
+      "subject": "LAT",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lat/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+{
+  "subject": "ESM",
+  "scrapedAt": "2026-05-25T21:19:48.165Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ESM 1114",
+      "subject": "ESM",
+      "number": "1114",
+      "level": 1000,
+      "title": "Survey Biomed Engr",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Scope and history of BME, engr for diagnosis, therapy, and rehabilitation of living systems, medical electronics and instrumentation, non-invasive diagnostic imaging, life support equipment, automation/quantification of medical data, biological signal analysis, clinical engr, biomechanics, biotechnology, genetic engr, bionics, biodynamics, bioastronautics, environmental engr, biomaterials, space medicine, prosthetics, orthotics, artificial organs, artificial intelligence, studies of engr contributions to health care and physiological research. I",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2014",
+      "subject": "ESM",
+      "number": "2014",
+      "level": 2000,
+      "title": "Professnl Dvlpmnt Seminar ESM",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics designed to foster the professional development of the ESM student. ESM program objectives and outcomes. Professional careers, employment opportunities, expectations to the profession. Technical concentration within the ESM major. Ethical decision-making, safe and life-long learning.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2104",
+      "subject": "ESM",
+      "number": "2104",
+      "level": 2000,
+      "title": "Statics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vector mechanics of forces and moments, free-body diagrams, couples, resultants, equilibrium of particles and rigid bodies in two and three dimensions, forces in trusses, frames, and machines, centroids, centers of mass, distributed forces, internal shear forces and bending moments in beams, shear and moment diagrams, friction, belt friction, area of moments of inertia, parallel axis theorem.",
+      "prerequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2305 AND (MATH 2204 or MATH 2204H or MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2114",
+      "subject": "ESM",
+      "number": "2114",
+      "level": 2000,
+      "title": "Statics & Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vector algebra of forces, movements, couples and resultants. Free-body diagrams. Equilibrium of particles and rigid bodies in two and three dimensions. Friction. Forces in trusses and frames. Centroids, centers of mass, area moments of inertia. Internal axial forces, shear forces, and bending moments in bars in beams. Shear and moment diagrams. Stress and strain in bars in beams.",
+      "corequisites": {
+        "rawText": "MATH 2204 or MATH 2204H or MATH 2406H.",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2204",
+      "subject": "ESM",
+      "number": "2204",
+      "level": 2000,
+      "title": "Mechanics of Deformable Bodies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts of stress, strain, and deformation. Factor of safety. Stress-strain relationships and material properties. Stress concentrations. Area moments of inertia. Axially loaded members, torsionally loaded members, bending of beams. Shear and moment diagrams. Stresses due to combined loading. Thin-walled pressure vessels. Transformation of stress including Mohrs circle. Beam deflections and buckling stability.",
+      "prerequisites": {
+        "rawText": "(ESM 2104 or ESM 2114 or AOE 2014) and (MATH 2204 or MATH 2204H or MATH 2406H)",
+        "referencedCourses": [
+          "AOE 2014",
+          "ESM 2104",
+          "ESM 2114",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2304",
+      "subject": "ESM",
+      "number": "2304",
+      "level": 2000,
+      "title": "Dynamics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vector treatment of the kinematics and kinetics of particles and rigid bodies, Newtons laws, work and energy, impulse and momentum, impact, mass moments of inertia, rotating axes.",
+      "prerequisites": {
+        "rawText": "(ESM 2104 or AOE 2014) and (MATH 2204 or MATH 2204H or MATH 2406H)",
+        "referencedCourses": [
+          "AOE 2014",
+          "ESM 2104",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 2214",
+        "referencedCourses": [
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2974",
+      "subject": "ESM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2984",
+      "subject": "ESM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2994",
+      "subject": "ESM",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 2994H",
+      "subject": "ESM",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3024",
+      "subject": "ESM",
+      "number": "3024",
+      "level": 3000,
+      "title": "Introduction to Fluid Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fluid properties. Hydrostatics. Derivation and application of the mass, momentum, and energy conservation equations. Dimensional analysis and similitude. Introduction to analyses of pipe flows and piping systems, open channel flows, and fluid forces on solid bodies.",
+      "prerequisites": {
+        "rawText": "PHYS 2305 and ESM 2104",
+        "referencedCourses": [
+          "ESM 2104",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3034",
+      "subject": "ESM",
+      "number": "3034",
+      "level": 3000,
+      "title": "Fluid Mechanics Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to experimental fluid mechanics. Dimensional analysis. Experiments on fluid properties, flow measurements, and flow visualization, including manometry, determining hydrostatic forces on submerged surfaces, applications of the impulse-momentum principle, velocity measurements, measuring drag forces, quantifying flow in channels. Modern data acquisition techniques.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and ECE 3054",
+        "referencedCourses": [
+          "ECE 3054",
+          "ESM 2304"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ESM 3234",
+        "referencedCourses": [
+          "ESM 3234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3054",
+      "subject": "ESM",
+      "number": "3054",
+      "level": 3000,
+      "title": "Mechanical Behavior of Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mechanical properties and behavior of solid materials subjected to static, cyclic, and sustained loads resulting from stress states, environments, and stress histories typical of service conditions; multiaxial failure criteria; behavior of cracked bodies; fatigue of materials; creep of materials; microstructure-property relationships; design methodologies.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and (MSE 2034 or MSE 2044 or MSE 3094 or AOE 3094 or CEE 3684)",
+        "referencedCourses": [
+          "CEE 3684",
+          "ESM 2204",
+          "MSE 2034",
+          "MSE 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MSE 3054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3064",
+      "subject": "ESM",
+      "number": "3064",
+      "level": 3000,
+      "title": "Mechanical Behavior of Materials Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory experiments on behavior and mechanical properties of solid materials. Tension, compression, bending, hardness, nano-indentation, and impact tests; behavior of cracked bodies; fatigue and crack growth tests; creep deformation; microstructure-property relationships; laboratory equipment, instrumentation, and computers.",
+      "prerequisites": {
+        "rawText": "ESM 2204",
+        "referencedCourses": [
+          "ESM 2204"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ESM 3054",
+        "referencedCourses": [
+          "ESM 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [
+        "MSE 3064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3114",
+      "subject": "ESM",
+      "number": "3114",
+      "level": 3000,
+      "title": "Problem Definition and Scoping in Engineering Design",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Define open-ended engineering design projects, identify relevant broad social, global, economic, cultural and technical needs and constraints, determine ways in which technical skills contribute to addressing complex engineering design challenges. Identify a capstone project for ESM 4015-4016. Pre-requisite: Junior standing in ESM.",
+      "prerequisites": {
+        "rawText": "ESM 2014",
+        "referencedCourses": [
+          "ESM 2014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3124",
+      "subject": "ESM",
+      "number": "3124",
+      "level": 3000,
+      "title": "Dynamics II- Analytical and 3-D Motion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Review of Newtons Laws, introduction to Lagranges equations, rotating coordinate systems, particle dynamics, systems of particles, rigid-body dynamics, small amplitude oscillations, holonomic and nonholonomic constraints, phase space and energy methods.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and (MATH 2214 or MATH 2214H or MATH 2406H) and (MATH 2204 or MATH 2204H or MATH 2406H)",
+        "referencedCourses": [
+          "ESM 2304",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3134",
+      "subject": "ESM",
+      "number": "3134",
+      "level": 3000,
+      "title": "Dynamics III - Vibration and Control",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Single-degree-of-freedom vibration, n-degree-of-freedom systems, continuous systems, nonlinear systems, system stability, introduction to the feedback control of dynamic systems.",
+      "prerequisites": {
+        "rawText": "ESM 3124 and MATH 4564",
+        "referencedCourses": [
+          "ESM 3124",
+          "MATH 4564"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3154",
+      "subject": "ESM",
+      "number": "3154",
+      "level": 3000,
+      "title": "Solid Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to tensors, mathematical description of deformations and internal forces in solids, equations of equilibrium, principle of virtual work, linear elastic material behavior, solution for linear elastic problems including axially and spherically symmetric solutions, stress function solutions to plane stress and strain problems, solutions to 3-D problems, energy methods.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and (MATH 2214 or MATH 2214H)",
+        "referencedCourses": [
+          "ESM 2204",
+          "MATH 2214",
+          "MATH 2214H"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 4574",
+        "referencedCourses": [
+          "MATH 4574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3234",
+      "subject": "ESM",
+      "number": "3234",
+      "level": 3000,
+      "title": "Fluid Mechanics I-Control Volume Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fluid statics. Control volume approach to flow analysis: conservation laws, pipe flows, compressible flow, open channel flow.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and PHYS 2306",
+        "referencedCourses": [
+          "ESM 2304",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3274",
+      "subject": "ESM",
+      "number": "3274",
+      "level": 3000,
+      "title": "Biomedical Instrumentation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices of measurements, measurement standards and accuracy, specialized measurement systems used in biomedical engineering research and development, detector, transducers, signal modifying systems, readout devices, their use in the biomedical laboratory and in clinical applications.",
+      "prerequisites": {
+        "rawText": "BIOL 1006",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3334",
+      "subject": "ESM",
+      "number": "3334",
+      "level": 3000,
+      "title": "Fluid Mechanics II-Differential Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to continuum mechanics for fluid systems. Fluid kinematics. Differential approach to flow analysis: conservation equations, exact solutions, potential flows, viscous flows.",
+      "prerequisites": {
+        "rawText": "ESM 3234 or ME 3404",
+        "referencedCourses": [
+          "ESM 3234",
+          "ME 3404"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 4574",
+        "referencedCourses": [
+          "MATH 4574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3444",
+      "subject": "ESM",
+      "number": "3444",
+      "level": 3000,
+      "title": "Mechanics Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Concepts in instrumentation, data acquisition, and signal analysis. Measurements of mechanics quantities and phenomena associated with solid, fluid, and dynamical systems. Open-ended problem definition and approach formulation. Application and synthesis of engineering mechanics fundamentals to the modeling and solution of open-ended problems. Group-working skills and effective written and oral communication.",
+      "prerequisites": {
+        "rawText": "ESM 3234 and ESM 3034 and ESM 3054 and ESM 3064 and ESM 3124 and ECE 3054",
+        "referencedCourses": [
+          "ECE 3054",
+          "ESM 3034",
+          "ESM 3054",
+          "ESM 3064",
+          "ESM 3124",
+          "ESM 3234"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ESM 3134, ESM 3154, ESM 3334",
+        "referencedCourses": [
+          "ESM 3134",
+          "ESM 3154",
+          "ESM 3334"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 3704",
+      "subject": "ESM",
+      "number": "3704",
+      "level": 3000,
+      "title": "Basic Principles of Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Static equilibrium of forces and moments, concurrent and nonconcurrent force systems, center of gravity, concentrated and distributed loads. Solution of trusses. Stress and strain, elastic behavior of materials, cables and arches, shear, bending, and deformation in beams, indeterminate structures. Not available to students in engineering.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4014",
+      "subject": "ESM",
+      "number": "4014",
+      "level": 4000,
+      "title": "Applied Fluid Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of flow over practical configurations, panel methods, Reynolds-averaged Navier-Stokes equations, turbulent boundary layers, flow separation and three-dimensional effects. Unsteady flows, fluid-structure interactions.",
+      "prerequisites": {
+        "rawText": "ESM 2074 and ESM 3016",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4015",
+      "subject": "ESM",
+      "number": "4015",
+      "level": 4000,
+      "title": "Creative Design and Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Capstone senior design project. Synthesis and application of fundamental principles of engineering science and mechanics to an open-ended problem. 4015: Project proposal, including objectives, goals and plans for project. Identification of needs, constraints, and engineering standards with consideration of public health, safety, and welfare, including ethical, global, cultural, societal, environmental, and economic contexts. Proof-of-concept prototyping. Teamwork and communication of design and project progress. 4016: Design specifications with consideration of public health, safety, and welfare, as well as ethical, global, cultural, social, environmental, and economic factors where applicable. Design, test, and analysis of functional prototype. Teamwork and communication of design and project progress. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "ESM 3114",
+        "referencedCourses": [
+          "ESM 3114"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4016",
+      "subject": "ESM",
+      "number": "4016",
+      "level": 4000,
+      "title": "Creative Design and Project",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Capstone senior design project. Synthesis and application of fundamental principles of engineering science and mechanics to an open-ended problem. 4015: Project proposal, including objectives, goals and plans for project. Identification of needs, constraints, and engineering standards with consideration of public health, safety, and welfare, including ethical, global, cultural, societal, environmental, and economic contexts. Proof-of-concept prototyping. Teamwork and communication of design and project progress. 4016: Design specifications with consideration of public health, safety, and welfare, as well as ethical, global, cultural, social, environmental, and economic factors where applicable. Design, test, and analysis of functional prototype. Teamwork and communication of design and project progress. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "ESM 4015",
+        "referencedCourses": [
+          "ESM 4015"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4024",
+      "subject": "ESM",
+      "number": "4024",
+      "level": 4000,
+      "title": "Advanced Mechanical Behavior of Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mechanical behavior of materials, emphasizing solid mechanics aspects and methods for predicting strength and life of engineering components. Plasticity, failure criteria, fracture mechanics, crack growth, strain-based fatigue, and creep. Microstructure-property relationships, and laboratory demonstrations.",
+      "prerequisites": {
+        "rawText": "ESM 3054 or MSE 3054",
+        "referencedCourses": [
+          "ESM 3054",
+          "MSE 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4044",
+      "subject": "ESM",
+      "number": "4044",
+      "level": 4000,
+      "title": "Mechanics of Composite Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the deformation, stress, and strength analysis of continuous-fiber-polymer-matrix laminated composites. Fabrication, micromechanics of stiffness and expansional coefficients, classical lamination theory (CLT). Environmentally induced stresses. Computerized implementation and design",
+      "prerequisites": {
+        "rawText": "ESM 2204 or AOE 2024",
+        "referencedCourses": [
+          "AOE 2024",
+          "ESM 2204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CEE 4610"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4054",
+      "subject": "ESM",
+      "number": "4054",
+      "level": 4000,
+      "title": "Solid and Structural Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to elasticity and continuum mechanics, plane stress and plane strain; bending of beams; deflections, shear center; torsion of general cross-section bars; comparison of elasticity solutions with strength of materials; introduction to energy methods, application of virtual work to frames, beams, and shafts; elastic instability of columns. 3D trusses, cables and arches; flexibility and stiffness coefficients; indeterminate structures, superposition. II",
+      "prerequisites": {
+        "rawText": "(ESM 2204 and ESM 3054 and ESM 2074) or (MSE 3354)",
+        "referencedCourses": [
+          "ESM 2204",
+          "ESM 3054",
+          "MSE 3354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4064",
+      "subject": "ESM",
+      "number": "4064",
+      "level": 4000,
+      "title": "Experimental Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analytical and experimental methods for measuring strain fields in elastic bodies including mechanical, electrical, and optical methods (using electric resistance strain gages, photoelasticity, moire interferometry, and crack extension gages).",
+      "prerequisites": {
+        "rawText": "ESM 2204",
+        "referencedCourses": [
+          "ESM 2204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4084",
+      "subject": "ESM",
+      "number": "4084",
+      "level": 4000,
+      "title": "Engineering Design Optimization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Use of mathematical programming methods for engineering design optimization including linear programming, penalty function methods, and gradient projection methods. Applications to minimum weight design, open-loop optimum control, machine design, and appropriate design problems from other engineering disciplines.",
+      "prerequisites": {
+        "rawText": "MATH 2224 or MATH 2204 or MATH 2204H",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4094",
+      "subject": "ESM",
+      "number": "4094",
+      "level": 4000,
+      "title": "Computational Methods in Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Finite-difference methods for parabolic, hyperbolic, and elliptic partial differential equations; explicit and implicit methods; stability analysis; sparse linear systems. Introduction to the finite-element method. Applications to engineering problems in heat transfer, fluid mechanics, solids, structural mechanics, and motion. II",
+      "prerequisites": {
+        "rawText": "ESM 2074 and MATH 4564",
+        "referencedCourses": [
+          "MATH 4564"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4105",
+      "subject": "ESM",
+      "number": "4105",
+      "level": 4000,
+      "title": "Engineering Analysis of Physiologic Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engineering analysis of human physiology. Physiologic systems are treated as engineering systems with emphasis input-output considerations, system interrelationships and engineering analogs. 4105 - Mass and electrolyte transfer, nerves, muscles, renal system. 4106 - cardiovascular mechanics, respiratory system, digestive systems, senses.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and MATH 2214",
+        "referencedCourses": [
+          "ESM 2304",
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4106",
+      "subject": "ESM",
+      "number": "4106",
+      "level": 4000,
+      "title": "Engineering Analysis of Physiologic Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engineering analysis of human physiology. Physiologic systems are treated as engineering systems with emphasis input-output considerations, system interrelationships and engineering analogs. 4105 - Mass and electrolyte transfer, nerves, muscles, renal system. 4106 - cardiovascular mechanics, respiratory system, digestive systems, senses.",
+      "corequisites": {
+        "rawText": "ME 3105",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4114",
+      "subject": "ESM",
+      "number": "4114",
+      "level": 4000,
+      "title": "Nonlinear Dynamics and Chaos",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Motion of systems governed by differential equations: stability, geometry, phase planes, bifurcations, Poincare sections, point attractors, limit cycles, chaos and strange attractors, Lyapunov exponents. Forced, nonlinear oscillations: jump phenomena, harmonic resonances, Hopf bifurcations, averaging and multiple-scales analysis. Systems governed by discrete maps: return maps, cobweb plots, period-multiplying bifurcations, intermittency, delay coordinates, fractal dimensions.",
+      "prerequisites": {
+        "rawText": "(ESM 2304 or PHYS 2504) and (MATH 2214 or MATH 2214H)",
+        "referencedCourses": [
+          "ESM 2304",
+          "MATH 2214",
+          "MATH 2214H",
+          "PHYS 2504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4514"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4124",
+      "subject": "ESM",
+      "number": "4124",
+      "level": 4000,
+      "title": "Multi-Body Mechanics and Visualization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Spatial geometry, vector algebra, three-dimensional rotations, reference frames, generalized coordinates, generalized speeds, configuration constraints, velocity constraints, constraint singularities, kinematic differential equations, force, torque, energy, particle dynamics, rigid-body dynamics, computer algebra, computer animations.",
+      "prerequisites": {
+        "rawText": "MATH 1114 and MATH 2224",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4154",
+      "subject": "ESM",
+      "number": "4154",
+      "level": 4000,
+      "title": "Nondestructive Evaluation of Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts and methods of nondestructive evaluation of materials. Discussion of techniques and mathematical bases for methods involving mechanical, optical, thermal, and electromagnetic phenomena; design for inspectability; technique selection criteria; information processing and handling; materials response measurement and modeling; signal analysis.",
+      "prerequisites": {
+        "rawText": "ESM 3054 and (PHYS 2206 or PHYS 2306)",
+        "referencedCourses": [
+          "ESM 3054",
+          "PHYS 2206",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4194",
+      "subject": "ESM",
+      "number": "4194",
+      "level": 4000,
+      "title": "Sustainable Energy Solutions for a Global Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Addresses energy metrics, global and US energy supply and demand, transitional energy sources (natural gas, petroleum, coal, nuclear), sustainable/renewable source (solar, geothermal, hydro, tidal, wind, biofuels), and methods for increasing efficiencies (energy storage, batteries, green building, conservation). Options for transportation, electricity, lighting and heating needs of industry, agriculture, community, and citizens. Production, transmission, storage, and disposal issues considered in the context of global political, economic, and environmental impacts.",
+      "prerequisites": {
+        "rawText": "(CHEM 1035 or CHEM 1055) and PHYS 2306",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ME 4194"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4204",
+      "subject": "ESM",
+      "number": "4204",
+      "level": 4000,
+      "title": "Musculoskeletal Biomechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Skeletal anatomy and mechanics. Muscle anatomy and mechanics. Theory and application of electromyography. Motion and force measuring equipment and techniques including force platforms. Inverse dynamics modeling of the human body. Current topics in musculoskeletal biomechanics research.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and (CS 1044 or CS 1064 or CS 1114 or AOE 2074 or ESM 2074 or ME 2004)",
+        "referencedCourses": [
+          "AOE 2074",
+          "CS 1044",
+          "CS 1064",
+          "CS 1114",
+          "ESM 2304",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BMES 4214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4224",
+      "subject": "ESM",
+      "number": "4224",
+      "level": 4000,
+      "title": "Biodynamics and Control",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of Lagrange mechanics to study of human movement dynamics and neuromuscular control of multi-degree-of-freedom systems. Computational simulation of forward-dynamics and state-space linear control of human movement to investigate functional performance and neuromuscular pathology.",
+      "prerequisites": {
+        "rawText": "ESM 2304 and (CS 1044 or CS 1064 or CS 1114 or AOE 2074 or ESM 2074 or ME 2004 or BMES 2074)",
+        "referencedCourses": [
+          "AOE 2074",
+          "BMES 2074",
+          "CS 1044",
+          "CS 1064",
+          "CS 1114",
+          "ESM 2304",
+          "ME 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BMES 4224"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4234",
+      "subject": "ESM",
+      "number": "4234",
+      "level": 4000,
+      "title": "Mechanics of Biological Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Anatomy and physiology of biological systems such as cells, tissues, and organs. Experimental techniques and mechanical tests for determining the mechanical behavior of biological systems. Simplified mechanics-based mathematical models of biological systems. Specific biological systems include cells, tissues, and organs of the musculoskeletal, cardiovascular, integumentary system, and reproductive systems.",
+      "prerequisites": {
+        "rawText": "ESM 2204 and MATH 2214 and MATH 2114",
+        "referencedCourses": [
+          "ESM 2204",
+          "MATH 2114",
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BMES 4234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4245",
+      "subject": "ESM",
+      "number": "4245",
+      "level": 4000,
+      "title": "Mechanics of Animal Locomotion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4245: Mechanical and biological principles of terrestrial animal locomotion, including walking, running, jumping, climbing, burrowing, and crawling. Terrestrial locomotion- based bio-inspired design. 4246: Mechanical and biological principles of animal locomotion in fluids, including active and gliding flight, swimming, jetting, and running on water. Engineering design inspired by fluid based biological locomotion.",
+      "prerequisites": {
+        "rawText": "ESM 3054",
+        "referencedCourses": [
+          "ESM 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4246",
+      "subject": "ESM",
+      "number": "4246",
+      "level": 4000,
+      "title": "Mechanics of Animal Locomotion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mechanical and biological principles of of animal locomotion in fluids, including active and gliding flight, swimming, jetting, and running on water. Enginneering desgn inspired by fluid-based biological locomotion.",
+      "corequisites": {
+        "rawText": "ESM 3024 or ESM 3234 or ME 3414",
+        "referencedCourses": [
+          "ESM 3024",
+          "ESM 3234",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4304",
+      "subject": "ESM",
+      "number": "4304",
+      "level": 4000,
+      "title": "Hemodynamics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the human cardiovascular system and blood flow. Anatomy and physiology of the human heart, vascular system, and its organization. Blood physiology and rheology. Non-Newtonian blood flow models. Steady and pulsatile blood flow in rigid and elastic arteries. Pressure waves in elastic arteries. Three-dimensional blood flow in the aortic arch and flow around heart valves.",
+      "prerequisites": {
+        "rawText": "ESM 3334 or ME 3404 or ME 3414",
+        "referencedCourses": [
+          "ESM 3334",
+          "ME 3404",
+          "ME 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4404",
+      "subject": "ESM",
+      "number": "4404",
+      "level": 4000,
+      "title": "Fundamentals of Professional Engineering",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "A refresher of basic principles and problem solving techniques involving twelve subject areas most common to all engineering curricula. The topics include those tested by the National Council of Engineering Examiners on the EIT (Engineer in Training) examination, the first requirement, in all fifty states, toward P.E. (Professional Engineer) licensing. Duplicates material of other engineering courses and impracticable for non-engineers, hence not usable for credit toward any degree. Pre: Junior and senior standing in Engineering or in Building Construction or Graduate students in Engineering.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4444",
+      "subject": "ESM",
+      "number": "4444",
+      "level": 4000,
+      "title": "Stability of Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the methods of static structural stability analysis and their applications. Buckling of columns and frames. Energy method and approximate solutions. Elastic and inelastic behavior. Torsional and lateral buckling. Use of stability as a structural design criterion.",
+      "prerequisites": {
+        "rawText": "AOE 3024 or CEE 3404",
+        "referencedCourses": [
+          "CEE 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4614",
+      "subject": "ESM",
+      "number": "4614",
+      "level": 4000,
+      "title": "Probability-Based Modeling, Analysis, and Assessment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Uncertainty analysis of engineering data, parameters estimation, probability concepts, random variables, functions of random variables, probability-based performance functions and failure modes, risk and reliability functions, probability of failure and safety index, random sequences and stochastic processes, correlation functions and spectral densities, return period and extreme values, failure rates, performance monitoring and service life prediction.",
+      "prerequisites": {
+        "rawText": "ESM 2204",
+        "referencedCourses": [
+          "ESM 2204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BMES 4614"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4734",
+      "subject": "ESM",
+      "number": "4734",
+      "level": 4000,
+      "title": "An Introduction to the Finite Element Method",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The finite element method is introduced as a numerical method of solving the ordinary and partial differential equations arising in fluid flow, heat transfer, and solid and structural mechanics. The classes of problems considered include those described by the second-order and fourth-order ordinary differential equations and second-order partial differential equations. Both theory and applications of the method to problems in various fields of engineering and applied sciences will be studied.",
+      "prerequisites": {
+        "rawText": "(CS 3414 or MATH 3414 or AOE 2074 or ESM 2074) and (MATH 2224 or MATH 2224H or MATH 2204 or MATH 2204H)",
+        "referencedCourses": [
+          "AOE 2074",
+          "CS 3414",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4904",
+      "subject": "ESM",
+      "number": "4904",
+      "level": 4000,
+      "title": "Project and Report",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4974",
+      "subject": "ESM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4974H",
+      "subject": "ESM",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4984",
+      "subject": "ESM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4994",
+      "subject": "ESM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ESM 4994H",
+      "subject": "ESM",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/esm/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

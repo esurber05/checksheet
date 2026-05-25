@@ -1,0 +1,228 @@
+{
+  "subject": "FCS",
+  "scrapedAt": "2026-05-25T21:19:56.489Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FCS 2964",
+      "subject": "FCS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 2974",
+      "subject": "FCS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 2974H",
+      "subject": "FCS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 2984",
+      "subject": "FCS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 3954",
+      "subject": "FCS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4964",
+      "subject": "FCS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4964H",
+      "subject": "FCS",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4974",
+      "subject": "FCS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4974H",
+      "subject": "FCS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4984",
+      "subject": "FCS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4984H",
+      "subject": "FCS",
+      "number": "4984H",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4994",
+      "subject": "FCS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FCS 4994H",
+      "subject": "FCS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fcs/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

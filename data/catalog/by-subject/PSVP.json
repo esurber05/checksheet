@@ -1,0 +1,216 @@
+{
+  "subject": "PSVP",
+  "scrapedAt": "2026-05-25T21:21:46.726Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PSVP 2044",
+      "subject": "PSVP",
+      "number": "2044",
+      "level": 2000,
+      "title": "Peace and Violence",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces major theories of peace and violence. Explores contemporary patterns and root causes of interpersonal, institutional, and structural violence. Particular attention to conflict management, prevention, strategies, and promotion of peace at the local, national, and global levels.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 2444",
+      "subject": "PSVP",
+      "number": "2444",
+      "level": 2000,
+      "title": "Conflict Resolution, Mediation and Peacebuilding",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces fundamental principles, values and skills of conflict resolution. Special emphasis on facilitative mediation, restorative justice and other conflict resolution methodologies in the greater context of peacebuilding. Exploration of conflict resolution as tools of personal development and social justice.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 2984",
+      "subject": "PSVP",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4104",
+      "subject": "PSVP",
+      "number": "4104",
+      "level": 4000,
+      "title": "Global Society, Violence and the Prospects for Peace",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines major theories in the interdisciplinary field of peace studies. Includes current, historical, and global causes, patterns and types of conflict, and methods of conflict resolution. Particular attention given to the philosophical and sociological discussions of the causes of violence and the possibilities for peace.",
+      "prerequisites": {
+        "rawText": "PSVP 2044 or SOC 2044",
+        "referencedCourses": [
+          "PSVP 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4224",
+      "subject": "PSVP",
+      "number": "4224",
+      "level": 4000,
+      "title": "Victimology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An in-depth exploration of the multifaceted field of victimology. A scientific study of victims and the aftermath of victimization, which delves into the physical, emotional, and psychological consequences victims endure. Provides insights into the historical context of victim studies, various theoretical frameworks, and the evolving role of the criminal justice system concerning victims' rights and advocacy. Additionally, this course examines the societal consequences of victimization and explores preventive, interventionist, and compensatory mechanisms to support victims and mitigate the impact of crimes.",
+      "prerequisites": {
+        "rawText": "CRIM 3414",
+        "referencedCourses": [
+          "CRIM 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CRIM 4224"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4444",
+      "subject": "PSVP",
+      "number": "4444",
+      "level": 4000,
+      "title": "Schools, Violence, and Justice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the nature, extent, causes, and consequences of widely recognized forms of violence within schools, such as bullying, fighting, sexual assaults, harassment, dating violence, and shootings. Examines the effectiveness of violence prevention programs. Includes sociological theories of violence within schools. Explores the social debate over balancing the collective public safety obligations of schools with individual students rights/responsibilities.",
+      "prerequisites": {
+        "rawText": "SOC 3414 or CRIM 3414",
+        "referencedCourses": [
+          "CRIM 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 4444"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4484",
+      "subject": "PSVP",
+      "number": "4484",
+      "level": 4000,
+      "title": "Hate Crimes",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the causes, manifestations, and consequences of hate crimes in the United States. Includes theories of prejudice and biased behavior, the context of perpetration, the individual and community-level effects on the victims, and the political, historical, and social significance of such crimes. Considers broad questions of bias compared to hate, the recognition and prosecution of hate crimes compared to non-bias crimes, the impacts of hate crimes at the individual and community levels, and responses by law enforcement and communities.",
+      "prerequisites": {
+        "rawText": "CRIM 3414",
+        "referencedCourses": [
+          "CRIM 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CRIM 4484"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4974",
+      "subject": "PSVP",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4984",
+      "subject": "PSVP",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSVP 4994",
+      "subject": "PSVP",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psvp/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

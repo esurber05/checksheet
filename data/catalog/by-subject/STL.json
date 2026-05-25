@@ -1,0 +1,178 @@
+{
+  "subject": "STL",
+  "scrapedAt": "2026-05-25T21:22:24.268Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "STL 2304",
+      "subject": "STL",
+      "number": "2304",
+      "level": 2000,
+      "title": "Foundations of Science, Technology and Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "US legal system and the rule of law; legal research, analysis, and writing; history, evolution, and moral justifications of intellectual property; intellectual property as it relates to innovative and creative activity; ethical and social issues surrounding intellectual property.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4304",
+      "subject": "STL",
+      "number": "4304",
+      "level": 4000,
+      "title": "Intellectual Property Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive study of the principal legal theories and moral justifications relating to the protection and infringement of intellectual property, including copyrights, patents, trademarks, and related state and federal doctrines (e.g. trade secrets); analysis of commonalities and differences between the different rights; interpretation and application of relevant statutes, rules, and cases; challenges that are posed by new technologies.",
+      "prerequisites": {
+        "rawText": "STL 2304",
+        "referencedCourses": [
+          "STL 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4314",
+      "subject": "STL",
+      "number": "4314",
+      "level": 4000,
+      "title": "Current Topics in Science, Technology and Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Current developments, problems, and cases at the intersection of science, technology & law; particular focus is placed on intellectual property law and on social, ethical, and other legal issues prompted by new technologies and scientific advancements. Topics include copyright protection in a digital environment; patent law challenges such as patent trolls, patent thickets, ethical considerations related to patenting of life forms; design patents; innovation policy and economic considerations; intellectual property reform efforts; advanced discourse.",
+      "prerequisites": {
+        "rawText": "STL 2304 or STL 4304 or STL 4324",
+        "referencedCourses": [
+          "STL 2304",
+          "STL 4304",
+          "STL 4324"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4324",
+      "subject": "STL",
+      "number": "4324",
+      "level": 4000,
+      "title": "Global Aspects of Intellectual Property Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comparative study of international intellectual property protection and enforcement; international treaty arrangements for copyrights, patents and trademarks; policy analysis of the globalized intellectual property system; discussion of global challenges such as access to knowledge, access to essential medicines, adequate protection of geographical indications. Pre: Senior standing.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4334",
+      "subject": "STL",
+      "number": "4334",
+      "level": 4000,
+      "title": "Patent Preparation and Prosecution",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practice of patent law, specifically procedural and substantive laws, rules, and procedures relating to patent application, patent prosecution, and patent maintenance. Filing and prosecuting patents. Ethical issues relating to patent practice. Preparation to take US Patent and Trademark Offices (USPTO) Patent Bar Examination. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4964",
+      "subject": "STL",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4974",
+      "subject": "STL",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "STL 4994",
+      "subject": "STL",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/stl/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "subject": "MS",
+  "scrapedAt": "2026-05-25T21:21:30.128Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "MS 1005",
+      "subject": "MS",
+      "number": "1005",
+      "level": 1000,
+      "title": "Military Science I, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "First year of military science. MS 1005: Introduction to the Army introduces the personal challenges and competencies that are critical for effective leadership and communication. Student learning focuses on developing individual and interactive skills. Students learn how cultural understanding, goal setting, time management, stress management, and comprehensive fitness relates to leadership and the Army profession. Students further learn the ROTC course structure and progression, and are immersed into Army organizational culture via classroom instruction, physical fitness training, and leadership labs. MS 1006: Foundations of Agile and Adaptive Leadership introduces students to basic knowledge required to be a successful member of a military team, to include the U.S. Armys mission, its role and relationship in the American governance system, U.S. military customs and courtesies, operational terms and graphics, map reading, land navigation squad tactics, the Army Values and Warrior Ethos. This course includes reading assignments, homework assignments, practical exercises, a mid-term exam, and a final exam. Students receive systematic and specific feedback on leader attributes, values, and core leader competencies throughout the course. Successful completion of this course will help prepare cadets for Military Sci II, AROTC.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 1006",
+      "subject": "MS",
+      "number": "1006",
+      "level": 1000,
+      "title": "Military Science I, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "First year of military science. MS 1005: Introduction to the Army introduces the personal challenges and competencies that are critical for effective leadership and communication. Student learning focuses on developing individual and interactive skills. Students learn how cultural understanding, goal setting, time management, stress management, and comprehensive fitness relates to leadership and the Army profession. Students further learn the ROTC course structure and progression, and are immersed into Army organizational culture via classroom instruction, physical fitness training, and leadership labs. MS 1006: Foundations of Agile and Adaptive Leadership introduces students to basic knowledge required to be a successful member of a military team, to include the U.S. Armys mission, its role and relationship in the American governance system, U.S. military customs and courtesies, operational terms and graphics, map reading, land navigation squad tactics, the Army Values and Warrior Ethos. This course includes reading assignments, homework assignments, practical exercises, a mid-term exam, and a final exam. Students receive systematic and specific feedback on leader attributes, values, and core leader competencies throughout the course. Successful completion of this course will help prepare cadets for Military Sci II, AROTC.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 2005",
+      "subject": "MS",
+      "number": "2005",
+      "level": 2000,
+      "title": "Military Science II, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Second year of military science. 2005: Troop Leading Procedures focuses on operations order production, leadership principles and styles, ethical and moral reasoning, land navigation and intermediate squad and platoon tactics. Required participation: leadership lab, physical training and field training exercises. 2006: Unified Land Operations focuses on doctrine and symbology, principles of joint operations, intermediate small unit tactics and leadership, effective communication, team building, counseling and coaching methods, code of conduct and law of land warfare. Required participation: leadership lab, physical training and field training exercises.",
+      "prerequisites": {
+        "rawText": "MS 1005 and MS 1006",
+        "referencedCourses": [
+          "MS 1005",
+          "MS 1006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 2006",
+      "subject": "MS",
+      "number": "2006",
+      "level": 2000,
+      "title": "Military Science II, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Second year of military science. 2005: Troop Leading Procedures focuses on operations order production, leadership principles and styles, ethical and moral reasoning, land navigation and intermediate squad and platoon tactics. Required participation: leadership lab, physical training and field training exercises. 2006: Unified Land Operations focuses on doctrine and symbology, principles of joint operations, intermediate small unit tactics and leadership, effective communication, team building, counseling and coaching methods, code of conduct and law of land warfare. Required participation: leadership lab, physical training and field training exercises.",
+      "prerequisites": {
+        "rawText": "MS 1006",
+        "referencedCourses": [
+          "MS 1006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 2974",
+      "subject": "MS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 2984",
+      "subject": "MS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 3005",
+      "subject": "MS",
+      "number": "3005",
+      "level": 3000,
+      "title": "Military Science III, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Third year of military science. 3005: Training management and the warfighting functions focuses on unified land operations, troop leading procedures, operations order production, written and oral communication, training management, squad leadership and tactics, squad and platoon offense/defense, land navigation, after action reviews, leadership, and physical training. Required participation: leadership lab, physical training and field training exercises. 3006: Applied leadership in small unit operations, squad and platoons offense/defense, basic rifle marksmanship, written and oral communication, land navigation, fires support to dismounted operations, leadership, physical training and preparation for advanced camp. Required participation: leadership lab, physical training and weekend field training exercises.",
+      "prerequisites": {
+        "rawText": "MS 2005 and MS 2006",
+        "referencedCourses": [
+          "MS 2005",
+          "MS 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 3006",
+      "subject": "MS",
+      "number": "3006",
+      "level": 3000,
+      "title": "Military Science III, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Third year of military science. 3005: Training management and the warfighting functions focuses on unified land operations, troop leading procedures, operations order production, written and oral communication, training management, squad leadership and tactics, squad and platoon offense/defense, land navigation, after action reviews, leadership, and physical training. Required participation: leadership lab, physical training and field training exercises. 3006: Applied leadership in small unit operations, squad and platoons offense/defense, basic rifle marksmanship, written and oral communication, land navigation, fires support to dismounted operations, leadership, physical training and preparation for advanced camp. Required participation: leadership lab, physical training and weekend field training exercises.",
+      "prerequisites": {
+        "rawText": "MS 2005 and MS 2006",
+        "referencedCourses": [
+          "MS 2005",
+          "MS 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 4005",
+      "subject": "MS",
+      "number": "4005",
+      "level": 4000,
+      "title": "Military Science IV, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Fourth year of military science. 4005: The Army Officer focuses on development of the Army officer. It is an academically challenging course where students develop knowledge, skills, and abilities to plan, resource, and assess training at the small unit level. Students learn about Army programs that support counseling subordinates and evaluating performance, applying values and ethics to organizational problems, career planning, and legal responsibilities. Required participation: leadership lab, physical training and field training exercises. 4006: Company Grade Leadership focuses on preparing students to fulfill key leadership roles at the company level. This is an academically challenging course where students study, practice, develop, and apply critical thinking skills pertaining to Army leadership, officer skills, Army values and ethics, personal development, small unit tactics, platoon level leadership. Required participation: leadership lab, physical training and weekend field training exercises.",
+      "prerequisites": {
+        "rawText": "MS 3006",
+        "referencedCourses": [
+          "MS 3006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 4006",
+      "subject": "MS",
+      "number": "4006",
+      "level": 4000,
+      "title": "Military Science IV, Army Reserve Officer Training Corps",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Fourth year of military science. 4005: The Army Officer focuses on development of the Army officer. It is an academically challenging course where students develop knowledge, skills, and abilities to plan, resource, and assess training at the small unit level. Students learn about Army programs that support counseling subordinates and evaluating performance, applying values and ethics to organizational problems, career planning, and legal responsibilities. Required participation: leadership lab, physical training and field training exercises. 4006: Company Grade Leadership focuses on preparing students to fulfill key leadership roles at the company level. This is an academically challenging course where students study, practice, develop, and apply critical thinking skills pertaining to Army leadership, officer skills, Army values and ethics, personal development, small unit tactics, platoon level leadership. Required participation: leadership lab, physical training and weekend field training exercises.",
+      "prerequisites": {
+        "rawText": "MS 3005 and MS 3006",
+        "referencedCourses": [
+          "MS 3005",
+          "MS 3006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 4964",
+      "subject": "MS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 4974",
+      "subject": "MS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MS 4984",
+      "subject": "MS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ms/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

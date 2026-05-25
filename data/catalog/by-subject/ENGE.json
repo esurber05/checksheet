@@ -1,0 +1,682 @@
+{
+  "subject": "ENGE",
+  "scrapedAt": "2026-05-25T21:19:46.085Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ENGE 1004",
+      "subject": "ENGE",
+      "number": "1004",
+      "level": 1000,
+      "title": "Explore Engineering",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Students will participate in a seminar-style experience guided by representatives from different engineering disciplines to learn more about the programs offered by the College of Engineering at Virginia Tech to aid the change of major process.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1014",
+      "subject": "ENGE",
+      "number": "1014",
+      "level": 1000,
+      "title": "Engineering Success Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to opportunities and resources available to College of Engineering students during their undergraduate career at VT. Practice in information gathering skills critical for engineering students. Practice in oral, written, and visual communication. Preparation of an academic plan.",
+      "corequisites": {
+        "rawText": "ENGE 1215",
+        "referencedCourses": [
+          "ENGE 1215"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1034",
+      "subject": "ENGE",
+      "number": "1034",
+      "level": 1000,
+      "title": "The Connection Project",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "The Connection Project brings together groups of students to get to know one another while discussing the key components of making meaningful connections. Led by trained, upper-class student facilitators, a group of about 10 students will engage in activities and dialogue that highlight what brings people together, what keeps people apart, and how these things manifest in VT’s social culture. Students will develop foundational knowledge of current research on the social, biological, emotional, and cognitive impacts of human connection. Students will also learn about and discuss application of various communication styles and conflict resolution strategies, and further consider how these variations in communication can impact social interactions and connection.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1215",
+      "subject": "ENGE",
+      "number": "1215",
+      "level": 1000,
+      "title": "Foundations of Engineering",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "A ﬁrst-year sequence to introduce general engineering students to the profession. 1215 (2 credit) Engineering problem-solving, contemporary programming tools, professional practices and expectations (e.g. effective communication, time management, working in teams, ethics), the diversity of ﬁelds and majors within engineering, and reflective and corrective practices. 1216 (2 credits): Engineering design, criteria and constraints, data collection and analysis, testing and iteration of design solutions, contemporary CAD tools, professional practices and expectations (e.g. communication, teamwork, ethics), and reflective and corrective practices. Students must complete both ENGE 1215 and ENGE 1216 to earn Pathways credit. 1215: Design Lab/Studio, 1216: Design Lab/Studio. Duplicates ENGE 1414.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1216",
+      "subject": "ENGE",
+      "number": "1216",
+      "level": 1000,
+      "title": "Foundations of Engineering",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "A ﬁrst-year sequence to introduce general engineering students to the profession. 1215 (2 credit) Engineering problem-solving, contemporary programming tools, professional practices and expectations (e.g. effective communication, time management, working in teams, ethics), the diversity of ﬁelds and majors within engineering, and reflective and corrective practices. 1216 (2 credits): Engineering design, criteria and constraints, data collection and analysis, testing and iteration of design solutions, contemporary CAD tools, professional practices and expectations (e.g. communication, teamwork, ethics), and reflective and corrective practices. Students must complete both ENGE 1215 and ENGE 1216 to earn Pathways credit. 1215: Design Lab/Studio, 1216: Design Lab/Studio. Duplicates ENGE 1414.",
+      "prerequisites": {
+        "rawText": "ENGE 1215",
+        "referencedCourses": [
+          "ENGE 1215"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1354",
+      "subject": "ENGE",
+      "number": "1354",
+      "level": 1000,
+      "title": "Introduction to Spatial Visualization",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to spatial visualization. Training to improve three-dimensional visualization skills, pictorial sketching, orthographic projection, mental rotation, mental cutting and folding, combining solids.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1414",
+      "subject": "ENGE",
+      "number": "1414",
+      "level": 1000,
+      "title": "Foundations of Engineering Practice",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the engineering profession for General Engineering students and Transfer Engineering students with significant transfer/AP credit; engineering problem solving and design, contemporary programming and CAD software tools, and professional practices and expectations (e.g., communication, teamwork, ethics), Reflective and Corrective practices. Design Lab/Studio. Duplicates ENGE 1215-1216.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(6 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1644",
+      "subject": "ENGE",
+      "number": "1644",
+      "level": 1000,
+      "title": "Global STEM Practice: Leadership and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develop global competencies in science, technology, engineering, and math (STEM) contexts and understand how problems and viable solutions vary across contexts and how intercultural communication and global leadership are important in an interconnected global workforce. Integrates semester-long on-campus module with international module following semester exams (Rising Sophomore Abroad Program). International module engages students in local culture during visits with STEM businesses and universities. Participation in both modules required. Enrollment by application.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 1 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 1984",
+      "subject": "ENGE",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2094",
+      "subject": "ENGE",
+      "number": "2094",
+      "level": 2000,
+      "title": "Create!: Ideation & Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Apply problem solving framing strategies as part of problem solving design processes. Consider cultural, economic, social, and other perspectives in customer discovery and design processes in order to ensure problem/solution fit. Ideate possible solutions or approaches to address open- ended problems using a variety of methods. Engage in iterative critiques of strategies, solutions and prototypes using methods drawn from industrial design, engineering and the arts. Collaborate in interdisciplinary and diverse project teams. Communicate deliverables in multiple formats and for different audiences. Identify and address impacts of designed services and products through global perspectives, such as patterns of inclusion and exclusion and effects on localized ecosystems.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2524",
+      "subject": "ENGE",
+      "number": "2524",
+      "level": 2000,
+      "title": "Exploring Service Learning Through STEAM/STEM Educational Outreach",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explore volunteerism, traditional service learning, critical service learning, and social change. Develop intercultural competence by examining social identities, power, and privilege with a focus on preK-12 education systems in the United States. Develop Science, Technology, Engineering, Arts, and Math (STEAM) and STEM educational outreach experiences that meet needs identified by community members in teams. Demonstrate career readiness through experiential learning. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2524H",
+      "subject": "ENGE",
+      "number": "2524H",
+      "level": 2000,
+      "title": "Service Learning Edu. Outreach",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2634",
+      "subject": "ENGE",
+      "number": "2634",
+      "level": 2000,
+      "title": "Introduction to Restricted Research",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to multi-disciplinary, team-based undergraduate engineering research. Emphasis on Department of Defense (DoD) and Intelligence Community missions and projects. Exposure to current restricted research performed around campus. Guest speakers from national labs. Engineering research methods (tools, research integrity/safety/ethics, and communication of results). Deep dive into International Traffic in Arms Regulations-restricted multi-disciplinary DoD engineering problems, potential careers, and security protocols surrounding restricted research and careers.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2964",
+      "subject": "ENGE",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2974",
+      "subject": "ENGE",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2984",
+      "subject": "ENGE",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "I",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2984G",
+      "subject": "ENGE",
+      "number": "2984G",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "7"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2984M",
+      "subject": "ENGE",
+      "number": "2984M",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 2994",
+      "subject": "ENGE",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 3604",
+      "subject": "ENGE",
+      "number": "3604",
+      "level": 3000,
+      "title": "Introductory Industry Design Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Workplace and industry culture and practice, including folkways, mores, and ethics, centered on engineering design. Interaction with industry professionals. Workplace competencies including effective teamwork, project management, presenting technical information. Training with software, tools and skills used in design practice in industry.",
+      "prerequisites": {
+        "rawText": "ENGE 1215 and ENGE 1216",
+        "referencedCourses": [
+          "ENGE 1215",
+          "ENGE 1216"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 3900",
+      "subject": "ENGE",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 3984",
+      "subject": "ENGE",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4094",
+      "subject": "ENGE",
+      "number": "4094",
+      "level": 4000,
+      "title": "Startup: Commercialization of Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Work in interdisciplinary teams in an experiential environment replicating modern innovation environments. Engage in real world innovation commercialization opportunities. Individual experiences and projects involving actual inventions, innovations, technologies, intellectual property (e.g. patents) and market opportunities. Integrate design thinking, scientists, entrepreneurs, advisors and other potential collaborators. Create a representation of a plan for a minimum viable product for an innovative product or service based on customer and market feedback.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IDS 4094",
+        "MGT 4094"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4735",
+      "subject": "ENGE",
+      "number": "4735",
+      "level": 4000,
+      "title": "Interdisciplinary Design Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Team-oriented, open-ended, interdisciplinary design projects focused on industrially relevant problems. A specific, complex engineering design problem taken from problem definition to product implementation and validation. 4735: Focus on problem identification, development of customer needs, project management, solution validation and selection, solution design, engineering teamwork, documentation and communication. 4736: Focus on design implementation, design validation, ethical and societal impacts of engineering design, communication and teamwork. Students majoring in Material Science and Engineering, Mechanical Engineering, Electrical and Computer Engineering, Industrial and Systems Engineering, and Biomedical Engineering must meet prerequisite and corequisite requirements for their respective in-major capstone courses.",
+      "prerequisites": {
+        "rawText": "(ME 3024 and ME 3034 and ME 3304 and ME 3524 and ME 3534 and ME 3624 and ME 4005 and MSE 2034) or (MSE 4644 and MSE 3044 and MSE 3054 and MSE 3884 and MSE 4414 and MSE 4554) or (MSE 4644 and MSE 3044 and MSE 3054 and MSE 3884 and MSE 4414 and MSE 3304) or (MSE 4644 and MSE 3044 and MSE 3054 and MSE 3884 and MSE 4414 and MSE 3204) or (MSE 4644 and MSE 3044 and MSE 3054 and MSE 3884 and MSE 4554 and MSE 3304) or (MSE 4644 and MSE 3044 and MSE 3054 and MSE 3884 and MSE 4554 and MSE 3204) or (MSE 4644 and MSE 3044 and MSE 3054 and MSE 3884 and MSE 3304 and MSE 3204) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3106) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3106) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3134) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3134) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3204) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3204) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3214) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3214) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3304) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3304) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3544) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3544) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3564) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3564) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3574) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3574) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3614) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3614) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 3704) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 3704) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4205) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4205) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4234) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4234) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4354) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4354) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4424) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4424) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4524) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4524) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4540) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4540) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4580) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4580) or (ECE 2804 and ECE 3004 and ECE 3105 and ECE 4704) or (ECE 2804 and ECE 3004 and ECE 3514 and ECE 4704) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3106) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3106) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3134) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3134) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3204) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3204) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3214) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3214) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3304) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3304) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3544) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3544) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3564) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3564) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3574) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3574) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3614) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3614) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 3704) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 3704) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4205) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4205) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4234) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4234) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4354) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4354) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4424) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4424) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4524) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4524) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4540) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4540) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4580) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4580) or (ECE 2804 and ECE 3504 and ECE 3105 and ECE 4704) or (ECE 2804 and ECE 3504 and ECE 3514 and ECE 4704) or (BMES 3034 and BMES 3184) or (ISE 2034 and ISE 2214 and ISE 3034 and ISE 3214 and ISE 3424 and ISE 3624 and ISE 4204)",
+        "referencedCourses": [
+          "BMES 3034",
+          "BMES 3184",
+          "ECE 2804",
+          "ECE 3004",
+          "ECE 3105",
+          "ECE 3106",
+          "ECE 3134",
+          "ECE 3204",
+          "ECE 3214",
+          "ECE 3304",
+          "ECE 3504",
+          "ECE 3514",
+          "ECE 3544",
+          "ECE 3564",
+          "ECE 3574",
+          "ECE 3614",
+          "ECE 3704",
+          "ECE 4205",
+          "ECE 4234",
+          "ECE 4354",
+          "ECE 4424",
+          "ECE 4524",
+          "ECE 4540",
+          "ECE 4580",
+          "ECE 4704",
+          "ISE 2034",
+          "ISE 2214",
+          "ISE 3034",
+          "ISE 3214",
+          "ISE 3424",
+          "ISE 3624",
+          "ISE 4204",
+          "ME 3024",
+          "ME 3034",
+          "ME 3304",
+          "ME 3524",
+          "ME 3534",
+          "ME 3624",
+          "ME 4005",
+          "MSE 2034",
+          "MSE 3044",
+          "MSE 3054",
+          "MSE 3204",
+          "MSE 3304",
+          "MSE 3884",
+          "MSE 4414",
+          "MSE 4554",
+          "MSE 4644"
+        ]
+      },
+      "corequisites": {
+        "rawText": "(MSE 4055 for MSE majors) or (ISE 4404 for ISE majors).",
+        "referencedCourses": [
+          "ISE 4404",
+          "MSE 4055"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4736",
+      "subject": "ENGE",
+      "number": "4736",
+      "level": 4000,
+      "title": "Interdisciplinary Design Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Team-oriented, open-ended, interdisciplinary design projects focused on industrially relevant problems. A specific, complex engineering design problem taken from problem definition to product implementation and validation. 4735: Focus on problem identification, development of customer needs, project management, solution validation and selection, solution design, engineering teamwork, documentation and communication. 4736: Focus on design implementation, design validation, ethical and societal impacts of engineering design, communication and teamwork. Students majoring in Material Science and Engineering, Mechanical Engineering, Electrical and Computer Engineering, Industrial and Systems Engineering, and Biomedical Engineering must meet prerequisite and corequisite requirements for their respective in-major capstone courses.",
+      "prerequisites": {
+        "rawText": "ENGE 4735",
+        "referencedCourses": [
+          "ENGE 4735"
+        ]
+      },
+      "corequisites": {
+        "rawText": "(MSE 4055 for MSE majors) or (ISE 4404 for ISE majors).",
+        "referencedCourses": [
+          "ISE 4404",
+          "MSE 4055"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4964",
+      "subject": "ENGE",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4974",
+      "subject": "ENGE",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4974H",
+      "subject": "ENGE",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4984",
+      "subject": "ENGE",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4994",
+      "subject": "ENGE",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGE 4994H",
+      "subject": "ENGE",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/enge/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

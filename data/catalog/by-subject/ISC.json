@@ -1,0 +1,406 @@
+{
+  "subject": "ISC",
+  "scrapedAt": "2026-05-25T21:20:50.541Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ISC 1004",
+      "subject": "ISC",
+      "number": "1004",
+      "level": 1000,
+      "title": "Integrated Science Curriculum First-Year Experience",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the different fields of science and mathematics, and academic and career planning for majors that are enrolled in the Integrated Science Curriculum. Discussion of academic plans and university and college requirements. Discussion of academic resources such as the University Library, academic integrity, VT Engage, and Recreation Sports. Resume building for internships, research experiences, and graduate school. Exposure to areas of practice and research, and opportunities for education, training, and employment in fields of interest to students.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1005",
+      "subject": "ISC",
+      "number": "1005",
+      "level": 1000,
+      "title": "Integrated Scientific Reasoning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to scientific reasoning in the context of integrated science. Exposure to the scientific process through sample topics that showcase the science involved. Data collection and analysis in physical and life sciences through hands-on lab components integrated into the class. Ethical issues as related to physical and biological systems. 1005: Integrated Science: Water and Life on Earth. 1006: Integrated Science: Forms of Energy.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1006",
+      "subject": "ISC",
+      "number": "1006",
+      "level": 1000,
+      "title": "Integrated Scientific Reasoning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to scientific reasoning in the context of integrated science. Exposure to the scientific process through sample topics that showcase the science involved. Data collection and analysis in physical and life sciences through hands-on lab components integrated into the class. Ethical issues as related to physical and biological systems. 1005: Integrated Science: Water and Life on Earth. 1006: Integrated Science: Forms of Energy.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1105",
+      "subject": "ISC",
+      "number": "1105",
+      "level": 1000,
+      "title": "Integrated Science I",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental principles of biology, chemistry, physics and mathematics in an integrated environment. Application of these principles to large-scale societal problems, including the areas of food, energy, health, water, the environment, and more. 1105: Discrete dynamical systems, differentiation and integration, differential equations, population dynamics, chemical reactions, chemical kinetics, Newtons laws, linear and rotary motion, kinetic and potential energy. 1106: Genetics, evolution, molecular biology, organic chemistry, biochemistry, thermodynamics, gases, heat engines, oscillations.",
+      "corequisites": {
+        "rawText": "ISC 1115",
+        "referencedCourses": [
+          "ISC 1115"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "5F",
+        "11"
+      ],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1106",
+      "subject": "ISC",
+      "number": "1106",
+      "level": 1000,
+      "title": "Integrated Science I",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental principles of biology, chemistry, physics and mathematics in an integrated environment. Application of these principles to large-scale societal problems, including the areas of food, energy, health, water, the environment, and more. 1105: Discrete dynamical systems, differentiation and integration, differential equations, population dynamics, chemical reactions, chemical kinetics, Newtons laws, linear and rotary motion, kinetic and potential energy. 1106: Genetics, evolution, molecular biology, organic chemistry, biochemistry, thermodynamics, gases, heat engines, oscillations.",
+      "prerequisites": {
+        "rawText": "ISC 1105",
+        "referencedCourses": [
+          "ISC 1105"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ISC 1116",
+        "referencedCourses": [
+          "ISC 1116"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "5F",
+        "11"
+      ],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1106H",
+      "subject": "ISC",
+      "number": "1106H",
+      "level": 1000,
+      "title": "Integrated Science I",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental principles of biology, chemistry, physics and mathematics in an integrated environment. Application of these principles to large-scale societal problems, including the areas of food, energy, health, water, the environment, and more. 1105: Discrete dynamical systems, differentiation and integration, differential equations, population dynamics, chemical reactions, chemical kinetics, Newtons laws, linear and rotary motion, kinetic and potential energy. 1106: Genetics, evolution, molecular biology, organic chemistry, biochemistry, thermodynamics, gases, heat engines, oscillations.",
+      "prerequisites": {
+        "rawText": "ISC 1105",
+        "referencedCourses": [
+          "ISC 1105"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ISC 1116",
+        "referencedCourses": [
+          "ISC 1116"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "5F",
+        "11"
+      ],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1115",
+      "subject": "ISC",
+      "number": "1115",
+      "level": 1000,
+      "title": "Integrated Science Laboratory I",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory component of Integrated Science Curriculum where students conduct project-based interdisciplinary laboratories organized into content modules. Discussion of ethical issues connected to scientific advances. 1115: tools of scientific research, water, ecology, kinetics. 1116: tools of scientific research, environmental chemistry, surfactants, nanomedicine.",
+      "corequisites": {
+        "rawText": "ISC 1105",
+        "referencedCourses": [
+          "ISC 1105"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1116",
+      "subject": "ISC",
+      "number": "1116",
+      "level": 1000,
+      "title": "Integrated Science Laboratory I",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory component of Integrated Science Curriculum where students conduct project-based interdisciplinary laboratories organized into content modules. Discussion of ethical issues connected to scientific advances. 1115: tools of scientific research, water, ecology, kinetics. 1116: tools of scientific research, environmental chemistry, surfactants, nanomedicine.",
+      "prerequisites": {
+        "rawText": "ISC 1115",
+        "referencedCourses": [
+          "ISC 1115"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ISC 1106",
+        "referencedCourses": [
+          "ISC 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 1984",
+      "subject": "ISC",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2105",
+      "subject": "ISC",
+      "number": "2105",
+      "level": 2000,
+      "title": "Integrated Science II",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental principles of biology, chemistry, physics and mathematics in an integrated environment. 2105 Molecular cell biology, metabolism, photosynthesis, membrane transport, quantum theory, spectroscopy, elasticity, waves, fluids, electricity and magnetism, linear algebra, genomics, probability theory. 2106: Gene regulation, signal transduction, development, motility, intramolecular forces, stochastic processes, optics and microscopy, materials science, analytical tools. Restricted to majors in the College of Science. Only by permission of the instructor.",
+      "prerequisites": {
+        "rawText": "ISC 1106H",
+        "referencedCourses": [
+          "ISC 1106H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2106",
+      "subject": "ISC",
+      "number": "2106",
+      "level": 2000,
+      "title": "Integrated Science II",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental principles of biology, chemistry, physics and mathematics in an integrated environment. 2105: Molecular cell biology, metabolism, photosynthesis, membrane transport, quantum theory, spectroscopy, elasticity, waves, fluids, electricity and magnetism, linear algebra, genomics, probability theory. 2106: Gene regulation, signal transduction, development, motility, intramolecular forces, stochastic processes, optics and microscopy, materials science, analytical tools. Restricted to majors in the College of Science. Only by permission of the instructor.",
+      "prerequisites": {
+        "rawText": "ISC 2105",
+        "referencedCourses": [
+          "ISC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2106H",
+      "subject": "ISC",
+      "number": "2106H",
+      "level": 2000,
+      "title": "Integrated Science II",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental principles of biology, chemistry, physics and mathematics in an integrated environment. 2105: Molecular cell biology, metabolism, photosynthesis, membrane transport, quantum theory, spectroscopy, elasticity, waves, fluids, electricity and magnetism, linear algebra, genomics, probability theory. 2106: Gene regulation, signal transduction, development, motility, intramolecular forces, stochastic processes, optics and microscopy, materials science, analytical tools. Restricted to majors in the College of Science. Only by permission of the instructor.",
+      "prerequisites": {
+        "rawText": "ISC 2105",
+        "referencedCourses": [
+          "ISC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2115",
+      "subject": "ISC",
+      "number": "2115",
+      "level": 2000,
+      "title": "Integrated Science Laboratory II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory component of Integrated Science Curriculum where students conduct project-based interdisciplinary laboratories organized into content modules. 2115: Tools of Scientific Research, Genomics and Proteomics, Nanoscience, and Electromagnetism. 2116: Tools of Scientific Research, Neuroscience, Optics, and Independent Research Project.",
+      "prerequisites": {
+        "rawText": "ISC 1116",
+        "referencedCourses": [
+          "ISC 1116"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ISC 2105",
+        "referencedCourses": [
+          "ISC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2116",
+      "subject": "ISC",
+      "number": "2116",
+      "level": 2000,
+      "title": "Integrated Science Laboratory II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory component of Integrated Science Curriculum where students conduct project-based interdisciplinary laboratories organized into content modules. 2115: Tools of Scientific Research, Genomics and Proteomics, Nanoscience, and Electromagnetism. 2116: Tools of Scientific Research, Neuroscience, Optics, and Independent Research Project.",
+      "prerequisites": {
+        "rawText": "ISC 2115",
+        "referencedCourses": [
+          "ISC 2115"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ISC 2106",
+        "referencedCourses": [
+          "ISC 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2984",
+      "subject": "ISC",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ISC 2994",
+      "subject": "ISC",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/isc/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

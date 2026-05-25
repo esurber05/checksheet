@@ -1,0 +1,554 @@
+{
+  "subject": "ARBC",
+  "scrapedAt": "2026-05-25T21:18:24.963Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ARBC 1105",
+      "subject": "ARBC",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of Arabic with emphasis on developing proficiency for communication through reading, writing, speaking, listening, and cultural competence. ARBC 1105 is for students with no prior knowledge of the language.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 1106",
+      "subject": "ARBC",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of Arabic with emphasis on developing proficiency for communication through reading, writing, speaking, listening, and cultural competence. ARBC 1106 is for students who have completed ARBC 1105 or the equivalent. Completion of 1106 meets the university language requirement.",
+      "prerequisites": {
+        "rawText": "ARBC 1105",
+        "referencedCourses": [
+          "ARBC 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 1114",
+      "subject": "ARBC",
+      "number": "1114",
+      "level": 1000,
+      "title": "Accelerated Elementary Arabic",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to Elementary Arabic, designed for learners who wish to progress rapidly through the beginning stages of language learning. Develops speaking, listening comprehension, reading comprehension, writing, and cultural competency at the novice-high level. Duplicates 1105 and 1106. Not recommended for Native Speakers.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 2105",
+      "subject": "ARBC",
+      "number": "2105",
+      "level": 2000,
+      "title": "Intermediate Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2105: First course in the intermediate-level sequence in Arabic. Review of grammar with increasing emphasis on reading, writing, cultural competency, and oral communication.",
+      "prerequisites": {
+        "rawText": "ARBC 1106",
+        "referencedCourses": [
+          "ARBC 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 2106",
+      "subject": "ARBC",
+      "number": "2106",
+      "level": 2000,
+      "title": "Intermediate Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2106: Second course in the intermediate-level sequence in Arabic. Reinforcement of reading, writing, speaking, listening, and cultural competency skills, allowing students to consolidate and expand on their previous knowledge and preparing them for third-year Arabic. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "ARBC 2105",
+        "referencedCourses": [
+          "ARBC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 2774",
+      "subject": "ARBC",
+      "number": "2774",
+      "level": 2000,
+      "title": "Arab Culture and Civilization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of Arab culture and civilization, with an emphasis on the modern Middle East. Familiarizes students with the geography, history, politics and sociology of the Arab world and identifies the cultural forces that shape current events in the region. Explores the impact of colonialism, war, religion, gender relations, and media technologies in the Arab world. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 2974",
+      "subject": "ARBC",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 2984",
+      "subject": "ARBC",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3105",
+      "subject": "ARBC",
+      "number": "3105",
+      "level": 3000,
+      "title": "Advanced Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3105: First course in the advanced-level sequence in Arabic. Practice in communication skills in Arabic both orally and in writing, including review of grammar, directed composition, and conversation, with an emphasis on pronunciation, cultural competency, and oral expressions. Not recommended for native speakers. 3106: Second course in the advanced-level sequence in Arabic. Reinforcement of oral proficiency, reading, grammar, and writing skills, allowing students to explore a broad range of texts of general and professional interest. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "ARBC 2106",
+        "referencedCourses": [
+          "ARBC 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3106",
+      "subject": "ARBC",
+      "number": "3106",
+      "level": 3000,
+      "title": "Advanced Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3106: Second course in the advanced-level sequence in Arabic. Reinforcement of oral proficiency, reading, grammar, and writing skills, allowing students to explore a broad range of texts of general and professional interest. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "ARBC 3105",
+        "referencedCourses": [
+          "ARBC 3105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3124",
+      "subject": "ARBC",
+      "number": "3124",
+      "level": 3000,
+      "title": "Arabic for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Devoted to the acquisition of spoken dialect and the enhancement of cultural competency. Provides students with the skills necessary to modify the pronunciation and grammar rules of Modern Standard Arabic in order to speak and comprehend conversational Arabic at the intermediate level. Emphasis on speaking, listening comprehension, daily-life experiences, body-language, and cultural knowledge. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "ARBC 2105",
+        "referencedCourses": [
+          "ARBC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3274",
+      "subject": "ARBC",
+      "number": "3274",
+      "level": 3000,
+      "title": "War and Arab Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Cultural production related to war and violent conflict in the Arab world. Cultural, intellectual, and historical contexts of war in the Arab world. Arab cultural production as a reflection of political, economic, and social change in modern Arab societies, and representations of war in the Arab world in Western cultural production. Explores themes including trauma and memory, displacement, political propaganda, nationalism, and religious and ideological conflict as represented in various genres, including literature, music, and visual art. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3304",
+      "subject": "ARBC",
+      "number": "3304",
+      "level": 3000,
+      "title": "Topics in Modern Arab Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of Arab cultures as represented in Arab cultural production within the historical, political, social, and intellectual contexts in which they were created. Interpretation and comparison of canonical and non-canonical texts, including novels, poems, visual culture, and music, across various geographical regions. Analysis of the impact of globalization on shaping local traditions and cultural narratives. Assessment of the role of social media in influencing creative narratives. May be repeated 1 time with different content for a maximum of 6 credit hours. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3414",
+      "subject": "ARBC",
+      "number": "3414",
+      "level": 3000,
+      "title": "Hummus, Hospitality, and Identity: Exploring Arab Cultures Through Food",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary exploration of food, hospitality, and identity in contemporary Arab cultures. Analysis of cultural production related to food and hospitality in contemporary Arab cultures in the historical, religious, political, social, and intellectual contexts in which they were created. Interpretation of texts, including memoirs, film, poetry, art, and music. Analysis of current events and identification of changes brought on by globalization from an intercultural point of view. Articulation of advantages and challenges of cultural diversity. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3474",
+      "subject": "ARBC",
+      "number": "3474",
+      "level": 3000,
+      "title": "Topics in Arab Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the cultural, intellectual, and historical contexts of Arab cinematic works. Exploration of the ways in which Arab cinema reflects the dynamics of political, economic, and social change in modern Arab societies, as well as how the Arab world is represented in Western films. Variable topics such as war and conflict, terrorism, postcolonialism and movements for national independence, feminism, gender and sexuality, and globalization. Taught in English. Variable content. May be repeated 2 times with different content for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3514",
+      "subject": "ARBC",
+      "number": "3514",
+      "level": 3000,
+      "title": "Media Arabic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Reading and listening comprehension, analysis, writing, translation, and cultural conventions pertaining to Arabic print and broadcast media.",
+      "prerequisites": {
+        "rawText": "ARBC 2105",
+        "referencedCourses": [
+          "ARBC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3644",
+      "subject": "ARBC",
+      "number": "3644",
+      "level": 3000,
+      "title": "Religion in the Middle East",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical issues in religion in the Middle East. Competing methods for analyzing religion in the Middle East. Key concepts relating to religion and inter-religious relations in the Middle East such as minority, majority, tolerance, citizenship, and family law. Critical thinking about the relationship between Islam and other religions with particular reference to Muslim-Jewish and Muslim-Christian relations.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3644",
+        "RLCL 3644"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3954",
+      "subject": "ARBC",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3954C",
+      "subject": "ARBC",
+      "number": "3954C",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "3"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 3984",
+      "subject": "ARBC",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 4104",
+      "subject": "ARBC",
+      "number": "4104",
+      "level": 4000,
+      "title": "Advanced Grammar, Conversation, and Cultural Competency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on enhancing students’ conversational skills in formal and colloquial usage, analysis and application of advanced grammatical and stylistic devices, reading and listening comprehension and cultural competence in norms and social practices in the Arab world.",
+      "prerequisites": {
+        "rawText": "ARBC 3106",
+        "referencedCourses": [
+          "ARBC 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 4154",
+      "subject": "ARBC",
+      "number": "4154",
+      "level": 4000,
+      "title": "Advanced Composition and Stylistics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intensive work in written Arabic. Devoted to enhance the grammar, stylistics, writing, and cultural competency of Arabic students at the advanced level. Emphasis on analyzing and writing personal, academic, and professional texts, with attentiveness to the cultural conventions common to each genre.",
+      "prerequisites": {
+        "rawText": "ARBC 3105",
+        "referencedCourses": [
+          "ARBC 3105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 4334",
+      "subject": "ARBC",
+      "number": "4334",
+      "level": 4000,
+      "title": "Research in Arab Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interpretation of sources about Arab culture. Examination of the historical, intellectual, and cultural contexts of major cultural productions. Integration of authentic Arabic language texts into research. Analysis of the impact of gender, race, and class on cultural productions in the Arab world. Taught in English.",
+      "prerequisites": {
+        "rawText": "ARBC 2105 and ARBC 2774",
+        "referencedCourses": [
+          "ARBC 2105",
+          "ARBC 2774"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 4974",
+      "subject": "ARBC",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 4984",
+      "subject": "ARBC",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ARBC 4994",
+      "subject": "ARBC",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/arbc/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

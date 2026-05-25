@@ -1,0 +1,509 @@
+{
+  "subject": "SPIA",
+  "scrapedAt": "2026-05-25T21:22:20.121Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "SPIA 1024",
+      "subject": "SPIA",
+      "number": "1024",
+      "level": 1000,
+      "title": "Community Service Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to community service learning with emphasis on the development of civic agency. Critical perspectives on community, ethical community engagement, service and volunteerism, servant leadership, and social change. Exposure to the socio-political dynamics inherent in community development and problem solving. Includes significant community engagement and service-learning experiences, reflection, and the development of a personal community engagement action plan.",
+      "pathwaysConcepts": [
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 1044",
+      "subject": "SPIA",
+      "number": "1044",
+      "level": 1000,
+      "title": "Life in the Built Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of the human-made environment has shaped our social relations, culture, and identity. Discussion of how the imposition of built form has served both to define a shared culture and as a means of exclusion and injustice. Study of equity and ethics as evidenced and continued in planning, construction, and public space. Learn how the knowledge of these past structures might shape the future of the built environment in the United States in ways that are more equitable, inclusive, and sustainable.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ARCH 1044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 1044H",
+      "subject": "SPIA",
+      "number": "1044H",
+      "level": 1000,
+      "title": "Life in the Built Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of the human-made environment has shaped our social relations, culture, and identity. Discussion of how the imposition of built form has served both to define a shared culture and as a means of exclusion and injustice. Study of equity and ethics as evidenced and continued in planning, construction, and public space. Learn how the knowledge of these past structures might shape the future of the built environment in the United States in ways that are more equitable, inclusive, and sustainable.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ARCH 1044H"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2004",
+      "subject": "SPIA",
+      "number": "2004",
+      "level": 2000,
+      "title": "Introduction to Urban Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Computational and quantitative thinking applied to urban problems. Multiple data sources and tools for urban analysis. Application of computational and quantitative thinking in decision making and policy processes. Data cleaning, joining/merging, and summarizing. Evaluation of computational and quantitative thinking in urban planning and policy. Ethical and other issues related to computing, analysis and problem solving.",
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2024",
+      "subject": "SPIA",
+      "number": "2024",
+      "level": 2000,
+      "title": "Community Systems Thinking",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to systems thinking concepts and their application to community-based problem solving and decision making. Emphasis on identifying interactions between technical and contextual dimensions of persistent, complex global problems. Introduces systemic frameworks for defining problems, identifying and engaging stakeholders, ideating interventions, selecting and employing criteria for decision making, and creating feedback mechanisms for iterative design. Ethics of community engagement is considered. Includes problem- based service-learning projects.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2124",
+      "subject": "SPIA",
+      "number": "2124",
+      "level": 2000,
+      "title": "The Art & Science of Negotiation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practical negotiation techniques and tactics. Tools to systematically assess and prepare for negotiations, including option evaluation and understanding counterparts. Interpersonal skills for effective engagement. Multiparty negotiations. Ethical and moral issues in negotiations. Representation and principle-agent issues. Negotiation process design. Facilitation and mediation. Tackling scientifically and technically complex disputes. Various models, with an emphasis on the mutual gains approach to negotiation.",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2244",
+      "subject": "SPIA",
+      "number": "2244",
+      "level": 2000,
+      "title": "Sustainable Urbanization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Process of urbanization and theories and approaches of urban development. Debates on the meanings of sustainable urbanization and development in cities and how they are measured. Urban sustainability initiatives in the context of urban political economies, land-use practices, urban inequality and diversity, urban nature, and urban policy and politics. Programs and policies designed to enhance sustainable urbanization. Comparative approach and global perspective. Fee $30.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2244"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2314",
+      "subject": "SPIA",
+      "number": "2314",
+      "level": 2000,
+      "title": "Active Transportation for a Healthy, Sustainable Planet",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Connections among active transportation (e.g., bicycling, walking) and significant global challenges such as physical inactivity, health, the environment, and the economy on local to global scales. Methods to assess walkability among communities with different worldviews and the influence of the built environment on rates of active transportation. Approaches to evaluate demographic and psychosocial predictors and physical and policy barriers to use of active transportation. Successful strategies to increase active transportation through community design guidelines, behavior change tools, transportation planning, and policy.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HNFE 2314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2544",
+      "subject": "SPIA",
+      "number": "2544",
+      "level": 2000,
+      "title": "Policy Dynamics in Global Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of global health problems and policy. Key actors and socio-political dynamics that shape knowledge and action on global health issues. Roles and responsibilities in global health policymaking.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2554",
+      "subject": "SPIA",
+      "number": "2554",
+      "level": 2000,
+      "title": "Collaborative Policy-Making and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to multi-stakeholder collaboration and public participation in planning, policy-making and public administration. Tools and approaches for engagement and effective collaboration. Deliberative and participatory democracy, and transparency in society. Information sharing and access. Civil society, the media and citizen activism. Ethical and moral issues in collaboration. Barriers to participation, and diversity and inclusion.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 2984",
+      "subject": "SPIA",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 3554",
+      "subject": "SPIA",
+      "number": "3554",
+      "level": 3000,
+      "title": "Transdisciplinary Problem Solving for Social Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Strategies and skills for transdisciplinary problem solving. Emphasis on integrative thinking strategies and cognitive and interpersonal skills required to bridge scientific discipline-based, non-scientific discipline-based and cultural knowledge. Strategies to identify important disciplinary, non-scientific, ethical, cultural, and structural elements of a problem. Problem-based learning, ethics, team work, and effective communication skills.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 3704",
+      "subject": "SPIA",
+      "number": "3704",
+      "level": 3000,
+      "title": "Urban Contention and Mobilization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analyzes the emergence and impact of contentious mobilization in the U.S. and global cities. Includes civil and labor rights, religious freedom, democratization, and other movements for equity and inclusion. Explores social scientific approaches to mobilization, countermobilization, and collective action. Impact of contentious mobilization on governance and planning in urban sites and spaces worldwide. Examines how movements manage and address internal diversity, including variation in members’ diverse experiences and objectives.",
+      "pathwaysConcepts": [
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 3900",
+      "subject": "SPIA",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 3954",
+      "subject": "SPIA",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 3984",
+      "subject": "SPIA",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4454",
+      "subject": "SPIA",
+      "number": "4454",
+      "level": 4000,
+      "title": "Future of Cities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Cities as complex systems. Interdependence of social, economic, environmental, and technological components and how these change over time. Theories about city formation, structure, and change, with implications for sustainability, resilience, and globalization.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4464",
+      "subject": "SPIA",
+      "number": "4464",
+      "level": 4000,
+      "title": "Data and the Art of Policy-Making and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical examination of use of scientific and technical information in planning and policy-making, exploring issues and challenges through social science lens. Investigation of appropriate and responsible use of data within collaborative and deliberative policy-making and planning processes. Presentation of data and underlying models in accessible and understandable formats. Integrating all forms of knowledge into decision-making, including local and traditional knowledge.",
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4554",
+      "subject": "SPIA",
+      "number": "4554",
+      "level": 4000,
+      "title": "Creating the Ecological City",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary, team oriented, problem-solving approaches to creating cities that foster healthy interconnections between human and ecological systems. Analysis of problems from practical and ethical perspectives in the context of the diverse knowledge bases and values of decision-makers. Formation and utilization of integrated design teams to solve complex urban design and planning problems at a variety of scales. Senior standing.",
+      "prerequisites": {
+        "rawText": "HORT 2134 or FREC 2134",
+        "referencedCourses": [
+          "FREC 2134",
+          "HORT 2134"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "6A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BSE 4554",
+        "FREC 4554",
+        "HORT 4554",
+        "LAR 4554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4784",
+      "subject": "SPIA",
+      "number": "4784",
+      "level": 4000,
+      "title": "Community Systems Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Collaborative community problem solving in team environments Data collection, interpretation, and presentation augment community-based, iterative design and planning processes. Consideration of ethical engagement and community goals related to social justice, resilience, and sustainability. Discourse-based project culminating in presentation of intervention proposals to stakeholders. Pre: 3 credits in Discourse.",
+      "prerequisites": {
+        "rawText": "(SPIA 1024 or SOC 2034) and SPIA 2024",
+        "referencedCourses": [
+          "SOC 2034",
+          "SPIA 1024",
+          "SPIA 2024"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4954",
+      "subject": "SPIA",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4964",
+      "subject": "SPIA",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4984",
+      "subject": "SPIA",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SPIA 4994",
+      "subject": "SPIA",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/spia/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "subject": "HEB",
+  "scrapedAt": "2026-05-25T21:20:27.669Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "HEB 1105",
+      "subject": "HEB",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Modern Hebrew",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to speaking, listening, reading, and writing the modern Hebrew language. Emphasis on developing proficiency in practical language use, comprehension and cultural competency. 1105: Basic tasks such as greetings, counting, and simple requests; for students with no prior knowledge of the language. 1106: More advanced tasks like asking directions, expressing personal preferences, or making purchases.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 1105"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/heb/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HEB 1106",
+      "subject": "HEB",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Modern Hebrew",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to speaking, listening, reading, and writing the modern Hebrew language. Emphasis on developing proficiency in practical language use, comprehension and cultural competency. 1105: Basic tasks such as greetings, counting, and simple requests; for students with no prior knowledge of the language. 1106: More advanced tasks like asking directions, expressing personal preferences, or making purchases.",
+      "prerequisites": {
+        "rawText": "HEB 1105",
+        "referencedCourses": [
+          "HEB 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 1106"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/heb/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HEB 2974H",
+      "subject": "HEB",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/heb/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HEB 2984",
+      "subject": "HEB",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/heb/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HEB 4974H",
+      "subject": "HEB",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/heb/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HEB 4994H",
+      "subject": "HEB",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/heb/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "subject": "BMVS",
+  "scrapedAt": "2026-05-25T21:18:41.686Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "BMVS 2994",
+      "subject": "BMVS",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMVS 4014",
+      "subject": "BMVS",
+      "number": "4014",
+      "level": 4000,
+      "title": "Animal Domestication and Genetic Resources",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Considers the process, history, sociology and geography of animal domestication. Includes behavioral, physiologic and morphological changes incurred by domesticated stocks. Examines genetic variability of domestic species, considers breed groups and uniquely adapted breeds. Considers reasons for erosion of genetic variability and mechanisms to counteract such erosion. International in scope. Pre: senior status or enrollment in veterinary professional curriculum.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMVS 4024",
+      "subject": "BMVS",
+      "number": "4024",
+      "level": 4000,
+      "title": "Diseases of Poultry",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Biology control and prevention of poultry diseases. Taught alternate years.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMVS 4974",
+      "subject": "BMVS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMVS 4984",
+      "subject": "BMVS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMVS 4994",
+      "subject": "BMVS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BMVS 4994H",
+      "subject": "BMVS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bmvs/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

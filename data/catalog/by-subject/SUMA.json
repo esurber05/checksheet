@@ -1,0 +1,24 @@
+{
+  "subject": "SUMA",
+  "scrapedAt": "2026-05-25T21:22:32.581Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "SUMA 1004",
+      "subject": "SUMA",
+      "number": "1004",
+      "level": 1000,
+      "title": "Summer Academy Placeholder",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/suma/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "subject": "ALS",
+  "scrapedAt": "2026-05-25T21:18:12.472Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ALS 1004",
+      "subject": "ALS",
+      "number": "1004",
+      "level": 1000,
+      "title": "Agriculture, the Arts and Society",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Interpretive strategies applied to agriculture and the visual arts. Artistic representations of agriculture, farming, rural livelihoods, and agrarian landscapes. Exploration of global agricultural challenges balancing the production of food, fiber, and fuel. Apply principles of design and art using photography medium.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 1014",
+      "subject": "ALS",
+      "number": "1014",
+      "level": 1000,
+      "title": "Gardens as Art",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Interpretive strategies applied to agriculture and gardening design. Artistic representations of agriculture and landscaping. Exploration of global agricultural challenges balancing the production of food, gentrification, and location. Application of principles design and elements of visual art using gardening medium.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 1024",
+      "subject": "ALS",
+      "number": "1024",
+      "level": 1000,
+      "title": "Digitized Agriculture",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Interpretive strategies applied to agricultural art and design. Artistic representations of agriculture and nature. Agriculture through digital art (narrative art, stories, and data visualization). Exploration of global agricultural challenges balancing the production of food, fiber, fuel- and location. Elements, methods of interpreting, and principles and application of art and design using a narrative medium.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 1034",
+      "subject": "ALS",
+      "number": "1034",
+      "level": 1000,
+      "title": "The Aesthetics of Food",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Food as a method of study for art and design. Taste, smell, color, shape, presentation, memory, and packaging of food related to human cultural experience. Food presentation, marketing, and food choices in global context influence how people experience food.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 1234",
+      "subject": "ALS",
+      "number": "1234",
+      "level": 1000,
+      "title": "CALS First Year Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of topics related to the College of Agriculture and Life Sciences (CALS) from a multidisciplinary perspective with a focus on communication and teamwork, problem-solving, inquiry, and integration. Students explore resources to promote academic success, investigate careers and academic areas, and develop a comprehensive plan of study. Freshman and transfer students only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 1984",
+      "subject": "ALS",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 1984L",
+      "subject": "ALS",
+      "number": "1984L",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6D"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2204",
+      "subject": "ALS",
+      "number": "2204",
+      "level": 2000,
+      "title": "Sustainable Food Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the economic, social, and ecological foundations of civic agriculture. Topics include industrialization, localized food systems, and citizen participation in civic agriculture. Emphasis will be given to a range of civic agriculture models, strategies, and hands-on approaches to establish, retain and strengthen community-based food and agriculture systems, locally- nationally-globally.",
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2304",
+      "subject": "ALS",
+      "number": "2304",
+      "level": 2000,
+      "title": "Comparative Animal Physiology and Anatomy",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Comparative anatomy and physiology of domestic mammals and birds including cell neural, musculoskeletal, respiratory, cardiovascular, urinary, and endocrine systems.",
+      "prerequisites": {
+        "rawText": "BIOL 1106",
+        "referencedCourses": [
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 2 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2404",
+      "subject": "ALS",
+      "number": "2404",
+      "level": 2000,
+      "title": "Biotechnology in A Global Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the world-wide impact of biotechnology and molecular biology, including applications to plants, animals, and microorganisms. Explores basic concepts of genetic engineering, scientific and ethical issues, and public concerns related to biotechnology. Topics include: environmental release of genetically engineering organisms, bioremediation, safety of genetically engineered food products, transgenic plants and animals, gene therapy, and genetic screening.",
+      "prerequisites": {
+        "rawText": "(BIOL 1015 and BIOL 1016) or (BIOL 1105 and BIOL 1106) or (BIOL 1205H and BIOL 1206H) and (CHEM 1015 and CHEM 1016)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "CHEM 1015",
+          "CHEM 1016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BIOL 2404"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2504",
+      "subject": "ALS",
+      "number": "2504",
+      "level": 2000,
+      "title": "Animals in Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Animal well-being and behavior, human-animal interactions, ethical responsibilities to animals, animal care, behavior, disease, and pain recognition. Current topics concerning companion animals, domestic animals, and wildlife.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2604",
+      "subject": "ALS",
+      "number": "2604",
+      "level": 2000,
+      "title": "Intro to Interdisciplinary Research Practices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to formal undergraduate research and basic research methods. Engagement in interdisciplinary collaboration via team research projects. Exploration of scholarly literature, topic development, information evaluation, citation and data management, research ethics, and scientific communication. Connections to advanced information and digital literacy topics such as research impact and digital repositories. Formal proposal development and presentation.",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2964",
+      "subject": "ALS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2974",
+      "subject": "ALS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2984",
+      "subject": "ALS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2984L",
+      "subject": "ALS",
+      "number": "2984L",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "6D"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 2994",
+      "subject": "ALS",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3104",
+      "subject": "ALS",
+      "number": "3104",
+      "level": 3000,
+      "title": "Animal Breeding and Genetics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of genetics applied to improvement of domestic animals: factors affecting genetic improvement of economically relevant traits, estimation of breeding values, heritability, genetic correlations, relationships, inbreeding, crossbreeding, genetic abnormalities, genomic selection, and gene editing; ethical reasoning in animal breeding decisions.",
+      "prerequisites": {
+        "rawText": "BIOL 1105 and (STAT 2004 or STAT 3005 or STAT 3615) and (APSC 1454 or DASC 2474 or DASC 2484)",
+        "referencedCourses": [
+          "APSC 1454",
+          "BIOL 1105",
+          "DASC 2474",
+          "DASC 2484",
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3204",
+      "subject": "ALS",
+      "number": "3204",
+      "level": 3000,
+      "title": "Animal Nutrition and Feeding",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Characteristics, sources, digestion, absorption, and metabolism of water, carbohydrates, lipids, proteins, vitamins, and minerals. Feeding systems for livestock, poultry and companion animals.",
+      "prerequisites": {
+        "rawText": "ALS 2304 and (CHEM 1036 or CHEM 1036H or CHEM 1016)",
+        "referencedCourses": [
+          "ALS 2304",
+          "CHEM 1016",
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3304",
+      "subject": "ALS",
+      "number": "3304",
+      "level": 3000,
+      "title": "Physiology of Reproduction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physiological mechanisms that control and affect reproductive processes in domestic species. Investigation of the anatomy and physiology of the reproductive systems from cellular to whole-body levels with a particular emphasis on implications for reproductive function.",
+      "prerequisites": {
+        "rawText": "ALS 2304",
+        "referencedCourses": [
+          "ALS 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3314",
+      "subject": "ALS",
+      "number": "3314",
+      "level": 3000,
+      "title": "Physiology of Reproduction Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of the structure and function of reproductive systems of domestic species. Practical application of this knowledge is then taught through demonstrations, hands-on experiences and assignments exploring current farm-animal production systems.",
+      "corequisites": {
+        "rawText": "ALS 3304",
+        "referencedCourses": [
+          "ALS 3304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3404",
+      "subject": "ALS",
+      "number": "3404",
+      "level": 3000,
+      "title": "Ecological Agriculture: Theory and Practice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Presents an overview of historic and modern agricultural practices. Surveys the principles of ecology in the context of managed ecosystems, civic agriculture, and food systems. Explores ecologically based practices and their use in holistic and integrated agricultural systems.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3954",
+      "subject": "ALS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 3984",
+      "subject": "ALS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4204",
+      "subject": "ALS",
+      "number": "4204",
+      "level": 4000,
+      "title": "Concepts in Community Food Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the economic, political, socio-cultural, health and environmental issues related to community food systems and agricultural practices. Topics include local, regional and global food systems development, food production and biotechnology, food sovereignty and security, and population and environmental health. Analyze models, strategies, and policies within local, national and global food systems.",
+      "prerequisites": {
+        "rawText": "ALS 2204",
+        "referencedCourses": [
+          "ALS 2204"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4214",
+      "subject": "ALS",
+      "number": "4214",
+      "level": 4000,
+      "title": "Capstone: Civic Agriculture and Food Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary, experiential community-based course focusing on civic agriculture-food systems. Work in partnership with community stakeholders to propose viable solutions to real world issues revolving around civic agriculture and food systems. Connect with communities locally, regionally or globally.",
+      "prerequisites": {
+        "rawText": "ALS 2204 and ALS 3404 and ALS 4204",
+        "referencedCourses": [
+          "ALS 2204",
+          "ALS 3404",
+          "ALS 4204"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4224",
+      "subject": "ALS",
+      "number": "4224",
+      "level": 4000,
+      "title": "Food, Agriculture, and Society Capstone Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Explore the interplay between food, agriculture, and society from interdisciplinary perspectives. Engage in student-led discussions, presentations, and critical thinking and synthesizing of capstone experiences embedded within the Food, Agriculture, and Society Pathways minor curriculum. Integrate research, study abroad, internships, or other experiential learning initiatives to gain practical insights toward a more just and sustainable food system. Pre: (ALS 2204 and HIST 1084) and any Study Abroad, Independent Study, or Undergraduate Research course regardless of subject designator.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4244",
+      "subject": "ALS",
+      "number": "4244",
+      "level": 4000,
+      "title": "Global Food Security and Health Capstone Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Food security and its relationship to human and global health challenges. Role of geography, economics, climate, politics, trade, and culture. Ethical issues and challenges to improving global food security and health. Creatively analyze, synthesize, and evaluate learned knowledge. Participate in successful discourse related to global food security and health.",
+      "prerequisites": {
+        "rawText": "CSES 2244 and AAEC 3204",
+        "referencedCourses": [
+          "AAEC 3204",
+          "CSES 2244"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4554",
+      "subject": "ALS",
+      "number": "4554",
+      "level": 4000,
+      "title": "Neurochemical Regulation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Neurochemical transmission within the vertebrate brain will be examined. Emphasis will be placed on the chemical coding underlying the control of various behaviors and how these systems can be modified by various drugs or diet.",
+      "prerequisites": {
+        "rawText": "BCHM 2024 or BCHM 3114 or BCHM 4115",
+        "referencedCourses": [
+          "BCHM 2024",
+          "BCHM 3114",
+          "BCHM 4115"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BIOL 4554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4574",
+      "subject": "ALS",
+      "number": "4574",
+      "level": 4000,
+      "title": "Social Behavior of Birds and Mammals",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines origins, influences and implications of social behavior in a variety of avian and mammalian species. Emphasis is placed on understanding group organization and dynamics in inter and intra-species situations. Experimental data from several disciplines (e.g., genetics, physiology, biochemistry) are reviewed to demonstrate their associations with behavioral adaptive mechanisms. Avian and mammalian species living in wild, zoo, agricultural, companion and laboratory settings are discussed.",
+      "prerequisites": {
+        "rawText": "ALS 3104 or BIOL 2004 and BIOL 1106",
+        "referencedCourses": [
+          "ALS 3104",
+          "BIOL 1106",
+          "BIOL 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BIOL 4574"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4614",
+      "subject": "ALS",
+      "number": "4614",
+      "level": 4000,
+      "title": "Watershed Assessment, Management, and Policy",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary perspectives of assessment, management and policy issues for protecting and improving watershed ecosystems. Topics include: monitoring and modeling approaches for assessment, risk-based watershed assessment geographic information systems for watershed analysis, decision support systems and computerized decision tools for watershed management, policy alternatives for watershed protection, urban watersheds, and current issues in watershed management. Pre: Two 4000 level courses in environmental/natural resource science, management, engineering, and/or policy in BSE, CEE, FOR, FREC, GEOL, LAR, CSES, ENT, BIOL, GEOG, AAEC, UAP or equivalent.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [
+        "WATR 4614"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4814",
+      "subject": "ALS",
+      "number": "4814",
+      "level": 4000,
+      "title": "Nutritional Neuroscience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts in nutritional aspects of neuroscience. Energy metabolism in central nervous system and brain regulating ingestive behavior. Communication with peripheral organs, regulation of whole body energy homeostasis, brain physiology and pathology on molecular and cellular level. Role of appetite neurocircuitry in formulation of practical solutions to societal problems such as nutrition, eating disorders, and obesity.",
+      "prerequisites": {
+        "rawText": "NEUR 2026 or ALS 2304",
+        "referencedCourses": [
+          "ALS 2304",
+          "NEUR 2026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NEUR 4814"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4964",
+      "subject": "ALS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4974",
+      "subject": "ALS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4984",
+      "subject": "ALS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4994",
+      "subject": "ALS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ALS 4994H",
+      "subject": "ALS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/als/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

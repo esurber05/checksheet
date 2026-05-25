@@ -1,0 +1,837 @@
+{
+  "subject": "HTM",
+  "scrapedAt": "2026-05-25T21:20:33.937Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "HTM 1414",
+      "subject": "HTM",
+      "number": "1414",
+      "level": 1000,
+      "title": "Introduction to Hospitality and Tourism Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Hospitality & Tourism industry segmentation, management structures and practices, the significance of service delivery, economic impact of tourism and career opportunities. Concepts examined through readings, case studies and industry gues speakers.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 1984",
+      "subject": "HTM",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2104",
+      "subject": "HTM",
+      "number": "2104",
+      "level": 2000,
+      "title": "Careers in Hospitality and Tourism",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Provide students with an early start on understanding and identifying the many career options in the field of Hospitality and Tourism Management. In-depth focus on the different skills and training necessary for various career paths, including core hospitality and tourism management, hospitality and tourism business acumen, and hospitality and tourism strategy and innovation. Emphasize the importance of personal job search strategies and provide networking opportunities with leaders in the industry. Students will create professional materials, including resumes and online profiles. Serves as a foundational course in preparing students for career success in the Hospitality and Tourism Management field. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2314",
+      "subject": "HTM",
+      "number": "2314",
+      "level": 2000,
+      "title": "Introduction to International Business",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental concepts of international business. International business environment and how it affects decisions, the creation of competitive advantage in the multinational firm, and complexities of managing it. Why international businesses exist, drivers of international expansion, differences among countries in terms of political, legal, economic, technological and cultural dimensions, and the complexity of international business decisions. Causes and consequences of globalization, international trade, and analyzing the challenges of managing international business, with a focus on a number of industries, including hospitality and tourism. Operational, strategic, and ethical issues which are unique to multinational corporations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "MGT 2314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2434",
+      "subject": "HTM",
+      "number": "2434",
+      "level": 2000,
+      "title": "Hospitality Sales",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A comprehensive study of the management of the sales function and its role in the overall financial performance of hospitality operations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2454",
+      "subject": "HTM",
+      "number": "2454",
+      "level": 2000,
+      "title": "Global Travel & Tourism Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to travel and tourism both domestically and abroad. Includes topics such as the history, sociology and psychology of tourism; the tourism system, including private industry, associations and governing bodies; measuring and predicting travel motivations, behavior, and demand; and management issues in a global context. Course concludes with an international travel research final project.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2464",
+      "subject": "HTM",
+      "number": "2464",
+      "level": 2000,
+      "title": "Designing the Service Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An overview of the service industry, its historical and economic importance, social, psychological and cultural impacts and future trends. Emphasizes the unique characteristics and management challenges of service organizations.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2474",
+      "subject": "HTM",
+      "number": "2474",
+      "level": 2000,
+      "title": "Introduction to Meetings and Convention Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A study of the meetings and convention industry. Focus on the components and processes involved in developing and conducting meetings and conventions.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2514",
+      "subject": "HTM",
+      "number": "2514",
+      "level": 2000,
+      "title": "Catering Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to various venues in which catering services can be offered, and presents an overview of the functions, processes, and controls found in successful catering management and operations; emphasis is placed on the sales/marketing aspects of the business.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2954",
+      "subject": "HTM",
+      "number": "2954",
+      "level": 2000,
+      "title": "Hospitality and Tourism Study Abroad",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides students with an international hospitality and tourism management business experience. It is only offered as part of a program outside the United States. Students will learn from the structured educational experience developed by the faculty directing the study abroad program. This course can be taken twice for a maximum of six credit hours. Sophomore standing and a minimum GPA of 3.0 required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2964",
+      "subject": "HTM",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2974",
+      "subject": "HTM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 2984",
+      "subject": "HTM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3044",
+      "subject": "HTM",
+      "number": "3044",
+      "level": 3000,
+      "title": "Private Club Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develop an understanding of the private club sector of the hospitality industry. Topic areas are divided into club fundamentals, revenue-generating operations within clubs and support functions/departments of club operations. Junior standing as well as background courses in basic financial management are suggested.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3244",
+      "subject": "HTM",
+      "number": "3244",
+      "level": 3000,
+      "title": "Franchising and Ownership in the Services Industries",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and practice of franchising as a form of business ownership and a vehicle for entrepreneurship. Contemporary issues related to franchising in different segments of the services industries including hospitality and tourism. Legal aspects, financial viability, ethical issues, and agency relationships in franchising. Franchise concept development, franchisor-franchisee relationship, franchise agreements, family business, minority franchising, and international franchising. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3414",
+      "subject": "HTM",
+      "number": "3414",
+      "level": 3000,
+      "title": "Chef Lab: Culinary Operations Management",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Food and kitchen safety, hazard analysis, purchasing, recipe development, costing, and volume food preparation, in a commercial kitchen lab experience one day per week along with a two hour per week lecture. Design/Lab Studio. Pre: Sophomore standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3424",
+      "subject": "HTM",
+      "number": "3424",
+      "level": 3000,
+      "title": "Event Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Management of special events in the hospitality and tourism industry. Organizational functions necessary for designing a broad range of special events, using formal elements of design to deliver successful events through use of effectively designed floor plans, event flow and logistics, risk management and contingency planning as well as analyzing the factors that influence an events success. Examine ethical issues at play in the context of modern event planning and implementation. Study review processes, evaluation methods and techniques used in events management. Sophomore standing.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3444",
+      "subject": "HTM",
+      "number": "3444",
+      "level": 3000,
+      "title": "Hospitality Financial Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The application of accounting, finance, and cost control principles to hospitality industry organizations. The focus of this course is to provide future food service and lodging organization managers with the ability to handle the unique problems regarding financial analysis and cost control in this industry.",
+      "prerequisites": {
+        "rawText": "ACIS 2116 and ECON 2006",
+        "referencedCourses": [
+          "ACIS 2116",
+          "ECON 2006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3454",
+      "subject": "HTM",
+      "number": "3454",
+      "level": 3000,
+      "title": "Social and Cultural Event Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of social life cycle events such as weddings as a niche within the hospitality industry. Examination of historical, religious, and cultural influences on traditions and customs. Analysis of market opportunities and growth potential for life cycle events. Skills taught include arranging successful events, managing event stakeholders and risks.",
+      "prerequisites": {
+        "rawText": "HTM 3424",
+        "referencedCourses": [
+          "HTM 3424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3464",
+      "subject": "HTM",
+      "number": "3464",
+      "level": 3000,
+      "title": "Sport and Entertainment Event & Facility Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of sporting and entertainment events and types of facilities. Skills taught include planning successful events including budgets, timelines, human resources, contractors, and marketing. Topics include managing and maintaining assets and venue technology and managing temporary venues. Analysis of risk for stakeholders regarding alcohol and crowd management.",
+      "prerequisites": {
+        "rawText": "HTM 3424",
+        "referencedCourses": [
+          "HTM 3424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3474",
+      "subject": "HTM",
+      "number": "3474",
+      "level": 3000,
+      "title": "Corporate, Government, and Association Event Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the meetings and conventions industry that caters to corporate, government, and association clients. Introduction and differentiation of roles and responsibilities of key stakeholders including clients, sponsors, event organizers, venue providers, and service contractors. Skills presented include planning a successful meetings and conventions event production. Exploration of trends that enhance the success and the impact when planning conventions and meetings.",
+      "prerequisites": {
+        "rawText": "HTM 3424",
+        "referencedCourses": [
+          "HTM 3424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3484",
+      "subject": "HTM",
+      "number": "3484",
+      "level": 3000,
+      "title": "Socio-Cultural Impacts of Tourism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A study of both historic and current impacts of tourism on family, community, culture, government, globalization, and the environment at the domestic and international levels. The course uses a sustainable tourism framework to examine the complex ways in which tourism both affects and is affected by modern society worldwide. Includes topics such as eco-tourism, volunteer tourism and space tourism.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3524",
+      "subject": "HTM",
+      "number": "3524",
+      "level": 3000,
+      "title": "Lodging Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Organization, function, and management of lodging operations. Current issues and management challenges in the lodging industry. Applications of revenue management to lodging systems. Pre: Sophomore standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3900",
+      "subject": "HTM",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3954",
+      "subject": "HTM",
+      "number": "3954",
+      "level": 3000,
+      "title": "HTM Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "This course provides students with an international hospitality and tourism management business experience. Students will be required to apply their knowledge and skills from their Pamplin College of Business core courses within this course. Students will learn from the structured educational experience developed by the faculty directing the study abroad program. Pamplin College of Business majors must have been approved for upper division course- work.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 3984",
+      "subject": "HTM",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4334",
+      "subject": "HTM",
+      "number": "4334",
+      "level": 4000,
+      "title": "Sustainable Entrepreneurship and Innovation in Hospitality & Tourism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of hospitality and tourism innovative and entrepreneurial enterprises to pursue sustainable growth. Analyze the sustainability of hospitality & tourism business ideas regarding growth opportunities considering societal, demographic, and environmental changes from a variety of sources. An examination of the key elements of sustainable entrepreneurship for hospitality and tourism enterprises that apply across a range of business models. Includes a field based, experiential learning project where teams collaborate to analyze data from multiple sources to develop and execute business ideas for existing or new enterprises. Pre: Junior standing.",
+      "prerequisites": {
+        "rawText": "MGT 2064 or AAEC 2434",
+        "referencedCourses": [
+          "AAEC 2434",
+          "MGT 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4354",
+      "subject": "HTM",
+      "number": "4354",
+      "level": 4000,
+      "title": "Information Technology and Social Media in Hospitality and Tourism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the strategic use of information technology (IT) in todays hospitality and tourism organizations. Includes the most current and widely used information systems in operation, management, and e-business in hospitality and tourism as well as identification, discussion and debate of the ethical issues associated with these systems. Study of social media as a marketing tool for hospitality and tourism businesses. Examine impacts of IT on organizations and the industry as a whole. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4414",
+      "subject": "HTM",
+      "number": "4414",
+      "level": 4000,
+      "title": "Restaurant Management: Design and Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Reviews organizational structures, terminology, and categories associated with restaurant management. Discusses principles of restaurant management, including concept design development, financial analysis, daily operations, and customer service. Focuses on emerging trends in technology and innovation. Case study discussions of current issues and challenges in the industry, development of comprehensive restaurant business plan, and \"Training for Intervention Procedures\" (TIPS) certification.",
+      "prerequisites": {
+        "rawText": "HTM 3414",
+        "referencedCourses": [
+          "HTM 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4434",
+      "subject": "HTM",
+      "number": "4434",
+      "level": 4000,
+      "title": "Event and Experience Management Senior Workshop",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Senior experiential learning workshop to integrate and apply ethics, research, and design concepts from past coursework by engaging in actual professional events and experiences. Explore and understand the complexity of planning, coordination, and evaluation of events and the impact on the human experience. Capstone for Pathways Minor in Event & Experience Management. Pre: Senior Standing; Registered for the Event and Experience Management Pathways Minor.",
+      "prerequisites": {
+        "rawText": "HTM 3424",
+        "referencedCourses": [
+          "HTM 3424"
+        ]
+      },
+      "pathwaysConcepts": [
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4444",
+      "subject": "HTM",
+      "number": "4444",
+      "level": 4000,
+      "title": "Winery Tourism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The course focuses on the role of wine and wineries in tourism, wine marketing and management in the hospitality industry, and examines the components of a winery. Students must be 21 years of age due to the inclusion of wine tasting in the course. COURSE FEE: $18.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4454",
+      "subject": "HTM",
+      "number": "4454",
+      "level": 4000,
+      "title": "Hospitality Revenue Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines lodging and foodservices Revenue Management (RM) issues. Customer-centric approach, explores RM from various traditional academic perspectives, including economics, pricing, forecasting, consumer behavior, accounting, finance, and human resources. Management-oriented, emphasizes practical aspects of decision-making. Applies theoretical concepts through class discussion, group projects and individual assignments.",
+      "prerequisites": {
+        "rawText": "HTM 3444",
+        "referencedCourses": [
+          "HTM 3444"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4464",
+      "subject": "HTM",
+      "number": "4464",
+      "level": 4000,
+      "title": "Human Resources Management in the Hospitality Industry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An overview of the concepts of human resources management as applied to the specific environments within the hospitality industry.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404",
+        "referencedCourses": [
+          "MGT 3304",
+          "MGT 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4474",
+      "subject": "HTM",
+      "number": "4474",
+      "level": 4000,
+      "title": "Hospitality & Tourism Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Managerial approach to the law that applies to hotels, food-service establishments, events, and tourism; special focus on manager's duties to guests. Key concepts covered include contract and property law, licensing and permits, labor relations, risk management including food and beverage issues, safety and security, and liability and negligence.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4484",
+      "subject": "HTM",
+      "number": "4484",
+      "level": 4000,
+      "title": "International Tourism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of global travel and tourism issues, including trends and patterns of global tourism, flow models, constraints and obstacles to international travel, demand for travel and tourism, tourism supply distribution, destination competitiveness, tourist safety and security, international travel and tourism organizations, performance measures. Analysis of sustainable indicators in protected areas and world heritage sites, tourism statistics and trends.",
+      "prerequisites": {
+        "rawText": "MKTG 3104 or MKTG 3104H",
+        "referencedCourses": [
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4514",
+      "subject": "HTM",
+      "number": "4514",
+      "level": 4000,
+      "title": "Hospitality Market Data Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Extraction and analysis of industry data on a selected market for development and presentation of the Market Study in a worldwide competition among other universities. In conjunction with a leading hospitality industry data provider, students have an opportunity to extract and analyze current industry data. Expands teamwork and communication skills through written and oral delivery of the study. Impact Analysis study of a recent current event on hotels, related and non-related travel sectors.",
+      "prerequisites": {
+        "rawText": "HTM 3524 and HTM 3444",
+        "referencedCourses": [
+          "HTM 3444",
+          "HTM 3524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4954",
+      "subject": "HTM",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4964",
+      "subject": "HTM",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study in HTM",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "prerequisites": {
+        "rawText": "(HTM 3414 and HTM 3524) or (HTM 3414 and HTM 3444) or (HTM 3524 and HTM 3444) or (HTM 3414 and HTM 3424) or (HTM 3424 and HTM 3444)",
+        "referencedCourses": [
+          "HTM 3414",
+          "HTM 3424",
+          "HTM 3444",
+          "HTM 3524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4974",
+      "subject": "HTM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4984",
+      "subject": "HTM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HTM 4994",
+      "subject": "HTM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/htm/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

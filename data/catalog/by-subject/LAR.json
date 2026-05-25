@@ -1,0 +1,819 @@
+{
+  "subject": "LAR",
+  "scrapedAt": "2026-05-25T21:21:07.228Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "LAR 1014",
+      "subject": "LAR",
+      "number": "1014",
+      "level": 1000,
+      "title": "Landscape Architecture Foundation Design Laboratory",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Immersive, interactive learning environment, design concept and process development, self and peer assessment. Design studies in two and three dimensions across multiple scales, landscape systems, foundational design theories, principles of spatial design and techniques used to create landscape spaces, systematical exploration and communication of ideas through visual, physical, and oral communications.",
+      "prerequisites": {
+        "rawText": "ARCH 1015",
+        "referencedCourses": [
+          "ARCH 1015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 1254",
+      "subject": "LAR",
+      "number": "1254",
+      "level": 1000,
+      "title": "Environment and Natural Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the environment, natural systems with emphasis on their relationship to urban sustainability and resilience: natural elements, structures, patterns, natural systems, ecology, and landscape ecology. Impact of human actions and decisions on the environment and natural systems from global to local scale. Application of relevant theories and methods related to the environment and natural systems in planning and design.",
+      "pathwaysConcepts": [
+        "4",
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 1264",
+      "subject": "LAR",
+      "number": "1264",
+      "level": 1000,
+      "title": "Seeing, Understanding and Representing Landscape and the Built Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the natural and built environment through observation, interpretation and graphic representation of the landscape. Development of a range of graphic strategies and techniques with an emphasis on design thinking, iteration, and ethical issues expressed in the natural and built environment.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2015",
+      "subject": "LAR",
+      "number": "2015",
+      "level": 2000,
+      "title": "Landscape Architecture Design Studio: Place and Process",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Basic theory, principles, and methods of landscape design and site planning. 2015: Design theory involving two and three dimensional compositions. Mass/space relationships, principles of spatial design and techniques used to create landscape space. 2016: Design theory relating to landscape design and site planning. Design of small scale spaces in which the analysis of site, context and the requirements of human use are brought together in a creative synthesis.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2016",
+      "subject": "LAR",
+      "number": "2016",
+      "level": 2000,
+      "title": "Landscape Architecture Design Studio: Place and Process",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Basic theory, principles, and methods of landscape design and site planning. 2015: Design theory involving two and three dimensional compositions. Mass/space relationships, principles of spatial design and techniques used to create landscape space. 2016: Design theory relating to landscape design and site planning. Design of small scale spaces in which the analysis of site, context and the requirements of human use are brought together in a creative synthesis.",
+      "prerequisites": {
+        "rawText": "LAR 2015",
+        "referencedCourses": [
+          "LAR 2015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2025",
+      "subject": "LAR",
+      "number": "2025",
+      "level": 2000,
+      "title": "Landscape Architecture Design Studio Place, Process and People",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Landscape design and site planning including design processes, design communication, community-based design, case study methods, landscape performance. 2025: planning, programming and design of places, analysis of site, context and design for human use, and natural systems in creative design syntheses. 2026: master plan and site-scale planning and design incorporating multiple program elements with emphasis on social, cultural and natural systems infrastructure of neighborhoods and communities. Course Contact to Credit Hour Structure: Lecture (1H,1C), Lab (6L, 2C) Design Lab/Studio (5L, 3C). (1H, 11L, 6C)",
+      "prerequisites": {
+        "rawText": "LAR 1014",
+        "referencedCourses": [
+          "LAR 1014"
+        ]
+      },
+      "corequisites": {
+        "rawText": "LAR 2164",
+        "referencedCourses": [
+          "LAR 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2026",
+      "subject": "LAR",
+      "number": "2026",
+      "level": 2000,
+      "title": "Landscape Architecture Design Studio Place, Process and People",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Landscape design and site planning including design processes, design communication, community-based design, case study methods, landscape performance. 2025: planning, programming and design of places, analysis of site, context and design for human use, and natural systems in creative design syntheses. 2026: master plan and site-scale planning and design incorporating multiple program elements with emphasis on social, cultural and natural systems infrastructure of neighborhoods and communities. Course Contact to Credit Hour Structure: Lecture (1H,1C), Lab (6L, 2C) Design Lab/Studio (5L, 3C). (1H, 11L, 6C)",
+      "prerequisites": {
+        "rawText": "LAR 2025",
+        "referencedCourses": [
+          "LAR 2025"
+        ]
+      },
+      "corequisites": {
+        "rawText": "LAR 3154",
+        "referencedCourses": [
+          "LAR 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2154",
+      "subject": "LAR",
+      "number": "2154",
+      "level": 2000,
+      "title": "Landscape Architecture History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical development of designed landscapes and landscape architecture with emphasis on western and select non-western cultures. Thematic focus on design theories, the social constructions of nature and relationships with land, ideology of landscape, experience of landscape by different social groups and cultures, landscape ethics, and parallels between site and urban design.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2164",
+      "subject": "LAR",
+      "number": "2164",
+      "level": 2000,
+      "title": "Landform Function and Aesthetics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Design principles and technology related to the creation of landforms for functional, aesthetic, and environmental purposes. Landform grading techniques for integrating soils, water, vegetation, transportation systems, and structures through the design and construction processes. Evaluating landform performance for landscape resilience. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "LAR 1264",
+        "referencedCourses": [
+          "LAR 1264"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 5 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2254",
+      "subject": "LAR",
+      "number": "2254",
+      "level": 2000,
+      "title": "Social and Cultural Landscapes",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to experiential and cultural content of designed landscapes. Physiological, functional, and psychological factors that affect experience of the landscape. Study of cultural values, attitudes, and philosophies that have shaped historic and contemporary landscapes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2554",
+      "subject": "LAR",
+      "number": "2554",
+      "level": 2000,
+      "title": "Leadership for Global Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Leadership principles and humanities perspectives that help examine and engage global sustainable development challenges such as climate change, food-water-energy nexus, rising middle class, circular economy, and environmental justice. Topics include collaboration, stories, conflict resolution, self-awareness, bias, equity, religion, hubris, globalism, and moral naturalism. Examine trade-offs among economic, environmental, and social dimensions of sustainable development. Integration and application of disciplinary topics including ethics, ecology, evolution, anthropology, economics, religion, aesthetics, and risk management.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 2554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 2984",
+      "subject": "LAR",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3015",
+      "subject": "LAR",
+      "number": "3015",
+      "level": 3000,
+      "title": "Intermediate Landscape Design and Construction Documents",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Development of intermediate site planning and design knowledge skills. 3015 focuses on site/project scale planning and design with emphasis on greenfield development sites and models of conversation oriented design/development.",
+      "prerequisites": {
+        "rawText": "LAR 2016",
+        "referencedCourses": [
+          "LAR 2016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3016",
+      "subject": "LAR",
+      "number": "3016",
+      "level": 3000,
+      "title": "Intermediate Landscape Design and Construction Documents",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "3016 focuses on site/project scale planning and design involving multiple program elements with a focus on urban and suburban redevelopment and densification. Emphasis is given to the social, cultural and natural systems infrastructure of neighborhoods and communities.",
+      "prerequisites": {
+        "rawText": "LAR 3015",
+        "referencedCourses": [
+          "LAR 3015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3044",
+      "subject": "LAR",
+      "number": "3044",
+      "level": 3000,
+      "title": "Land Analysis and Site Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts, principles, and processes of land analysis and evaluation for physical planning and design. Approaches to spatial problem solving with an emphasis on data collection, evaluation, and synthesis using applicable technologies such as Geographic Information Systems (GIS). Analysis and synthesis of natural and socio-cultural systems at varying scales in the site planning and design process using Geodesign method.",
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3154",
+      "subject": "LAR",
+      "number": "3154",
+      "level": 3000,
+      "title": "Watershed Sensitive Site Design and Construction",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Examines soil and water resource issues related to landscape architectural site planning and design. Key topics include watershed sensitive site design, estimation and management of storm water runoff, rainwater conservation, design of open channel conveyances for site planning applications, and erosion and sedimentation control. Prerequisite: LAR 2164 or consent of instructor",
+      "prerequisites": {
+        "rawText": "LAR 2164",
+        "referencedCourses": [
+          "LAR 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 4 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3164",
+      "subject": "LAR",
+      "number": "3164",
+      "level": 3000,
+      "title": "Design in Detail: Materials, Methods and Assembly",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Landscape construction knowledge and practices integrating concepts of design detailing with material selection, sustainable construction methods, and environmental performance. Concepts of landscape performance in material use and human interaction, effects on the built environment, and technical documentation.",
+      "prerequisites": {
+        "rawText": "LAR 2164",
+        "referencedCourses": [
+          "LAR 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3264",
+      "subject": "LAR",
+      "number": "3264",
+      "level": 3000,
+      "title": "People Community and Place",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced course focusing on landscape/behavior interactions and implications for the design of outdoor environments at site and community scales for sustainable communities. Systems approach to engage various community design program elements, including social, land use, physical infrastructure, public space, movement, energy, and natural systems, in place-making strategies for diverse populations. Methods of community participation and engagement used in community-based design practices. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3954",
+      "subject": "LAR",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 3984",
+      "subject": "LAR",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4014",
+      "subject": "LAR",
+      "number": "4014",
+      "level": 4000,
+      "title": "Design and Construction Documentation",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Landscape architectural project-based design and construction documentation. Site design integrating experiential learning, programming, schematic design, design development, construction documentation, construction cost estimation, and technical specifications. Construction principles and practices in preparation of site design and set of construction documents. Community-based principles and practices for site design development. Lecture (1H,1C), Lab (6L, 2C) Design Lab/Studio (5L, 3C) (1H, 11L, 6C).",
+      "prerequisites": {
+        "rawText": "LAR 2164 and LAR 3154 and LAR 3164",
+        "referencedCourses": [
+          "LAR 2164",
+          "LAR 3154",
+          "LAR 3164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4034",
+      "subject": "LAR",
+      "number": "4034",
+      "level": 4000,
+      "title": "Evolution of the American Landscape",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examine and interpret physical changes in the rural and urban landscapes of the United States as they reflect cultural values; technologic innovations; immigration patterns; the roles of diverse professions over time; changing views of use, conversation and preservation of national resources; and expectations for places of live, work and play using an iterative writing process and reflective course discussions.",
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4084",
+      "subject": "LAR",
+      "number": "4084",
+      "level": 4000,
+      "title": "Landscape Design and Planning Studio",
+      "credits": {
+        "min": 3,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Advanced design studio addresses current land design and planning issues including global climate change across contexts and spatial scales using complex problem-solving methods of a geodesign framework. Domestic and international precedents, theories, guidelines, and regulations. Development and communication of consensus-based comprehensive plans and designs that address sustainability and resilience issues caused by climate change and others. Use of collaborative community-based design practices. Non-Majors - Lecture (1H, 1C), Lab (6L, 2C). Majors – Course Contact to Credit Hour Structure: Lecture (1H, 1C) Lab (6L, 2C) Design Lab/Studio (5L, 3C). Variable credit course. (1H, 6-11L, 3-6C)",
+      "prerequisites": {
+        "rawText": "LAR 4014",
+        "referencedCourses": [
+          "LAR 4014"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 6-11 Lab, 3-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4094",
+      "subject": "LAR",
+      "number": "4094",
+      "level": 4000,
+      "title": "Senior Project",
+      "credits": {
+        "min": 3,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Advanced landscape architectural design capstone course using applied research requiring development of a landscape architecture project selected and completed by the student under the direction of a faculty advisor. Landscape architecture theories and issues; design principles and processes, technological tools and communication strategies to develop and implement a comprehensive design study or independent design project in the context of specific concerns of the built environment. Repeatable for a maximum of 9 credit hours. 3 credit hour course - Lecture (1H, 1C), Lab (6L, 2C). 6 credit hour course - Course Contact to Credit Hour Structure: Lecture (1H, 1C), Lab (6L, 2C), Design Lab/Studio (5L, 3C). Variable credit course. (1H, 6-11L, 3-6C)",
+      "prerequisites": {
+        "rawText": "LAR 4014 and LAR 4084",
+        "referencedCourses": [
+          "LAR 4014",
+          "LAR 4084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6-11 Lab, 3-6 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4134",
+      "subject": "LAR",
+      "number": "4134",
+      "level": 4000,
+      "title": "Landscape Representation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2D and 3D hand and digital drawing modes and representational techniques used in landscape design explorations and visual presentations. Study and application of landscape representations. Visual communication of landscapes, landscape change, hydrologic patterns, ecologic processes, and human systems related to design, planning and management of the built environment across geographic and site scales. Design Lab/Studio.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4154",
+      "subject": "LAR",
+      "number": "4154",
+      "level": 4000,
+      "title": "Design Studies of the Built Environment",
+      "credits": {
+        "min": 3,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Design study of built environment using comparative case studies of relationships between society and culture and the physical and built environments, as seen across scales. Design and use analysis and documentation of elements of the physical environment; exploration of interface between building, people, and landscape systems. Independent case study research project includes on-site field investigations, design research and final documentation of findings. Pre: Junior standing. 3 credit hour course - Design Lab (5L, 3C). 6 credit hour course - Design Lab (9L, 6C) Variable credit. Design Lab/Studio. (5-9L, 3-6C)",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 5-9 Lab, 3-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4244",
+      "subject": "LAR",
+      "number": "4244",
+      "level": 4000,
+      "title": "Professional Practice in Landscape Architecture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comparative study of career options, professional practice types in landscape architecture including current and future practices. Introduction to firm organizational structure, business models, organizational culture and project management. Review of laws, regulations, contracts, financial and business planning, professional ethics and societal forces impacting design processes and work from project inception to built outcomes. Portfolio and resume development.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4254",
+      "subject": "LAR",
+      "number": "4254",
+      "level": 4000,
+      "title": "Theories of Landscape Architecture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical examination of theories relevant to landscape architectural design and the inter-relationship between theory and practice. Evolution of theory with respect to built works. Overview of concurrent design theories and philosophies in the related arts. Pre-requisite: Senior standing or instructors permission.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4304",
+      "subject": "LAR",
+      "number": "4304",
+      "level": 4000,
+      "title": "Topics in Landscape Architecture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Topics in landscape architecture history, theory and design methods is an advanced course focusing upon issues facing the professional practice of landscape architecture today. Special emphasis on methods of analysis and interpretation including application of creative techniques, analogous thinking, computer-aided procedures and information handling in landscape architecture design and practice. Pre: 3015 and 3016 or permission of instructor. May be repeated with different content for a maximum of 12 credits.",
+      "prerequisites": {
+        "rawText": "LAR 3015 and LAR 3016",
+        "referencedCourses": [
+          "LAR 3015",
+          "LAR 3016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4554",
+      "subject": "LAR",
+      "number": "4554",
+      "level": 4000,
+      "title": "Creating the Ecological City",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary, team oriented, problem-solving approaches to creating cities that foster healthy interconnections between human and ecological systems. Analysis of problems from practical and ethical perspectives in the context of the diverse knowledge bases and values of decision-makers. Formation and utilization of integrated design teams to solve complex urban design and planning problems at a variety of scales. Senior standing.",
+      "prerequisites": {
+        "rawText": "HORT 2134 or FREC 2134",
+        "referencedCourses": [
+          "FREC 2134",
+          "HORT 2134"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "6A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BSE 4554",
+        "FREC 4554",
+        "HORT 4554",
+        "SPIA 4554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4705",
+      "subject": "LAR",
+      "number": "4705",
+      "level": 4000,
+      "title": "Landscape Design and Planning",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Theories, methods, techniques, and tools relating to the planning and design of sites, communities, and regional landscapes. 4705: Development of design ability through the study of: two- and three-dimensional design, principles and elements of spatial composition, theories and techniques for planning and design of sites, and design communication techniques. Investigation of natural and man-made physical factors and cultural factors, and human needs. Creative design synthesis. 4706: Evaluation of land resources and the allocation of land uses within large complex sites and regional landscapes. Theories and techniques of site planning and community design. Research of natural, cultural and physical conditions. Application of geographic information systems. Assessment of community development and land planning concepts. Proposing land-use and management strategies at community and regional landscape scales. Identification and application of community-based design practices. Pre: 4705 for 4706. Course Contact to Credit Hour Structure: Lecture (1H,1C), Lab (6L, 2C) Design Lab/Studio (5L, 3C). (1H, 11L, 6C)",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4706",
+      "subject": "LAR",
+      "number": "4706",
+      "level": 4000,
+      "title": "Landscape Design and Planning",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Theories, methods, techniques, and tools relating to the planning and design of sites, communities, and regional landscapes. 4705: Development of design ability through the study of: two- and three-dimensional design, principles and elements of spatial composition, theories and techniques for planning and design of sites, and design communication techniques. Investigation of natural and man-made physical factors and cultural factors, and human needs. Creative design synthesis. 4706: Evaluation of land resources and the allocation of land uses within large complex sites and regional landscapes. Theories and techniques of site planning and community design. Research of natural, cultural and physical conditions. Application of geographic information systems. Assessment of community development and land planning concepts. Proposing land-use and management strategies at community and regional landscape scales. Identification and application of community-based design practices. Pre: 4705 for 4706. Course Contact to Credit Hour Structure: Lecture (1H,1C), Lab (6L, 2C) Design Lab/Studio (5L, 3C). (1H, 11L, 6C)",
+      "prerequisites": {
+        "rawText": "LAR 4705",
+        "referencedCourses": [
+          "LAR 4705"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4964",
+      "subject": "LAR",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4974",
+      "subject": "LAR",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4974H",
+      "subject": "LAR",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4984",
+      "subject": "LAR",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LAR 4994",
+      "subject": "LAR",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/lar/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

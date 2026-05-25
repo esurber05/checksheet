@@ -1,0 +1,58 @@
+{
+  "subject": "TBMH",
+  "scrapedAt": "2026-05-25T21:22:43.004Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "TBMH 4964",
+      "subject": "TBMH",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/tbmh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TBMH 4984",
+      "subject": "TBMH",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/tbmh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "TBMH 4994",
+      "subject": "TBMH",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/tbmh/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

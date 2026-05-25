@@ -1,0 +1,437 @@
+{
+  "subject": "CONS",
+  "scrapedAt": "2026-05-25T21:19:21.225Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CONS 2304",
+      "subject": "CONS",
+      "number": "2304",
+      "level": 2000,
+      "title": "Consumer and Family Finances",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of consumer and family finances, including budgeting, goal setting, cash management, credit, insurance, taxes, housing, investment alternatives, and retirement plans. Fundamental tools for financial decision making through the coverage of time value of money, calculations for consumer loans, and tools for financial decisions across the lifecycle. Explore ethical issues surrounding financial decisions.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 2964",
+      "subject": "CONS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 2974",
+      "subject": "CONS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 2974H",
+      "subject": "CONS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Indepdendent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 2984",
+      "subject": "CONS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 3404",
+      "subject": "CONS",
+      "number": "3404",
+      "level": 3000,
+      "title": "Consumer Education Strategies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the role of effective consumer education strategies in consumer decision-making. Planning, developing, testing, and evaluating consumer education programs using a variety of strategies, including social marketing, for selected community partners and operating the Consumer Education Laboratory.",
+      "prerequisites": {
+        "rawText": "AHRM 2404",
+        "referencedCourses": [
+          "AHRM 2404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 3504",
+      "subject": "CONS",
+      "number": "3504",
+      "level": 3000,
+      "title": "Resource Management for Individuals and Families",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to resource management concepts and theories with application to personal and family life goals. Discussion of values, goals, decision making, planning, and communication in relation to the management process. Application of the management process to the use of resources, time, finances, stress, and the environment.",
+      "prerequisites": {
+        "rawText": "CONS 2304 and AHRM 2404",
+        "referencedCourses": [
+          "AHRM 2404",
+          "CONS 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 3954",
+      "subject": "CONS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 3984",
+      "subject": "CONS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4304",
+      "subject": "CONS",
+      "number": "4304",
+      "level": 4000,
+      "title": "Advanced Consumer Family Finances",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced financial topics for consumers and families. Identification of employee benefit components including health care, incentive plans, insurance, and retirement. Analysis of consumers insurance needs. Discussion and comparison of retirement and investment tools used by consumers, including public and private retirement components. Interpretation of research directions and policy influences related to employee benefits, insurance, investments, and retirement saving. Investigation of special topics in retirement. Pre: Senior Standing.",
+      "prerequisites": {
+        "rawText": "CONS 2304",
+        "referencedCourses": [
+          "CONS 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4314",
+      "subject": "CONS",
+      "number": "4314",
+      "level": 4000,
+      "title": "Debtor-Creditor Relationships",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of legal and operational aspects of debtor-creditor relationship from the perspective of businesses and debtors. Overview of the types of credit, access to credit, factors contributing to debt problems, and alternatives available for resolution. Focus on collection processes of federal and state bankruptcy laws and regulations.",
+      "prerequisites": {
+        "rawText": "CONS 2304 and AHRM 2404",
+        "referencedCourses": [
+          "AHRM 2404",
+          "CONS 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4324",
+      "subject": "CONS",
+      "number": "4324",
+      "level": 4000,
+      "title": "Financial Counseling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of debt and budgeting problems affecting families. Utilizes a problem-solving approach. Includes financial counseling strategies for coping with financial crises and becoming proactive in family financial management.",
+      "prerequisites": {
+        "rawText": "CONS 2304",
+        "referencedCourses": [
+          "CONS 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4404",
+      "subject": "CONS",
+      "number": "4404",
+      "level": 4000,
+      "title": "Consumer Protection",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the effectiveness of consumer protection efforts. Examination of government laws, regulations, and agencies at the federal, state, and local levels, as well as the effectiveness of both business and private consumer protection efforts.",
+      "prerequisites": {
+        "rawText": "AHRM 2404 and CONS 2304",
+        "referencedCourses": [
+          "AHRM 2404",
+          "CONS 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4414",
+      "subject": "CONS",
+      "number": "4414",
+      "level": 4000,
+      "title": "Professionalism in Consumer Affairs",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Roles, functions and responsibilites of consumer affairs professionals employed in business, government, and non-profit public/consumer interest organizations. Professional advocacy within employing organizations, managing consumer complaint handling systems and major consumer and career issues are analyzed.",
+      "prerequisites": {
+        "rawText": "AHRM 2404",
+        "referencedCourses": [
+          "AHRM 2404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4964",
+      "subject": "CONS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4964H",
+      "subject": "CONS",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4974",
+      "subject": "CONS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4974H",
+      "subject": "CONS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4984",
+      "subject": "CONS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4984H",
+      "subject": "CONS",
+      "number": "4984H",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4994",
+      "subject": "CONS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CONS 4994H",
+      "subject": "CONS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cons/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "subject": "CMST",
+  "scrapedAt": "2026-05-25T21:19:12.913Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CMST 2034",
+      "subject": "CMST",
+      "number": "2034",
+      "level": 2000,
+      "title": "Visual Media",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Planning and production of visual messages for delivery through print, photography, videography, websites, social media, and mobile applications. Theories and principles of visual communication important to individuals working in communication jobs. COURSE FEE $59. Pre: Sophomore standing",
+      "prerequisites": {
+        "rawText": "COMM 1016 or ENGL 1106 or ENGL 1204H",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 2064",
+      "subject": "CMST",
+      "number": "2064",
+      "level": 2000,
+      "title": "The Tradition of Rhetoric and Societal Change",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Key theories and figures in rhetoric over the past 2,500 years. Evolution of rhetorical and critical perspectives in communication. Dynamic, critical nature of persuasive communication. Methodological approaches to rhetorical criticism, ethics of message creation, communication contexts, emerging perspectives, and impact of changing culture/society on rhetorical theory.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 3024",
+      "subject": "CMST",
+      "number": "3024",
+      "level": 3000,
+      "title": "Digital Publishing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study and contemporary practices in digital publishing aimed at multichannel distribution for diverse audiences. Principles, standards, workflows, technologies, and strategies for ethical and accessible design and automation of content for Web, mobile, print, multimedia, and voice environments.",
+      "prerequisites": {
+        "rawText": "COMM 2034 or CMST 2034",
+        "referencedCourses": [
+          "CMST 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 3044",
+      "subject": "CMST",
+      "number": "3044",
+      "level": 3000,
+      "title": "Oral Communication Center Practicum",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Focus on peer pedagogy in a communication center to support development of oral communication competence among students across disciplines. Emphasis on oral communication theory applied to one-on-one support for students oral presentations. May repeat 1 time.",
+      "prerequisites": {
+        "rawText": "COMM 1016 or COMM 2004",
+        "referencedCourses": [
+          "COMM 1016",
+          "COMM 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 3064",
+      "subject": "CMST",
+      "number": "3064",
+      "level": 3000,
+      "title": "Persuasion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theoretical foundations of persuasion; techniques of persuasion; contemporary persuasive practice and campaigns; persuasive media strategies. Junior standing required.",
+      "prerequisites": {
+        "rawText": "COMM 1014",
+        "referencedCourses": [
+          "COMM 1014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 3124",
+      "subject": "CMST",
+      "number": "3124",
+      "level": 3000,
+      "title": "Interpersonal Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic theories and processes of person-to-person communication; interpersonal perception; verbal and nonverbal communication; establishment of relationships in the family and work situation. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 3134",
+      "subject": "CMST",
+      "number": "3134",
+      "level": 3000,
+      "title": "Public Advocacy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practical reasoning and argumentation about questions of community significance, emphasizing critical thought, rhetorical strategies, and advocacy. Junior standing required.",
+      "prerequisites": {
+        "rawText": "COMM 2004 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "COMM 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 3214",
+      "subject": "CMST",
+      "number": "3214",
+      "level": 3000,
+      "title": "Professional Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and contemporary practice of professional oral communication, including interpersonal interaction, small group problem-solving, and public presentations. Emphasis on ethical exchanges in traditional or virtual workshops settings.",
+      "prerequisites": {
+        "rawText": "COMM 1016 or COMM 2004",
+        "referencedCourses": [
+          "COMM 1016",
+          "COMM 2004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 4174",
+      "subject": "CMST",
+      "number": "4174",
+      "level": 4000,
+      "title": "Digital Advocacy Campaigns",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of advocacy campaigns with digital components. Rhetorical considerations in message construction, analysis of persuasive techniques, ethical standards, and strategies for campaign development. Senior standing required.",
+      "prerequisites": {
+        "rawText": "(COMM 1016 or COMM 2004) and COMM 2124",
+        "referencedCourses": [
+          "COMM 1016",
+          "COMM 2004",
+          "COMM 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 4214",
+      "subject": "CMST",
+      "number": "4214",
+      "level": 4000,
+      "title": "Web Content Management Strategies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methodologies, tools, and strategies for managing workflow of communication projects for Web distribution. Software tools for Web-based communication. Quantitative and qualitative methods for usability and readability of Web content. Web analytics and content metrics to support decision making.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 4244",
+      "subject": "CMST",
+      "number": "4244",
+      "level": 4000,
+      "title": "Topics in Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics in communication. Application of theory and research in selected context. Ethical and social dimensions of communication issues, policies, and effects. May be repeated with different content for a maximum of 6 credit hours. Pre: Junior standing.",
+      "prerequisites": {
+        "rawText": "COMM 1014",
+        "referencedCourses": [
+          "COMM 1014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 4284",
+      "subject": "CMST",
+      "number": "4284",
+      "level": 4000,
+      "title": "Communication for Training and Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Communication principles and practices for training and development. Communication roles, strategies, and products for learning in workplace environments.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CMST 4714",
+      "subject": "CMST",
+      "number": "4714",
+      "level": 4000,
+      "title": "Senior Seminar in Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study of an issue or theme in communication. Communication theories, issues, policies, effects, and contexts. Research and presentation of research. Pre: Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cmst/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

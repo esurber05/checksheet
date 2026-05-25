@@ -1,0 +1,296 @@
+{
+  "subject": "CINE",
+  "scrapedAt": "2026-05-25T21:19:02.551Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CINE 2054",
+      "subject": "CINE",
+      "number": "2054",
+      "level": 2000,
+      "title": "Introduction to Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to cinema as a medium for artistic communication. Interpretation and analysis of films to understand designs, ideas and values in artistic and cultural contexts. Basic elements of cinema structure and cinema terminology, phases of cinema production, cinema style of individual directors, creative work of cinematography, production design, and editing, ideological and social meaning in cinema, demographics of visual representation, cinemas economic marketplace. Ethical values and conflicts as found in given films, and ethical reasoning as part of the analysis of cinema.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 2064",
+      "subject": "CINE",
+      "number": "2064",
+      "level": 2000,
+      "title": "Introduction to Cinema Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory filmmaking course. Thematic conception and story construction, writing, producing, directing, cinematography, sound recording, and editing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3144",
+      "subject": "CINE",
+      "number": "3144",
+      "level": 3000,
+      "title": "Topics in Cinema & Humanities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Applications of academic humanities methodologies (critical theory, cultural studies, historical analysis) to understand the cinema. Compare and contrast various academic humanities methodologies as they pertain to an understanding of the aesthetic, history, and theory of cinema. Write and speak intelligently about the cinema's relationship to the humanities. Readings in the disciplines of architecture, studio arts, music, theater, literature, and others. May be repeated 2 times with different content for a maximum of 9 credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3184",
+      "subject": "CINE",
+      "number": "3184",
+      "level": 3000,
+      "title": "Cinema Production Topics",
+      "credits": {
+        "min": 1,
+        "max": 9
+      },
+      "isVariableCredit": true,
+      "description": "Rotating topics in cinema production. Designed for majors in the Department of Theatre and Cinema who have foundational training in areas of cinema production. May be repeated for credit with different course content up to a maximum of nine credit hours.",
+      "prerequisites": {
+        "rawText": "CINE 3214 and CINE 3224",
+        "referencedCourses": [
+          "CINE 3214",
+          "CINE 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-9 Lec, 1-9 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3214",
+      "subject": "CINE",
+      "number": "3214",
+      "level": 3000,
+      "title": "Fiction Cinema Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intermediate-level fiction film production course. Foundational cinema production skills, dramatic storytelling techniques, intermediate directing, team- based ownership and responsibility, and project management.",
+      "prerequisites": {
+        "rawText": "CINE 2064",
+        "referencedCourses": [
+          "CINE 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3224",
+      "subject": "CINE",
+      "number": "3224",
+      "level": 3000,
+      "title": "Documentary Cinema Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intermediate-level, non-fiction, film production course for students seeking non-fiction documentary film production skills and experience. Emphasizes the application and advancement of foundational skills, the ethics of documentary filmmaking, story development and project management.",
+      "prerequisites": {
+        "rawText": "CINE 2064",
+        "referencedCourses": [
+          "CINE 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3514",
+      "subject": "CINE",
+      "number": "3514",
+      "level": 3000,
+      "title": "American Cinema Genres",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Close visual and cultural study of classic film genres with emphasis on cinematic styles and narrative conventions which unify the genre and which are found in representative films; exploration of genre films as symbols of American culture and society. Specific thematic content is variable. Course may be repeated with different course content for up to 9 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3524",
+      "subject": "CINE",
+      "number": "3524",
+      "level": 3000,
+      "title": "The Cinema Director",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Close thematic and visual analysis of the films of prominent cinema directors; emphasis on cinematic structure and development and evolution of their work. Specific thematic content is variable. Course may be repeated with different course content for up to 9 credits.",
+      "prerequisites": {
+        "rawText": "TA 2054 or CINE 2054",
+        "referencedCourses": [
+          "CINE 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3534",
+      "subject": "CINE",
+      "number": "3534",
+      "level": 3000,
+      "title": "Avant-Garde Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Close visual and cultural study of the avant-garde and experimental tradition in the first half-century of American and European cinemas; emphasis on interrelations of cinema with avant-garde movements in other arts, including literature, music, dance, theatre, painting, and photography",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3544",
+      "subject": "CINE",
+      "number": "3544",
+      "level": 3000,
+      "title": "Literature and Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Works of literature and the films into which they have been transformed; emphasis on differences between media.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 3984",
+      "subject": "CINE",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 4084",
+      "subject": "CINE",
+      "number": "4084",
+      "level": 4000,
+      "title": "Cinema History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Aesthetic, economic, social and technological history of world cinema; film theory as it relates to the history of cinema. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 4144",
+      "subject": "CINE",
+      "number": "4144",
+      "level": 4000,
+      "title": "Topics in Cinema Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical issues in cinema. Aesthetic, social, political, and economic contexts for films that embody or critique assumptions of historical periods. Analysis of ethnocentric and cultural biases in cinema. Identifying issues of identity and equity in films. Theories and ethics of representation. May be repeated 2 times with different content for a maximum of 9 credits.",
+      "pathwaysConcepts": [
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CINE 4534",
+      "subject": "CINE",
+      "number": "4534",
+      "level": 4000,
+      "title": "Underground Cinema and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Close visual and cultural study of underground cinema and culture from the 1940s through the 1970s; emphasizes the interrelations of cinema with countercultural movements in other arts, including literature, music, dance, theatre, painting, and photography; focuses on the post-war avant-garde, the emergence of film societies, the neorealist and new wave cinemas, challenges to censorship laws, and the emergence of cult and midnight movies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cine/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

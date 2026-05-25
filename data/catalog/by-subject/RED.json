@@ -1,0 +1,612 @@
+{
+  "subject": "RED",
+  "scrapedAt": "2026-05-25T21:22:13.867Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "RED 1604",
+      "subject": "RED",
+      "number": "1604",
+      "level": 1000,
+      "title": "Introduction to Residential Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of residential spaces to meet the needs of residents. Interrelationship of residential spaces, site, and community, including climate, historic tradition, culture and impact on diversity. House construction systems and finish materials. Current and future trends in design, construction and marketing of housing for diverse households. Impact of codes and regulations on residential design and construction. Professional and labor force issues in the housing industry, interpreting residential floor plans, elevations, detail drawings.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2234",
+      "subject": "RED",
+      "number": "2234",
+      "level": 2000,
+      "title": "Residential Materials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identifies materials used in residential applications. Flooring, Walls, Ceilings, Trim and Textiles. Reviews properties of materials, wellness for occupants, and sustainability criteria.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2614",
+      "subject": "RED",
+      "number": "2614",
+      "level": 2000,
+      "title": "Residential Construction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of residential construction. Components, materials and methods of residential construction. Terminology used in residential construction. Interior detailing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2624",
+      "subject": "RED",
+      "number": "2624",
+      "level": 2000,
+      "title": "Residential Design I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of residential design. Concept development using elements and principles of design. Space planning for residential environments including kitchen and bath design. Introduction to hand and computer drawing. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "RED 1604 or RED 2604",
+        "referencedCourses": [
+          "RED 1604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2644",
+      "subject": "RED",
+      "number": "2644",
+      "level": 2000,
+      "title": "Housing and the Consumer",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of housing as it relates to consumer needs, values, lifestyles, norms and constraints. Includes structural and tenure alternatives, financial and legal considerations, house design, neighborhood choices, the home buying process, and future directions in housing. Government aspects focus on the history of federal involvement in housing, major housing programs, role of state and local government, and current housing issues and policies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2654",
+      "subject": "RED",
+      "number": "2654",
+      "level": 2000,
+      "title": "Residential Environments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of elements and principles of design in residential spaces and products from diverse cultural perspectives. Examination of human behavior theories that impact the design of residential environments. Development of residential design solutions and processes using computer aided design software. Design Lab/Studio.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(1 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2964",
+      "subject": "RED",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2974",
+      "subject": "RED",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2974H",
+      "subject": "RED",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 2984",
+      "subject": "RED",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 3624",
+      "subject": "RED",
+      "number": "3624",
+      "level": 3000,
+      "title": "Residential Design II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of space planning and 3-dimensional design, including activity analysis and user needs, program preparation as applied to residential settings. Zoning and space planning. Design process including schematic design and design development. Design detailing. Graphic design solutions for specific areas of the home, including social, private, kitchen, and outdoor areas. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "RED 2624 or RED 1624",
+        "referencedCourses": [
+          "RED 2624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 3644",
+      "subject": "RED",
+      "number": "3644",
+      "level": 3000,
+      "title": "American Housing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the role of housing in family life and society throughout the history of the United States. Exploration of the impact of technology, resources, and societal values on the design and style of housing and products used in the home.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 3674",
+      "subject": "RED",
+      "number": "3674",
+      "level": 3000,
+      "title": "Residential Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Residential systems such as lighting, plumbing, electrical, mechanical and security. Smart home technologies and appliances. Integration of systems into residential environments.",
+      "prerequisites": {
+        "rawText": "RED 2614",
+        "referencedCourses": [
+          "RED 2614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 3954",
+      "subject": "RED",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4224",
+      "subject": "RED",
+      "number": "4224",
+      "level": 4000,
+      "title": "Historic Preservation of Residential Properties",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History, theory, and field methods of historic preservation in the United States such as building and site surveys, historic structures reports, and National Register Nominations; history and theory of European preservation; fundamental concepts and the role of preservation in allied disciplines; preservation in urban, town, neighborhood, and rural contexts; common preservation strategies and initiatives; understanding of community-based preservation efforts; focus on residential properties.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4604",
+      "subject": "RED",
+      "number": "4604",
+      "level": 4000,
+      "title": "Environmental and Sustainability Issues in Housing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental and sustainability issues in single and multifamily housing in the United States encompassing the building, site, lifestyle, energy and water consumption, waste, air quality and toxic materials; analysis and application of social science theories and equity and identity concerns that provide a foundation for the study of environmentally sustainable housing; current and future alternatives for management of energy and water systems and provision of environmentally sustainable housing.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4604H",
+      "subject": "RED",
+      "number": "4604H",
+      "level": 4000,
+      "title": "Environmental and Sustainability Issues in Housing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental and sustainability issues in single and multifamily housing in the United States encompassing the building, site, lifestyle, energy and water consumption, waste, air quality and toxic materials; analysis and application of social science theories and equity and identity concerns that provide a foundation for the study of environmentally sustainable housing; current and future alternatives for management of energy and water systems and provision of environmentally sustainable housing.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4624",
+      "subject": "RED",
+      "number": "4624",
+      "level": 4000,
+      "title": "Residential Design III",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Planning, design, and evaluation of residential spaces with an emphasis on kitchens and bathrooms, in relation to the total house plan. Emphasis on planning principles and technical requirements with attention to functional use of the spaces to meet the needs of people. Industry standards, best practices. Materials, fixtures, and mechanical systems. Contract documents. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "RED 3624",
+        "referencedCourses": [
+          "RED 3624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4624H",
+      "subject": "RED",
+      "number": "4624H",
+      "level": 4000,
+      "title": "Advanced Kitchen and Bath Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Planning, design, and evaluation of residential kitchens and bathrooms, in relation to the total house plan. Emphasis on planning principles and technical requirements with attention to functional use of the spaces to meet the needs of people.",
+      "prerequisites": {
+        "rawText": "(AHRM 3624 or RED 3624) and (AHRM 3674 or RED 3674)",
+        "referencedCourses": [
+          "RED 3624",
+          "RED 3674"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4654",
+      "subject": "RED",
+      "number": "4654",
+      "level": 4000,
+      "title": "Residential Design IV",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced topics in house planning, particularly kitchen and bath design, with emphasis on independent work of portfolio quality. Sustainability principles, design process, planning guidelines, design competition. May be repeated once for a maximum of 6 credits. Design Lab/Studio (5L,3C)",
+      "prerequisites": {
+        "rawText": "RED 4624",
+        "referencedCourses": [
+          "RED 4624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4664",
+      "subject": "RED",
+      "number": "4664",
+      "level": 4000,
+      "title": "Universal Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application and assessment of the principles and strategies of universal design in residential and commercial environments, accessibility regulations and guidelines, products, and technologies. Demographic changes affecting global society. Disabilities and changes throughout the lifespan that affect peoples ability to interact with their environments. Marking strategies to promote universal design communities, products, environments and technologies. Methodologies to evaluate accessibility.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4664H",
+      "subject": "RED",
+      "number": "4664H",
+      "level": 4000,
+      "title": "Universal Design",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Evaluation and design of commercial and residential environments with consideration for accessibility, adaptation, safety, and support of the user(s).",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4924",
+      "subject": "RED",
+      "number": "4924",
+      "level": 4000,
+      "title": "Housing Study Tour",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "A study tour designed to examine the housing industry and trends in design, technology, products and processes. Junior standing required. May be repeated for a maximum of 6 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4964",
+      "subject": "RED",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4964H",
+      "subject": "RED",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4974",
+      "subject": "RED",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4974H",
+      "subject": "RED",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4984",
+      "subject": "RED",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4984H",
+      "subject": "RED",
+      "number": "4984H",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4994",
+      "subject": "RED",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RED 4994H",
+      "subject": "RED",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/red/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

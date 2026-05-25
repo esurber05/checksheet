@@ -1,0 +1,1271 @@
+{
+  "subject": "SBIO",
+  "scrapedAt": "2026-05-25T21:22:34.667Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "SBIO 1004",
+      "subject": "SBIO",
+      "number": "1004",
+      "level": 1000,
+      "title": "Explorations in Sustainable Biomaterials",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Topics and related career paths in Sustainable Biomaterials. Resources promoting academic success, personal improvement, and professional development. Problem solving, inquiry, teamwork, and oral, written, and visual communication applied to sustainable biomaterials issues.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 1014",
+      "subject": "SBIO",
+      "number": "1014",
+      "level": 1000,
+      "title": "Introduction to Packaging Systems and Design",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Information and skills necessary to succeed in the Packaging Systems and Design program; use of the library resources and use of intellectual property of others; laboratory reports, presentation skills, safe laboratory practices, and resume and packaging career portfolio.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 1024",
+      "subject": "SBIO",
+      "number": "1024",
+      "level": 1000,
+      "title": "Systems Thinking in a Bioeconomy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental principles of a systems-thinking approach in evaluating complex systems related to a bioeconomy, which includes continued use and reuse of materials, chemical, and energy derived from natural materials within both industrial and natural environments. Systems mindset and frameworks, methodologies, and tools to contribute to discussions on solving complex problems integrating interconnected social, economic, and environmental factors while considering ethics. Case study-based approach to analyze and assess the impacts of conventional and alternative solutions to real-world challenges.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 1114",
+      "subject": "SBIO",
+      "number": "1114",
+      "level": 1000,
+      "title": "A Sustainable Future through Circular Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts, principles, and frameworks to understand sustainable production and consumption systems. Critical exploration of the six “R’s”: Reduce, Reuse, Repair, Refurbish, Remanufacture, and Recycle. Circular economy models for technical and bio-based materials to enable sustainable design. Special emphasis on systems-thinking methods for evaluating alternative/circular system design for sustainable biomaterials. Elements of sustainable biomaterial products and business models that optimize material efficiency and value-retention. Current initiatives by industry and governments to implement sustainable production and consumption practices and policies around the world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 1234",
+      "subject": "SBIO",
+      "number": "1234",
+      "level": 1000,
+      "title": "Introduction to Wood, Design and Craftmanship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Wood as a material. Introduction to laboratory techniques, wood processing, machining and woodworking, moisture interactions, species characteristics, microscopic techniques, measuring material properties, characteristics of forest products industry, career opportunities.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 1984",
+      "subject": "SBIO",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2004",
+      "subject": "SBIO",
+      "number": "2004",
+      "level": 2000,
+      "title": "Computer-Aided Design in Packaging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of Computer-Aided Design (CAD) in the packaging industry. Basics of virtual primary package development, computer-aided design of the secondary package, computer-aided optimization of truck loading and palletization. Development of a comprehensive packaging system in a virtual environment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2104",
+      "subject": "SBIO",
+      "number": "2104",
+      "level": 2000,
+      "title": "Principles of Packaging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of packaging, structure of packaging industry, careers in packaging, packaging functions, materials and material properties, prototyping and manufacturing methods, packaging forms and types, distribution packaging, printing and decorating, packaging laws and regulations, sustainability issues, packaging design process.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2124",
+      "subject": "SBIO",
+      "number": "2124",
+      "level": 2000,
+      "title": "Structure and Properties of Sustainable Biomaterials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Macroscopic and microscopic structure and chemical composition of wood and other biomaterials such as grasses, bamboo, and bagasse. Relationships between anatomical structure and physical/mechanical behavior. Microscopic identification of commercially important biomaterials. Preparation and analysis of microscope slides and scanning electron micrographs.",
+      "prerequisites": {
+        "rawText": "BIOL 1105 and CHEM 1035",
+        "referencedCourses": [
+          "BIOL 1105",
+          "CHEM 1035"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2154",
+      "subject": "SBIO",
+      "number": "2154",
+      "level": 2000,
+      "title": "Packaging and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explore packaging as a fundamental component of human culture. Survey the historical evolution of packaging as material culture and its influence across various domains using fundamental concepts such as cultural diffusion, functionalism, and systems thinking. Topics including the pivotal role of packaging in the transition to agriculture, significance in early legal systems, establishment of weights and measures, contributions to the development of global trade networks, and implications for food security, social institutions, and international conflicts. Identify interconnections in raw material access and cultural factors that influence packaging design, economic systems, trade and world views. Relationship between packaging and human health, equity, and the environment. Historical lessons will be used to analyze contemporary issues and emerging trends to forecast their potential societal impacts.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2214",
+      "subject": "SBIO",
+      "number": "2214",
+      "level": 2000,
+      "title": "Design Fundamentals for Packaging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the foundation of packaging design, visual elements, design principles, and Adobe Illustrator. Basic studio workshop with focuses on packaging design processes, two-dimensional graphic work, and package design projects. Aesthetic judgment and critical thinking skills through practice in packaging design projects and critique. Design Lab/Studio. Course FEE $46.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2224",
+      "subject": "SBIO",
+      "number": "2224",
+      "level": 2000,
+      "title": "Materials and Manufacturing Technology: from Nature to Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Properties and characteristics of biomaterials (mechanical, chemical, thermal, etc.) that influence their production, application, value stream, and sustainability. Case-based approach to assessment and evaluation of basic manufacturing processes and the biomaterials used to make products. Perspectives on how manufacturing infrastructures and economies evolved based on the discovery of materials, from pre-industrial biological and nature-based systems to advanced technical materials used today. Manufacturing technology trends and how they are shaping economic, societal, and environmental impacts in biomaterials and related manufacturing technologies and packaging innovation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2314",
+      "subject": "SBIO",
+      "number": "2314",
+      "level": 2000,
+      "title": "Building Information Modeling for Wood-Based Construction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Building information modeling (BIM), computer-aided design (CAD) and the role of BIM and CAD in wood construction. Use of BIM and CAD to improve construction efficiency. Study of REVIT use including building layout, family editor, detailing, schedules, material lists and 3-dimensional rendering. Discussion of construction documentation and plan reading. BIM methods and tools in the design and detailing of residential light-frame, mass timber, and historic buildings.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2504",
+      "subject": "SBIO",
+      "number": "2504",
+      "level": 2000,
+      "title": "Circular Economy Analytics for Sustainable Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts, principles, and framework to understand systems level interactions in linear (cradle-to-grave) and circular (cradle-to-cradle) processes. Problem solving application and practice utilizing computational tools and data analytics. Special emphasis on quantifying and evaluating life-cycle circularity of common products and processes used to meet societys demand. Evaluation of case study results towards the planning of more circular business models in a complex global economy. Risks and ethical issues associated with decision making and policy based on results from computational models. Pre: Precalculus with Transcendental Functions (3 credits)",
+      "prerequisites": {
+        "rawText": "MATH 1014 or MATH 1025 or MATH 1225 or MATH 1524 or MATH 1535 or MATH 1525",
+        "referencedCourses": [
+          "MATH 1014",
+          "MATH 1025",
+          "MATH 1225",
+          "MATH 1524",
+          "MATH 1535"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2514",
+      "subject": "SBIO",
+      "number": "2514",
+      "level": 2000,
+      "title": "Applied Industrial Ecology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explore and apply fundamental sustainability concepts and industrial ecology principles, navigate the intricate interactions between natural and industrial environments. Discover how nature-based design and innovation inform industrial practices in food, water, transportation, and energy systems and contribute to more sustainable futures. Apply methodologies like Material Flow Analysis, Life Cycle Analysis, and handprint analysis to create decision-making tools for broadening positive impacts. Use data collection, analytics, and accounting techniques to assess conventional and nature-based industrial system performance. Develop innovative solutions to real-world sustainable challenges such as climate resilience, sustained food production, and improved well-being.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2614",
+      "subject": "SBIO",
+      "number": "2614",
+      "level": 2000,
+      "title": "Introduction to Forest Products Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of marketing systems and methods used by North American primary and secondary forest product industries. Emphasis on wood product industries. Marketing of hardwood lumber, softwood lumber, panels, composites, furniture, and paper products. Role of North American industries and markets in world trade of forest products.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2784",
+      "subject": "SBIO",
+      "number": "2784",
+      "level": 2000,
+      "title": "Global Forest Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A socio-economic approach to examining the management and use of the worlds forests, enhance knowledge of global forest resources and products, and understand the roles and relationships of key stakeholders.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 2784"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2964",
+      "subject": "SBIO",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2974",
+      "subject": "SBIO",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2984",
+      "subject": "SBIO",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 2994",
+      "subject": "SBIO",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3004",
+      "subject": "SBIO",
+      "number": "3004",
+      "level": 3000,
+      "title": "Sustainable Nature-Based Enterprises",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Planning for green and sustainability values for profit and non-profit enterprises that produce and market nature-based products and services (e.g., wood products, wildlife, fish, ecotourism). Understanding current green business environments to foster natural resource-based enterprises.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3005",
+      "subject": "SBIO",
+      "number": "3005",
+      "level": 3000,
+      "title": "Sustainable Packaging Design and Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3005: Principles of sustainability, laboratory packaging evaluation including testing procedures, simulation of physical hazards. Professional communications including laboratory reports and oral presentations. Development of comprehensive packaging evaluation plans. Evaluation of existing packaging systems and improving them from the sustainability perspective. 3006: Application of project management to the packing development process. Apply lean management principles to packing design process. Design of sustainable packaging solutions through industry sponsored projects.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3006",
+      "subject": "SBIO",
+      "number": "3006",
+      "level": 3000,
+      "title": "Sustainable Packaging Design and Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3005: Principles of sustainability, laboratory packaging evaluation including testing procedures, simulation of physical hazards. Professional communications including laboratory reports and oral presentations. Development of comprehensive packaging evaluation plans. Evaluation of existing packaging systems and improving them from the sustainability perspective. 3006: Application of project management to the packing development process. Apply lean management principles to packing design process. Design of sustainable packaging solutions through industry sponsored projects.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3014",
+      "subject": "SBIO",
+      "number": "3014",
+      "level": 3000,
+      "title": "Life Cycle Assessment Field Course",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Cultivate hands-on experience in defining the scope and system boundaries of life cycle assessment (LCA) to collect data for computational LCA work. Apply the step-by-step LCA methodology to real-world problems to develop a streamlined LCA impact assessment and interpret the results in simple language for discussions with stakeholders. Use feedback from stakeholder discussions to discover how to improve the LCA assessment process. Each class will concentrate on specific types of LCA applications, namely Social LCA, Economic LCA (e.g., Life Cycle Costing), or Environmental LCA (e.g., water or carbon footprinting). Students will have an opportunity to apply their LCA work across selected sectors such as manufacturing, transportation, agricultural and/or forestry, and energy. This course may be repeated two times with different content for a maximum of 3 credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3104",
+      "subject": "SBIO",
+      "number": "3104",
+      "level": 3000,
+      "title": "Packaging Design Applications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design structure of packaging with Adobe Photoshop, Adobe Illustrator, and Esko. Lab course adapting typography, illustration, and photography to create packaging prototypes. Structural integrity and display ethics through practice in packaging design projects and research. Identify the product target market. Design/Lab Studio. Course FEE $78.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3124",
+      "subject": "SBIO",
+      "number": "3124",
+      "level": 3000,
+      "title": "Paper and Paperboard Packaging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Paper and paperboard properties and types. Types and performance of flexible paper packaging, sacks, and wraps. Folding carton design, properties of corrugated fiberboard. Corrugated fiberboard container design and performance. Packaging regulations and hazards of the distribution environment. Printing, labeling and automatic identification methods.",
+      "prerequisites": {
+        "rawText": "SBIO 2104",
+        "referencedCourses": [
+          "SBIO 2104"
+        ]
+      },
+      "corequisites": {
+        "rawText": "SBIO 2004",
+        "referencedCourses": [
+          "SBIO 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3224",
+      "subject": "SBIO",
+      "number": "3224",
+      "level": 3000,
+      "title": "Packaging Distribution Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Unit load and parcel supply chains. Principles of operation and design of warehouse distribution and fulfillment centers. Principles of operation and design of shipping and distribution systems. The relation between packaging design, pallet design, and unit load design and the operation of industrial consumer goods supply chain.",
+      "prerequisites": {
+        "rawText": "SBIO 2104",
+        "referencedCourses": [
+          "SBIO 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3244",
+      "subject": "SBIO",
+      "number": "3244",
+      "level": 3000,
+      "title": "Packaging Machinery and Production Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selection of machinery systems to form, fill and seal packaging operations for multiple package and material categories; analysis of the effect of packaging design and material selection on production efficiency and manufacturing capacity; statistical process control for packaging systems; packaging line design.",
+      "prerequisites": {
+        "rawText": "SBIO 2104",
+        "referencedCourses": [
+          "SBIO 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3264",
+      "subject": "SBIO",
+      "number": "3264",
+      "level": 3000,
+      "title": "Packaging Supply Chain",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Supply chain strategies for packaging. Principles for planning and control of inventory, emphasis on dependent demand and material requirement planning for packaging materials in consumer-packaged goods companies; analysis and management of packaging components procurement, and supply contracts in a globalized environment; financial aspects of logistics and supply chain operations; logistics for returnable packaging containers.",
+      "prerequisites": {
+        "rawText": "SBIO 3224",
+        "referencedCourses": [
+          "SBIO 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3284",
+      "subject": "SBIO",
+      "number": "3284",
+      "level": 3000,
+      "title": "Packaging Polymers and Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to synthetic, natural and sustainable polymer science and engineering as applied to packaging systems. Morphology, rheology, physical and thermal properties, processing methods, and polymerization of traditional, natural and sustainable packaging polymers. Detailed study of relationships among materials, processing, and structural properties through hands-on experience. Both traditional and advanced industrial mass production technology, and global regulation and environmental impact of packaging articles.",
+      "prerequisites": {
+        "rawText": "SBIO 2104",
+        "referencedCourses": [
+          "SBIO 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3314",
+      "subject": "SBIO",
+      "number": "3314",
+      "level": 3000,
+      "title": "Mechanics of Sustainable Biomaterials and Packaging",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Mechanical properties of sustainable biomaterials and packaging materials including concepts of stress, strain, Poissons ratio, orthotropic properties, tension, compression, bending and effects of moisture on mechanical properties. Current issues related to sustainable biomaterial and packaging material use in industry. Standard methods of evaluating important mechanical properties of solid wood, composites, packaging, paperboard and fiber.",
+      "prerequisites": {
+        "rawText": "PHYS 2205 or PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3324",
+      "subject": "SBIO",
+      "number": "3324",
+      "level": 3000,
+      "title": "Green Building Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Definition of green buildings with specific focus on wood frame single family housing and appropriate green building systems. Site specification, resource efficiency, water efficiency, indoor environmental quality, homeowner education and global impact. Certification in various green building systems.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3334",
+      "subject": "SBIO",
+      "number": "3334",
+      "level": 3000,
+      "title": "Survey of Non-timber Forest Products",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In depth study of non-timber forest products of NTFP throughout Appalachia with overseas example - their heritage, uses and markets, economic development opportunities, and sustainable management. Emphasis will be placed on utilization and management issues. Students will gain skills necessary to assess and plan for NTFP business opportunities.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3434",
+      "subject": "SBIO",
+      "number": "3434",
+      "level": 3000,
+      "title": "Chemistry and Conversion of Sustainable Biomaterials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Chemical composition of plant matter. Chemistry and biosynthesis of plant components. Cellulosic biofuel technology. Industrial conversion of woody biomass: pulping, bleaching, papermaking. Industrial conversion of cellulose by chemical processes.",
+      "prerequisites": {
+        "rawText": "CHEM 1036",
+        "referencedCourses": [
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3444",
+      "subject": "SBIO",
+      "number": "3444",
+      "level": 3000,
+      "title": "Sustainable Biomaterials and Bioenergy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the structure and properties of natural composites, biobased polymers, and naturally-derived chemicals for materials and energy applications. Chemistry of biomass deconstruction. Industrial applications of biobased polymers, monomers, and chemicals.",
+      "prerequisites": {
+        "rawText": "(CHEM 2514 or CHEM 2535) and (CHEM 3615 or CHEM 4615)",
+        "referencedCourses": [
+          "CHEM 2514",
+          "CHEM 2535",
+          "CHEM 3615",
+          "CHEM 4615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3445",
+      "subject": "SBIO",
+      "number": "3445",
+      "level": 3000,
+      "title": "Entrepreneurial Wood Design and Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concept to market business project applied to design and innovation of wood products. Product design based on consumer need and sustainable use of natural resources. Writing a business plan including, product innovation, resource sustainability, marketing, strategic planning, production planning, technology utilized, packaging and distribution to final market.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3446",
+      "subject": "SBIO",
+      "number": "3446",
+      "level": 3000,
+      "title": "Entrepreneurial Wood Design and Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Students run teams and experiential learning to organize and deploy the project according to a business plan, measure key performance areas, and manage the quality of the product and process value streams necessary to sustain a profitable business.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3454",
+      "subject": "SBIO",
+      "number": "3454",
+      "level": 3000,
+      "title": "Society, Sustainability Biomaterials and Energy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sustainability, raw materials and energy needs of society. Use of sustainable biomaterials to meet societys needs and reduce impact on the environment. Methods to evaluate and certify the sustainability of materials and consumer goods. Carbon sequestration and the use biomass for energy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3464",
+      "subject": "SBIO",
+      "number": "3464",
+      "level": 3000,
+      "title": "Sustainable Operations Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sustainable business management models of renewable-based materials organizations. Application of strategy deployment tools to sustainable bio business strategies. Analysis of financial statements of bio businesses using ratio analysis. Implementation of models and tools to analyze production systems based on cycle time, throughput, and inventory (factory dynamics). Simulation and optimization of manufacturing systems using probability function models. Statistical quality control charts for discrete and continuous variables.",
+      "prerequisites": {
+        "rawText": "STAT 2004 or STAT 3615 or STAT 3005 or STAT 3604",
+        "referencedCourses": [
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3524",
+      "subject": "SBIO",
+      "number": "3524",
+      "level": 3000,
+      "title": "Manufacture of Sustainable Biomaterials for Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of manufacturing sustainable biomaterials into primary and secondary products used in construction of buildings, houses and other structures; product demand and environmental impact; raw material quality and volume estimation; industry standards; manufacturing processes; and quality control methods.",
+      "prerequisites": {
+        "rawText": "SBIO 2124",
+        "referencedCourses": [
+          "SBIO 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3554",
+      "subject": "SBIO",
+      "number": "3554",
+      "level": 3000,
+      "title": "Sustainable Biomaterials Enterprises",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Processes and techniques in manufacturing sustainable biomaterial-based products. Contemporary manufacturing, industrial engineering, and business practices in enterprises. Problem solving, operations management, and effective leadership in discrete products manufacturing and sustainable biomaterials production practices.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3954",
+      "subject": "SBIO",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3964",
+      "subject": "SBIO",
+      "number": "3964",
+      "level": 3000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3984",
+      "subject": "SBIO",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 3994",
+      "subject": "SBIO",
+      "number": "3994",
+      "level": 3000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4024",
+      "subject": "SBIO",
+      "number": "4024",
+      "level": 4000,
+      "title": "Packaging Design for Global Distribution",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Understanding, identification, and measurement of hazards in physical distribution including sea, air, and various land transportation, storage methods, and use of sanitation methods. Knowledge, analysis, and selection of sustainable protective packaging materials. Design and analysis of packaging protection against such hazards as shock, vibration compression, and climate. Laboratory testing of shock, vibration and compression, and performance testing of packaging and components. Packaging design in global context.",
+      "prerequisites": {
+        "rawText": "SBIO 3224",
+        "referencedCourses": [
+          "SBIO 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4054",
+      "subject": "SBIO",
+      "number": "4054",
+      "level": 4000,
+      "title": "Packaging Systems Design Practicum",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integrated application of principles of packaging design and manufacturing. Design briefs, package development process, structural requirements, manufacturing and distribution plans, target markets and positioning. Senior Standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4164",
+      "subject": "SBIO",
+      "number": "4164",
+      "level": 4000,
+      "title": "Sustainability Performance and Assessments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Data analytics, metrics, and tools essential for navigating sustainability standards, current policies, regulations, and reporting requirements, and their applications in sustainable investment. Explore innovations in sustainable investment strategies, emphasizing the integration of sustainability concepts and industrial ecology principles into business frameworks. Case studies approach to illustrate both successful and unsuccessful sustainability strategies across diverse contexts, such as energy sector, manufacturing, among other, providing insights into practical applications and outcomes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4214",
+      "subject": "SBIO",
+      "number": "4214",
+      "level": 4000,
+      "title": "Food and Health Care Packaging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed for both current and advanced food and health care packaging. Covering the types of materials and their properties, fabrication, functions, distribution and packaging life cycle for food and health care packaging systems and design. Reviewing recent trends in food and health care packaging systems; sustainable food packaging, medical device packaging, aseptic packaging, package/product interactions, smart active packaging, handling of packages, and modified atmospheric packaging. Exploration to global food and health care packaging standards and compliance, safety issues, and environmental considerations.",
+      "prerequisites": {
+        "rawText": "SBIO 3124 and SBIO 3284",
+        "referencedCourses": [
+          "SBIO 3124",
+          "SBIO 3284"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4224",
+      "subject": "SBIO",
+      "number": "4224",
+      "level": 4000,
+      "title": "Industrial Packaging Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of pallet design including material selection, pallet repair methods and recycling, properties and selection of pallet fasteners. Principles of industrial packaging systems including handheld containers, bulk bins, drums, pails, bags, intermediate bulk containers, flexible intermediate bulk containers. Principles of unit load design including unit load interactions and application of load stabilizers. Principles of reusable packaging systems, shipping laws and regulations.",
+      "prerequisites": {
+        "rawText": "SBIO 4024 and SBIO 3224",
+        "referencedCourses": [
+          "SBIO 3224",
+          "SBIO 4024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4254",
+      "subject": "SBIO",
+      "number": "4254",
+      "level": 4000,
+      "title": "Advanced Manufacturing with Sustainable Biomaterials",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Modeling and visualization concepts in computer-aided design (CAD) that facilitate advanced manufacturing technologies. Advanced manufacturing tools such as computer-aided manufacturing (CAM) and computer-aided engineering (CAE) used to study the function, cost, and quality that may result from modeled product concepts. Interactions of model specifications and the materials and manufacturing methods utilized on production results. Data analytics to evaluate tradeoffs in the quality, cost, and sustainability of products utilizing sustainable biomaterials compared to other common materials utilized in manufacturing.",
+      "prerequisites": {
+        "rawText": "SBIO 2004 and SBIO 3314",
+        "referencedCourses": [
+          "SBIO 2004",
+          "SBIO 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4314",
+      "subject": "SBIO",
+      "number": "4314",
+      "level": 4000,
+      "title": "Design of Wood Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and design of wood structures comprised of solid wood and/or composite wood products. Evaluation of mechanical properties of wood materials. Design of individual tension, compression and bending members, and wood-steel dowel connections. Lateral loading design of diaphragms and shearwalls.",
+      "prerequisites": {
+        "rawText": "SBIO 3314 or CEE 3404",
+        "referencedCourses": [
+          "CEE 3404",
+          "SBIO 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CEM 4314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4384",
+      "subject": "SBIO",
+      "number": "4384",
+      "level": 4000,
+      "title": "Biorefinery Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Biomass utilization as an industrial resource. Biorefinery processes such as cultivation, harvesting, separation, and biomass processing into industrial products compared to the petroleum refinery. Routes to the production of bioenergy, biochemicals, and biofuels. Resource availability and energy consumption, environmental implications of a biorefinery system, public policy influence on development of biorefineries.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4424",
+      "subject": "SBIO",
+      "number": "4424",
+      "level": 4000,
+      "title": "Polysaccharide Chemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, properties, and applications of natural polysaccharides. Natural sources and methods of isolation. Synthetic chemistry and important polysaccharide derivatives. Relation of structure and properties to performance in critical applications including pharmaceuticals, coatings, plastics, rheology control, and films. Conversion by chemical and biochemical methods of polysaccharide biomass to fuels and materials.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CHEM 4424"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4444",
+      "subject": "SBIO",
+      "number": "4444",
+      "level": 4000,
+      "title": "Plant Polymers & Biocomposites",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evolution of vascular plants and plant polymers in the context of materials science and biocomposites. Anatomical, physical, and mechanical properties of wood, bamboo, and hemp. Polymer science, plant polymer science, surface chemistry, and adhesion science for biocomposites made from wood, bamboo, and hemp. Contemporary adhesives and resins for biocomposites manufacture.",
+      "prerequisites": {
+        "rawText": "CHEM 2514 or CHEM 2536",
+        "referencedCourses": [
+          "CHEM 2514",
+          "CHEM 2536"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4714",
+      "subject": "SBIO",
+      "number": "4714",
+      "level": 4000,
+      "title": "Performance of Sustainable Biomaterials in Buildings",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The use of manufactured sustainable biomaterials in the construction of buildings; interactions of building code requirements, sustainable biomaterials and bio-composite materials as components within houses; durability, deterioration, controlling moisture infiltration, preservatives and proper selection of materials, historic wood buildings, effectiveness and efficiency of sustainable biomaterial building systems; serviceability issues in buildings with sustainable biomaterials.",
+      "prerequisites": {
+        "rawText": "SBIO 2124",
+        "referencedCourses": [
+          "SBIO 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4724",
+      "subject": "SBIO",
+      "number": "4724",
+      "level": 4000,
+      "title": "Sustainable Systems Science Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Apply expertise in sustainability science and systems thinking to real-world challenges. Explore the full lifecycle of materials and products, from raw material production and conversion, manufacturing, to distribution, regulations, and post-use recycling and reuse, using methodologies such as life cycle assessment. Engage in interdisciplinary teams in problem-solving that incorporates sustainable development, environmental policies, business strategies, and the socioecological factors. Innovate at the intersection of technology, design, and sustainability, considering the complexities of diverse systems and their environmental, economic, and social dimensions.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4964",
+      "subject": "SBIO",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4974",
+      "subject": "SBIO",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4984",
+      "subject": "SBIO",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SBIO 4994",
+      "subject": "SBIO",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/sbio/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

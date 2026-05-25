@@ -1,0 +1,311 @@
+{
+  "subject": "PPWS",
+  "scrapedAt": "2026-05-25T21:21:55.004Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PPWS 2004",
+      "subject": "PPWS",
+      "number": "2004",
+      "level": 2000,
+      "title": "Mysterious Mushrooms, Malicious Molds",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the fungi and their close relatives, with special attention to their roles in the natural world and in shaping the course of human history. Historical and practical significance of fungi as sources of medicine, pathogens of plants and animals, rotters and decayers of organic matter, makers of food and drink, manufacturers of dangerous toxins, and producers of mind-altering chemicals. A student must have a basic understanding of biology.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 2104",
+      "subject": "PPWS",
+      "number": "2104",
+      "level": 2000,
+      "title": "Plants, Genes, and People",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores how and why humans have manipulated plant genomes from prehistory through the current genomic era by examining the scientific, cultural, historical, and legal aspects of plant gene management in both conventional and transgenic crops.",
+      "prerequisites": {
+        "rawText": "BIOL 1005 or BIOL 1105",
+        "referencedCourses": [
+          "BIOL 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 2754",
+      "subject": "PPWS",
+      "number": "2754",
+      "level": 2000,
+      "title": "Weeds That Shape Our World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "How weeds shape our world, and why society will never get rid of them. Introduction to weed identification, weeds in their socio-cultural, environmental, and economic context. Consideration of the tension among their beneficial aspects, control, human attitudes, and the ethical dilemmas they post to society.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 2964",
+      "subject": "PPWS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 2984",
+      "subject": "PPWS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 2994",
+      "subject": "PPWS",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4104",
+      "subject": "PPWS",
+      "number": "4104",
+      "level": 4000,
+      "title": "Plant Pathology",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to plant pathology as a science and a crop protection discipline. Plant disease diagnosis, biology, and identification of plant disease-causing agents, factors leading to disease build-up, and management of plant diseases. Diseases of specific crops are studied as examples to illustrate general principles.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 or BIOL 1105) and (BIOL 1006 or BIOL 1106)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4114",
+      "subject": "PPWS",
+      "number": "4114",
+      "level": 4000,
+      "title": "Microbial Forensics and Biosecurity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Concepts of comparative and evolutionary genomics for pathogen characterization and identification taught through case studies of bioterrorism, involuntary and voluntary disease transmission, infectious disease epidemics, and genetically modified organisms; emphasis placed on unambiguous source attribution of a disease outbreak to a particular microbe, risk assessment, response as individual, community, and nation to a bioterrorism attack or disease outbreak, federal biosecurity regulations, and career opportunities.",
+      "prerequisites": {
+        "rawText": "BIOL 2604 or PPWS 2104",
+        "referencedCourses": [
+          "BIOL 2604",
+          "PPWS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4154",
+      "subject": "PPWS",
+      "number": "4154",
+      "level": 4000,
+      "title": "Plant Problem Diagnosis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Plant problem diagnosis in the laboratory and field, including recognition of disease, insect and abiotic (nonliving) problems, as well as the major groups of plant pathogens of a variety of regionally important horticultural and agronomic crops. General management options for pests and pathogens.",
+      "corequisites": {
+        "rawText": "PPWS 4104",
+        "referencedCourses": [
+          "PPWS 4104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4264",
+      "subject": "PPWS",
+      "number": "4264",
+      "level": 4000,
+      "title": "Pesticide Usage",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An interdisciplinary study of pesticides used in urban and agricultural environments. Topics studied will include: classification, toxicology, formulation, application techniques, safety, legal considerations, environmental impact, and research and development of new pesticides.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "ENT 4264"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4604",
+      "subject": "PPWS",
+      "number": "4604",
+      "level": 4000,
+      "title": "Biological Invasions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Broad overview of the causes, consequences, and epidemiology of invasive plants, animals, and microbes. Conceptual, mechanistic, societal, and political components of invasive species from Darwin to modern day, covering the invasion process from introduction to ecological or economic impact. Taxonomy, management, and risk assessment will be covered via case studies, within a policy context.",
+      "prerequisites": {
+        "rawText": "BIOL 1105 and BIOL 1106",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4964",
+      "subject": "PPWS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4974",
+      "subject": "PPWS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4984",
+      "subject": "PPWS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPWS 4994",
+      "subject": "PPWS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppws/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

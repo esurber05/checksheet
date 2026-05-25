@@ -1,0 +1,28 @@
+{
+  "subject": "FA",
+  "scrapedAt": "2026-05-25T21:20:04.776Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FA 2004",
+      "subject": "FA",
+      "number": "2004",
+      "level": 2000,
+      "title": "Creativity and the Artistic Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examine how the arts intersect with our daily lives. Compose and create basic examples of abstraction and 20th century modernism. Trace the global influences and roots of our current culture. Explore the science of acoustics and its effect on performing spaces. Discuss the process of an arts performance. Apply themes of improvisation, creativity and how we process beauty. Investigate emerging brain science as it relates to art, beauty and pleasure. Identify the unique ways of knowing embodied in the arts distinct from scientific measurements. No prior knowledge of visual, theatrical or musical arts needed.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fa/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

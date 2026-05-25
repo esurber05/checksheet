@@ -1,0 +1,1555 @@
+{
+  "subject": "HNFE",
+  "scrapedAt": "2026-05-25T21:20:38.091Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "HNFE 1004",
+      "subject": "HNFE",
+      "number": "1004",
+      "level": 1000,
+      "title": "Foods, Nutrition And Exercise",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Scientific information applied to current concerns in foods, nutrition and exercise as it affects the nutritional health well-being of humans. I,II",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 1114",
+      "subject": "HNFE",
+      "number": "1114",
+      "level": 1000,
+      "title": "Orientation to HNFE",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the academic and career planning for students in the Human Nutrition, Foods & Exercise major.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 1214",
+      "subject": "HNFE",
+      "number": "1214",
+      "level": 1000,
+      "title": "Topics in Lifetime Activities",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Participation in physical activity, fitness assessment, motor skill development. Awareness and development of the physical, spiritual, emotional, social, and intellectual components of wellness. Application of healthy lifestyle choices for improved quality of life. May be repeated with varying content, for a maximum of 6 credits. Pass/Fail Only",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 1215",
+      "subject": "HNFE",
+      "number": "1215",
+      "level": 1000,
+      "title": "Meraki Living Learning Community, Be Well, Be You",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students in the Meraki Living Learning Community to six dimensions of well-being: purpose, social, financial, community, physical, and emotional. Classroom learning, guided practice, connection to well-being resources, and individual exploration to promote lifelong holistic health and well-being. Personal well-being focused on developing a concept of self, understanding purpose, and learning positive health behaviors to support physical activity, nutrition, mindfulness, and personal finance.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 1216",
+      "subject": "HNFE",
+      "number": "1216",
+      "level": 1000,
+      "title": "Meraki Living Learning Community, Be Well, Be You",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students in the Meraki Living Learning Community to six dimensions of well-being: purpose, social, financial, community, physical, and emotional. Classroom learning, guided practice, and individual exploration to promote lifelong holistic health and well-being. Community well-being focused on mental health initiatives, student leadership, developing and sustaining relationships, and service.",
+      "prerequisites": {
+        "rawText": "HNFE 1215",
+        "referencedCourses": [
+          "HNFE 1215"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 1804",
+      "subject": "HNFE",
+      "number": "1804",
+      "level": 1000,
+      "title": "Principles of Sport Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the principal concepts of improving human physical capacity through sport, exercise training, and diet. Overview of musculoskeletal, cardiovascular, and nervous systems, and adaptations in endurance, strength, power, speed, and common mechanisms of injury. Use of scientific literature to examine the role of physical activity and sport across the lifespan including interactions with chronic disease. Careers in exercise science.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 1984",
+      "subject": "HNFE",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2004",
+      "subject": "HNFE",
+      "number": "2004",
+      "level": 2000,
+      "title": "Professional Dietetics",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the profession of dietetics with emphasis on competencies, preparation, and responsibilities associated with dietetic practice. Overview of the structure of The American Dietetic Association (ADA) and its relationship to the dietetic professional. Discussion of current professional concerns. II",
+      "corequisites": {
+        "rawText": "HNFE 2014",
+        "referencedCourses": [
+          "HNFE 2014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2014",
+      "subject": "HNFE",
+      "number": "2014",
+      "level": 2000,
+      "title": "Nutrition Across the Life Span",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Nutritional requirements and related health concerns of pregnant and lactating women, infants, children, adults and the elderly are studied in relation to the physiological and metabolic aspects of pregnancy, lactation, growth and development, maintenance of health, prevention of disease, and aging. 1 year of biology or chemistry required. CHEM 1056 may be substituted for co-requisite CHEM 1036.",
+      "prerequisites": {
+        "rawText": "HNFE 1004",
+        "referencedCourses": [
+          "HNFE 1004"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 1035",
+        "referencedCourses": [
+          "CHEM 1035"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2014H",
+      "subject": "HNFE",
+      "number": "2014H",
+      "level": 2000,
+      "title": "Nutrition Across the Life Span",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Nutritional requirements and related health concerns of pregnant and lactacting women, infants, children, adults and the elderly are studied in relation to the physiological and metabolic aspects of pregnancy, lactation, growth and development, maintenance of health, prevention of disease, and aging. 1 year of biology or chemistry required. CHEM 1056 may be substituted for co-requisite CHEM 1036.",
+      "prerequisites": {
+        "rawText": "HNFE 1004",
+        "referencedCourses": [
+          "HNFE 1004"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CHEM 1035",
+        "referencedCourses": [
+          "CHEM 1035"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2104",
+      "subject": "HNFE",
+      "number": "2104",
+      "level": 2000,
+      "title": "Moving Body, Moving Mind",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods of working intentionally towards cultivating optimal brain states. Mind/body practices to develop connections between contemporary neuroscience, movement, and meditative practices. Studies in the intersection of consciousness, movement, and thought. Introduction to yoga, meditation, authentic movement, experiential anatomy, and somatic work. Emphasis on holistic perspectives of the body through active listening, ethical reasoning, healthy self-image, and attention to the practices of intentional embodiment.",
+      "pathwaysConcepts": [
+        "6A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "DANC 2104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2204",
+      "subject": "HNFE",
+      "number": "2204",
+      "level": 2000,
+      "title": "Medical Terminology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure, pronunciation, and use of medical terms; anatomical structures and body systems; terms used in pathology, testing, diagnosis, surgery, pharmacology and treatment.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 or BIOL 1105 or BIOL 1205H) or (BIOL 1006 or BIOL 1106 or BIOL 1206H) or ISC 2105",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "ISC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2254",
+      "subject": "HNFE",
+      "number": "2254",
+      "level": 2000,
+      "title": "Exercise Leadership - Group Fitness Instructor",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of theoretical and practical skills for leading exercise in a group setting. Topics include: general guidelines for instructing safe, effective, and purposeful exercise, essentials of the instructor-participant relationship, the principles of motivation to encourage adherance in the group fitness setting, effective instructor-to-participant communication techniques, methods for enhancing group leadership, and the group fitness instructors professional role. Obtain knowledge of programming for multiple populations. Will complete a CPR and AED certification as a part of in-class instruction. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2264",
+      "subject": "HNFE",
+      "number": "2264",
+      "level": 2000,
+      "title": "Exercise Leadership- Personal Trainer",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of practical skills for conducting one-on-one exercise sessions for general healthy adults and special populations. Exercise selection, testing, training principles, and behavioral change skills required to be an effective personal trainer. Preparation for a nationally accredited personal training certification. CPR and AED certification. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2274",
+      "subject": "HNFE",
+      "number": "2274",
+      "level": 2000,
+      "title": "Wilderness First Responder",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Assessment and treatment of emergencies in remote settings. Anatomy, physiology, and pathophysiology, personal and group safety and hygiene, patient assessment and documentation of treatment for trauma, medical emergencies, environmental emergencies, and long-term care. Team management of medical emergencies in wilderness context, organization and implementation of rescues, decision-making, leadership, judgment, and prevention. Prepares students to successfully complete a national certification exam. Pass/fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2314",
+      "subject": "HNFE",
+      "number": "2314",
+      "level": 2000,
+      "title": "Active Transportation for a Healthy, Sustainable Planet",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Connections among active transportation (e.g., bicycling, walking) and significant global challenges such as physical inactivity, health, the environment, and the economy on local to global scales. Methods to assess walkability among communities with different worldviews and the influence of the built environment on rates of active transportation. Approaches to evaluate demographic and psychosocial predictors and physical and policy barriers to use of active transportation. Successful strategies to increase active transportation through community design guidelines, behavior change tools, transportation planning, and policy.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SPIA 2314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2334",
+      "subject": "HNFE",
+      "number": "2334",
+      "level": 2000,
+      "title": "Introduction to Integrative Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the principles of integrative health that promote health and well-being. Examination of the person- centered integrative health treatment methods including holistic stress management, the human spirit, communication, energy healing, elements of meditation, healing environments, Chinese medicine, Ayurvedic medicine, voice work, nutrition, therapeutic massage and bodywork, and healing effects of physical activity. Review of scientific evidence of integrative treatments.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2484",
+      "subject": "HNFE",
+      "number": "2484",
+      "level": 2000,
+      "title": "Evidence-Based Practice in Health Science",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Evidence-based practice in the field of health science. Utilization and evaluation of published research in literature. Answers to health and healthcare related questions. Identification of well-defined research questions using current frameworks. Best practices of healthcare policies.",
+      "prerequisites": {
+        "rawText": "HNFE 1004",
+        "referencedCourses": [
+          "HNFE 1004"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 2014",
+        "referencedCourses": [
+          "HNFE 2014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2544",
+      "subject": "HNFE",
+      "number": "2544",
+      "level": 2000,
+      "title": "Functional Foods for Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to functional foods (foods with additional value beyond basic nutrition) including development of functional foods, novel sources, and traditional foods with value-added health benefit; regulatory issues; and media messages.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FST 2544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2664",
+      "subject": "HNFE",
+      "number": "2664",
+      "level": 2000,
+      "title": "Behavioral Theory in Health Promotion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to behavioral theories used to design, implement and evaluate health promotion programs, and theories underlying health behavior change. Interactions between individuals, physical and social environments, interpersonal, and intrapersonal determinants of health behavior. Epidemiological evidence of benefits of healthful eating and physical activity.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2774",
+      "subject": "HNFE",
+      "number": "2774",
+      "level": 2000,
+      "title": "Topics in HNFE",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "A variable-content course. Explores significant contemporary topics in the areas of nutrition, foods, exercise and health. May be repeated for up to six credits.",
+      "prerequisites": {
+        "rawText": "HNFE 1004",
+        "referencedCourses": [
+          "HNFE 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2804",
+      "subject": "HNFE",
+      "number": "2804",
+      "level": 2000,
+      "title": "Exercise and Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the foundations of exercise science as applied to healthy living, and the concept of exercise as medicine. Fundamentals of health appraisal, foundations of fitness training principles and prescription; nutrition and energy cost, and application of exercise prescription for disease prevention and treatment.",
+      "prerequisites": {
+        "rawText": "HNFE 1004 and BMSP 2135",
+        "referencedCourses": [
+          "BMSP 2135",
+          "HNFE 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2824",
+      "subject": "HNFE",
+      "number": "2824",
+      "level": 2000,
+      "title": "Prevention and Care of Athletic Injuries",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the techniques and principles of athletic training. I,II.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2954",
+      "subject": "HNFE",
+      "number": "2954",
+      "level": 2000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2964",
+      "subject": "HNFE",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2974",
+      "subject": "HNFE",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2984",
+      "subject": "HNFE",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2984A",
+      "subject": "HNFE",
+      "number": "2984A",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "1A"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2984N",
+      "subject": "HNFE",
+      "number": "2984N",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "1F"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 2994",
+      "subject": "HNFE",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3024",
+      "subject": "HNFE",
+      "number": "3024",
+      "level": 3000,
+      "title": "Science of Food Prep Lab",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Application of the principles of food science and food preparation techniques related to health promotion, disease prevention, and disease management. Selection, production, and evaluation of foods and beverages. Emphasis on experimentation illustrating chemical and physical reactions, sensory and physical properties, nutrient manipulation, cooking applications, and functions of foods.",
+      "prerequisites": {
+        "rawText": "HNFE 1004 and (CHEM 1036 or CHEM 1056 or ISC 2106) and FST 2014",
+        "referencedCourses": [
+          "CHEM 1036",
+          "CHEM 1056",
+          "FST 2014",
+          "HNFE 1004",
+          "ISC 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3034",
+      "subject": "HNFE",
+      "number": "3034",
+      "level": 3000,
+      "title": "Methods of Human Health Assessment",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Evidence-based practice in areas of human health assessment including: anthropometric measurements, vital signs, body composition, aerobic capacity, muscular strength, energy requirements, and health behaviors. Comparison and analysis of assessment methods.",
+      "prerequisites": {
+        "rawText": "(HNFE 2014 or HNFE 2014H) and BMSP 2136",
+        "referencedCourses": [
+          "BMSP 2136",
+          "HNFE 2014",
+          "HNFE 2014H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3114",
+      "subject": "HNFE",
+      "number": "3114",
+      "level": 3000,
+      "title": "Foodservice and Meal Management",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Foodservice and meal management for the dietetics professional. Emphasis is placed on understanding food procurement, production, distribution, and marketing in a safe and well managed operation. I",
+      "prerequisites": {
+        "rawText": "HNFE 3024",
+        "referencedCourses": [
+          "HNFE 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3224",
+      "subject": "HNFE",
+      "number": "3224",
+      "level": 3000,
+      "title": "Communicating with Food",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of oral and written communication skills to communicate food and nutrition information to diverse populations. II",
+      "prerequisites": {
+        "rawText": "(HNFE 2014 or HNFE 2014H) and (HNFE 3024 or HNFE 2224)",
+        "referencedCourses": [
+          "HNFE 2014",
+          "HNFE 2014H",
+          "HNFE 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3634",
+      "subject": "HNFE",
+      "number": "3634",
+      "level": 3000,
+      "title": "Epidemiologic Concepts of Health and Disease",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed to give students in the health sciences a basic understanding of the modern concepts regarding health and disease as well as skills in organizing epidemiological data, disease investigation and surveillance. Includes a survey of terms, concepts, and principles pertinent to epidemiology. Lifestyles of populations and the relationships between lifestyles and health status are studied.",
+      "prerequisites": {
+        "rawText": "STAT 2004 or STAT 3005 or STAT 3604 or STAT 3615",
+        "referencedCourses": [
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHS 3634"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3804",
+      "subject": "HNFE",
+      "number": "3804",
+      "level": 3000,
+      "title": "Exercise Physiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Effects of exercise on physiology: neuromuscular, metabolic, cardiopulmonary. Scientific basis of physical training. I",
+      "prerequisites": {
+        "rawText": "BMSP 2136 and HNFE 2804",
+        "referencedCourses": [
+          "BMSP 2136",
+          "HNFE 2804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3814",
+      "subject": "HNFE",
+      "number": "3814",
+      "level": 3000,
+      "title": "Strength and Conditioning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of strength and conditioning practical skills for conducting advanced strength training programs for athletic performance. Adaptations to aerobic and anerobic training, nutrition strategies for maximizing performance, test selection and administration, behavioral aspects of training. Components of training programs including warm-up, flexibility, resistance, speed, agility, power, plyometrics, and periodization. Policies, procedures, ethics and legal aspects of the profession of strength and conditioning coaching.",
+      "prerequisites": {
+        "rawText": "HNFE 2804",
+        "referencedCourses": [
+          "HNFE 2804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3824",
+      "subject": "HNFE",
+      "number": "3824",
+      "level": 3000,
+      "title": "Kinesiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The anatomical and biomechanical basis of human motion, with applications for motor skill acquisition, and development and rehabilitative exercises. I",
+      "prerequisites": {
+        "rawText": "BMSP 2135 and BMSP 2136",
+        "referencedCourses": [
+          "BMSP 2135",
+          "BMSP 2136"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2205 or PHYS 2305.",
+        "referencedCourses": [
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3954",
+      "subject": "HNFE",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 3984",
+      "subject": "HNFE",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4004",
+      "subject": "HNFE",
+      "number": "4004",
+      "level": 4000,
+      "title": "Seminar in HNFE: Writing and Discourse in the Major",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focused review of relevant and current literature in selected areas of food, nutrition and exercise. Develop practical strategies for finding research articles on specific topics utilizing a variety of search tools (e.g., library, on-line search engines, etc.). Develop analytical skills to critically assess the significance of published research data. Develop competence in written and verbal presentation of current research in formats suitable for a scientific or a lay audience.",
+      "prerequisites": {
+        "rawText": "COMM 2004 or ALCE 3634 and HNFE 2484",
+        "referencedCourses": [
+          "ALCE 3634",
+          "COMM 2004",
+          "HNFE 2484"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 4025",
+        "referencedCourses": [
+          "HNFE 4025"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4024",
+      "subject": "HNFE",
+      "number": "4024",
+      "level": 4000,
+      "title": "Emerging Issues in Dietetics",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of emerging dietetics topics including professional development, new technologies, current legislative issues, and promising evidence-based practice strategies. Integration of knowledge from previous courses to support quality dietetics practice will be emphasized.",
+      "prerequisites": {
+        "rawText": "HNFE 4026",
+        "referencedCourses": [
+          "HNFE 4026"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 4125",
+        "referencedCourses": [
+          "HNFE 4125"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4025",
+      "subject": "HNFE",
+      "number": "4025",
+      "level": 4000,
+      "title": "Metabolic Nutrition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4025: Study of bioenergetics and macronutrients, with emphasis on sources, interrelationships, and factors affecting utilization and metabolism. Emphasis on how carbohydrates, lipids, and proteins are metabolized following a meal, during fasting conditions, and when exercising. How metabolism of carbohydrates, lipids and proteins affects and is effected by metabolic disease such as obesity and diabetes will also be examined. 4026: Study of essential vitamins and minerals and their interaction with body systems, especially as these relate to food, exercise and health. Emphasis on how deficiency, toxicity and genetic conditions affect various organ systems, including bone, skin, digestive, and blood. Historical and regulatory policies, and scientific studies establishing recommended dietary allowances for micronutrients are considered.",
+      "prerequisites": {
+        "rawText": "(HNFE 2014 or HNFE 2014H) and (BCHM 2024 or BCHM 3114 or BCHM 4115)",
+        "referencedCourses": [
+          "BCHM 2024",
+          "BCHM 3114",
+          "BCHM 4115",
+          "HNFE 2014",
+          "HNFE 2014H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4026",
+      "subject": "HNFE",
+      "number": "4026",
+      "level": 4000,
+      "title": "Metabolic Nutrition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "prerequisites": {
+        "rawText": "HNFE 4025",
+        "referencedCourses": [
+          "HNFE 4025"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4114",
+      "subject": "HNFE",
+      "number": "4114",
+      "level": 4000,
+      "title": "Food and Nutritional Toxicology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of food and nutritional toxicology with primary emphasis on food components and food toxins including absorption, metabolism and excretion. An overview of types of adverse food reactions including food allergy, food sensitivity, and food intolerance. An overview of U.S. and international lawas and regulation of safety assessment of foods including food additives, dietary supplements, and residues of contaminants, pesticides, and antibiotics. Analysis of food and nutritional toxicity cases in the context of the food system, regulatory policies, and public communication.",
+      "prerequisites": {
+        "rawText": "BMSP 2136 and BCHM 2024 and HNFE 2484",
+        "referencedCourses": [
+          "BCHM 2024",
+          "BMSP 2136",
+          "HNFE 2484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4125",
+      "subject": "HNFE",
+      "number": "4125",
+      "level": 4000,
+      "title": "Medical Nutrition Therapy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of nutritional diagnostic, therapeutic and counseling services provided by a registered dietitian. 4125: Emphasis on the relationship between principles of nutritional care and the medical treatment of individuals with selected diseases or clinical problems. 4126: Integration of knowledge of pathophysiology, biochemical, and clinical parameters, medical treatment and nutrition therapy for patients with selected clinical problems/disease states.",
+      "prerequisites": {
+        "rawText": "HNFE 2004 and HNFE 4026",
+        "referencedCourses": [
+          "HNFE 2004",
+          "HNFE 4026"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 3034",
+        "referencedCourses": [
+          "HNFE 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4126",
+      "subject": "HNFE",
+      "number": "4126",
+      "level": 4000,
+      "title": "Medical Nutrition Therapy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of nutritional diagnostic, therapeutic and counseling services provided by a registered dietitian. 4125: Emphasis on the relationship between principles of nutritional care and the medical treatment of individuals with selected diseases or clinical problems. 4126: Integration of knowledge of pathophysiology, biochemical, and clinical parameters, medical treatment and nutrition therapy for patients with selected clinical problems/disease states. 4125: I. 4126: II.",
+      "prerequisites": {
+        "rawText": "HNFE 4125",
+        "referencedCourses": [
+          "HNFE 4125"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4174",
+      "subject": "HNFE",
+      "number": "4174",
+      "level": 4000,
+      "title": "Nutrition and Physical Performance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Nutritional requirements for the wellbeing and optimal performance of athletes. Methods of assessment and modification of diet, performance, and body composition in athletes. Evaluation of dietary ergogenic aids and supplements for performance and body composition.",
+      "prerequisites": {
+        "rawText": "HNFE 2804",
+        "referencedCourses": [
+          "HNFE 2804"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 4025",
+        "referencedCourses": [
+          "HNFE 4025"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4224",
+      "subject": "HNFE",
+      "number": "4224",
+      "level": 4000,
+      "title": "Alternative and Complementary Nutrition Therapies",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Critical evaluation of health claims, mechanisms of action, and research literature for a wide variety of alternative nutrition therapies used for disease prevention and treatment. Practical application of knowledge through completion of problem-based learning projects.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 or BIOL 1105 or BIOL 1205H) and (BIOL 1006 or BIOL 1106 or BIOL 1206H) and (CHEM 1036 or CHEM 1056) or ISC 2106 and HNFE 2484",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "CHEM 1036",
+          "CHEM 1056",
+          "HNFE 2484",
+          "ISC 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4354",
+      "subject": "HNFE",
+      "number": "4354",
+      "level": 4000,
+      "title": "Dietary Supplements and Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practical and fundamental aspects of widely used dietary supplements (micronutrients, macronutrients, prebiotics, probiotics, plant extracts, bioactive compounds,). Efficacy and mechanism of dietary and botanical supplements in weight management, health promotion, and disease prevention. Interaction of dietary supplements with gut microbiome. Safety and regulatory considerations of dietary supplements. Project-based learning practice with the integration of literature review, project development, writing, and oral presentation.",
+      "prerequisites": {
+        "rawText": "(BCHM 2024 or BCHM 3114) and (BMSP 2136 and HNFE 2484)",
+        "referencedCourses": [
+          "BCHM 2024",
+          "BCHM 3114",
+          "BMSP 2136",
+          "HNFE 2484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4514",
+      "subject": "HNFE",
+      "number": "4514",
+      "level": 4000,
+      "title": "Nutritional Genomics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interactions between foods and nutrients with genetics, genomic DNA, and gene expression in humans and animals. Genetic variants that affect optimal health, metabolism and nutrition in individuals, as well as inheritance of these variants in individuals, and allele frequencies in populations. Scientific, ethical, and legal considerations of genes and nutrition knowledge, personalized testing, and genetic engineering. Junior standing.",
+      "prerequisites": {
+        "rawText": "HNFE 2484",
+        "referencedCourses": [
+          "HNFE 2484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4624",
+      "subject": "HNFE",
+      "number": "4624",
+      "level": 4000,
+      "title": "Community Nutrition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The application of nutrition principles to an analysis of current applied nutrition programs and a study of the political and legislative processes affecting the practice of dietetics. I",
+      "prerequisites": {
+        "rawText": "(HNFE 2014 or HNFE 2014H) and HNFE 4026",
+        "referencedCourses": [
+          "HNFE 2014",
+          "HNFE 2014H",
+          "HNFE 4026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4644",
+      "subject": "HNFE",
+      "number": "4644",
+      "level": 4000,
+      "title": "Health Counseling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Roles, responsibilities, legal requirements and scope of the health professional. Interviewing, counseling, education, health promotion and behavior change strategies for diverse populations. Guidance and referral, health assessment, communication skills, and problem-solving. Application of counseling techniques such as goal-setting, ethical practice, cultural competence, evidence-based practice. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4645",
+      "subject": "HNFE",
+      "number": "4645",
+      "level": 4000,
+      "title": "Applications in Nutrition Counseling",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "4645: Experiential methods to apply theories of behavior change to promote nutrition and health changes. Learn and apply nutrition care process using evidence-based knowledge through providing client-centered counseling to individuals. Understanding of contemporary issues related to behavior change and emerging issues through review of lay and professional literature. 4646: Advance nutrition counseling skills through work with more diverse clients. Learn and apply quality improvement skills to enhance nutrition counseling service. Identify information on emerging issues and apply appropriately in counseling setting.",
+      "prerequisites": {
+        "rawText": "HNFE 4644",
+        "referencedCourses": [
+          "HNFE 4644"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 4125",
+        "referencedCourses": [
+          "HNFE 4125"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4646",
+      "subject": "HNFE",
+      "number": "4646",
+      "level": 4000,
+      "title": "Applications in Nutrition Counseling",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "prerequisites": {
+        "rawText": "HNFE 4645",
+        "referencedCourses": [
+          "HNFE 4645"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4754",
+      "subject": "HNFE",
+      "number": "4754",
+      "level": 4000,
+      "title": "Advanced Human Anatomy and Pathophysiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced laboratory course in human anatomy and physiology with an emphasis on how pathologic disease states affect human homeostasis. Congenital, genetic, chronic, and common global diseases with recognition and evaluation of causes, risk factors, and impact on body systems. Cadaver prosections will supplement models, specimens, and an advanced anatomy visualization system. Intended for students pursuing graduate education in health sciences.",
+      "prerequisites": {
+        "rawText": "BMSP 2136 and BMSP 2146",
+        "referencedCourses": [
+          "BMSP 2136",
+          "BMSP 2146"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4774",
+      "subject": "HNFE",
+      "number": "4774",
+      "level": 4000,
+      "title": "Advanced Contemporary Topics in HNFE",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "A variable-content course. Explores advanced topics in the areas of nutrition, foods, exercise or health using higher- order thinking and problem-solving skills. Qualitatively and quantitatively assess current facts supported by scientific literature, as well as controversial issues with conflicting data. May be repeated for a maximum of six credits. Junior Standing.",
+      "prerequisites": {
+        "rawText": "HNFE 2014 or HNFE 2014H and HNFE 2484",
+        "referencedCourses": [
+          "HNFE 2014",
+          "HNFE 2014H",
+          "HNFE 2484"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4804",
+      "subject": "HNFE",
+      "number": "4804",
+      "level": 4000,
+      "title": "Exercise Metabolism and Disease",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores the role of exercise in the pathophysiology of human metabolic disease with an emphasis on obesity, diabetes, insulin resistance, and exercise tolerance at whole body, cellular and molecular level dysfunction. In-depth assessment of the prospect of exercise as preventive and therapeutic for treatment of metabolic diseases.",
+      "prerequisites": {
+        "rawText": "HNFE 4025 and HNFE 2804",
+        "referencedCourses": [
+          "HNFE 2804",
+          "HNFE 4025"
+        ]
+      },
+      "corequisites": {
+        "rawText": "HNFE 3804",
+        "referencedCourses": [
+          "HNFE 3804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4814",
+      "subject": "HNFE",
+      "number": "4814",
+      "level": 4000,
+      "title": "Advanced Athletic Injuries",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Medical documentation and administration. Practical experience in locating, identifying, and evaluating anatomic structures Mechanisms of injury and healing process, testing and evaluation of athletic injuries, treatment and rehabilitation of injury to return to play. Not part of an accredited athletic training program.",
+      "prerequisites": {
+        "rawText": "HNFE 2824 and HNFE 3804",
+        "referencedCourses": [
+          "HNFE 2824",
+          "HNFE 3804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4824",
+      "subject": "HNFE",
+      "number": "4824",
+      "level": 4000,
+      "title": "Advanced Kinesiology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced study of human movement during exercise. Integration of biomechanical, anatomical and neuromuscular concepts in the regulation of joint movement associated with exercise, injury and disease.",
+      "prerequisites": {
+        "rawText": "HNFE 3824 and HNFE 2484",
+        "referencedCourses": [
+          "HNFE 2484",
+          "HNFE 3824"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4844",
+      "subject": "HNFE",
+      "number": "4844",
+      "level": 4000,
+      "title": "Exercise and Neuromuscular Performance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Functional properties of the neuromuscular system. Emphasis placed on the acute and chronic responses of muscle in exercise, rehabilitation and the factors which determine human performance. Special emphasis on the molecular biological factors responsible for skeletal muscle development and differentiation, as well as adaptation to training and disease states, including activation of signal cascades responsible for the changes in muscle performance.",
+      "prerequisites": {
+        "rawText": "HNFE 3804 and HNFE 2484",
+        "referencedCourses": [
+          "HNFE 2484",
+          "HNFE 3804"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4954",
+      "subject": "HNFE",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4964",
+      "subject": "HNFE",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4974",
+      "subject": "HNFE",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4974H",
+      "subject": "HNFE",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4984",
+      "subject": "HNFE",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4994",
+      "subject": "HNFE",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HNFE 4994H",
+      "subject": "HNFE",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hnfe/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

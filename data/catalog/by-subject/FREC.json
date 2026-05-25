@@ -1,0 +1,1610 @@
+{
+  "subject": "FREC",
+  "scrapedAt": "2026-05-25T21:20:13.138Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FREC 1004",
+      "subject": "FREC",
+      "number": "1004",
+      "level": 1000,
+      "title": "Digital Planet",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of innovative geospatial technologies and their impact on the world around us, including how humans interact with the environment and each other. Roles of location-based services, global positioning systems, geographic information systems, remote sensing, virtual globes and web based mapping for environmental applications. Skills and techniques for spatial thinking and environmental decision-making. Ethical implications of the use of geospatial technologies, data, and computational approaches.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 1084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 1024",
+      "subject": "FREC",
+      "number": "1024",
+      "level": 1000,
+      "title": "Introduction to Environmental Conservation and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course serves as an introduction to academic and career planning in the environmental conservation and society major. Students will review fundamental concepts and contemporary issues in environmental conservation. They will examine career choices in environmental conservation. As a first-year experience the course will also focus on community building and strategies for academic success.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 1044",
+      "subject": "FREC",
+      "number": "1044",
+      "level": 1000,
+      "title": "Introduction to Environmental Data Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of data science to environmental management. Role of data science, mathematical and statistical modeling, geospatial technology, database management, knowledge integration, and decision science in environmental decision-making. Skills and techniques required to assist scientists and managers with the challenges of collecting, collating, archiving, modeling, analyzing, visualizing, and communicating data in support of natural resource management.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 1984",
+      "subject": "FREC",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2004",
+      "subject": "FREC",
+      "number": "2004",
+      "level": 2000,
+      "title": "Forest Ecosystems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to forest ecosystem ecology. Global forest cover, types, distribution, and change. Relationships among forest structure, function, and biodiversity. Interactions among rock, soil, water, air, and the organisms that define and inhabit forests around the world. Energy, water, carbon, and nutrient fluxes from leaf to global scales. Connections among forests, society, and global change. Capacity of forests to sustainably provide ecosystem services.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2114",
+      "subject": "FREC",
+      "number": "2114",
+      "level": 2000,
+      "title": "Ecology of Appalachian Forests",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the natural history, tree biology, tree identification, forest ecology, management and forest types of the Appalachian region. Contemporary issues related to forest functions will be discussed including carbon storage, climate change, invasive forest species, wildlife management, fire, biofuels, agroforestry, urban forests, ecosystem restoration, clean water, recreation, and use of renewable resources.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2124",
+      "subject": "FREC",
+      "number": "2124",
+      "level": 2000,
+      "title": "Forests, Society & Climate",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Role of forest ecosystems on the global carbon cycle, climate, biodiversity and economies. Anthropogenic impacts on forest ecosystems and their ecological function in the face of changing climate. Regional and cultural implications for the state of the forests and deforestation-related policy. Climate-related threats to global forests, including loss of biodiversity, deforestation, forest fires, and invasive species. Sustainable forest management for anticipated future scenarios.",
+      "pathwaysConcepts": [
+        "3",
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2134",
+      "subject": "FREC",
+      "number": "2134",
+      "level": 2000,
+      "title": "Plants and Greenspaces in Urban Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Modern concepts of sustainability changing plant use in urban settings. Fundamentals of urban plant systems in the context of urban ecosystem management. Philosophy and critical analysis of sustainability related to green infrastructure, including urban forests, green roofs, urban soils, urban wildlife, urban agriculture, and innovations merging plant and ecosystem functions with building and site engineering. Multi-disciplinary emphasis at site, regional, and global, scales.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HORT 2134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2214",
+      "subject": "FREC",
+      "number": "2214",
+      "level": 2000,
+      "title": "Introduction to Land and Field Measurements",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Measurement of land and field attributes including geographic position, land distance, direction, area, slope, elevation and boundary attributes. Use and development of maps used in natural resource applications. Use of global positioning systems and geographic information systems in the acquisition and management of land and field measurements. Assessment of vegetation attributes with field plots. Use of computer software to manage and analyze data and present results.",
+      "prerequisites": {
+        "rawText": "MATH 1025 or MATH 1225 or MATH 1524",
+        "referencedCourses": [
+          "MATH 1025",
+          "MATH 1225",
+          "MATH 1524"
+        ]
+      },
+      "corequisites": {
+        "rawText": "FREC 2324",
+        "referencedCourses": [
+          "FREC 2324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2254",
+      "subject": "FREC",
+      "number": "2254",
+      "level": 2000,
+      "title": "Arboriculture Field Skills",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Field observation, discussion, and practice of skills employed in the management of urban landscape trees. Hands-on experience with tree pruning, removal, pest control, fertilization, cabling/bracing, lightning protection, and climbing. Emphasis on arborist safety, professional ethics, and best management practices. Guest instruction provided in part by professionals working in the tree care industry.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2314",
+      "subject": "FREC",
+      "number": "2314",
+      "level": 2000,
+      "title": "Forest Biology and Dendrology",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the botany, physiology, genetics and silvics of important forest trees of North America.",
+      "prerequisites": {
+        "rawText": "BIOL 1106",
+        "referencedCourses": [
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2324",
+      "subject": "FREC",
+      "number": "2324",
+      "level": 2000,
+      "title": "Dendrology Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Field identification of trees of North America with particular emphasis on trees native to the Eastern United States.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2414",
+      "subject": "FREC",
+      "number": "2414",
+      "level": 2000,
+      "title": "Field Experience in Forest Resources and Environmental Conservation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Field exercises to develop skills needed to sustainably manage forest and environmental resources including navigation and mapping, inventory of timber and non-timber resources, soil and water conservation, forest and recreation management, forest operations and timber harvesting. Fee $216.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2514",
+      "subject": "FREC",
+      "number": "2514",
+      "level": 2000,
+      "title": "Wildland Fire: Ecology and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provide students with basic knowledge on how: fire has an impact on forest environments; the environment and weather influence fire behavior; wildland fires are suppressed; and fire is used as a land and vegetation management tool. The course will also provide students with the knowledge and training to qualify as a basic wildland firefighter (FFT2-Red Card). Extended laboratory sessions will provide practice in fire behavior prediction, prescribed burning techniques, and fire control methodology. COURSE FEE: $110.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2554",
+      "subject": "FREC",
+      "number": "2554",
+      "level": 2000,
+      "title": "Leadership for Global Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Leadership principles and humanities perspectives that help examine and engage global sustainable development challenges such as climate change, food-water-energy nexus, rising middle class, circular economy, and environmental justice. Topics include collaboration, stories, conflict resolution, self-awareness, bias, equity, religion, hubris, globalism, and moral naturalism. Examine trade-offs among economic, environmental, and social dimensions of sustainable development. Integration and application of disciplinary topics including ethics, ecology, evolution, anthropology, economics, religion, aesthetics, and risk management.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "LAR 2554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2614",
+      "subject": "FREC",
+      "number": "2614",
+      "level": 2000,
+      "title": "Human-Environment Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Social and ecological dynamics of human-environment systems. Effect of complex environmental problems on ecosystems and human well-being. Introduction to systems thinking. History, philosophy, and application of decision making in the field of natural resource management. Pre: Sophomore standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2784",
+      "subject": "FREC",
+      "number": "2784",
+      "level": 2000,
+      "title": "Global Forest Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A socio-economic approach to examining the management and use of the worlds forests, enhance knowledge of global forest resources and products, and understand the roles and relationships of key stakeholders.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SBIO 2784"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2964",
+      "subject": "FREC",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2974",
+      "subject": "FREC",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2984",
+      "subject": "FREC",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 2994",
+      "subject": "FREC",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3014",
+      "subject": "FREC",
+      "number": "3014",
+      "level": 3000,
+      "title": "Forest Health and Ecosystem Resilience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identification and application of forest health metrics to manage and restore degraded forested ecosystems at local and global scales. Abiotic, biotic, and anthropogenic disturbances to forested ecosystems. Examining ecosystem resilience in forested ecosystems.",
+      "prerequisites": {
+        "rawText": "FREC 2314 or BIOL 2304 or HORT 2304",
+        "referencedCourses": [
+          "BIOL 2304",
+          "FREC 2314",
+          "HORT 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3044",
+      "subject": "FREC",
+      "number": "3044",
+      "level": 3000,
+      "title": "Environmental Data Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Applications of the analysis and modeling of environmental datasets at multiple spatial-temporal scales to study environmental issues of societal importance. Computer programing is used in the acquisition, analysis, visualization, and storage of environmental data. Modeling techniques include regression, classification, and numerical simulation. Ethics and methods of data curation, quality control, analysis, and sharing.",
+      "prerequisites": {
+        "rawText": "FREC 1044 or CMDA 3654 or CS 3654 or STAT 3654",
+        "referencedCourses": [
+          "CMDA 3654",
+          "CS 3654",
+          "FREC 1044",
+          "STAT 3654"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3104",
+      "subject": "FREC",
+      "number": "3104",
+      "level": 3000,
+      "title": "Principles of Watershed Hydrology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of hydrology in watersheds. Qualitative and quantitative principles of physical hydrological processes governing the movement, storage, and transformation of water on the Earths surface as influenced by watershed characteristics, including human modifications. Pre: Junior Standing",
+      "prerequisites": {
+        "rawText": "MATH 1026 or MATH 1226 or STAT 3005 or STAT 3604 or STAT 3615",
+        "referencedCourses": [
+          "MATH 1026",
+          "MATH 1226",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "WATR 3104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3214",
+      "subject": "FREC",
+      "number": "3214",
+      "level": 3000,
+      "title": "Forest Biometrics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Statistical and mathematical basis for collecting and analyzing data used to make valid inferences and ethical decisions in applications of forest ecosystem science and management. Principles and practices of forest inventory and probability-based sampling. Computational and mathematical tools for analyzing field data. Statistical summarization, estimation, hypothesis testing, and inference from data collected in forest inventories.",
+      "prerequisites": {
+        "rawText": "FREC 2214 and (MATH 1026 or MATH 1226)",
+        "referencedCourses": [
+          "FREC 2214",
+          "MATH 1026",
+          "MATH 1226"
+        ]
+      },
+      "corequisites": {
+        "rawText": "FREC 3224",
+        "referencedCourses": [
+          "FREC 3224"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3224",
+      "subject": "FREC",
+      "number": "3224",
+      "level": 3000,
+      "title": "Forest Biometrics Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Field practice and computer analysis for collecting and analyzing survey data for use in forest management. Forest inventory and probability-based sampling, stratified sampling, double sampling, regression, and census-based sampling applications. Computer and geospatial tools for analyzing field data. Field assessment of tree and log contents, stand density, and site index. Collection and analysis of growth and yield data.",
+      "prerequisites": {
+        "rawText": "(FREC 2214 or FOR 2214) and (FREC 2414 or FOR 2414)",
+        "referencedCourses": [
+          "FREC 2214",
+          "FREC 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3314",
+      "subject": "FREC",
+      "number": "3314",
+      "level": 3000,
+      "title": "Forest Ecology and Silvics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental factors affecting the establishment, growth, and development of forests; silvical characteristics of trees; forest community structure and function; forest ecosystem analysis. COURSE FEE: $48.",
+      "prerequisites": {
+        "rawText": "(FREC 2314 or FOR 2314) and (FREC 2214 or FOR 2214)",
+        "referencedCourses": [
+          "FREC 2214",
+          "FREC 2314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 4 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3324",
+      "subject": "FREC",
+      "number": "3324",
+      "level": 3000,
+      "title": "Silviculture Principles and Applications",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Theory and practices involved in controlling forest establishment, composition, and growth are developed in a regional context. Formulation of silvicultural systems and the study of reproduction methods, site preparation, intermediate stand manipulations, and reforestation operations.",
+      "prerequisites": {
+        "rawText": "FREC 3314 or FOR 3314",
+        "referencedCourses": [
+          "FREC 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 4 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3354",
+      "subject": "FREC",
+      "number": "3354",
+      "level": 3000,
+      "title": "Trees in the Built Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Science and practice of tree cultivation, conservation, and management in human-dominated environments along an urban to rural gradient. Holistic study of landscape tree management: planning, planting, inspection, maintenance, removal, and wood waste utilization. Examination of tree responses to urbanization and tree influences on built environments. Emphasis on sustainable, ethical stewardship of landscape trees for the benefit of people and the environment.",
+      "prerequisites": {
+        "rawText": "(FREC 2314 or BIOL 2304 or HORT 2304) and (FREC 2324 or HORT 3325 or HORT 3326)",
+        "referencedCourses": [
+          "BIOL 2304",
+          "FREC 2314",
+          "FREC 2324",
+          "HORT 2304",
+          "HORT 3325",
+          "HORT 3326"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HORT 3354"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3364",
+      "subject": "FREC",
+      "number": "3364",
+      "level": 3000,
+      "title": "Environmental Silviculture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Science and design of sustainable management of forests to meet the needs of a globalized society. Historic and current intercultural and socio-economic factors influencing stakeholder objectives and the shape, value, pattern, composition, structure, and function of forests domestically and abroad. Tools used to design forests and management plans to address global challenges. Design thinking process: gather stakeholder input, brainstorm/analyze ideas, develop potential solutions, test their working hypothesis or prototype in a computer simulation, and iterate/improve toward a sustainable solution.",
+      "prerequisites": {
+        "rawText": "FREC 2324",
+        "referencedCourses": [
+          "FREC 2324"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3454",
+      "subject": "FREC",
+      "number": "3454",
+      "level": 3000,
+      "title": "Trees in the Built Environment Lab",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Hands-on experience in the cultivation, conservation, and management of landscape trees in human-dominated environments along the urban to rural gradient. Field exercises in tree inventory, appraisal, disorder diagnosis, planting, pruning, and protection. Emphasis on use of scientific methods and best management practices to ensure tree health, safety, and functionality for the benefit of people and the environment. Methods of communicating technical information and management recommendations for landscape trees through written media.",
+      "corequisites": {
+        "rawText": "FREC 3354",
+        "referencedCourses": [
+          "FREC 3354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3514",
+      "subject": "FREC",
+      "number": "3514",
+      "level": 3000,
+      "title": "Inclusion and Belonging in Environmental Conservation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of diversity, equity, inclusion, and sense of belonging in environmental conservation, sustainability, and outdoor recreation. Historical and current barriers to inclusion, access, and participation in the environment. Focus on environmentalism, structural inequalities, and potential interpersonal and organizational barriers to working in environmental careers and recreating in nature. Research, strategies, and planning to create inclusive practices and policies for environmental conservation. Pre: Junior standing",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3524",
+      "subject": "FREC",
+      "number": "3524",
+      "level": 3000,
+      "title": "Environmental Interpretation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interpretation theory and techniques as relevant to natural resource management; culturally appropriate program planning and evaluation; role of interpretation in enhancing visitor experiences and promoting stewardship. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3544",
+      "subject": "FREC",
+      "number": "3544",
+      "level": 3000,
+      "title": "Outdoor Recreation Planning and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Planning and management of nature-dependent outdoor recreation. History, philosophy and benefits of nature-dependent outdoor recreation. Environmental and social impacts of recreational uses. Techniques to manage visitor impact. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3574",
+      "subject": "FREC",
+      "number": "3574",
+      "level": 3000,
+      "title": "Environmental Education Service Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to key concepts in environmental education and teaching skills through lecture, discussion, service learning, and reflection. Training in internationally recognized environmental education curricula (e.g. Project Learning Tree, Project Wet), in class management and organization skills and in theory relevant to both teaching and learning. Students develop and conduct after school environmental education programs at local elementary schools",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3714",
+      "subject": "FREC",
+      "number": "3714",
+      "level": 3000,
+      "title": "Forest Harvesting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and application of forest harvesting. Terminology, phases, function, and the interrelationships of people, money, machines, and environment. COURSE FEE: $60.",
+      "prerequisites": {
+        "rawText": "FREC 2214 or FOR 2214",
+        "referencedCourses": [
+          "FREC 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3724",
+      "subject": "FREC",
+      "number": "3724",
+      "level": 3000,
+      "title": "Forest Boundaries and Roads",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of basic land surveying and forest measurement techniques to the location, establishment, and maintenance of forest boundaries and roads. Consideration of stream crossings, best management practices, and costs. Fee $187.",
+      "prerequisites": {
+        "rawText": "FREC 2214 or FOR 2214",
+        "referencedCourses": [
+          "FREC 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3734",
+      "subject": "FREC",
+      "number": "3734",
+      "level": 3000,
+      "title": "Forest Fiber Supply",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the southeastern U.S. forest industry fiber supply process with emphasis on the evolution and dynamics of timber procurement systems, strategies, business principles, ethical dilemmas, and professional practices. Field exercises and case studies to ethically appraise timber sales. Analysis of current industrial operations and practices. Discourse-based project resulting in the writing, presenting, and critiquing of procurement plans. Pre: Junior standing. COURSE FEE: $365",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3754",
+      "subject": "FREC",
+      "number": "3754",
+      "level": 3000,
+      "title": "Watersheds and Water Quality Monitoring",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Delivery of water quality constituents from watersheds to water bodies (streams, lakes, and estuaries). Field monitoring methods to assess watershed drivers and how they affect water quality and aquatic ecosystem condition. Linkages among water quality, watershed characteristics, land use and management, and climate. Design of watershed monitoring programs to guide watershed management for protecting water quality and ecological condition of aquatic systems.",
+      "prerequisites": {
+        "rawText": "(BIOL 1106 or BIOL 1006) and CHEM 1035 and (FREC 2004 or FOR 2004 or FREC 2114 or FOR 2114 or FREC 3314 or FOR 3314 or BIOL 2804 or ENSC 3604)",
+        "referencedCourses": [
+          "BIOL 1106",
+          "BIOL 2804",
+          "CHEM 1035",
+          "ENSC 3604",
+          "FREC 2004",
+          "FREC 2114",
+          "FREC 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "WATR 3754"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3774",
+      "subject": "FREC",
+      "number": "3774",
+      "level": 3000,
+      "title": "Implementing Sustainability: Navigating the Human Element",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Tools for navigating the social complexities of environmental and sustainability-related initiatives. Social science principles and theories that help identify the social actors relevant to sustainability and to explain human behavior. Application of social science theories to develop strategies for approaching real world problems relevant to building a sustainable future. Problem-solving exercises to develop skills for implementing sustainability strategies and interacting with diverse stakeholders. Ethical implications of sustainability strategies in terms of recognitional, distributional, and procedural justice.",
+      "prerequisites": {
+        "rawText": "FREC 2554 or LAR 2554 or NR 2554 or GEOG 1115 or NR 1115",
+        "referencedCourses": [
+          "FREC 2554",
+          "GEOG 1115",
+          "LAR 2554"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3954",
+      "subject": "FREC",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3964",
+      "subject": "FREC",
+      "number": "3964",
+      "level": 3000,
+      "title": "Internship Through Directed Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 3984",
+      "subject": "FREC",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4004",
+      "subject": "FREC",
+      "number": "4004",
+      "level": 4000,
+      "title": "Professional Skills in Natural Resources",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Elements of professionalism and principles of success across a wide spectrum of natural resources careers. Skills for ethical and professional interaction including effective communication, advancement of diversity and inclusion, and personal responsibility. Career preparation principles including employer outreach, job seeking, resume writing, and interview preparation. Guest speakers from academia, industry, and government. Pre: Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "NR 4004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4014",
+      "subject": "FREC",
+      "number": "4014",
+      "level": 4000,
+      "title": "Natural Resources Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of domestic and international natural resource use, exploitation, and degradation problems, with special focus on use of economics to understand why potential overuse of natural resources exists, and what policy options are available to correct these problems and ensure sustainable natural resource use over time. Water, forests, fisheries, land and exhaustible resources. Permission of instructor may be substituted for the pre-requisite.",
+      "prerequisites": {
+        "rawText": "ECON 2005 or AAEC 1005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NR 4014"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4024",
+      "subject": "FREC",
+      "number": "4024",
+      "level": 4000,
+      "title": "Forest Resources Management and Business",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Forest management and business principles, theory, and methods to support sound decision-making in forestry: from the level of the forest to the business organization as a whole. Capital budgeting methods to prescribe forest harvest schedules and perform forest finance analyses. Forest industry structure, trends, and future performance. Strategic management frameworks (e.g. SWOT (Strengths, Weaknesses, Opportunities, and Threats), PIE (Potential, Importance and Ease) and Porter’s Five Forces) and the influence of public policy and regulation on forest business strategy. Ethics, sustainability and corporate social responsibility applied to real forest business problems.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4044",
+      "subject": "FREC",
+      "number": "4044",
+      "level": 4000,
+      "title": "Environmental Data Science Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Apply environmental data science strategies and techniques to natural resources problems. Capstone experience using spatial and/or temporal environmental data. Integrate multiple concepts and strategies to create a practical solution.",
+      "prerequisites": {
+        "rawText": "FREC 3004 or FREC 3044",
+        "referencedCourses": [
+          "FREC 3044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4114",
+      "subject": "FREC",
+      "number": "4114",
+      "level": 4000,
+      "title": "Information Technologies for Natural Resource Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to computer information systems used in natural resources management. Course will introduce students to the theory and applications of database management systems (DBMS) and geographic information systems (GIS). Uses, challenges, and limitations of these technologies in natural resource management applications will be discussed. Students will receive extensive hand-on instruction in the use of current software packages for DBMS and GIS.",
+      "prerequisites": {
+        "rawText": "FREC 2214 or FOR 2214 or GEOG 2314",
+        "referencedCourses": [
+          "FREC 2214",
+          "GEOG 2314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4134",
+      "subject": "FREC",
+      "number": "4134",
+      "level": 4000,
+      "title": "Forest Carbon Management and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Importance of forests in the global carbon cycle. Measuring, reporting, and verification (MRV) of forest carbon stocks and fluxes. National, regional and international forest carbon markets. Main national and international forest-based carbon policies and programs, such as REDD+. Impacts of forest management practices by landowners and policies on forest carbon stocks. Economic viability of forest carbon projects. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4174",
+      "subject": "FREC",
+      "number": "4174",
+      "level": 4000,
+      "title": "Climate Change and the International Policy Framework",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Science, causes and impacts of climate change. Mitigation and adaptation measures to address the causes and impacts of climate change. International climate change policy, with attention to the policy making process, in particular the role of the United Nations Framework Convention on Climate Change and climate negotiations. Science and diplomacy in climate negotiations to achieve successful outcomes. The ethical and social implications of climate change policies.",
+      "pathwaysConcepts": [
+        "1A",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 4174",
+        "PSCI 4174"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4214",
+      "subject": "FREC",
+      "number": "4214",
+      "level": 4000,
+      "title": "Forest Photogrammetry and Spatial Data Processing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Films, filters and camera photogeometry; scale; measurement estimation; image processing; flight planning and photo acquisition; geographic information systems; spatial data analysis techniques and applications. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4244",
+      "subject": "FREC",
+      "number": "4244",
+      "level": 4000,
+      "title": "Hydroinformatics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and examination of hydrologic data using basic statistics and computer programming. Calculation and interpretation of flow frequency and duration, hydrologic analysis of geospatial digital terrain data, and implementation and analysis of simple hydrologic models. Advanced methods of temporal and spatial hydrologic data visualization using computer programming.",
+      "prerequisites": {
+        "rawText": "FREC 3104 or WATR 3104 or FREC 1044",
+        "referencedCourses": [
+          "FREC 1044",
+          "FREC 3104",
+          "WATR 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "WATR 4244"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4324",
+      "subject": "FREC",
+      "number": "4324",
+      "level": 4000,
+      "title": "Genetics of Natural and Managed Populations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory genetics with an emphasis on evolutionary processes relevant to natural and managed populations of both plant and animal species. Traditional and modern genetics, including quantitative and population genetics, molecular evolution, genomics, and biotechnology.",
+      "prerequisites": {
+        "rawText": "BIOL 1105 and BIOL 1106 and (STAT 3005 or STAT 3615 or FREC 3214)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "FREC 3214",
+          "STAT 3005",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FIW 4324"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4334",
+      "subject": "FREC",
+      "number": "4334",
+      "level": 4000,
+      "title": "Principles and Practice of Agroforestry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Biological, social, economic, and technical aspects of agroforestry, training and technology transfer techniques, and application of forestry and agriculture principles. Roles of animals and fish, trees, and agricultural crops in agroforestry systems. Community involvement in planning and implementation of agroforestry projects. COURSE FEE: $40.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CSES 4334"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4354",
+      "subject": "FREC",
+      "number": "4354",
+      "level": 4000,
+      "title": "Forest Soil and Watershed Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Properties and processes of soil and water in forests. Emphasis on management for the delivery of ecosystem services at local to global scales. Includes analysis and interpretation in field and laboratory.",
+      "prerequisites": {
+        "rawText": "CSES 3114 or FREC 2004 or GEOS 3614 or ENSC 3134",
+        "referencedCourses": [
+          "CSES 3114",
+          "ENSC 3134",
+          "FREC 2004",
+          "GEOS 3614"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4364",
+      "subject": "FREC",
+      "number": "4364",
+      "level": 4000,
+      "title": "Advanced Silviculture and Forest Vegetation Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced topics in silviculture with an emphasis on species silvical differences; forest vegetation management and control, herbicides used in forestry, their chemistry, toxicology, application technology; environmental considerations; tree improvement, individual tree growth, and stand dynamics as affected by intermediate silvicultural operations; implications of atmospheric deposition.",
+      "prerequisites": {
+        "rawText": "FREC 3324 or FOR 3324",
+        "referencedCourses": [
+          "FREC 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4374",
+      "subject": "FREC",
+      "number": "4374",
+      "level": 4000,
+      "title": "Forested Wetlands",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Classifications, jurisdictional delineation, and management options of forested wetlands. Relationship of hydrology, soils, and vegetation to ecosystem processes, societal values, and management with regard to environmental and legal considerations and best management practices. Emphasis is on forested wetlands in the southern U.S., but national and international wetlands are included. COURSE FEE: $187.",
+      "prerequisites": {
+        "rawText": "FREC 4354 or CSES 3114 or ENSC 3114 or GEOS 3614 or CSES 3134 or ENSC 3134",
+        "referencedCourses": [
+          "CSES 3114",
+          "ENSC 3134",
+          "FREC 4354",
+          "GEOS 3614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4414",
+      "subject": "FREC",
+      "number": "4414",
+      "level": 4000,
+      "title": "Advanced Wildland Fire Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impacts fire has on forest environments; how the environment influences fire behavior; how computer programs aid fire decision making; and how fire is used as a land and vegetation management tool. Influences of weather on fire behavior. The course will also provide students with the knowledge and training to qualify as an advanced wildland firefighter (Squad Boss) (FFT1 - Red Card) and a Virginia Certified Prescribed Burn Manager.",
+      "prerequisites": {
+        "rawText": "FREC 2514 or FOR 2514",
+        "referencedCourses": [
+          "FREC 2514"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4434",
+      "subject": "FREC",
+      "number": "4434",
+      "level": 4000,
+      "title": "Natural Resource Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical development of U.S. natural resource policy. Application of policy analysis tools to understand the factors driving natural resource policy formation at the federal, state, and local level. Evaluation of the effects of alternative policies on natural resource use and social wellbeing. Overview of existing natural resource policies with applications to forest and timber management, biodiversity, public lands, endangered species, and climate change mitigation and adaptation. Pre: Junior Standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4444",
+      "subject": "FREC",
+      "number": "4444",
+      "level": 4000,
+      "title": "Integrated Forest Management Practicum",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of accumulated discipline-oriented knowledge and techniques to solve forest resource management problems as a member of a team. Forest resource management and planning, multiple-use concepts to solve forest management problems, design and implement field-based sampling protocol, develop an integrated forest management plan with logical and ethical recommendations based on analysis of sampled data. Pre: Senior standing.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4454",
+      "subject": "FREC",
+      "number": "4454",
+      "level": 4000,
+      "title": "Urban and Community Forestry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Ecological, socioeconomic, and technical aspects of assessing, planning, managing, and conserving urban forests. Examination of historical and contemporary approaches to urban forestry in local, national, and international contexts. Contributions of trees and associated greenspaces to urban sustainability and community well-being. Roles of government, private industry, and community stakeholders in stewarding urban forests. Theory and practice of written and oral communication to effectively exchange ideas and information about urban forests with diverse audiences. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4464",
+      "subject": "FREC",
+      "number": "4464",
+      "level": 4000,
+      "title": "Water Resources Policy and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic theory and methods to explain water use decisions. Efficiency, equity, and ethical considerations in U.S. water policy. Analysis of water markets, climate change, and environmental flows from diverse stakeholder perspectives.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 or ECON 2005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AAEC 4464",
+        "WATR 4464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4514",
+      "subject": "FREC",
+      "number": "4514",
+      "level": 4000,
+      "title": "Forest and Tree Pest Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identification and ecology of biotic and abiotic influences on forest and landscape tree health. Developing a theoretical and practical understanding for diagnosing and managing pests and stresses of trees in both the forest and landscape setting. Insects and diseases that attack trees.",
+      "prerequisites": {
+        "rawText": "FREC 3324 or FOR 3324 or HORT 3325 or HORT 3326",
+        "referencedCourses": [
+          "FREC 3324",
+          "HORT 3325",
+          "HORT 3326"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4544",
+      "subject": "FREC",
+      "number": "4544",
+      "level": 4000,
+      "title": "Applied Outdoor Recreation Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of advanced principles and practices of outdoor recreation management and planning through practical application. Topics include recreation ecology, outdoor recreation management and design, visitor use impacts, trail monitoring, Leave No Trace principles, outdoor recreation program planning and techniques.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4554",
+      "subject": "FREC",
+      "number": "4554",
+      "level": 4000,
+      "title": "Creating the Ecological City",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary, team oriented, problem-solving approaches to creating cities that foster healthy interconnections between human and ecological systems. Analysis of problems from practical and ethical perspectives in the context of the diverse knowledge bases and values of decision-makers. Formation and utilization of integrated design teams to solve complex urban design and planning problems at a variety of scales. Senior standing.",
+      "prerequisites": {
+        "rawText": "HORT 2134 or FREC 2134",
+        "referencedCourses": [
+          "FREC 2134",
+          "HORT 2134"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "6A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BSE 4554",
+        "HORT 4554",
+        "LAR 4554",
+        "SPIA 4554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4714",
+      "subject": "FREC",
+      "number": "4714",
+      "level": 4000,
+      "title": "Harvesting Systems Evaluation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and techniques for evaluating harvesting machines and systems design, application, productivity, and financial performance.",
+      "prerequisites": {
+        "rawText": "FREC 3714",
+        "referencedCourses": [
+          "FREC 3714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4784",
+      "subject": "FREC",
+      "number": "4784",
+      "level": 4000,
+      "title": "Wetland Hydrology and Biogeochemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Water flows creating wetland hydrologic regime. Hydrologic controls on wetland processes. Linkages between hydrology and biogeochemical cycles. Carbon, nitrogen, phosphorus, and other element cycles within and across wetland boundaries. Field methods to assess hydrologic regime and biogeochemical cycles. Ecosystems services from hydrologic and biogeochemical processes. Applications of wetland hydrology and biogeochemistry in wetland restoration, delineation, and creation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4964",
+      "subject": "FREC",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4974",
+      "subject": "FREC",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4984",
+      "subject": "FREC",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FREC 4994",
+      "subject": "FREC",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/frec/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

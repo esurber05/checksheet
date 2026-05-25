@@ -1,0 +1,590 @@
+{
+  "subject": "CHN",
+  "scrapedAt": "2026-05-25T21:19:00.439Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CHN 1105",
+      "subject": "CHN",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the Chinese language with emphasis on developing proficiency in practical language use and cultural competency. 1105 is for students with no prior knowledge of the language; 1106 is for students who have completed 1105, or more than one year, but less than three years of high school Chinese.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 1106",
+      "subject": "CHN",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the Chinese language with emphasis on developing proficiency in practical language use and cultural competency. 1105 is for students with no prior knowledge of the language; 1106 is for students who have completed 1105, or more than one year, but less than three years of high school Chinese.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 1114",
+      "subject": "CHN",
+      "number": "1114",
+      "level": 1000,
+      "title": "Accelerated Elementary Chinese",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to Elementary Chinese, designed for learners who wish to progress rapidly through the beginning stages of language learning. Speaking, listening comprehension, reading comprehension, writing, and cultural competency at the novice-high level. Duplicates 1105 and 1106. For students with no prior knowledge of the language.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2105",
+      "subject": "CHN",
+      "number": "2105",
+      "level": 2000,
+      "title": "Intermediate Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes comprehension of written and spoken Mandarin Chinese, communication in Chinese; study of some literature and culture of the Chinese people. 2105 is for students who have completed 1105 and 1106 or equivalent. 2106 is for students who have completed 2105 or equivalent.",
+      "prerequisites": {
+        "rawText": "CHN 1106",
+        "referencedCourses": [
+          "CHN 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2106",
+      "subject": "CHN",
+      "number": "2106",
+      "level": 2000,
+      "title": "Intermediate Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes comprehension of written and spoken Mandarin Chinese, communication in Chinese; study of some literature and culture of the Chinese people. 2105 is for students who have completed 1105 and 1106 or equivalent. 2106 is for students who have completed 2105 or equivalent.",
+      "prerequisites": {
+        "rawText": "CHN 1106",
+        "referencedCourses": [
+          "CHN 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2734",
+      "subject": "CHN",
+      "number": "2734",
+      "level": 2000,
+      "title": "Chinese Culture and Civilization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of Chinese culture and civilization through interactions between major political and historical events, social and artistic movements in China. Chinese literature, art, architecture, film, and theater in the context of Chinese cultural history. Aesthetic and rhetorical strategies. Interpretation of intercultural experiences from different vantage points. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2964",
+      "subject": "CHN",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2974",
+      "subject": "CHN",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2974H",
+      "subject": "CHN",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 2984",
+      "subject": "CHN",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3105",
+      "subject": "CHN",
+      "number": "3105",
+      "level": 3000,
+      "title": "Advanced Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3105: Practice in communication skills in Chinese both orally and in writing, including review of grammar, directed composition, and conversation, with an emphasis on pronunciation, cultural competency, and oral expressions. Not recommended for native speakers. 3106: Reinforcement of oral proficiency, reading, grammar, and writing skills, allowing students to explore a broad range of texts of general and professional interest. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "CHN 2106",
+        "referencedCourses": [
+          "CHN 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3106",
+      "subject": "CHN",
+      "number": "3106",
+      "level": 3000,
+      "title": "Advanced Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3106: Reinforcement of oral proficiency, reading, grammar, and writing skills, allowing students to explore a broad range of texts of general and professional interest. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "CHN 3105",
+        "referencedCourses": [
+          "CHN 3105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3124",
+      "subject": "CHN",
+      "number": "3124",
+      "level": 3000,
+      "title": "Chinese for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Formal conversation, business Chinese, and enhanced cultural competency. Discuss current topics and perform daily transactions. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "CHN 2106",
+        "referencedCourses": [
+          "CHN 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3304",
+      "subject": "CHN",
+      "number": "3304",
+      "level": 3000,
+      "title": "Chinese Literature in Translation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Familiarization with the historical, intellectual, and cultural contexts of major Chinese literary genres. Identification of major cultural movements and concepts in Chinese literature and analysis of literary texts. Examination of aesthetic and rhetorical strategies employed in literary works. Intercultural experiences from different vantage points. The impact of globalization on Chinese literature. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3474",
+      "subject": "CHN",
+      "number": "3474",
+      "level": 3000,
+      "title": "Topics in Chinese Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical issues in the history of modern and contemporary China through cinema. Interactions between major political and historical events and social and cultural movements in China. Chinese cinema in the broader contexts of Chinese cultural history and Chinese society. Interpretation of intercultural experiences from different vantage points. Variable topics such as national identity, social realities during the Republican era, the modernization of China, economic conditions and political responses, gender politics, the reform and opening-up of China, and the impact of globalization on Chinese cinema. Instruction in English. May be repeated once with different content for a maximum of 6 credit hours.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3514",
+      "subject": "CHN",
+      "number": "3514",
+      "level": 3000,
+      "title": "Modern China through the Media",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Acquisition of media Chinese through comprehending and analyzing various forms of mass media. Topics of community, national, or international interest. Language used in both formal and informal settings. Enhancement of societal and cultural knowledge through the mass media. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "CHN 2106",
+        "referencedCourses": [
+          "CHN 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3524",
+      "subject": "CHN",
+      "number": "3524",
+      "level": 3000,
+      "title": "Introduction to Chinese Translation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the translation of a variety of real-world materials from Chinese into English with the aid of online translation tools. Acquisition of relevant skills to analyze Chinese sentences into phrasal constituents, critique the quality of existing translated works, and create a portfolio of translation work.",
+      "prerequisites": {
+        "rawText": "CHN 3106",
+        "referencedCourses": [
+          "CHN 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3534",
+      "subject": "CHN",
+      "number": "3534",
+      "level": 3000,
+      "title": "Business Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Preparation for the business world in contemporary Modern Standard Chinese-speaking communities. Contextualized usage of specific vocabulary, idiomatic expressions, grammar structures, and cultural practices in spoken and written formats such as business correspondence, formal and informal reports, business documents, and business proposals. Taught in Chinese. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "CHN 3106",
+        "referencedCourses": [
+          "CHN 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3544",
+      "subject": "CHN",
+      "number": "3544",
+      "level": 3000,
+      "title": "Introduction to Classical Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Essentials of classical Chinese vocabulary and grammar. Simple texts in classical Chinese, translation of classical Chinese texts into idiomatic English, and recitations of selected short passages in the language. Not recommended for native speakers. Taught in Chinese.",
+      "prerequisites": {
+        "rawText": "CHN 2106",
+        "referencedCourses": [
+          "CHN 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3604",
+      "subject": "CHN",
+      "number": "3604",
+      "level": 3000,
+      "title": "Chinese Language and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the complex interaction between linguistic practices and social and cultural stratifications in Chinese speaking communities (e.g., Mandarin speakers). Identification of fundamental concepts in the field of sociolinguistics, explanation of the ways in which language expresses different social meanings, analysis of how identity is constructed through language and how belief systems about different identities influence human behavior and social relationships, identification of issues of diversity and inclusion, and interpretation of language behavior from different sociocultural contexts. Taught in English.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3954",
+      "subject": "CHN",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 3984",
+      "subject": "CHN",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4614",
+      "subject": "CHN",
+      "number": "4614",
+      "level": 4000,
+      "title": "Teaching Chinese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on practical activities of language learning, from a variety of learners’ perspectives. Development of the ability to explain and apply activities for learning Chinese characters, sounds, vocabulary, and sentence patterns; ability to design conversation-based practice tasks.",
+      "prerequisites": {
+        "rawText": "CHN 3524",
+        "referencedCourses": [
+          "CHN 3524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4964",
+      "subject": "CHN",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4974",
+      "subject": "CHN",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4974H",
+      "subject": "CHN",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4984",
+      "subject": "CHN",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4994",
+      "subject": "CHN",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CHN 4994H",
+      "subject": "CHN",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/chn/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

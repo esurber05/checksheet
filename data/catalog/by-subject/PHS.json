@@ -1,0 +1,605 @@
+{
+  "subject": "PHS",
+  "scrapedAt": "2026-05-25T21:21:59.233Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PHS 1004",
+      "subject": "PHS",
+      "number": "1004",
+      "level": 1000,
+      "title": "BSPH Essentials",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the Department of Population Health Sciences and the Public Health curricula requirements. Introduces students to experiential learning opportunities, undergraduate research, ethical behaviors and career paths within the discipline. Exploration of programs, services and resources to enhance awareness of opportunities and support systems available for student success including academic advising and career planning. Intended for Public Health majors in their first semesters, either as incoming freshmen, transfer students or change of major students.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 1514",
+      "subject": "PHS",
+      "number": "1514",
+      "level": 1000,
+      "title": "Personal Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental health content and theory to provide students with constructive health information necessary to meet current and future personal health needs. Special emphasis on wellness and health promotion.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 1984",
+      "subject": "PHS",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 2004",
+      "subject": "PHS",
+      "number": "2004",
+      "level": 2000,
+      "title": "Introduction to Public Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of how public health core disciplines of epidemiology, health policy and administration, health behavior, and environmental health work together in addressing public health problems. Special emphasis on the history of public health, the public health infrastructure and role of health informatics in public health.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 2974",
+      "subject": "PHS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 2974H",
+      "subject": "PHS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 2984",
+      "subject": "PHS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 2994",
+      "subject": "PHS",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 2994H",
+      "subject": "PHS",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3014",
+      "subject": "PHS",
+      "number": "3014",
+      "level": 3000,
+      "title": "Introduction to Environmental Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of environmental health, examining local, national, and international frameworks. Environmental factors that affect human health, including major classes of chemical, biological, and physical exposures from different environmental media (air, water, food, and soil). Special emphasis on toxicology and epidemiology methodologies used at the individual (mechanistic) level and at the population level to determine environmental causes of disease. Find the most appropriate prevention or control measure to minimize adverse health outcomes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3044",
+      "subject": "PHS",
+      "number": "3044",
+      "level": 3000,
+      "title": "Global Health Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Students will get an overview of the determinants of health and how health status is measured. Students will also review the burden of disease, who is most affected by different disease burdens, risk factors, and key measures to address the burden of disease in cost-effective, doable, sustainable, and fair ways. Special attention will be paid throughout the course to health systems issues. The course will cover key concepts and frameworks but be practical in orientation. The course will be global in coverage but will focus on low- and middle-income countries, the health of the poor, and health disparities. The course will pay particular attention to the linkages between health and development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3064",
+      "subject": "PHS",
+      "number": "3064",
+      "level": 3000,
+      "title": "Public Health Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Current topics in public health research, policy and practice, including biostatistics, epidemiology, health policy, environmental health, social and behavioral medicine, infectious diseases, and public health education. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3074",
+      "subject": "PHS",
+      "number": "3074",
+      "level": 3000,
+      "title": "Public Health Professional and Practicum Prep",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Preparation for the public health profession and practicum experience. Covers the necessary skills to become a successful public health professional. Students will explore and prepare for public health practicum and career opportunities by assessing interests, creating resume/CV, identifying practicum placement opportunities and future career opportunities and completing necessary placement materials. Communication, ethical considerations, leadership and teamwork, professional skills along with the development of tailored resume/CV, cover letters, interviewing and networking will be covered. P/F only. Pre: Junior Standing.",
+      "prerequisites": {
+        "rawText": "PHS 2004",
+        "referencedCourses": [
+          "PHS 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3534",
+      "subject": "PHS",
+      "number": "3534",
+      "level": 3000,
+      "title": "Drug Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interpretation of multidimensional (social, psychological and physiological) scientific data regarding drugs. The major drug categories will be covered with special emphasis on substance misuse and abuse.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3634",
+      "subject": "PHS",
+      "number": "3634",
+      "level": 3000,
+      "title": "Epidemiologic Concepts of Health and Disease",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Designed to give students in the health sciences a basic understanding of the modern concepts regarding health and disease as well as skills in organizing epidemiological data, disease investigation and surveillance. Includes a survey of terms, concepts, and principles pertinent to epidemiology. Lifestyles of populations and the relationships between lifestyles and health status are studied.",
+      "prerequisites": {
+        "rawText": "STAT 2004 or STAT 3005 or STAT 3604 or STAT 3615",
+        "referencedCourses": [
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HNFE 3634"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3654",
+      "subject": "PHS",
+      "number": "3654",
+      "level": 3000,
+      "title": "Rural Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the socioeconomic, behavioral, biological, environmental and other factors that impact human health and contribute to disproportionate health outcomes. Introduction to concepts surrounding rural health, including: (i) defining rurality; (ii) identifying social determinants of health; (iii) reviewing the history of the US public health systems and policies tasked with improving rural health; (iv) describing critical disproportionate health outcomes impacting rural communities (such as cardiovascular disease, cancer, mental health and substance use disorders), and the drivers of these health outcomes; and, (v) (v) assessing health of special populations living in rural communities, such as maternal, newborn, adolescent and child health, aging populations and migrant populations (vi) discussing the assessment, planning, policies, and interventions which can be implemented to improve the health of rural communities at the population level.",
+      "prerequisites": {
+        "rawText": "PHS 2004",
+        "referencedCourses": [
+          "PHS 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3964",
+      "subject": "PHS",
+      "number": "3964",
+      "level": 3000,
+      "title": "Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 3984",
+      "subject": "PHS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4014",
+      "subject": "PHS",
+      "number": "4014",
+      "level": 4000,
+      "title": "Public Health Program Planning and Evaluation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental of public health program development, implementation and evaluation. Basic processes, approaches and interventions that identify and address the major health-related needs and concerns of populations. Pre: Junior Standing",
+      "prerequisites": {
+        "rawText": "PHS 2004 and HNFE 2664",
+        "referencedCourses": [
+          "HNFE 2664",
+          "PHS 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4044",
+      "subject": "PHS",
+      "number": "4044",
+      "level": 4000,
+      "title": "Public Health Policy and Administration",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evolution and analysis of public health policy in the United States. Public health and care systems. Administrative concepts central to public health such as human resources, strategic planning, controlling, directing, leadership and health law. Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4054",
+      "subject": "PHS",
+      "number": "4054",
+      "level": 4000,
+      "title": "Concepts in One Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Dynamic interdependence of human, animal and environmental health; theoretical foundations of One Health; One Health research methods for assessing animal-human linkages; One Health operationalization in human medicine, veterinary medicine and public health; policies and practices related to One Health; and capacity building and public engagement; One Health and traditional Medical Model approaches to health problems. Pre: Junior standing.",
+      "prerequisites": {
+        "rawText": "PHS 3014 and PHS 3634",
+        "referencedCourses": [
+          "PHS 3014",
+          "PHS 3634"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4064",
+      "subject": "PHS",
+      "number": "4064",
+      "level": 4000,
+      "title": "Modeling Infectious Diseases",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mathematical modeling of infectious diseases; simple epidemic models, risk structure and modeling risk structure, multi-pathogen models, multi-host models, temporal seasonal models, spatial models, stochastic dynamics and modeling for public health policy. Pre: Junior Standing.",
+      "prerequisites": {
+        "rawText": "MATH 1014 or MATH 1025 or MATH 1225 or MATH 1524",
+        "referencedCourses": [
+          "MATH 1014",
+          "MATH 1025",
+          "MATH 1225",
+          "MATH 1524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4074",
+      "subject": "PHS",
+      "number": "4074",
+      "level": 4000,
+      "title": "Practicum in Public Health",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Application of Public health theories, concepts and data in a work setting; comprehensive, structured experience requires student to demonstrate professional competencies and ethical behavior while working closely with a supervisor in a public health practice setting. Pass/Fail Only. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "PHS 3074 and PHS 2004 and PHS 3014 and PHS 3634",
+        "referencedCourses": [
+          "PHS 2004",
+          "PHS 3014",
+          "PHS 3074",
+          "PHS 3634"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4094",
+      "subject": "PHS",
+      "number": "4094",
+      "level": 4000,
+      "title": "Appalachian Community Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Undergraduate participatory community research as applied to issues of cultural heritage, sustainability, and identity. Students engage in projects defined by community groups and organizations as being critical to their well-being, continuity, or growth. Emphasis is on developing concepts of civic professionalism and developmental democracy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 4094",
+        "SOC 4094"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4174",
+      "subject": "PHS",
+      "number": "4174",
+      "level": 4000,
+      "title": "Capstone in Public Health",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "The capstone in Public Health course is designed for Public Health students to integrate and synthesize knowledge gained for the undergraduate BSPH core curriculum. Students will apply the knowledge gained from the core BSPH courses to analyze, explain and address public health problems. Class deliverables will focus on public health case studies and the 10 Essential Public Health services (EPHS). This course serves as the BSPH program culmination course. Pre: Senior Standing.",
+      "prerequisites": {
+        "rawText": "PHS 2004 and PHS 3014 and PHS 3634 and PHS 3074",
+        "referencedCourses": [
+          "PHS 2004",
+          "PHS 3014",
+          "PHS 3074",
+          "PHS 3634"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4974",
+      "subject": "PHS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4974H",
+      "subject": "PHS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4984",
+      "subject": "PHS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4994",
+      "subject": "PHS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHS 4994H",
+      "subject": "PHS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phs/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

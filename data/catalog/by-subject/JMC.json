@@ -1,0 +1,676 @@
+{
+  "subject": "JMC",
+  "scrapedAt": "2026-05-25T21:21:00.959Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "JMC 1114",
+      "subject": "JMC",
+      "number": "1114",
+      "level": 1000,
+      "title": "Introduction to Media Production Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to basic technologies necessary for multimedia production. Attention to aesthetics and technical aspects of production technologies, including creation, editing, and organization of content. COURSE FEE $95.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 2034",
+      "subject": "JMC",
+      "number": "2034",
+      "level": 2000,
+      "title": "Visual News Reporting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "News reporting through photography, videography, online outlets, and data visualization. Concepts of visual storytelling. Design and production tools and techniques for visual news and feature stories. News elements and journalism ethics in visual communication. Pre: Sophomore standing.",
+      "prerequisites": {
+        "rawText": "COMM 1016 or ENGL 1106 or ENGL 1204H",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 2074",
+      "subject": "JMC",
+      "number": "2074",
+      "level": 2000,
+      "title": "Introduction to Sports Media",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development, concepts, and impact of sports media, including roles and responsibilities of journalists, production staff, and public relations professionals. Considerations of stakeholders behaviors and connections. Study of ethical standards and perspectives, communication in sports organizations, types of media, issues in context, and data analytics.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3114",
+      "subject": "JMC",
+      "number": "3114",
+      "level": 3000,
+      "title": "Video Production: Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Producing, directing, and writing live video segments; operating control room and studio equipment including studio camera, video switcher, audio board and the creation of video graphics and written packages.",
+      "prerequisites": {
+        "rawText": "COMM 2034 or JMC 2034",
+        "referencedCourses": [
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3154",
+      "subject": "JMC",
+      "number": "3154",
+      "level": 3000,
+      "title": "Multimedia Reporting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multimedia news gathering, news writing, audio/visual storytelling, and news judgment for the print and online media. Consideration of professional strategies and standards for reporters, including legal and ethical issues.",
+      "prerequisites": {
+        "rawText": "COMM 2024 and (COMM 2034 or JMC 2034)",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3174",
+      "subject": "JMC",
+      "number": "3174",
+      "level": 3000,
+      "title": "Advanced Multimedia Reporting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multimedia gathering and writing of complex news, features, and documentary; visual content and news judgment for television, print and online media; techniques of broadcast interviewing and on-camera performance. Considerations of legal and ethical issues related to the reporting of complex news.",
+      "prerequisites": {
+        "rawText": "COMM 3154 or JMC 3154",
+        "referencedCourses": [
+          "JMC 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3184",
+      "subject": "JMC",
+      "number": "3184",
+      "level": 3000,
+      "title": "Media Weather Reporting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Techniques for gathering meteorological, information, reporting weather news, and delivering weather forecasts through print, broadcast and online media. Weather information in disaster response. Ethical uses of weather information in reporting threats to public safety.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3244",
+      "subject": "JMC",
+      "number": "3244",
+      "level": 3000,
+      "title": "Political Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Distribution of political information; elite-mass communication; alternative models of political communication; communication and telecommunications policy.",
+      "prerequisites": {
+        "rawText": "PSCI 1014 or PSCI 1014H or PSCI 1024 or PSCI 1024H or IS 1024",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1014",
+          "PSCI 1014H",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3244"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3254",
+      "subject": "JMC",
+      "number": "3254",
+      "level": 3000,
+      "title": "Media and Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores the role of the mass media in contemporary American politics by examining the development of media as sources of social and political influence. Study of news organizations, their coverage of electoral and issue campaigns, and their impact on candidates and voters. Includes the role of new technologies in campaigns. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3254"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3284",
+      "subject": "JMC",
+      "number": "3284",
+      "level": 3000,
+      "title": "Data Journalism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Numeracy and data analysis in news reporting. Data sourcing and visualization in storytelling. Ethical and legal issues in data use. Careers in data journalism.",
+      "prerequisites": {
+        "rawText": "(COMM 2024 and COMM 2034) or JMC 2034",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3304",
+      "subject": "JMC",
+      "number": "3304",
+      "level": 3000,
+      "title": "Topics in Sports Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the theory and practices related to sports communication in fields such as public relations or reporting. Topics may include print, broadcast, and online news; college sports information; social media; crisis management; and media relations. May be repeated once with different course content. Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3314",
+      "subject": "JMC",
+      "number": "3314",
+      "level": 3000,
+      "title": "Sports Journalism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and practice of sports journalism, including strategies for writing and broadcasting sports information. Study of ethics and professional standards. Junior standing required. Fee $95.",
+      "prerequisites": {
+        "rawText": "COMM 2024 and (COMM 2034 or JMC 2034)",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3324",
+      "subject": "JMC",
+      "number": "3324",
+      "level": 3000,
+      "title": "Sports Play-by-Play Reporting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Audio and video play-by-play sports reporting and commentary for broadcast and online media. Game research and preparation techniques. Voice pacing, inflection, delivery, airtime management, and ad-libbing skills. Command and use of game statistics. Ethical issues in sports play-by-play reporting and commentary. COURSE FEE $67.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3334",
+      "subject": "JMC",
+      "number": "3334",
+      "level": 3000,
+      "title": "Sports as Entertainment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evolution of print, broadcast, and online sports coverage into a leading form of entertainment in the United States. Economic, political, and cultural influences of sports and sports betting in U.S. society. Sports portrayals, personalities, and scandals in movies, music, radio, and television through U.S. history. Ethical perspectives on sports as entertainment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 3344",
+      "subject": "JMC",
+      "number": "3344",
+      "level": 3000,
+      "title": "Sports Data Journalism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Game statistics and data analysis in sports reporting. Data visualization in sports storytelling. Data sources, sports performance trends, and predictions. Ethical and legal issues in sports data use.",
+      "prerequisites": {
+        "rawText": "COMM 2024 and (COMM 2034 or JMC 2034)",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4014",
+      "subject": "JMC",
+      "number": "4014",
+      "level": 4000,
+      "title": "Media Effects",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impact of mass media on individuals and on society; methods for documentation of media effects; research about effects on various demographic groups such as children, elderly, and minorities; effects of advertising; effects of interactive and time shift technologies. Junior standing required.",
+      "prerequisites": {
+        "rawText": "COMM 2124",
+        "referencedCourses": [
+          "COMM 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4044",
+      "subject": "JMC",
+      "number": "4044",
+      "level": 4000,
+      "title": "International Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comparative perspectives on global communication systems; problems with the flow of information; roles of international organizations; mass communication and national development; implications for conflict resolution; selected case studies. Senior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 4044"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4064",
+      "subject": "JMC",
+      "number": "4064",
+      "level": 4000,
+      "title": "Social Media Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to analytic techniques for social media platforms. Quantitative and qualitative analytic techniques. Design, implementation, and analysis of experimental and observational studies of how people use and engage with social media platforms and how platforms themselves can be used to drive engagement with content. History and trending topics in social media use. Ethical issues involving social media and big data.",
+      "prerequisites": {
+        "rawText": "COMM 2124",
+        "referencedCourses": [
+          "COMM 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4094",
+      "subject": "JMC",
+      "number": "4094",
+      "level": 4000,
+      "title": "Broadcast Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Broadcast management procedures; programming; sales and advertising. Senior standing required.",
+      "prerequisites": {
+        "rawText": "COMM 3154 or JMC 3154",
+        "referencedCourses": [
+          "JMC 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4114",
+      "subject": "JMC",
+      "number": "4114",
+      "level": 4000,
+      "title": "Photojournalism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interpretive and creative photography applied to journalism; cameras, films, photography techniques; history of photography as communication; advanced darkroom techniques. Junior standing required.",
+      "prerequisites": {
+        "rawText": "COMM 2034 and (COMM 2024 or JMC 2034)",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4144",
+      "subject": "JMC",
+      "number": "4144",
+      "level": 4000,
+      "title": "Magazine Writing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The writing of feature material (as opposed to the reporting of hard news), plus detailed examination of several article types from a wide variety of contemporary magazines and newspapers. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4254",
+      "subject": "JMC",
+      "number": "4254",
+      "level": 4000,
+      "title": "Topics Multimedia Journalism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics in multimedia journalism; emphasis on critical analysis of issues in journalism, and application of media to disseminate information. May be repeated for credit up to a maximum of 6 credit hours with different content.",
+      "prerequisites": {
+        "rawText": "COMM 2024 and (COMM 2034 or JMC 2034)",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 2034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4264",
+      "subject": "JMC",
+      "number": "4264",
+      "level": 4000,
+      "title": "Social Media Theory and Practice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of social media as a professional communication and media tool. Emphasis on foundations in communication theory and contemporary approaches.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4274",
+      "subject": "JMC",
+      "number": "4274",
+      "level": 4000,
+      "title": "Broadcasting Performance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced study of on-air performance for broadcasters. Professional behaviors and strategies for developing conversational writing, broadcast style, interviewing, reporting, and anchoring. Fee $95.",
+      "prerequisites": {
+        "rawText": "COMM 3154 or JMC 3154",
+        "referencedCourses": [
+          "JMC 3154"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4334",
+      "subject": "JMC",
+      "number": "4334",
+      "level": 4000,
+      "title": "Communication Ethics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discussion of issues related to professional communication ethics; emphasis on recognizing ethical issues, applying theoretical models and critical thinking skills to ethical issues in multimedia journalism, public relations, and communication studies. Includes research on topics related to communication ethics. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4344",
+      "subject": "JMC",
+      "number": "4344",
+      "level": 4000,
+      "title": "Free Speech in Cyberspace",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discussion of free expression on the Internet; an examination of how First Amendment law; state laws and federal communication policies impact the multiple kinds of speech that take place in cyberspace; examination of the history and development of the Internet and the future of free speech in cyberspace. Pre: Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4344H",
+      "subject": "JMC",
+      "number": "4344H",
+      "level": 4000,
+      "title": "Free Speech in Cyberspace",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discussion of free expression on the Internet; an examination of how First Amendment law; state laws and federal communication policies impact the multiple kinds of speech that take place in cyberspace; examination of the history and development of the Internet and the future of free speech in cyberspace. Pre: Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4814",
+      "subject": "JMC",
+      "number": "4814",
+      "level": 4000,
+      "title": "Digital Newsroom: Online",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Production of news content for social networks, mobile applications and web-based content management systems. Preparation of news and feature stories on deadline in a newsroom setting. Collection of information from diverse sources. News judgment. Production requirements for online platforms. Audience engagement. Ethical and legal issues in news reporting. Design/lab studio. COURSE FEE $95.",
+      "prerequisites": {
+        "rawText": "JMC 3174",
+        "referencedCourses": [
+          "JMC 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4824",
+      "subject": "JMC",
+      "number": "4824",
+      "level": 4000,
+      "title": "Digital Newsroom: Broadcast",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Production of news content for broadcast. Preparation of news and feature stories on deadline in a newsroom setting. Collection of information from diverse sources. News judgment. Videography and digital editing. Broadcast performance. Ethical and legal issues in news reporting. Design lab/studio. $95 COURSE FEE.",
+      "prerequisites": {
+        "rawText": "JMC 3174",
+        "referencedCourses": [
+          "JMC 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JMC 4834",
+      "subject": "JMC",
+      "number": "4834",
+      "level": 4000,
+      "title": "Sportscenter",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Gather, formulate, and deliver sports stories to diverse audiences through print, online, and broadcast channels. Produce sports news on deadline in a newsroom setting. Ethical and legal issues in sports journalism. Design lab/studio. COURSE FEE $95. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "JMC 3314 and (JMC 4274 or JMC 3174) and COMM 2024",
+        "referencedCourses": [
+          "COMM 2024",
+          "JMC 3174",
+          "JMC 3314",
+          "JMC 4274"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jmc/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "subject": "AAEC",
+  "scrapedAt": "2026-05-25T21:18:10.393Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AAEC 1005",
+      "subject": "AAEC",
+      "number": "1005",
+      "level": 1000,
+      "title": "Economics of the Food and Fiber System",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "1005: How the individual economic actor makes rational choices as: consumer, producer, firm/farm, saver, investor, employee, employer, manager, trader. Economic principles that underlie exchange in business, government and household transactions. Utility maximization in the U.S. and global food and fiber system under conditions of scarcity. Evaluation of policy issues important to society. 1006: Overview of economic systems: capitalism versus communism, socialism, feudalism, mercantilism. Interrelationships of U.S. economic fiscal and monetary institutions and policies regarding agricultural productivity, business vitality, sustainable development, and human capital formation. Affordability, safety and security of food and fiber, cultural dynamics, consumer welfare, industrial profitability, natural resources conservation, rural economic infrastructure, international trade, and social justice.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 1006",
+      "subject": "AAEC",
+      "number": "1006",
+      "level": 1000,
+      "title": "Economics of the Food and Fiber System",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "1005: How the individual economic actor makes rational choices as: consumer, producer, firm/farm, saver, investor, employee, employer, manager, trader. Economic principles that underlie exchange in business, government and household transactions. Utility maximization in the U.S. and global food and fiber system under conditions of scarcity. Evaluation of policy issues important to society. 1006: Overview of economic systems: capitalism versus communism, socialism, feudalism, mercantilism. Interrelationships of U.S. economic fiscal and monetary institutions and policies regarding agricultural productivity, business vitality, sustainable development, and human capital formation. Affordability, safety and security of food and fiber, cultural dynamics, consumer welfare, industrial profitability, natural resources conservation, rural economic infrastructure, international trade, and social justice.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 2014",
+      "subject": "AAEC",
+      "number": "2014",
+      "level": 2000,
+      "title": "Decision Analytics for the Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Data handling, visualization, and reporting techniques for data-driven decision-making. Excel skills and analytical tools through practical, problem-solving scenarios. Data input, fundamental formulas, linking spreadsheets, data cleaning, and creating tables and graphs for effective data presentation. Ethical considerations in data collection, analysis, and dissemination.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 2104",
+      "subject": "AAEC",
+      "number": "2104",
+      "level": 2000,
+      "title": "Personal Financial Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of fundamental personal financial planning needs and decisions of young professionals. Introduction to the personal financial planning needs that special household circumstances or non-traditional household situations may precipitate. Application of cash, credit, and debt management principles to household scenarios. Completion of federal income tax forms for individuals. Managing the household’s risk exposure. Introduction to investment decisions, particularly related to retirement accounts. Overview of basic estate planning tools and principles. Discussion of the ethical issues related to financial products and decisions.",
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 2434",
+      "subject": "AAEC",
+      "number": "2434",
+      "level": 2000,
+      "title": "Foundations of Agribusiness",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the primary management tools as they relate to farm production enterprises and agribusinesses. Principles and concepts of preparing farm and agribusiness financial statements and their analysis. Application of budgeting and risk management.",
+      "prerequisites": {
+        "rawText": "AAEC 1005",
+        "referencedCourses": [
+          "AAEC 1005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 2974",
+      "subject": "AAEC",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 2984",
+      "subject": "AAEC",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3004",
+      "subject": "AAEC",
+      "number": "3004",
+      "level": 3000,
+      "title": "Agricultural Production and Consumption Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The economic principles of production. Applications to decision-making and the allocation of resources for the agricultural firm. Consumer behavior and demand for agricultural products.",
+      "prerequisites": {
+        "rawText": "(AAEC 1005 or ECON 2005) and (MATH 1025 or MATH 1225)",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005",
+          "MATH 1025",
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3014",
+      "subject": "AAEC",
+      "number": "3014",
+      "level": 3000,
+      "title": "Analytical Methods in Applied Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantitative methods used in applied empirical economic analysis including simple and multiple regression, estimation and application of elasticity, decision analysis, economic simulations, linear programming, and risk analysis. Analysis using spreadsheets stressed.",
+      "prerequisites": {
+        "rawText": "STAT 3005 or BIT 2405 or STAT 3615",
+        "referencedCourses": [
+          "BIT 2405",
+          "STAT 3005",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3015",
+      "subject": "AAEC",
+      "number": "3015",
+      "level": 3000,
+      "title": "Internship in Agricultural and Applied Economics",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Preparation for, and follow-up to, a practical experience in a selected agricultural, resource, or governmental enterprise, which takes place under the direct supervision of an owner, manager, or supervisor. 3015: offers the student a broad management horizon on understanding the value and the process of setting goals and objectives, and provides methods for evaluating ones abilities, interests, and desires for making career-path choices. 3016: provides a forum for students to share work experiences, discuss human resource issues, and apply the problem solving process to a problem or concern witnessed during the internship.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3024",
+      "subject": "AAEC",
+      "number": "3024",
+      "level": 3000,
+      "title": "Monetary and Global Issues in Applied Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economics of an open economy and its impact on agricultural and natural resource markets. History of the monetary system, national accounts, balance of payments, fiscal and monetary policy, foreign exchange determinants, trade deficits, international finance, globalization and economic growth. Linkages to agricultural policy and commodity markets stressed.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 1006",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3204",
+      "subject": "AAEC",
+      "number": "3204",
+      "level": 3000,
+      "title": "International Agricultural Development and Trade",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the role of agriculture in less developed countries and how that role is affected by public policies. Dimensions of world food, population, and income problems; theories of economic development and the role of agriculture; traditional agricultural systems and their evolution; agricultural modernization strategies; interactions among natural resources, biofuels, food prices, and sustainable agriculture; the impacts of international trade and aid; and the effects of international development on U.S. agriculture.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 or ECON 2005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3314",
+      "subject": "AAEC",
+      "number": "3314",
+      "level": 3000,
+      "title": "Environmental Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of law involved in environmental issues, survey of environmental litigation, legislation and administrative rulings. Law topics include natural resources, water pollution, private land use, air pollution, toxic substance, food, drug, pesticides, and biotechnology.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3324",
+      "subject": "AAEC",
+      "number": "3324",
+      "level": 3000,
+      "title": "Environment and Sustainable Development Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sustainable development through an exploration of hard and soft green schools of thought. Hard Green Strategies – reliance on markets, technology, property rights, human ingenuity to increase production efficiency versus Soft Green Strategies-adoption of simpler lifestyles, government subsidies, natural design of buildings (biomimicry), and urban infrastructure to locate public transportation hubs nearest to densely populated neighborhoods to decrease consumption of natural resources. Connecting the influence of place in personal and group identity. Interdisciplinary examination of environmental justice among poor and minority U.S. communities. Social equity distribution of the economic costs and benefits of natural resources management policies. Roles of property rights, economic incentives, religious values, and political power in determining local communities’ capacity to control their environmental destiny.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 or AAEC 1006 or ECON 2005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3424",
+      "subject": "AAEC",
+      "number": "3424",
+      "level": 3000,
+      "title": "Value-Based Management in Agribusiness",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on finance concepts in the agricultural and environmental sectors. Apply the value-based management principles and financial analysis to industry-related cases. Estimate cost of capital, free cash flow and net present value. Team-based approach on a real-world valuation case.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 1006 and ACIS 2115",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006",
+          "ACIS 2115"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3434",
+      "subject": "AAEC",
+      "number": "3434",
+      "level": 3000,
+      "title": "Commodity Market and Price Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The fundamentals of commodity price analysis and investing with an emphasis on agricultural, energy, and metal commodities. Training program for new Commodity Investing by Students (COINS) members including fundamental and technical analysis for commodity futures and developing a trade proposal.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3454",
+      "subject": "AAEC",
+      "number": "3454",
+      "level": 3000,
+      "title": "Small Business Management and Entrepreneurship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Characteristics of small business and entrepreneurs, and their economic importance. Development and operation of a small business, including concepts and principles such as franchising, business plans, capital acquisition, venture capital, financial and administrative control, marketing, human resource and operations management. Taxation, legal, insurance and ethics in small business.",
+      "prerequisites": {
+        "rawText": "AAEC 2434 or ACIS 2115 or MGT 2064",
+        "referencedCourses": [
+          "AAEC 2434",
+          "ACIS 2115",
+          "MGT 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3504",
+      "subject": "AAEC",
+      "number": "3504",
+      "level": 3000,
+      "title": "Agricultural Marketing Channels: From Farm to Plate",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on the economics of the U.S. and Virginia agricultural and food marketing system; agricultural commodity marketing channels from farm gate to consumers’ plates; how prices, consumer tastes and preferences, government regulations, and international competition influence agricultural marketing channels; consumers' responses to food prices; the organization and market structure of the processors, wholesalers, retailers, and food services; alternative food marketing outlets; contracts, vertical integration; ﬁrms' market power and antitrust behavior in agricultural markets; and developing commodity marketing channel analyses.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 1006",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3514",
+      "subject": "AAEC",
+      "number": "3514",
+      "level": 3000,
+      "title": "Agricultural Futures and Options",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The role of agricultural futures and options in risk management strategies for producers and agribusiness firms and in the price discovery process. Fundamental supply-demand and technical analysis of the markets and pricing processes. Development and applications of effective price risk management strategies.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 1006 and AAEC 2434",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006",
+          "AAEC 2434"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3604",
+      "subject": "AAEC",
+      "number": "3604",
+      "level": 3000,
+      "title": "Agricultural Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Legal problems of farm and agribusiness management. Practical application of principles of contracts, negligence, debt instruments and commercial transactions of the farm and agribusiness organization. Selected state and federal laws regulating the farm and agribusiness sector; basic animal laws including state and federal regulation of agricultural sector.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3900",
+      "subject": "AAEC",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3954",
+      "subject": "AAEC",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3974",
+      "subject": "AAEC",
+      "number": "3974",
+      "level": 3000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 3984",
+      "subject": "AAEC",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4135",
+      "subject": "AAEC",
+      "number": "4135",
+      "level": 4000,
+      "title": "International Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4135 International Trade: Factor mobility and commercial policy (tariffs, quotas, export licensing). 4136 International Finance: Liquidity, exchange rates, comparative international living standards, foreign aid.",
+      "prerequisites": {
+        "rawText": "ECON 3104",
+        "referencedCourses": [
+          "ECON 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 4135"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4136",
+      "subject": "AAEC",
+      "number": "4136",
+      "level": 4000,
+      "title": "International Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4135: International Trade: Factor mobility and commercial policy (tariffs, quotas, export licensing). 4136: International Finance: Liquidity, exchange rates, comparative international living standards, foreign aid.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 4136"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4204",
+      "subject": "AAEC",
+      "number": "4204",
+      "level": 4000,
+      "title": "Food and Agricultural Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the role of agriculture in developed economies and how agriculture is affected by policy decisions in the public sector. Emphasis will be placed on the economic impacts of policies on the producers and consumers of agricultural products: price supports, food stamps, tariffs and quotas.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 1006",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4314",
+      "subject": "AAEC",
+      "number": "4314",
+      "level": 4000,
+      "title": "Environmental Economic Analysis and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantitative methods and computer-aided tools used in the economic analysis of environmental/natural resource issues. Economic concepts and analytical tools will be applied to realistic, problem-solving situations. Topics include cost effectiveness analysis, benefit-cost analysis, economic simulations, and statistical analysis.",
+      "prerequisites": {
+        "rawText": "AAEC 3324 or ECON 4014 or FREC 4014",
+        "referencedCourses": [
+          "AAEC 3324",
+          "ECON 4014",
+          "FREC 4014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4324",
+      "subject": "AAEC",
+      "number": "4324",
+      "level": 4000,
+      "title": "Rural and Regional Development Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Description of rural areas, their economic structure, and conditions for broad-based economic development. Emphasis on the role of markets in the development process. Introduction to tools to evaluate policies and programs, identify distributional impacts, identify appropriateness for long-term sustainable development, and analyze tradeoffs between policy goals. Alternatives to public financing in rural areas.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 3004",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 3004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4334",
+      "subject": "AAEC",
+      "number": "4334",
+      "level": 4000,
+      "title": "Applications Rural Development",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Evaluation of policy alternatives and programs for the development of rural areas. Intensive use of analytical techniques, including spreadsheet analysis of trends and changes over time, shift-share analysis of economic change, creation of indices of distribution and poverty for rural areas, creation and use of economic base multipliers, construction, use and interpretation of input-output models.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 3004",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 3004"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AAEC 4324",
+        "referencedCourses": [
+          "AAEC 4324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4354",
+      "subject": "AAEC",
+      "number": "4354",
+      "level": 4000,
+      "title": "Energy Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theoretical and quantitative economic analyses of individual, regional, and global demand and supply of renewable and nonrenewable energy. Markets examined include solar, wind, oil, natural gas, electricity, and nuclear. Policies reviewed include those used to regulate energy prices, tax carbon emissions, and promote technology adoption. Countries studied include the U.S., Europe, and Asia, encompassing both developed and developing nations. Pre: Junior Standing.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 or AAEC 1006 or ECON 2005 or ECON 2006 or MATH 1025 or MATH 1225",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006",
+          "ECON 2005",
+          "ECON 2006",
+          "MATH 1025",
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4404",
+      "subject": "AAEC",
+      "number": "4404",
+      "level": 4000,
+      "title": "Agricultural Management and Problem-solving",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Capstone course for students interested in agribusiness management. Application of concepts, tools, and principles including management, finance, marketing, economic theory, and quantitative methods to applied agricultural decisions. Application of knowledge on selected agricultural projects that enhance team-building, written, and oral communication skills. Senior Standing required.",
+      "prerequisites": {
+        "rawText": "AAEC 2434",
+        "referencedCourses": [
+          "AAEC 2434"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4414",
+      "subject": "AAEC",
+      "number": "4414",
+      "level": 4000,
+      "title": "Applied Economic Problem-Solving",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of economic training and skillsets to real-world needs identified by clientele. Team problem-solving of financial, marketing, production, legal and regulatory, and human resources issues unique to the agriculture sector. Facilitated experiential learning environment focused on student-motivated solutions to economic risk management. This course may be repeated once.",
+      "prerequisites": {
+        "rawText": "AAEC 1005",
+        "referencedCourses": [
+          "AAEC 1005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4424",
+      "subject": "AAEC",
+      "number": "4424",
+      "level": 4000,
+      "title": "Ag Financial Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and concepts of preparing agricultural financial statements. Analysis of these statements following professional farm financial guidelines. Economic concepts applied to management of agricultural enterprises. Leasing, purchasing, borrowing, and lending decisions in agriculture. Agricultural applications of budget, risk management and mitigation, and loan structuring.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and AAEC 2434 and (FIN 3104 or AAEC 3424)",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 2434",
+          "AAEC 3424",
+          "FIN 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4434",
+      "subject": "AAEC",
+      "number": "4434",
+      "level": 4000,
+      "title": "Commodity Investing by Students",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Students make real world investment decisions in agricultural and energy commodities, execute trades, evaluate their performance and report to the VT Foundation. This student-run organization provides leadership opportunities as well as collaboration and networking experiences. Restricted to COINS members. May be repeated with different content up to 8 credit hours. This course is Pass/Fail.",
+      "prerequisites": {
+        "rawText": "AAEC 4504",
+        "referencedCourses": [
+          "AAEC 4504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4464",
+      "subject": "AAEC",
+      "number": "4464",
+      "level": 4000,
+      "title": "Water Resources Policy and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic theory and methods to explain water use decisions. Efficiency, equity, and ethical considerations in U.S. water policy. Analysis of water markets, climate change, and environmental flows from diverse stakeholder perspectives.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 or ECON 2005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 4464",
+        "WATR 4464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4484",
+      "subject": "AAEC",
+      "number": "4484",
+      "level": 4000,
+      "title": "Applied Economic Forecasting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Forecasting economic, agricultural and environmental data using basic linear and non-linear time series models. Programming and computational implementation of time series forecasting model selection techniques and practical applications.",
+      "prerequisites": {
+        "rawText": "(AAEC 1005 or AAEC 1006) and (STAT 3005 or STAT 3604 or STAT 3615 or BIT 2405)",
+        "referencedCourses": [
+          "AAEC 1005",
+          "AAEC 1006",
+          "BIT 2405",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4504",
+      "subject": "AAEC",
+      "number": "4504",
+      "level": 4000,
+      "title": "Agricultural Price and Market Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Estimation of agricultural supply, demand, and price relationships. Determination of market potential for new products. Students identify problem, collect data, estimate statistical relationship(s), interpret results, and write research report. Use of probability distribution in marketing strategy development.",
+      "prerequisites": {
+        "rawText": "AAEC 3004 and STAT 3005 or STAT 3615 or BIT 2405",
+        "referencedCourses": [
+          "AAEC 3004",
+          "BIT 2405",
+          "STAT 3005",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4514",
+      "subject": "AAEC",
+      "number": "4514",
+      "level": 4000,
+      "title": "Advanced Agribusiness Marketing",
+      "credits": {
+        "min": 1,
+        "max": 4
+      },
+      "isVariableCredit": true,
+      "description": "Applying concepts, principles, and analytical tools in developing a marketing plan for an existing or new agricultural product or service. Students will define the market, perform competitive marketing analysis, outline market assumptions and objectives, and perform a three-year financial evaluation of the action plan. Course can be repeated once.",
+      "prerequisites": {
+        "rawText": "AAEC 2434 and AAEC 3504",
+        "referencedCourses": [
+          "AAEC 2434",
+          "AAEC 3504"
+        ]
+      },
+      "corequisites": {
+        "rawText": "3504 or 3004.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-4 Lec, 1-4 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 4 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4804",
+      "subject": "AAEC",
+      "number": "4804",
+      "level": 4000,
+      "title": "Elementary Econometrics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic applications of mathematical and statistical techniques: regression, estimators, hypothesis testing, lagged variables, discrete variables, violations of assumptions, simultaneous equations.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 and (STAT 3615 or STAT 3005 or STAT 3604 or BIT 2405)",
+        "referencedCourses": [
+          "AAEC 1005",
+          "BIT 2405",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STAT 4804"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4814",
+      "subject": "AAEC",
+      "number": "4814",
+      "level": 4000,
+      "title": "Food and Health Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Microeconomics of food, nutrition, and health. Overview of nutrition, nutrition recommendations, and implications for economics based decisions. Individual and household food consumption and health production models. Farm to consumer market linkage models with nutrition and health implications Effectiveness of food and nutrition interventions and policies. Cost-benefit and cost-effectiveness analysis of health interventions. Pre: Senior Standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4964",
+      "subject": "AAEC",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4974",
+      "subject": "AAEC",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4984",
+      "subject": "AAEC",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AAEC 4994",
+      "subject": "AAEC",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/aaec/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

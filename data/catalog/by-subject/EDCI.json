@@ -1,0 +1,761 @@
+{
+  "subject": "EDCI",
+  "scrapedAt": "2026-05-25T21:19:37.771Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "EDCI 1004",
+      "subject": "EDCI",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introduction to Teacher Education and Licensure",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the School of Education and teacher education program including majors that lead to teacher licensure, education career exploration, curriculum requirements of licensure programs, and state licensure regulations. Review of academic skills, university programs, and services that support students and promote student development.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 1984",
+      "subject": "EDCI",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 2004",
+      "subject": "EDCI",
+      "number": "2004",
+      "level": 2000,
+      "title": "Exploring the Teaching Profession- Field Studies in Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Experiential learning,10 hours per week, in a classroom setting, public or private, exposing students to knowledge, skills, and dispositions of professional educators. Allows for integration of experiential and course-based learning in professional identity formation and classroom management. Introduces students to concepts and terminology necessary for upperlevel educator preparation courses.",
+      "prerequisites": {
+        "rawText": "EDCI 1004",
+        "referencedCourses": [
+          "EDCI 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 2414",
+      "subject": "EDCI",
+      "number": "2414",
+      "level": 2000,
+      "title": "Design Based Biotechnical Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "STEM disciplinary content and practice. Design, construction, evaluate, and iterate working biotechnical prototype solutions addressing authentic human needs. Ethical decision-making based on technological solutions appropriate for local and/or global communities.",
+      "pathwaysConcepts": [
+        "4",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 2464",
+      "subject": "EDCI",
+      "number": "2464",
+      "level": 2000,
+      "title": "Foundations of Social Studies Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to social studies and the study of the social world in all its complexity including the interactions between people, cultures, societies, systems, and ways of being in the world. Exploration of what social studies encompasses, including its purposes and foundational concepts to provide a content-based foundation for future social studies teachers in history, geography, civics, and economics.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 2574",
+      "subject": "EDCI",
+      "number": "2574",
+      "level": 2000,
+      "title": "Social Foundations of Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History, purpose, and social contexts of education and the PK 12 public education system in the US. Diversity and culturally sensitive approaches to education. Historical, philosophical, social, cultural, and political factors that influence teachers roles and responsibilities and educational practice.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 2614",
+      "subject": "EDCI",
+      "number": "2614",
+      "level": 2000,
+      "title": "The Reading Mind: Learning to read",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of theories and research that explain how people learn to read. Brief overview of English written systems. Models of skilled reading, literacy stages, and component processes (e.g., decoding, comprehension). Application of course concepts to self, common myths, media, and products. Analysis of patterns of inequity in reading achievement.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 2984",
+      "subject": "EDCI",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Repeatable with different course content.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 99 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3004",
+      "subject": "EDCI",
+      "number": "3004",
+      "level": 3000,
+      "title": "Pre-Education Seminar",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Experiential learning in a PreK through 12th grade setting, public or private, exposing students to knowledge, skills, and dispositions of professional educators. Allows for integration of experiential and course-based learning in professional identity formation and exploration of education careers. NOT student teaching. May be repeated for elective credit up to a maximum of 12 credit hours. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3024",
+      "subject": "EDCI",
+      "number": "3024",
+      "level": 3000,
+      "title": "Issues of Schooling in the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of U.S. education, purposes, and roles. Impacts of historic, social, political, economic, religious, cultural, global, and curricular issues. Analysis of equal educational opportunity. Role of the teaching profession in educational reforms.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3074",
+      "subject": "EDCI",
+      "number": "3074",
+      "level": 3000,
+      "title": "Elementary Curriculum: Methods in Teaching",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Instructional approaches in elementary education curriculum with a focus on: family engagement, collaboration, teaching strategies, behavior and classroom management, assessment, and differentiation. Design and implementation of lesson plans for elementary school students. Professional educator standards.",
+      "corequisites": {
+        "rawText": "EDCI 3964",
+        "referencedCourses": [
+          "EDCI 3964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3144",
+      "subject": "EDCI",
+      "number": "3144",
+      "level": 3000,
+      "title": "Education of Exceptional Learners",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the historical, ethical, legal, and economic models relevant to understanding students with disabilities and meeting their needs to increase their potential for success throughout their lives. Addresses research in early intervention, K-12 instruction, post-secondary education, and transition into work settings.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3234",
+      "subject": "EDCI",
+      "number": "3234",
+      "level": 3000,
+      "title": "Foundations of Reading Instruction (PK-6)",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theoretical, practical, and research-based foundations in the science of reading instruction for grades PK-6. Phonics, phonological awareness, fluency, vocabulary, and comprehension instruction. Assessment-informed instruction, classroom organization, reader-text matching.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3244",
+      "subject": "EDCI",
+      "number": "3244",
+      "level": 3000,
+      "title": "Curriculum and Instruction in Elementary Mathematics, PK-3",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Key concepts in curriculum and instruction in grades PK-3 mathematics: mathematical thinking, number and number sense, computation and estimation, geometry and measurement, mathematical discourse within elementary classrooms, teaching methods in grades PK-3, and the role of mental arithmetic. Teaching mathematics through problem solving, reasoning, and communication to support the learning process for all elementary students.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3254",
+      "subject": "EDCI",
+      "number": "3254",
+      "level": 3000,
+      "title": "Elementary Methods in Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study and analysis of approaches to elementary science instruction; assessment for learning; instructional design and methods; content integration in lesson plans; inquiry based science investigations; planning science investigations; needs of students; and inclusiveness of learners.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3334",
+      "subject": "EDCI",
+      "number": "3334",
+      "level": 3000,
+      "title": "Teaching Language Arts in the Elementary Classroom",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Implementation and assessment of curriculum and instruction in elementary language arts. The six focus areas of writing, speaking, listening, reading, visual representation, and viewing are the core components and the role of childrens literature in language learning.",
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3354",
+      "subject": "EDCI",
+      "number": "3354",
+      "level": 3000,
+      "title": "STEM in Elementary Schools",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "STEM education for pre-service elementary education teachers. Equity in elementary science education. Inquiry as a process in society. Integration of inquiry-based practices and engineering design. STEM activities that mirror real-world problem solving and innovation. Next Generation Science and VDOE standards and engineering models, including 5E Instructional Model, in instructional design.",
+      "prerequisites": {
+        "rawText": "EDCI 3254",
+        "referencedCourses": [
+          "EDCI 3254"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3464",
+      "subject": "EDCI",
+      "number": "3464",
+      "level": 3000,
+      "title": "Elementary Social Studies Teaching Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes foundational concepts of curriculum in Social Studies for preservice teachers to effectively utilize state and federal standards to guide instructional strategies and assessments in the elementary classroom (PK-6). Functions of Virginia state and local governments. Exploration of alternative approaches with instructional strategies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3474",
+      "subject": "EDCI",
+      "number": "3474",
+      "level": 3000,
+      "title": "Assessment and Diagnosis in Elementary Mathematics Classroom",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research in assessment and diagnosis in PK-5 mathematics classroom. Comparison of evaluation and assessment methods and development of assessment models appropriate for use in PK-5 mathematics classrooms. This course involves the exploration of formative and summative assessment tools, formal and informal assessment strategies, and critical issues in assessment practices.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3954",
+      "subject": "EDCI",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3954G",
+      "subject": "EDCI",
+      "number": "3954G",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "7"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3964",
+      "subject": "EDCI",
+      "number": "3964",
+      "level": 3000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 3984",
+      "subject": "EDCI",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4014",
+      "subject": "EDCI",
+      "number": "4014",
+      "level": 4000,
+      "title": "History Lab: Creative Technologies, Hidden Histories, Informal Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of creative technologies to visualize hidden histories in transdisciplinary experiential learning projects. Training in creative technologies, informal learning techniques, interpretation of marginalized histories, and digital cultural heritage design. Consideration of ethical questions involving the representation of diverse social identities, traditions, and histories. Pre: Sophomore Standing.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ART 4014",
+        "HIST 4014"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4024",
+      "subject": "EDCI",
+      "number": "4024",
+      "level": 4000,
+      "title": "Humanizing the K-12 Classroom",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Social, political, economic and historic structures maintaining power and privilege in the K-12 education system that disadvantage students of different racial, ethic, socioeconomic, class, and cultural groups. Classroom environmental design to support equity and social justice. Impact of teacher and student identity development on student learning. Twenty hours of experiential learning in educational setting. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4074",
+      "subject": "EDCI",
+      "number": "4074",
+      "level": 4000,
+      "title": "Culturally Responsive Teaching in the Elementary Classroom",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth, extensive, and reflective understandings of diversity regarding individual students, families, communities, and schooling contexts. Classroom instructional and management strategies that are responsive to cultural and linguistic differences.",
+      "corequisites": {
+        "rawText": "EDCI 4964",
+        "referencedCourses": [
+          "EDCI 4964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4244",
+      "subject": "EDCI",
+      "number": "4244",
+      "level": 4000,
+      "title": "Curriculum and Instruction in Middle School Mathematics (4-8)",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Key concepts in curriculum and instruction in grades 4-8 mathematics to meet diverse learning needs. Algebraic structure of the rational numbers as it relates to childrens understanding of fractions, decimals, and percents, algebraic and proportional reasoning, and probability and data analysis. Childrens mathematical thinking and learning from a psychological perspective. Teaching mathematics through problem solving, reasoning, and communication to promote an inclusive community of learning based on appropriate educational theories.",
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4264",
+      "subject": "EDCI",
+      "number": "4264",
+      "level": 4000,
+      "title": "Intro to Reading Instruction for Elementary Students: A Clinical Course",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of reading theory, terminology, and development in grade K-5. Introduction to reading assessment, text selection, lesson planning, and instructional strategies. Supervised clinical setting instructing K-5 learner. Pre: Junior or senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4274",
+      "subject": "EDCI",
+      "number": "4274",
+      "level": 4000,
+      "title": "Curriculum and Instruction in Middle School Mathematics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Key concepts in curriculum and instruction in middle school mathematics to meet diverse learning needs. Algebraic structure of the rational numbers as it relates to understanding of fractions, decimals, and percents, algebraic and proportional reasoning, and probability and data analysis. Mathematical thinking and learning from a psychological perspective. Teaching mathematics through problem solving, reasoning, and communication to promote an inclusive community of learning based on appropriate educational theories.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4454",
+      "subject": "EDCI",
+      "number": "4454",
+      "level": 4000,
+      "title": "Engineering Leadership in Practice Managing the Technical Design Process",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to management and mentoring skills associated with the application of the engineering design process. Course covers skills necessary for leading diverse teams of people through a technical design project. Managing teams of local high school students through an authentic technical design experience associated with design competitions. Course addresses the practical applications of science, math and engineering, while building and managing teams of people to meet technical project goals. Prerequisite: ME 4015 or similar team-based design experience, or by permission of instructor.",
+      "prerequisites": {
+        "rawText": "ME 4015",
+        "referencedCourses": [
+          "ME 4015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "ME 4454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4554",
+      "subject": "EDCI",
+      "number": "4554",
+      "level": 4000,
+      "title": "Educating Exceptional Learners",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of purpose, rationale, and foci of educational programs, and related services for individuals with special needs. Identification of characteristics associated with each exceptionality covered by the Individuals with Disabilities Education Act. Review of procedures for assessment, eligibility decisions, and the development of individualized educational programs. Overview of selected instructional strategies, environmental adaptations, and special materials. Examination of findings concerning program efficacy. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4724",
+      "subject": "EDCI",
+      "number": "4724",
+      "level": 4000,
+      "title": "Secondary School Teaching Methods I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods for designing and implementing instruction in specific middle and high school content area classrooms (CTE, English, history, social sciences, mathematics, and music) in conjunction with a field experience course. Lesson planning, assessment, differentiation, technology, standards, and adolescent learning development. Reflectivity and collaboration for continuous improvement.",
+      "corequisites": {
+        "rawText": "3964, or EDCT 3964, or EDTE 6964",
+        "referencedCourses": [
+          "EDCT 3964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4734",
+      "subject": "EDCI",
+      "number": "4734",
+      "level": 4000,
+      "title": "Adolescent Literacy and Reading",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Challenges to adolescent literacy. Basic processes related to reading, comprehension, vocabulary development, and conceptual knowledge; diverse adolescent readers. Effective plans and teaching strategies for comprehending and using information in disciplinary texts in middle and high school content area classrooms. (Career and Technical, English, history, math, music, and science).",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4744",
+      "subject": "EDCI",
+      "number": "4744",
+      "level": 4000,
+      "title": "Secondary School Teaching Methods II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods for designing and implementing a variety of instructional approaches in specific middle and high school content area classrooms (CTE, English, history, social sciences, mathematics, and music) in conjunction with student teaching internship. Emphasis on planning and implementation of instructional design, research inquiry, classroom management, integration of technology. Unit plan development and evaluation.",
+      "prerequisites": {
+        "rawText": "EDCI 4724",
+        "referencedCourses": [
+          "EDCI 4724"
+        ]
+      },
+      "corequisites": {
+        "rawText": "3964 or EDTE 3964",
+        "referencedCourses": [
+          "EDTE 3964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4964",
+      "subject": "EDCI",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4974",
+      "subject": "EDCI",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4984",
+      "subject": "EDCI",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Repeatable with different content.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 99 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "EDCI 4994",
+      "subject": "EDCI",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/edci/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

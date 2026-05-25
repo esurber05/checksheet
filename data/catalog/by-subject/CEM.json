@@ -1,0 +1,668 @@
+{
+  "subject": "CEM",
+  "scrapedAt": "2026-05-25T21:19:19.151Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "CEM 1974",
+      "subject": "CEM",
+      "number": "1974",
+      "level": 1000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 2104",
+      "subject": "CEM",
+      "number": "2104",
+      "level": 2000,
+      "title": "Introduction to Construction Engineering and Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the construction engineering and management profession specialty areas. Introduction to the undergraduate program of study. Fundamentals of effective oral, written and visual communication skills. Professionalism, ethics, and legal issues relating to the industry. Contemporary issues facing the industry. Engineering library resources. Project drawings, computer aided design (CAD), and responding to Requests for Proposals (RFPs).",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 2404",
+      "subject": "CEM",
+      "number": "2404",
+      "level": 2000,
+      "title": "Construction Project Documents",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Interpret design documents for construction projects. Analyze project documents to select appropriate construction engineering methods. Quantify materials using appropriate methods and technology. Review and comparison of construction documentation in various industry sectors. Identify information required for construction that is missing or ambiguous in the design documentation. Create and analyze a request for information (RFI) to modify and update the project documentation.",
+      "corequisites": {
+        "rawText": "CEM 2104",
+        "referencedCourses": [
+          "CEM 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 2714",
+      "subject": "CEM",
+      "number": "2714",
+      "level": 2000,
+      "title": "Construction Safety Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to construction safety and the importance of safety, health, and wellness in the construction industry. Identify systematic safety issues and safety management systems, evaluation of safety systems through MEAD (MacroErgonomic Analysis and Design) methodology to recommend safety management systems to improve safety outcomes on construction operations. Assess health, safety, and wellness initiatives for construction worker safety and well-being. Pre: Sophomore Standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 2824",
+      "subject": "CEM",
+      "number": "2824",
+      "level": 2000,
+      "title": "Construction Site Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geospatial information, Global Positioning Systems (GPS), surveying, and aerial photography for condition assessment, solving construction engineering problems, and managing construction control processes. Topographic survey methodology for field layout and stakeout processes in construction. Geospatial data collection techniques for construction risk analysis. Document existing site conditions. Use of software, and custom program tools. Individual and team projects and presentations.",
+      "corequisites": {
+        "rawText": "2104 or BC 1224 or CEE 2834.",
+        "referencedCourses": [
+          "BC 1224",
+          "CEE 2834"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 2974",
+      "subject": "CEM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 2984",
+      "subject": "CEM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3024",
+      "subject": "CEM",
+      "number": "3024",
+      "level": 3000,
+      "title": "Construction Estimating and Scheduling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to estimating and scheduling of construction operations using construction documents. Quantity takeoff, resource and crew enumeration, network logic, activity durations, Critical Path Method (CPM) and Location-Based Management System (LBMS). Bid assembly with markups. Construction decisions based on ethical principles. A grade of C- or better is required in prerequisite.",
+      "prerequisites": {
+        "rawText": "CEM 2104 or BC 2024",
+        "referencedCourses": [
+          "BC 2024",
+          "CEM 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3064",
+      "subject": "CEM",
+      "number": "3064",
+      "level": 3000,
+      "title": "Intro to Lean Construction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Lean Construction thinking, principles, and practices, definitions, history, theory, and fundamentals related to project production systems. Operating system, organization practices, commercial terms. Pull planning and Last Planner System, the Big Room concept, and Integrated Form of Agreement (IFOA). Conventional Lean practices A3 problem solving, 5 Whys Root Cause Analysis, and 5S Methodology. Continuous improvement, respect for people, elimination of waste, reducing variability and increasing plan reliability.",
+      "prerequisites": {
+        "rawText": "CEM 2104 or BC 2024",
+        "referencedCourses": [
+          "BC 2024",
+          "CEM 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3074",
+      "subject": "CEM",
+      "number": "3074",
+      "level": 3000,
+      "title": "Global Design and Construction for Sustainable Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A collaborative approach for applying engineering systems and design to global issues. Design, engineering, and construction focused on social responsibility in the global village. Multi-disciplinary teamwork requiring identification of client needs and design considerations, development of site layouts, selection of resources, management of schedule, cost, materials, personnel, quality, and jobsite safety. Applied conflict handling skills and self-reflection on social responsibility, service, intercultural global awareness, and evaluating the success of sustainable projects. May be repeated one time with different content for a maximum of six credits. Multi-day field trip required. Pre: Junior Standing.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3084",
+      "subject": "CEM",
+      "number": "3084",
+      "level": 3000,
+      "title": "Construction Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Engineering economics, accounting, finance, and entrepreneurship. Construction financial management and financial decision-making. Construction financial risk, estimation, and generation of financial statements. Construction company creation and business plan development. Assessment of construction project delivery methods and impacts of retainage, bonding, and taxation.",
+      "prerequisites": {
+        "rawText": "CEM 2104 or BC 2024",
+        "referencedCourses": [
+          "BC 2024",
+          "CEM 2104"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3134",
+      "subject": "CEM",
+      "number": "3134",
+      "level": 3000,
+      "title": "Temporary Structures in Construction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to temporary structure systems used to support construction operations. Concrete formwork, scaffolding systems, excavation shoring systems, dewatering techniques, and hoisting operations. Assessment of systems, cost, quality, safety, sustainability, and schedule impacts.",
+      "prerequisites": {
+        "rawText": "(BC 2044 and BC 2024 and BC 2214) or CEE 3684",
+        "referencedCourses": [
+          "BC 2024",
+          "BC 2044",
+          "BC 2214",
+          "CEE 3684"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BC 3134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3154",
+      "subject": "CEM",
+      "number": "3154",
+      "level": 3000,
+      "title": "Smart Construction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to smart construction, definitions, principles and practices. Exploration of inefficiencies associated with the traditional approaches to construction. Intelligence requirements of the building lifecycle. Smart planning and contracting practices, and facilitating technologies. Smart design principles, techniques, technologies, strategies for involving down-stream stakeholders in the design of buildings for constructability and maintainability. Overview of digital infrastructure, types, selection and role in integrating the design and construction phases.",
+      "prerequisites": {
+        "rawText": "BC 2114",
+        "referencedCourses": [
+          "BC 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3164",
+      "subject": "CEM",
+      "number": "3164",
+      "level": 3000,
+      "title": "Construction Health and Safety",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to fundamentals of Occupational Health and Safety (OHS) for the construction industry. History of OHS regulation and specific governmental regulations, standards and laws. Health, safety, and environmental hazards identification. Methods of quantifying exposure and estimating risk. Design and prioritization of control solutions to mitigate hazards. Contemporary issues and theoretical frameworks in the field of OHS management relevant to the industry. Prevention through Design, behavior-based safety, different construction project delivery methods, safety climate and culture, control banding, and systems safety.",
+      "corequisites": {
+        "rawText": "CEM 2104 or BC 2024",
+        "referencedCourses": [
+          "BC 2024",
+          "CEM 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3714",
+      "subject": "CEM",
+      "number": "3714",
+      "level": 3000,
+      "title": "Controlling Construction Safety Hazards",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Perceive, recognize (cognitive recall), and examine/classify (decision making) construction safety hazards and their underlying energy sources. To control hazards, the construction hierarchy of controls guides a safety by design methodology. Accident investigation or forensic processes using design-based arguments to determine root causes of incidents. Pre: Sophomore Standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 3984",
+      "subject": "CEM",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4024",
+      "subject": "CEM",
+      "number": "4024",
+      "level": 4000,
+      "title": "Construction Law and Contract Administration",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of contract law, torts, and statutory law in construction. Legal context, parties, interpreting contracts and specifications, contract changes, differing site conditions, delays, disruptions, and acceleration. Dispute avoidance and resolution. Ethics and risk management. Pre: Senior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4314",
+      "subject": "CEM",
+      "number": "4314",
+      "level": 4000,
+      "title": "Design of Wood Structures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and design of wood structures comprised of solid wood and/or composite wood products. Evaluation of mechanical properties of wood materials. Design of individual tension, compression and bending members, and wood-steel dowel connections. Lateral loading design of diaphragms and shearwalls.",
+      "prerequisites": {
+        "rawText": "SBIO 3314 or CEE 3404",
+        "referencedCourses": [
+          "CEE 3404",
+          "SBIO 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SBIO 4314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4445",
+      "subject": "CEM",
+      "number": "4445",
+      "level": 4000,
+      "title": "CEM Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4445: Preliminary design of infrastructure, planning and scheduling of design and construction, cost estimating and budgeting, life cycle cost analysis, application of technology to support construction, maintenance, and facilities operation, and project risk management. Collaboration-based course utilizing design-build project delivery methodology. Design and construction considerations include public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. Underpinning themes include safety and constructability by design, sustainability, resilience, and reliability. 4446: Final design of infrastructure, planning and scheduling of design and construction, cost estimating and budgeting, life cycle cost analysis, application of technology to support construction, maintenance, and facilities operation, and project risk management. Collaboration-based course utilizing design-build project delivery methodology. Design and construction considerations include public health, safety, and welfare, as well as global, cultural, social, ethical, environmental, and economic factors. Underpinning themes include safety and constructability by design, sustainability, resilience, and reliability. The final deliverable includes a comprehensive written proposal and oral presentation. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "CEM 3024",
+        "referencedCourses": [
+          "CEM 3024"
+        ]
+      },
+      "corequisites": {
+        "rawText": "CEM 3134",
+        "referencedCourses": [
+          "CEM 3134"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4446",
+      "subject": "CEM",
+      "number": "4446",
+      "level": 4000,
+      "title": "CEM Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4445: Preliminary design of infrastructure, planning and scheduling of design and construction, cost estimating and budgeting, life cycle cost analysis, application of technology to support construction, maintenance, and facilities operation, and project risk management. Collaboration-based course utilizing design-build project delivery methodology. Design and construction considerations include public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. Underpinning themes include safety and constructability by design, sustainability, resilience, and reliability. 4446: Final design of infrastructure, planning and scheduling of design and construction, cost estimating and budgeting, life cycle cost analysis, application of technology to support construction, maintenance, and facilities operation, and project risk management. Collaboration-based course utilizing design-build project delivery methodology. Design and construction considerations include public health, safety, and welfare, as well as global, cultural, social, ethical, environmental, and economic factors. Underpinning themes include safety and constructability by design, sustainability, resilience, and reliability. The final deliverable includes a comprehensive written proposal and oral presentation. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "CEM 3084 and CEM 4445 and CEM 3134",
+        "referencedCourses": [
+          "CEM 3084",
+          "CEM 3134",
+          "CEM 4445"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4624",
+      "subject": "CEM",
+      "number": "4624",
+      "level": 4000,
+      "title": "Construction Robotics and Automation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Automation and its application in construction. Automated problem-solving methodologies in Building Information Modeling (BIM) and data interoperability solutions. Robotics and the application of robotic technologies in construction considering safety and technical operation requirements in construction environments and robot programming and controls. Unmanned Aerial Vehicles (UAVs) or drones in construction projects. Emerging areas of research in the field of construction automation and robotics. No programming background is required.",
+      "prerequisites": {
+        "rawText": "BC 2114",
+        "referencedCourses": [
+          "BC 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4634",
+      "subject": "CEM",
+      "number": "4634",
+      "level": 4000,
+      "title": "Data Analysis and Visualization for Construction and Facilities Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to data analysis and visualization theories and techniques applied in the construction and facilities management domain. Data collection, processing, storage, analysis, and visualization methods in the context of construction and building management. Data-driven decision making.",
+      "prerequisites": {
+        "rawText": "(CEM 2104 or BC 2024 or CEE 3014) and (BC 2114 or CEE 3804)",
+        "referencedCourses": [
+          "BC 2024",
+          "BC 2114",
+          "CEE 3014",
+          "CEE 3804",
+          "CEM 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4644",
+      "subject": "CEM",
+      "number": "4644",
+      "level": 4000,
+      "title": "Artificial Intelligence for Design, Construction, and Operations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluate the basic concepts and computational tools of artificial intelligence (AI), machine learning, and deep learning in the architecture, engineering, and construction (AEC) industry. Appraise the history and potential to improve automation, digitalization, and diversity and inclusion in the industry. Develop practical expertise in formulating, deploying, and evaluating deep learning models, including convolutional neural networks, pretrained computer vision models, sequential models, and generative AI, through hands-on projects such as infrastructure health monitoring, safety management, and building energy consumption prediction. Foster real-world application of knowledge through project-based learning.",
+      "prerequisites": {
+        "rawText": "(MATH 2114) and (ENGE 1215 or CS 1014 or ENGE 1414 or CS 1054 or CS 1064 or CS 1114)",
+        "referencedCourses": [
+          "CS 1014",
+          "CS 1054",
+          "CS 1064",
+          "CS 1114",
+          "ENGE 1215",
+          "ENGE 1414",
+          "MATH 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4714",
+      "subject": "CEM",
+      "number": "4714",
+      "level": 4000,
+      "title": "Construction Safety Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of construction safety culture and climate and the role of organizational leadership in ethical safety practices. Analyze safety cultures within the construction industry for recommendations of change to shape safety practices.",
+      "prerequisites": {
+        "rawText": "CEM 2104 or CEM 2714 or BC 2024",
+        "referencedCourses": [
+          "BC 2024",
+          "CEM 2104",
+          "CEM 2714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4724",
+      "subject": "CEM",
+      "number": "4724",
+      "level": 4000,
+      "title": "Construction Industry Futures: Safety, Health, and Wellness",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluate the future of the construction industry dynamics (trends, drivers, and disruptors) relative to their impacts on safety, health, and wellness. Compare global construction safety performances and practices. Design adaptable safety, health, and well-being management systems of the future based on technology-human interfaces, climate change, and globalization in construction.",
+      "prerequisites": {
+        "rawText": "CEM 2104 or CEM 2714 or BC 2024",
+        "referencedCourses": [
+          "BC 2024",
+          "CEM 2104",
+          "CEM 2714"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4964",
+      "subject": "CEM",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4974",
+      "subject": "CEM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4984",
+      "subject": "CEM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "CEM 4994",
+      "subject": "CEM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cem/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

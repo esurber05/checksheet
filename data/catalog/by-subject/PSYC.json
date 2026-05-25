@@ -1,0 +1,1311 @@
+{
+  "subject": "PSYC",
+  "scrapedAt": "2026-05-25T21:22:05.453Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PSYC 1004",
+      "subject": "PSYC",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introductory Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The scientific study of behavior, with a focus on behavioral research methods, analysis, theoretical interpretations, and applications. Survey of brain structures and their functions, sensory mechanisms, developmental processes, classical and operant conditioning, social processes and cultural norms, approaches to psychotherapy, stress and coping, and applications of psychological science.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 1024",
+      "subject": "PSYC",
+      "number": "1024",
+      "level": 1000,
+      "title": "Pathways Through and Beyond the Psychology Major",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "First Year Experience course introducing students to the psychology major. Discussion of university resources designed to promote student success. Emphasis on career exploration, and finding relevant research and field experiences outside the classroom.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 1094",
+      "subject": "PSYC",
+      "number": "1094",
+      "level": 1000,
+      "title": "Principles of Psychological Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Philosophical foundation and ethical issues in psychological research. Research design and methodology. Analytic approaches to developing, understanding, interpreting psychological data.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 or PSYC 2004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 1524",
+      "subject": "PSYC",
+      "number": "1524",
+      "level": 1000,
+      "title": "Language and the Mind",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of what is unique about human language and the evidence that language affects thought. Investigation of how listeners categorize sounds, parse sentences, and access meaning. Examination of what brain damage and speech errors reveal about language in the brain and mind.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 1524"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2014",
+      "subject": "PSYC",
+      "number": "2014",
+      "level": 2000,
+      "title": "Psychology of Social Interventions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the psychological science that underlies behavioral interventions in non-clinical settings. Theories, methods, and applications as they relate to diverse domains such as health, education, prejudice reduction, and the environment. Methodological issues relating to intervention research in psychological science; understanding and limiting possible sources of bias. Relevance and limitations of psychological science for related public policy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2024",
+      "subject": "PSYC",
+      "number": "2024",
+      "level": 2000,
+      "title": "Psychology Transfer Student Course",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "First Year Experience course introducing transfer students to the psychology major. Discussion of university resources designed to promote the successful transition from another school to Virginia Tech. Emphasis on career exploration, professional development, and finding relevant research and field experiences outside the classroom.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2034",
+      "subject": "PSYC",
+      "number": "2034",
+      "level": 2000,
+      "title": "Developmental Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles of human psychological development from the prenatal period through old age. Interactions between biological and environmental influences on the developing individual. Research methods in developmental science. Cultural influence on parenting practices, identity formation, and attitudes toward the elderly. Survey of recent literature within the areas of perceptual, cognitive, neurobiological, social, and emotional development.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2044",
+      "subject": "PSYC",
+      "number": "2044",
+      "level": 2000,
+      "title": "Psychology of Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of fundamental concepts, phenomena, and principles of learning, such as reinforcement/punishment, classical conditioning, and cognitive explanations of retention/forgetting. Traditional learning research, with particular emphasis on methodology and ethical considerations. The behaviorist perspective, and neurobiological and cognitive approaches to understanding learning. The ethical and responsible use of animal models in learning research, and practical applications of learning theory.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2054",
+      "subject": "PSYC",
+      "number": "2054",
+      "level": 2000,
+      "title": "Psychology of Personality",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of human personality and psychological adjustment: theory and research. Behavioral, cognitive, humanistic, and environmental determinants of personality. Psychological adjustment and personality development.",
+      "prerequisites": {
+        "rawText": "PSYC 2004 or PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2064",
+      "subject": "PSYC",
+      "number": "2064",
+      "level": 2000,
+      "title": "Introduction to Neuroscience of Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to biological factors that produce behavior. Neuroanatomy and neurophysiology. The development of the nervous system, and neuroplasticity. Basic neural processes involved in interpreting information, and making decisions. Conducting neuroscience research, and evaluating neuroscience-related claims in the popular media. The ethical and responsible use of nonhuman animal subjects; the ethical application of research findings in neuroscience to current problems such as psychopathy and neurodegenerative disease.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2074",
+      "subject": "PSYC",
+      "number": "2074",
+      "level": 2000,
+      "title": "Animal Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of animal behavior: Comparative psychology and ethology, behavioral genetics, evolution of behavior, ecological aspects of behavior, predation, reproduction, and parental care. Some consideration is given to the relevance of animal behavior to human behavior.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2084",
+      "subject": "PSYC",
+      "number": "2084",
+      "level": 2000,
+      "title": "Social Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the social behavior of the individual and the group: social perception and forming judgements of others, attitude formation and change, interpersonal attraction, applied psychology. Cultural influences on attitudes toward diversity, prosocial behavior, prejudice, and aggression and conflict. Application of psychological theories and research to address current social problems.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2124",
+      "subject": "PSYC",
+      "number": "2124",
+      "level": 2000,
+      "title": "Introduction to I-O Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introductory overview of the field of industrial and organizational psychology, which focuses on the application of psychological principles to the study of work. Topics of relevance to employees and organizations that are covered in this course include historical and current research methods in I-O psychology, individual differences, job analysis, job performance measurement, staffing, training, employee motivation, emotions and work, stress and employee well-being, leadership, and team processes.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 1094 or HD 3014 or SOC 3024)",
+        "referencedCourses": [
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2964",
+      "subject": "PSYC",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2974",
+      "subject": "PSYC",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2974H",
+      "subject": "PSYC",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2984",
+      "subject": "PSYC",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2994",
+      "subject": "PSYC",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 2994H",
+      "subject": "PSYC",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3014",
+      "subject": "PSYC",
+      "number": "3014",
+      "level": 3000,
+      "title": "Psychopathology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of various types of psychological disorders and of contrasting theoretical views and representative research on the etiology and prognosis of these disorders. Analysis of multiple interacting factors that influence psychopathology, including biology, cognition, and sociocultural factors. Using the Diagnostic and Statistical Manual (DSM-5) to diagnose psychopathologies accurately. Ethical issues pertaining to clinical practice.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3024",
+      "subject": "PSYC",
+      "number": "3024",
+      "level": 3000,
+      "title": "Human Behaviors and Natural Environments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of the effects of natural and human-made environments on health and well-being. Historical changes in human-environment relations. Utilizing psychological research methods to investigate the possible impacts of urbanization on human health and well-being. The impacts of culture, region, and socioeconomics on how we utilize our environments, and our ability to change them. Research pertaining to our relationship with nature, use of natural resources, and strategies to encourage behaviors promoting environmental sustainability.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3034",
+      "subject": "PSYC",
+      "number": "3034",
+      "level": 3000,
+      "title": "Psychological Disorders of Children",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An examination of theory, research, and practice as related to the assessment, treatment, and prevention of psychological disorders of children. Special emphasis on the understanding of child behavior disorders from a developmental, clinical-experimental point of view.",
+      "prerequisites": {
+        "rawText": "(PSYC 2004 or PSYC 1004) and PSYC 3014",
+        "referencedCourses": [
+          "PSYC 1004",
+          "PSYC 3014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3054",
+      "subject": "PSYC",
+      "number": "3054",
+      "level": 3000,
+      "title": "Health Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Major theories, strategies, and methods for understanding psychological contributions to health and disease; psychological approaches to the treatment and prevention of disease and unintentional injuries, and health and safety promotion.",
+      "prerequisites": {
+        "rawText": "PSYC 2004 or PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3064",
+      "subject": "PSYC",
+      "number": "3064",
+      "level": 3000,
+      "title": "Careers in Psychology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of career opportunities in psychological science; employment in psychology; graduate work in psychology; Professional development (e.g., resume writing, choosing a graduate program; using the Bureau of Labor Statistics (BLS) Occupational Handbook); fiscal planning, interview preparation and practice, comparing job offers, gap years, professional use of social media, presentation skill development. Does not count for Psychology electives. Pre: Junior standing. Psychology Majors only.",
+      "prerequisites": {
+        "rawText": "PSYC 1004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3094",
+      "subject": "PSYC",
+      "number": "3094",
+      "level": 3000,
+      "title": "Advanced Research Methods in Psychological Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced research and analytical methods. Emphasis on methods for specific research and/or practical questions, critical evaluation of research publications. Extended coverage of design and analysis principles and skills, selection and completion of appropriate statistical tests for given data sets. Student-driven empirical report including literature review, methods, analysis, interpretation, and implications for future research. PSYC majors only.",
+      "prerequisites": {
+        "rawText": "(PSYC 1094 or PSYC 2094) or STAT 3604 or STAT 3615)",
+        "referencedCourses": [
+          "PSYC 1094",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 3984",
+      "subject": "PSYC",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4024",
+      "subject": "PSYC",
+      "number": "4024",
+      "level": 4000,
+      "title": "Industrial and Organizational Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of psychological theories, research findings, and methods relevant to studying the behavior of individuals in organizations. Topics covered may include prediction of job performance, personnel testing, training and development, and leadership.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 1094 or HD 3014 or SOC 3204) and (STAT 2004 or STAT 3005 or STAT 3604 or STAT 3615 or BIT 2405)",
+        "referencedCourses": [
+          "BIT 2405",
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "SOC 3204",
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4034",
+      "subject": "PSYC",
+      "number": "4034",
+      "level": 4000,
+      "title": "Special Topics in Developmental Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Rotating topics in the development of perceptual, cognitive, and socioemotional functioning throughout the life-span. In-depth, critical evaluation of current research literature and theory within various major age-spans. Developmental research methods, and research ethics. Cross cultural and contextual effects on development. May be repeated with different topics for a maximum of 6 credit hours.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and PSYC 2034 and (PSYC 1094 or HD 3014 or SOC 3204)",
+        "referencedCourses": [
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2034",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4044",
+      "subject": "PSYC",
+      "number": "4044",
+      "level": 4000,
+      "title": "Advanced Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical analysis of basic paradigms of Pavlovian and Instrumental Conditioning with emphasis on general theories of learning and issues involved in cognition, reinforcement, and memory.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and PSYC 2044 and (PSYC 1094 or HD 3014 or SOC 3204)",
+        "referencedCourses": [
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2044",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4054",
+      "subject": "PSYC",
+      "number": "4054",
+      "level": 4000,
+      "title": "Personality Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research techniques used in contemporary personality psychology: case histories, correlational methods, experimentation, archival studies, and psychobiography.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and PSYC 2054 and (PSYC 1094 or HD 3014 or SOC 3204)",
+        "referencedCourses": [
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2054",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4064",
+      "subject": "PSYC",
+      "number": "4064",
+      "level": 4000,
+      "title": "Physiological Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Presentation of concepts important for the study of neuroscience and behavior with a special emphasis on the classic topics of physiological psychology: brain-behavior relations, sensory integration, physiological correlates of motivation and emotion.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 2064 or NEUR 2025) and (PSYC 1094 or HD 3014 or SOC 3204)",
+        "referencedCourses": [
+          "HD 3014",
+          "NEUR 2025",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2064",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4074",
+      "subject": "PSYC",
+      "number": "4074",
+      "level": 4000,
+      "title": "Sensation and Perception",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of sensory and perceptual systems and their integration in influencing behavior. Emphasis on sensory receptor characteristics, neural structure, psychophysical data, perceptual phenomena and issues, theories about the human perceptual process.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 2064 or NEUR 2025) and (PSYC 1094 or HD 3014 or SOC 3204)",
+        "referencedCourses": [
+          "HD 3014",
+          "NEUR 2025",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2064",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4084",
+      "subject": "PSYC",
+      "number": "4084",
+      "level": 4000,
+      "title": "Advanced Social Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines social behavior from four major theoretical orientations: reinforcement, field theory, cognitive, and role theory. Topics may include social learning, social exchange theories, group processes, attitude, and person perception.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 1094 or HD 3014 or SOC 3204) and PSYC 2084",
+        "referencedCourses": [
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2084",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4094",
+      "subject": "PSYC",
+      "number": "4094",
+      "level": 4000,
+      "title": "Theory of Psychological Measurement",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory of psychological measurement and techniques used to develop and evaluate psychological measures. Coverage of standardization, measurement scales, reliability, validity, score transformations, composite scores, weighted scores, and test construction.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 1094 or HD 3014 or SOC 3204) and (STAT 2004 or STAT 3005 or STAT 3604 or STAT 3615 or BIT 2405)",
+        "referencedCourses": [
+          "BIT 2405",
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "SOC 3204",
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4114",
+      "subject": "PSYC",
+      "number": "4114",
+      "level": 4000,
+      "title": "Cognitive Psychology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An experimentally-oriented survey of human cognitive processes which include attention, memory, and decision making. Role of individual difference variables in each area.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and PSYC 2044 and (PSYC 1094 or HD 3014 or SOC 3204)",
+        "referencedCourses": [
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "PSYC 2044",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4134",
+      "subject": "PSYC",
+      "number": "4134",
+      "level": 4000,
+      "title": "Language Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of theories, mechanisms, and processes in human language development. Empirical overview of phonology, semantics, syntax, and pragmatics. Developmental trajectories of mono- and multilingual children. Cultural constraints on language. Perception of language and production of language, in typical and atypical subpopulations (e.g., hearing impairment). Junior/Senior Standing.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 or PSYC 2004",
+        "referencedCourses": [
+          "PSYC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 4134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4154",
+      "subject": "PSYC",
+      "number": "4154",
+      "level": 4000,
+      "title": "Bilingual Development and Cognition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of the process of language acquisition for children exposed to two languages during their early development. Cognitive development in children growing up in bilingual homes. Exploration of the effects of family factors, social experiences, cultural language norms, and language policies on bilingual children and adults in the current transnational environment of immigration and globalization. The effects of heritage language preservation on cultural identity and issues of equity related to linguistic discrimination in the United States.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 or PSYC 1524 or ENGL 1524 or ENGL 1504 or HD 1004 or SPAN 3494",
+        "referencedCourses": [
+          "ENGL 1504",
+          "ENGL 1524",
+          "HD 1004",
+          "PSYC 1004",
+          "PSYC 1524",
+          "SPAN 3494"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4194",
+      "subject": "PSYC",
+      "number": "4194",
+      "level": 4000,
+      "title": "Predicting Social Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the process of predicting human choices, preferences, and actions in social contexts. Applications of measurement theory to data preparation, formatting, and scaling. Implications of psychological biases for data transformation and cleaning. Theory-guided predictor variable selection and development. Applications of machine learning to social settings. Evaluating prediction quality, bias, and generalizability. Developing predictive models in software. Ethical and societal implications of predicting human behavior.",
+      "prerequisites": {
+        "rawText": "PSYC 1004 and (PSYC 1094 or HD 3014 or SOC 3204) and (STAT 2004 or STAT 3005 or STAT 3604 or STAT 3615 or BIT 2405)",
+        "referencedCourses": [
+          "BIT 2405",
+          "HD 3014",
+          "PSYC 1004",
+          "PSYC 1094",
+          "SOC 3204",
+          "STAT 2004",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BDS 4194"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4214",
+      "subject": "PSYC",
+      "number": "4214",
+      "level": 4000,
+      "title": "Cognitive Psychology Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Design, operation, and analysis of experiments to study human cognitive processes (e.g., attention, memory, and decision-making).",
+      "corequisites": {
+        "rawText": "PSYC 4114",
+        "referencedCourses": [
+          "PSYC 4114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4234",
+      "subject": "PSYC",
+      "number": "4234",
+      "level": 4000,
+      "title": "Laboratory in Developmental Psychology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Research design and implementation in the study of perceptual and motor development, language development, cognitive development, and social development.",
+      "prerequisites": {
+        "rawText": "(PSYC 2004 or PSYC 1004) and PSYC 2034",
+        "referencedCourses": [
+          "PSYC 1004",
+          "PSYC 2034"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PSYC 4034",
+        "referencedCourses": [
+          "PSYC 4034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4244",
+      "subject": "PSYC",
+      "number": "4244",
+      "level": 4000,
+      "title": "Laboratory in Advanced Learning",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Experimental techniques for studying the development, maintenance, and retention of behavior change in humans and animals. Laboratory exercises in Pavlovian and Instrumental Conditioning, verbal learning and memory.",
+      "corequisites": {
+        "rawText": "PSYC 4044",
+        "referencedCourses": [
+          "PSYC 4044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4254",
+      "subject": "PSYC",
+      "number": "4254",
+      "level": 4000,
+      "title": "Personality Research Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory course in personality research techniques. Emphasis on experimental, archival, questionnaire, and psychobiographical approaches.",
+      "corequisites": {
+        "rawText": "PSYC 4054",
+        "referencedCourses": [
+          "PSYC 4054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4264",
+      "subject": "PSYC",
+      "number": "4264",
+      "level": 4000,
+      "title": "Laboratory in Physiological Psychology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Experimental techniques in the area of physiological psychology including: handling and care of laboratory animals, anesthetic and surgical techniques, and measurement of physiological variables.",
+      "corequisites": {
+        "rawText": "PSYC 4064",
+        "referencedCourses": [
+          "PSYC 4064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4274",
+      "subject": "PSYC",
+      "number": "4274",
+      "level": 4000,
+      "title": "Laboratory in Sensation and Perception",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the major experimental techniques and phenomena of sensation and perception. Emphasis on psychophysical methods, signal detection, dark adaptation, perceptual illusions.",
+      "corequisites": {
+        "rawText": "PSYC 4074",
+        "referencedCourses": [
+          "PSYC 4074"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4284",
+      "subject": "PSYC",
+      "number": "4284",
+      "level": 4000,
+      "title": "Laboratory in Social Psychology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Design, performance, and analysis of experiments in social psychology. Various methodologies used in social research (e.g., laboratory experimentation, field observations) will be studied through actual performance of experiments.",
+      "corequisites": {
+        "rawText": "PSYC 4084",
+        "referencedCourses": [
+          "PSYC 4084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4294",
+      "subject": "PSYC",
+      "number": "4294",
+      "level": 4000,
+      "title": "Laboratory in Psychological Measurement",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Design and implementation of psychological assessment devices including issues of test construction, reliability, validity, standardizing, and detecting test bias.",
+      "prerequisites": {
+        "rawText": "(PSYC 2004 or PSYC 1004) and (PSYC 2094 or PSYC 1094) and (STAT 2004 or STAT 3604 or STAT 2405)",
+        "referencedCourses": [
+          "PSYC 1004",
+          "PSYC 1094",
+          "STAT 2004",
+          "STAT 3604"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PSYC 4094",
+        "referencedCourses": [
+          "PSYC 4094"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4354",
+      "subject": "PSYC",
+      "number": "4354",
+      "level": 4000,
+      "title": "Senior Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For Psyc majors. Intended to provide in-depth coverage and discussion of a small set of topics selected by members of the seminar.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4364",
+      "subject": "PSYC",
+      "number": "4364",
+      "level": 4000,
+      "title": "Senior Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For Psyc majors. Intended to provide in-depth coverage and discussion of a small set of topics selected by members of the seminar.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4454",
+      "subject": "PSYC",
+      "number": "4454",
+      "level": 4000,
+      "title": "Neuroeconomics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Neural processes related to reward, learning, reflection, delay of gratification, and social interaction. Clinical uses of neuroeconomics research techniques. Implications of neuroeconomics, policy, law and business.",
+      "prerequisites": {
+        "rawText": "NEUR 2026 or ECON 3104",
+        "referencedCourses": [
+          "ECON 3104",
+          "NEUR 2026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 4454",
+        "NEUR 4454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4964",
+      "subject": "PSYC",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4974",
+      "subject": "PSYC",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4974H",
+      "subject": "PSYC",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4984",
+      "subject": "PSYC",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4994",
+      "subject": "PSYC",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PSYC 4994H",
+      "subject": "PSYC",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/psyc/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "subject": "HUM",
+  "scrapedAt": "2026-05-25T21:20:40.170Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "HUM 1024",
+      "subject": "HUM",
+      "number": "1024",
+      "level": 1000,
+      "title": "Introductory Humanities: Great Books",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the humanities through the topic of “Great Books.” Students will closely analyze primary canonical texts from the West and from the global south. Political, religious, philosophical, and literary works by important writers and communities from across the globe will be explored to understand the human condition and self-formation. Such engagement with primary texts will be put into the context of larger topics such as class, race, and gender in addition to colonialism, decolonialism, and postcolonial modernity.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1054",
+      "subject": "HUM",
+      "number": "1054",
+      "level": 1000,
+      "title": "Virginia Tech Prison Book Project",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A one-hour course with the Virginia Tech Prison Book Project. Students will complete a learning module about carceral institutions in the United States and the impact of educational opportunities on the lives of incarcerated people. They will then participate in a service learning event where they match individual requests from incarcerated readers to books and prepare the books for shipping.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lab, 1 Crd)",
+      "crossListedWith": [
+        "CRIM 1054",
+        "RLCL 1054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1064",
+      "subject": "HUM",
+      "number": "1064",
+      "level": 1000,
+      "title": "The Culture of Money",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the cultural, religious, and ethical dimensions of money and related topics, such as gifting, markets, the charging of interest, charity, pricing strategies, private property, and wage labor. Comparison of the disparate forms and uses of money and how money has worked in various cultural and historical frameworks. Evaluation of the differences between capitalist and non-capitalist money-systems, including philosophical debates about the relationship between money and human nature. Examination of ethical issues pertaining to money, such as the forgiveness of debt, money’s impact on social inequality, and the role of money in various projects of political empowerment and disempowerment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 1064",
+        "RLCL 1064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1074",
+      "subject": "HUM",
+      "number": "1074",
+      "level": 1000,
+      "title": "Ghosts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental humanities and social scientific frameworks underlying belief in ghosts and the paranormal as sites of human meaning-making and as expressions of cultural norms and anxieties concerning human behavior and social relationships, especially in US contexts pertaining to enslavement, displacement, and gender disparity. Introduces students to key concepts and methods such as auto-ethnography, the study of material culture, historical criticism, and literary criticism via an appealing and engaging topic. Training in ethical self-assessment and assessment of human meaning-making and behavior concerning ghosts and the paranormal such as affect theory, empiricism, and experience.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 1074"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1324",
+      "subject": "HUM",
+      "number": "1324",
+      "level": 1000,
+      "title": "Introductory Humanities: The Modern World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The shifts in thought and values during the nineteenth and twentieth centuries in the global imagination, including issues of commerce, scientific inquiry, industrialization, nationalism, war, labor, gender, class differences, race, and the beginnings of postmodernity. Emphasis on interpretive and analytic skills in terms of reading, discussing, and writing about the interrelationships among the arts, literature, philosophy, history, religion, and science, and their contributions toward shaping the values and aspirations of the age, including global contexts and Asian cultures.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1504",
+      "subject": "HUM",
+      "number": "1504",
+      "level": 1000,
+      "title": "Introduction to Popular Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The development and formation of the category of popular culture. Competing theories and methods for analyzing popular culture. Activities, objects, and ideas included under the rubric of popular culture. Critical thinking about the production of popular culture in relation to race, gender, class, and other forms of human difference.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 1504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1604",
+      "subject": "HUM",
+      "number": "1604",
+      "level": 1000,
+      "title": "Introduction to Humanities and the Arts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores the written, visual, and performing arts of selected periods and cultures, setting them in the context of their times. Study of these periods linked with overarching questions of cultural encounters, interactions, and negotiations. Introduces principles of each art form as well as the means of appreciation. Students taught methods in researching, writing, and presenting on these art forms.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1704",
+      "subject": "HUM",
+      "number": "1704",
+      "level": 1000,
+      "title": "Introduction to Appalachian Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the history of the Appalachian region from European contact to the present. Traces the idea of Appalachia by tracing ways in which Americans have imagined the region over time. Explores humanistic problems of cultural identity, race and ethnicity, place and globalization, and impacts of natural resource extraction.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 1704"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1984",
+      "subject": "HUM",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 1984A",
+      "subject": "HUM",
+      "number": "1984A",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "1A"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2104",
+      "subject": "HUM",
+      "number": "2104",
+      "level": 2000,
+      "title": "Oral Traditions and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the worlds great oral traditions, both ancient and contemporary. Emphasis on performance contexts, relationships among multicultural traditions, including American Indian oral traditions, and the relationships among orality, literacy, technology, media, and culture.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 2104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2204",
+      "subject": "HUM",
+      "number": "2204",
+      "level": 2000,
+      "title": "The Creative Process",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores ways in which creativity and design can be understood historically as well as understood and practiced in a classroom setting. Subjects include any or all of the following: theories of creativity; traditions associated with understanding and making several kinds of art; studying artworks from different cultural backgrounds, working with the limitations and possibilities inherent in design projects, and examining how and why they were created; and preparing final creative projects for classroom presentation.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2244",
+      "subject": "HUM",
+      "number": "2244",
+      "level": 2000,
+      "title": "Campus Free Speech",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical, religious, philosophical, and legal frameworks that shape modern debates on campus free speech and academic freedom. Focusing on case studies this course offers a non-partisan examination of hate speech codes, speaker shout-downs, ideological diversity, university neutrality, the limits of academic freedom, and other issues relevant to students, faculty, and administrators at public and private US universities. Students will engage in practical training in civil and respectful deliberation about matters of law and policy, the pursuit of truth, and the pursuit of permissive versus censorious approaches to campus speech.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2404",
+      "subject": "HUM",
+      "number": "2404",
+      "level": 2000,
+      "title": "Folk Cultures in Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the expressive genres and cultural processes of communities in Appalachia. Documentation of art and skill in everyday life, including material culture (e.g., foodways, architecture), customary behavior (e.g., music, ritual, occupational practice), and verbal art (e.g., narrative, speechplay), and analysis of how people have used these forms to shape social identities, physical spaces, and power relations.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 2404"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2504",
+      "subject": "HUM",
+      "number": "2504",
+      "level": 2000,
+      "title": "Introduction to American Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methodology and tools of American studies, with a focus on developing analytic skills to assess discourse across varied media. Interdisciplinary investigation of histories, politics, cultures, and beliefs in the Americas, including the impacts of encounter and exchange. Intensive study of a specific topic or period.",
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2964",
+      "subject": "HUM",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2974",
+      "subject": "HUM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2974H",
+      "subject": "HUM",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 2984",
+      "subject": "HUM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 3034",
+      "subject": "HUM",
+      "number": "3034",
+      "level": 3000,
+      "title": "Theories of Popular Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of theories for understanding the ways in which popular objects and practices (such as television programs, films, or attending sporting events) represent, maintain, and contest societal norms, including norms regarding gender and sexuality, race and ethnicity, and class and place, with an emphasis on the United States.",
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 3034H",
+      "subject": "HUM",
+      "number": "3034H",
+      "level": 3000,
+      "title": "Theories of Popular Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of theories for understanding the ways in which popular objects and practices (such as television programs, films, or attending sporting events) represent, maintain, and contest societal norms, including norms regarding gender and sexuality, race and ethnicity, and class and place, with an emphasis on the United States.",
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3034H"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 3204",
+      "subject": "HUM",
+      "number": "3204",
+      "level": 3000,
+      "title": "Multicultural Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of communication in and among various cultural groups through an examination of communicative practices, registers, discourse, and performance. Emphasis on understanding cultural differences and similarities in the different styles and stances in communication and their meanings to participants.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 3204H",
+      "subject": "HUM",
+      "number": "3204H",
+      "level": 3000,
+      "title": "Multicultural Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of communication in and among various cultural groups through an examination of communicative practices, registers, discourse, and performance. Emphasis on understanding cultural differences and similarities in the different styles and stances in communication and their meanings to participants.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3204"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 3464",
+      "subject": "HUM",
+      "number": "3464",
+      "level": 3000,
+      "title": "Appalachian Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The concept of community in Appalachia using an interdisciplinary approach and experiential learning. Interrelationships among geographically, culturally, and socially constituted communities, public policy, and human development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AHRM 3464",
+        "APS 3464",
+        "GEOG 3464",
+        "SOC 3464",
+        "UAP 3464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 3954",
+      "subject": "HUM",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4104",
+      "subject": "HUM",
+      "number": "4104",
+      "level": 4000,
+      "title": "Explorations in Advanced Humanities Topics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth study of special interdisciplinary topic. Topics vary but involve a close and extensive study of the interrelationship between cultural ideas and their expressions in several of the following forms: literature, philosophy, religion, art, music, drama, material culture, and popular culture. May be repeated with different topics, for a maximum of 9 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 4104"
+      ],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4124",
+      "subject": "HUM",
+      "number": "4124",
+      "level": 4000,
+      "title": "Topics in Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Uses sociological, anthropological, as well as artistic and humanist paradigms to analyze culture. Discusses 20th and 21st century cultural trends. Analyzes the implications of social context for cultural artifacts such as art. Topics are variable. Example topics include the cultural construction of race and the cultural of the nineteen sixties. Course may be repeated with different course content for up to 6 credits. Pre: Junior or Senior standing.",
+      "prerequisites": {
+        "rawText": "SOC 1004 or SOC 1014 or AFST 1714 or AINS 1104 or RLCL 1004 or RLCL 2004 or WGS 1824",
+        "referencedCourses": [
+          "AFST 1714",
+          "RLCL 1004",
+          "RLCL 2004",
+          "SOC 1004",
+          "SOC 1014",
+          "WGS 1824"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 4124"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4414",
+      "subject": "HUM",
+      "number": "4414",
+      "level": 4000,
+      "title": "Issues in Appalachian Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Research conducted by students on issues relevant to local or regional sustainability in contemporary Appalachia on contemporary environmental and community issues. Focus on environmental justice ethical issues expressed in or created by various forms of discourse.",
+      "prerequisites": {
+        "rawText": "HUM 1704 or APS 1704",
+        "referencedCourses": [
+          "APS 1704",
+          "HUM 1704"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 4414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4964",
+      "subject": "HUM",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4974",
+      "subject": "HUM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4974H",
+      "subject": "HUM",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4984",
+      "subject": "HUM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4994",
+      "subject": "HUM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HUM 4994H",
+      "subject": "HUM",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hum/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

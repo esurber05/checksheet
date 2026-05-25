@@ -1,0 +1,2529 @@
+{
+  "subject": "HIST",
+  "scrapedAt": "2026-05-25T21:20:29.779Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "HIST 1004",
+      "subject": "HIST",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introduction to History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the main concepts and issues of discipline of history. Familiarizes students with the Department of History, educational requirements, university resources, and career opportunities for History majors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1014",
+      "subject": "HIST",
+      "number": "1014",
+      "level": 1000,
+      "title": "Topics in Reacting to the Past",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to fundamental issues in history through historical simulations. Enacting specific roles in historical situations while improving liberal learning skills, including evaluating evidence, understanding multiple perspectives, writing persuasive essays, and developing public speaking skills. Specific topics may vary from semester to semester. May be repeated one time with different content for a maximum of six credits.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1024",
+      "subject": "HIST",
+      "number": "1024",
+      "level": 1000,
+      "title": "Ancient History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys the civilizations and peoples of Greece, Rome, and the Ancient Near East (including Egypt and Mesopotamia) from the invention of writing around 3,000 B.C. to the fall of the Roman Empire in the fifth century C.E. through study of literature as well as archaeological artificts. Examines the interactions and interdependencies of these civilizations and considers their enduring influence.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1025",
+      "subject": "HIST",
+      "number": "1025",
+      "level": 1000,
+      "title": "Introduction to European History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the political, social, and cultural history of Europe since the medieval period. Focuses on the complex interplay between demographic transformation, social and political change, and cultural development. 1025: Explores the legacy of the Roman Empire, the expansion and consolidation of “Europe,” the medieval world and expansion in the Atlantic World. 1026: Explores the rise of Absolutism and the Enlightenment, the Age of Revolutions, imperialism, the rise of new political ideologies and nation-building, and Europe in the twentieth century world.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1026",
+      "subject": "HIST",
+      "number": "1026",
+      "level": 1000,
+      "title": "Introduction to European History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the political, social, and cultural history of Europe since the medieval period. Focuses on the complex interplay between demographic transformation, social and political change, and cultural development. 1025: Explores the legacy of the Roman Empire, the expansion and consolidation of “Europe,” the medieval world and expansion in the Atlantic World. 1026: Explores the rise of Absolutism and the Enlightenment, the Age of Revolutions, imperialism, the rise of new political ideologies and nation-building, and Europe in the twentieth century world.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1084",
+      "subject": "HIST",
+      "number": "1084",
+      "level": 1000,
+      "title": "Food Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary introductory course explores how food shapes and is shaped by culture and society. Examines how people use food to express meanings (e.g., via foodways, story, art, architecture, religion, ethical codes), how food options, practices, and inequities are shaped by social structures (e.g. cultural and legal norms regarding race, class, and gender), and how the material properties of food (e.g., chemical, ecological, technological) are linked to identities, ideological commitments, and historical moments.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 1084",
+        "RLCL 1084",
+        "SOC 1084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1115",
+      "subject": "HIST",
+      "number": "1115",
+      "level": 1000,
+      "title": "History of the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the history of the United States through intersections of politics, economics, sciences, the arts and significant social movements. Considers how the modern United States has emerged through the interactions of diverse ethnic, racial, national, class, and religious groups. 1115: pre-Columbian societies through the Civil War; 1116: Reconstruction through present. Sequence recommended as preparation for advanced courses in United States history.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1116",
+      "subject": "HIST",
+      "number": "1116",
+      "level": 1000,
+      "title": "History of the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the history of the United States through intersections of politics, economics, sciences, the arts and significant social movements. Considers how the modern United States has emerged through the interactions of diverse ethnic, racial, national, class, and religious groups. 1115: pre-Columbian societies through the Civil War; 1116: Reconstruction through present. Sequence recommended as preparation for advanced courses in United States history.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1215",
+      "subject": "HIST",
+      "number": "1215",
+      "level": 1000,
+      "title": "Intro to World History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examine political, economic, social, and cultural change around the world over the course of human existence, with particular emphasis connections and comparisons of human societies across space and time. 1215: Covers early civilizations to 1500 CE. Major themes include the development of human civilization and the interactions of different societies through exchange of people, ideas, goods, and disease. 1216: Covers from 1500 CE to present. Major themes include the spread of European imperialism and resistance to it, development of nation-states, world wars, and post-colonial globalization.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1216",
+      "subject": "HIST",
+      "number": "1216",
+      "level": 1000,
+      "title": "Intro to World History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examine political, economic, social, and cultural change around the world over the course of human existence, with particular emphasis connections and comparisons of human societies across space and time. 1215: Covers early civilizations to 1500 CE. Major themes include the development of human civilization and the interactions of different societies through exchange of people, ideas, goods, and disease. 1216: Covers from 1500 CE to present. Major themes include the spread of European imperialism and resistance to it, development of nation-states, world wars, and post-colonial globalization.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1234",
+      "subject": "HIST",
+      "number": "1234",
+      "level": 1000,
+      "title": "Colonial Latin America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines how Spanish and Portuguese Settler Colonialism and Indigenous and Black resistance shaped Abya Yala, what is today called Latin America. Uncovers the rich and vibrant histories of Indigenous Peoples in Mesoamerica, the Andes, the Caribbean, and the Amazon. The course will discuss the ways in which enslaved Africans and their descendants dealt with colonialism and made a home in Abya Yala. Students will learn to recognize how Europeans built cities, ports, and societies in Latin America that attempted to replicate their own in Europe. The class will identify what settler colonialism is and how it worked in Latin America, and the differences between Spanish and Portuguese forms of settler colonialism. Students will relate contemporary concerns about ethical issues as well as identity and sovereignty.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 1234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1354",
+      "subject": "HIST",
+      "number": "1354",
+      "level": 1000,
+      "title": "Conflict and Security in Modern East Asia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of the 20th century history of five states in northeast Asia, People’s Republic of China, Taiwan, Japan, North and South Korea, and the connections between them. Causes and consequences of war, colonization and nationalist movements and their implications for contemporary regional and global relations. Emphasis on cultural concepts, political ideologies, social relations and historical conflicts as background to current security concerns.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1516",
+      "subject": "HIST",
+      "number": "1516",
+      "level": 1000,
+      "title": "History of Africa",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines political, economic, social and cultural themes in African history from the beginnings of human civilization to the recent past, with particular emphasis on historical experiences of race, gender, class, religion, ethnicity and nationality. 1515: Covers early civilizations thorugh the abolitionof the slave trade. Examines migrations and trade, the expansion of Islam, and slavery in African and the Atlantic and Indian Oceans. 1516: Covers Africa since the nineteenth century. Examines European conquest, and major political, cultural and social changes during the colonial and post-colonial eras.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1744",
+      "subject": "HIST",
+      "number": "1744",
+      "level": 1000,
+      "title": "Virginia Indigenous History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Indigenous histories and settler colonialism in the present-day Commonwealth. Indigenous identities and cultural expressions in the geographical and political space of the Commonwealth, settler colonialism, and Indigenous resistance. Texts, visual, and material culture generated by and about Virginia Indigenous people within their intellectual and cultural contexts. Ethnographic and decolonial methodologies using visual, legal, ethnographic, and other archival sources. Contemporary concerns about ethical issues such as data sovereignty, repatriation, and public and private development threats to sacred sites. Ethical issues pertaining to Indigenous sovereignty.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1764",
+      "subject": "HIST",
+      "number": "1764",
+      "level": 1000,
+      "title": "History of Rock n Roll",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Rock ‘n’ roll in historic and cultural contexts. Effects on social identity, worldviews, economic justice, cultural appropriation, diversity, power, and traditions. Creative and aesthetic influences in human experience and cultural expression. Significant music figures, movements, and trends in artistic, political, social, technological, and industrial developments in the U.S.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 1984",
+      "subject": "HIST",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2004",
+      "subject": "HIST",
+      "number": "2004",
+      "level": 2000,
+      "title": "Historical Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explanation of the discipline of history: its history, philosophies, and methods, with emphasis on historical research.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2054",
+      "subject": "HIST",
+      "number": "2054",
+      "level": 2000,
+      "title": "Engineering Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of engineering and its cultural values in historical and transnational perspectives. Explores the varying knowledge, identities, and commitments of engineers and engineering across different countries. Examines values in emergent infrastructures of engineering education and work, and the participation of engineers and engineering in evolving forms of capitalism. Helps students learn to reflect critically on their knowledge, identities, and commitments in varying curricula and a globalizing world.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 2054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2104",
+      "subject": "HIST",
+      "number": "2104",
+      "level": 2000,
+      "title": "Topics and Critical Issues in US History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the problems, methods and skills of the discipline of history through the study of significant themes and critical issues in the history of the United States. Emphasis on the study of source materials and historical interpretations of specific themes in American history. Themes grounded in issues of class, race, gender, and equality in US history. Specific topics will vary from semester to semester. Course may be repeated twice for a maximum of 9 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2114",
+      "subject": "HIST",
+      "number": "2114",
+      "level": 2000,
+      "title": "Topics and Critical Issues in European History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the problems, methods and skills of the discipline of history through the study of significant themes and critical issues in European history. Emphasis on the study of source materials and historical interpretations. Specific thematic content is variable. Themes grounded in European history/Europe’s role in world that interrogate the concept of “the West.” Specific topics will vary from semester to semester. Course may be repeated twice for a maximum of 9 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2124",
+      "subject": "HIST",
+      "number": "2124",
+      "level": 2000,
+      "title": "Topics and Critical Issues in World History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the problems, methods and fundamental skills of the discipline of history through the study of significant themes and critical issues in world history. Emphasis on the study of source materials and historical interpretations. Specific thematic content is variable. Examines political, economic, social, and cultural change at historically specific periods of time around the world with a focus on drawing comparisons and making connections across regional spaces. Specific topics may vary from semester to semester. May be repeated two times with different content for a maximum of 9 credit hours.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2134",
+      "subject": "HIST",
+      "number": "2134",
+      "level": 2000,
+      "title": "The Revolution Will Be Televised: Topics in History on TV",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores topics in history through the lens of specific TV shows or series. Featured shows and topics will vary from semester to semester. Considers how television programs have represented historical events, ideas, and communicated ideas about race, gender, sexuality, class, or culture. May be repeated once with different content for a maximum of 6 credit hours.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2166",
+      "subject": "HIST",
+      "number": "2166",
+      "level": 2000,
+      "title": "History of France",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "French history from Roman Gaul to the present. 2165: Roman, Medieval, and Renaissance France; Absolute Monarchy. 2166: The Revolution; Nineteenth and Twentieth Century France.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2184",
+      "subject": "HIST",
+      "number": "2184",
+      "level": 2000,
+      "title": "History of the Balkans",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of Southeastern Europe from the sixth century to the present. Chief themes are movement of peoples, Byzantine and Ottoman Empires, religious conflicts, social developments, and rival nationalisms.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2224",
+      "subject": "HIST",
+      "number": "2224",
+      "level": 2000,
+      "title": "Ancient Greek and Roman Women",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the history of ancient Greek and Roman women from ninth century BCE to the fall of the Roman Empire. Analyzes contributions of women to each civilization. Studies construction of and contemporary debates about women’s ascribed social, political, and cultural roles.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CLA 2224"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2234",
+      "subject": "HIST",
+      "number": "2234",
+      "level": 2000,
+      "title": "Classics in the Modern World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the influences, traditions, and receptions of the ancient Greeks and Romans in the modern world, especially in the United States. Explores the re-interpretation of the ancient Greek and Roman world across mediums, and by leaders and governments in diverse societies. Discusses contexts and ideologies of re-makings of the ancient Greek and Roman world.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CLA 2234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2244",
+      "subject": "HIST",
+      "number": "2244",
+      "level": 2000,
+      "title": "Cities of Rome",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the building development of the ancient city of Rome and selected Roman cities; investigates how social, political, and cultural aspects of private and public architecture in these physical cities both create meaning and preserve memory. Explores the ways in which later cultures, especially through literature, have engaged with the pervasive and persistent influence of ancient Rome, not just as a physical place, but also as a cultural construct.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CLA 2244"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2264",
+      "subject": "HIST",
+      "number": "2264",
+      "level": 2000,
+      "title": "America in the 1960s",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys the political, social, and cultural history of the U.S. over the long Sixties (mid-1950s to mid-1970s). Examines the civil rights movement, Vietnam War and antiwar movement, identity politics, cultural revolutions, American liberalism, and American conservatism. Explores how intersection of race, class, gender, ethnicity and age shaped varying experiences of the 1960s. Emphasis on the study of source materials and historical interpretations.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2275",
+      "subject": "HIST",
+      "number": "2275",
+      "level": 2000,
+      "title": "African-American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2275: African continent through Civil War. Examines trajectory of slavery as well as its global impacts and legacy, the development of racial thought, slave resistance and rebellions, the fight for Emancipation, and African American contributions to culture, economics and society of United States. 2276: Reconstruction through present. Examines impact and legacy of Reconstruction, the fight against Jim Crow segregation, and the social, cultural, political and economic contributions of African Americans in the nineteenth and twentieth century United States. Exploration of the global implications of race relations in the United States.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2275"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2276",
+      "subject": "HIST",
+      "number": "2276",
+      "level": 2000,
+      "title": "African-American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "2275: African continent through Civil War. Examines trajectory of slavery as well as its global impacts and legacy, the development of racial thought, slave resistance and rebellions, the fight for Emancipation, and African American contributions to culture, economics and society of United States. 2276: Reconstruction through present. Examines impact and legacy of Reconstruction, the fight against Jim Crow segregation, and the social, cultural, political and economic contributions of African Americans in the nineteenth and twentieth century United States. Exploration of the global implications of race relations in the United States.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2276"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2345",
+      "subject": "HIST",
+      "number": "2345",
+      "level": 2000,
+      "title": "History of the Middle East",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of the Middle East from the seventh century to today, with emphasis on formation of Islamic civilization, medieval and early modern political systems, European imperialism, and the struggle for independence. 2345: seventh century to 1914; 2346: independence, wars, revolutions, and social change since 1914.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2346",
+      "subject": "HIST",
+      "number": "2346",
+      "level": 2000,
+      "title": "History of the Middle East",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of the Middle East from the seventh century to today, with emphasis on formation of Islamic civilization, medieval and early modern political systems, European imperialism, and the struggle for independence. 2345: seventh century to 1914; 2346: independence, wars, revolutions, and social change since 1914.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2355",
+      "subject": "HIST",
+      "number": "2355",
+      "level": 2000,
+      "title": "History of China",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "China from prehistory to the present. Special attention to political, social, economic, and cultural developments. 2355: Prehistory, Imperial China to the sixteenth century; 2356: late Imperial China to modern and contemporary China.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2356",
+      "subject": "HIST",
+      "number": "2356",
+      "level": 2000,
+      "title": "History of China",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "China from prehistory to the present. Special attention to political, social, economic, and cultural developments. 2355: Prehistory, Imperial China to the sixteenth century; 2356: late Imperial China to modern and contemporary China.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2364",
+      "subject": "HIST",
+      "number": "2364",
+      "level": 2000,
+      "title": "History of Japan",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Political, social, economic, and cultural development of Japan from earliest times to present; emphasis on problems of modernization in the nineteenth and the twentieth centuries.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2374",
+      "subject": "HIST",
+      "number": "2374",
+      "level": 2000,
+      "title": "Gods and Kings in Premodern India",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of India from pre-historical times to approximately 1700, with particular focus on the interplay between religion and politics. Emphasis on sources for and interpretations (historiography) of early Indian history. Literary versus archaeological record of pre-historic India, the earliest empires and rulers, and impact of the Islamic and wider world on India. Legacies of ancient and medieval India in the contemporary world.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2374"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2384",
+      "subject": "HIST",
+      "number": "2384",
+      "level": 2000,
+      "title": "Gandhi in the Making of Modern India",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of India since approximately 1700, with particular focus on Gandhis influence on modern India and the world. Emphasis on sources for and interpretations (historiography) of modern Indian history. Examination of pre-colonial and colonial pasts and legacies. Exploration of Gandhis role in political, social, cultural, and religious movements of the early 20th century, and Gandhis legacy in the independent states of South Asia and the contemporary world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2384"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2394",
+      "subject": "HIST",
+      "number": "2394",
+      "level": 2000,
+      "title": "Tofu to Tikka: Food in Asian History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the evolution and alterations of food and cuisines throughout Asian history. Examination of the economic, geographical, political, philosophical/religious, and social underpinnings of food in premodern Asian societies; influence of the Columbian Exchange of Asian and global cuisines; Euro-American imperialism’s impact on food and society in Asia and in the European and American metropoles; emergence of national cuisines in Asia; and Asian food in the post-colonial diaspora.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2394"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2484",
+      "subject": "HIST",
+      "number": "2484",
+      "level": 2000,
+      "title": "Modern Germany",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Political, social, economic, and cultural history of Germany since 1815. Discussion of the origins, experience and impact of political ideologies and national unification/reunification, colonial expansion, Nazism, war and genocide, and the role of Germany in Europe and the world. Diverse perspectives on German history and its implications through primary and secondary source materials. Particular focus on historiographical interpretations of the German past.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2494",
+      "subject": "HIST",
+      "number": "2494",
+      "level": 2000,
+      "title": "Cities in History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the changing conditions of urban life and the shifting roles that cities have played in U.S. history. Identifies transformations and movements in physical development, including urban form, architecture, urban planning, infrastructure, and environmental conditions. Details the processes of immigration and the consequences of demographic change in cities. Analyzes the contests over politics arising from these urban changes.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2504",
+      "subject": "HIST",
+      "number": "2504",
+      "level": 2000,
+      "title": "Crime and Punishment in American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analyzes changing understandings of crime and punishment from the Colonial Era to the Age of Mass Incarceration. Considers how factors of race, ethnicity, class, and gender intersected with changing ideas of criminality and punishments.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CRIM 2504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2514",
+      "subject": "HIST",
+      "number": "2514",
+      "level": 2000,
+      "title": "U.S. Food History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the history of food in the United States. Examines food cultures, food systems, food industries, nutrition, government regulation, inequalities, and environmental effects of food and agricultural production. Studies these topics across different demographics in the United States and its global context, with attention to change over time.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2524",
+      "subject": "HIST",
+      "number": "2524",
+      "level": 2000,
+      "title": "History of Agriculture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of agricultural history in the United States, with comparative global case studies. Examination of indigenous practices, labor, development of market economies, relationships among plants and animals, scientific and technological change, landscape transformation and sustainability, food systems, and inequality and exploitation within cultures and societies.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2534",
+      "subject": "HIST",
+      "number": "2534",
+      "level": 2000,
+      "title": "America at War",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The United States at war from the American Revolution to the War on Terror. Emphasis on how U.S. policymakers have justified war, popular understandings of “the enemy,” the merits and limitations of distinctions between civilians and service members, and the role of technological innovation. Engagements with interdisciplinary and intersectional perspectives with a war and society approach.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2544",
+      "subject": "HIST",
+      "number": "2544",
+      "level": 2000,
+      "title": "U.S. South: Pre-Colombian to 1865",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys history and cultures of the U.S. South from the Pre-Colombian era to the modern South. Analyzes the enslavement and emancipation of Black southerners, slave resistance, the impact of capitalism, Reconstruction, the creation of the Lost Cause mythology and Jim Crow segregation. Examines the political and economic influences of the region from the emergence of abolitionist thought, populism, the long struggle for racial equality, and the creation of the Sunbelt. Special emphasis placed on struggles for social justice, civil rights and demographic changes within the region.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2554",
+      "subject": "HIST",
+      "number": "2554",
+      "level": 2000,
+      "title": "U.S. South: 1865 to Present",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Surveys history and cultures of the U.S. South from the Pre-Colombian era to the modern South. Analyzes the enslavement and emancipation of Black southerners, slave resistance, the impact of capitalism, Reconstruction, the creation of the Lost Cause mythology and Jim Crow segregation. Examines the political and economic influences of the region from the emergence of abolitionist thought, populism, the long struggle for racial equality, and the creation of the Sunbelt. Special emphasis placed on struggles for social justice, civil rights and demographic changes within the region.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2604",
+      "subject": "HIST",
+      "number": "2604",
+      "level": 2000,
+      "title": "Introduction to Data in Social Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the use of data to identify, reveal, explain, and interpret patterns of human behavior, identity, ethics, diversity, and interactions. Explores the historical trajectories of data to ask how societies have increasingly identified numerical measures as meaningful categories of knowledge, as well as the persistent challenges to assumptions about the universality of categories reducible to numerical measures.",
+      "pathwaysConcepts": [
+        "2",
+        "5F",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 2604",
+        "STS 2604"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2614",
+      "subject": "HIST",
+      "number": "2614",
+      "level": 2000,
+      "title": "History of Espionage & Surveillance",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Espionage and surveillance from antiquity to the beginning of the 20th century. Explores motives, ethics, and technologies to gather intelligence and maintain secrecy in matters of state. Introduces primary and secondary sources on conflict, diplomacy, and social control in European history. Guides creative exploration and hands-on simulation of social, economic, and political intelligence practices. Fulfills Pathway Concept 2. Fulfills History Depth Studies Group IV.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2624",
+      "subject": "HIST",
+      "number": "2624",
+      "level": 2000,
+      "title": "Topics in the History of Data in Social Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the meaning of data in historical context. Exploration of how historical context shapes classification, collection, and interpretation of data. Analysis of data as a meaningful category of human experience. Variable content. May be repeated once for up to six (6) hours of credit.",
+      "pathwaysConcepts": [
+        "1A",
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2715",
+      "subject": "HIST",
+      "number": "2715",
+      "level": 2000,
+      "title": "History of Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of technology and engineering in their social and cultural contexts. Examines the interaction of people, cultures, technologies, and institutions such as governments, religious bodies, corporations, and citizens groups. 2715: Examines the creation and modification of technologies to establish the basic structures of civilization, from prehistory to the Industrial Revolution (about 1800). 2716: Examines the nature of technological change and consequences in society, from about 1800 to present.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 2715"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2716",
+      "subject": "HIST",
+      "number": "2716",
+      "level": 2000,
+      "title": "History of Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of technology and engineering in their social and cultural contexts. Examines the interaction of people, cultures, technologies, and institutions such as governments, religious bodies, corporations, and citizens groups. 2715: Examines the creation and modification of technologies to establish the basic structures of civilization, from prehistory to the Industrial Revolution (about 1800). 2716: Examines the nature of technological change and consequences in society, from about 1800 to present.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 2716"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2724",
+      "subject": "HIST",
+      "number": "2724",
+      "level": 2000,
+      "title": "Introduction to Displacement Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines key concepts, ideas, and technologies in global population displacement, including categorization, distribution and governance of displaced groups. Introduces displacement drivers such as natural disaster, climate change, civil unrest, infectious disease, and forced relocation. Identifies digital infrastructures used for, by, and against displaced populations. Describes experiences of displaced people.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 2724",
+        "LAHS 2724",
+        "STS 2724"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2964",
+      "subject": "HIST",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2974",
+      "subject": "HIST",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2974H",
+      "subject": "HIST",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2984",
+      "subject": "HIST",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 2984H",
+      "subject": "HIST",
+      "number": "2984H",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3004",
+      "subject": "HIST",
+      "number": "3004",
+      "level": 3000,
+      "title": "Colonial America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical analysis of early American society. Founding and development of the colonies in the 17th century; 18th century colonial life.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3014",
+      "subject": "HIST",
+      "number": "3014",
+      "level": 3000,
+      "title": "The American Revolution",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Causes, nature, and results of the American Revolution, 1763- 1789.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3054",
+      "subject": "HIST",
+      "number": "3054",
+      "level": 3000,
+      "title": "The American Civil War",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Causes, course, and consequences of the American Civil War. Emphasis on transformations in regional and national identity, race relations, the status of African Americans, gender roles, military affairs, and the United States place on the world stage. Develop skill in written and oral discourse.",
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3084",
+      "subject": "HIST",
+      "number": "3084",
+      "level": 3000,
+      "title": "Recent America, 1917-Present",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Social, economic, cultural, and political history of America from the entry into World War I, the turbulent 1920s, the Great Depression, the New Deal, World War II, postwar prosperity, the Cold War, social and cultural ferment, Vietnam, Watergate, to the new anxieties about the limits of power in the 1980s.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3105",
+      "subject": "HIST",
+      "number": "3105",
+      "level": 3000,
+      "title": "Women in U S History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Roles of women from colonial settlement to the present. Special attention to family experiences, political agendas, and economic contributions of women and to social construction of gender identities. 3105: to 1865; 3106: since 1865.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3106",
+      "subject": "HIST",
+      "number": "3106",
+      "level": 3000,
+      "title": "Women in U S History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Roles of women from colonial settlement to the present. Special attention to family experiences, political agendas, and economic contributions of women and to social construction of gender identities. 3105: to 1865; 3106: since 1865.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3124",
+      "subject": "HIST",
+      "number": "3124",
+      "level": 3000,
+      "title": "Murder in American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Considers how the definition of murder as a crime has changed from the colonial period to the present day. Uses murder cases to study the dynamics of American society in condemning, condoning, or celebrating murder. Asks how cultural factors, including racial prejudice, gender stereotypes, beliefs about sexuality, and class status affected the act of killing, media coverage of the event, societal reactions, and the execution of justice. Topics covered include abortion, lynching, vigilante justice, and the evolution of the legal system.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CRIM 3124"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3134",
+      "subject": "HIST",
+      "number": "3134",
+      "level": 3000,
+      "title": "Sports in American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impact of sports in American history. Emphasis on the impact of team sports (college and professional basketball, baseball, and football) and individual sports (golf, boxing, and automobile racing) on the development of American society and culture.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3144",
+      "subject": "HIST",
+      "number": "3144",
+      "level": 3000,
+      "title": "American Environmental History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores interactions between Americans and the environment from the time of European contact to the recent past. Traces the sometimes unexpected ways in which nature has shaped history, humans have altered the natural world, environmental attitudes have evolved, and environmental inequalities have arisen.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3164",
+      "subject": "HIST",
+      "number": "3164",
+      "level": 3000,
+      "title": "Sexuality in American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the changing social and cultural meanigns of sexual behavior and identity in American life from the colonial era to the present. Explores relationships between sexuality and power, culture and politics, and government regulation with consideration of theoretical frameworks of interpretation. Focuses on dynamics of race, ethnicity, gender, and class.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3174",
+      "subject": "HIST",
+      "number": "3174",
+      "level": 3000,
+      "title": "Native American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The Native experience in North America or Latin America from 1491 to present. Emphasis on social diversity and organization, resistance to colonization, leadership and cultural change, and political sovereignty among indigenous peoples. Methods for interpreting a variety of primary sources, including texts, material culture, and archaeological findings. Engagements with shifting historiographical perspectives and political movements for recognition of Native sovereignty.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 3174"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3184",
+      "subject": "HIST",
+      "number": "3184",
+      "level": 3000,
+      "title": "Food Sovereignty",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Food sovereignty, the right to produce and consume culturally relevant food, as a set of practices and as a social movement through comparative case studies. Origins of food sovereignty in response to effects of colonialism, the green revolution, and the global corporate food system on peasant and Indigenous subsistence livelihoods and the concept’s transformation through dialogue with indigenous agricultural knowledge and poor peoples’ environmentalism. Food sovereignty’s challenge to the dominant food system and conceptions of development, how groups implement this vision of democratized social and productive relations through projects of agroecology and land reform, and its potential in the context of ecological calamity.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 3184"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3214",
+      "subject": "HIST",
+      "number": "3214",
+      "level": 3000,
+      "title": "History of Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Early settlement, religion, the pre-industrial economy, the coming of the coal and lumber industries, labor activism, politics, migration, and regional identity.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 3214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3224",
+      "subject": "HIST",
+      "number": "3224",
+      "level": 3000,
+      "title": "History of Virginia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Social, political, cultural, and economic developments in Virginia, from the sixteenth century to the present.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3234",
+      "subject": "HIST",
+      "number": "3234",
+      "level": 3000,
+      "title": "The North American West",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A study of the peoples and history of the North American West from the sixteenth century through the twentieth.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3254",
+      "subject": "HIST",
+      "number": "3254",
+      "level": 3000,
+      "title": "The Vietnam War",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A critical study of the causes and consequences of the Vietnam War, 1945-1975. Analysis of Americas strategic and military objectives, the nature and conduct of the war, and the growth of the antiwar movement at home.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3274",
+      "subject": "HIST",
+      "number": "3274",
+      "level": 3000,
+      "title": "The Greek City",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of the ancient Greek city-state (polis) from the Archaic period (800-500 BC) to the creation of the Roman Empire. Principal topics are: origins and definition of the polis; Greek colonization throughout the Mediterranean and Black Seas; the struggle for autonomy in the Classical and Hellenistic periods; and the Hellenizing impact of the polis on non-Greek populations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3284",
+      "subject": "HIST",
+      "number": "3284",
+      "level": 3000,
+      "title": "The Roman Revolution",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of the Roman world from 264 B.C. to A.D. 180. Particular attention to the three themes of imperialism, revolution, and empire through extensive reading of the contemporary authors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3294",
+      "subject": "HIST",
+      "number": "3294",
+      "level": 3000,
+      "title": "Roman Britain",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the social, political, and military origins of early England from Stonehenge to the Norman Conquest; emphasis on archaeology and material culture; and the legacy of the Romans and Romanization on forging a British identity.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3304",
+      "subject": "HIST",
+      "number": "3304",
+      "level": 3000,
+      "title": "The World of Alexander the Great",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the life and times of Alexander the Great and the Hellenistic World, a new cosmopolitan multicultural world initiated by his conquests. Analyzes the rise of Mecedon, the accomplishments and powers of Alexander, and discusses the world forged after him through analysis of literary and non-literary primary sources.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3314",
+      "subject": "HIST",
+      "number": "3314",
+      "level": 3000,
+      "title": "The Later Roman Empire",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Roman Empire in the west from A.D. 180 to A.D. 476 and in the east from A.D. 476 to A.D. 1071. Particular attention to the causes of the fall of the empire in the west and to the Byzantine Empire in the east until the coming of the Turks and the Christian Crusaders.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3324",
+      "subject": "HIST",
+      "number": "3324",
+      "level": 3000,
+      "title": "The Medieval World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Characteristic thought and institutions of high and late Middle Ages.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3334",
+      "subject": "HIST",
+      "number": "3334",
+      "level": 3000,
+      "title": "The Renaissance World 1300-1500",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores Renaissance society in global context. Considers origins and legacies of the Renaissance. Draws on art, architecture, personal, and quantitative records. Develops students' historical communication skills. Emphasis upon the cultures, institutions, and conflicts of European states from 1350 to 1500.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3344",
+      "subject": "HIST",
+      "number": "3344",
+      "level": 3000,
+      "title": "Early Modern and Reformation History, 1500-1650",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The phenomenon of religious Reformations, and development of political, cultural and economic institutions,1500-1650. Themes include the advent of Protestantism, the reinvention of Catholicism, and adaptation of Islam and Judaism in early modern Europe. Contextualization of primary sources. Develops students' historical communication skills. Emphasis upon the shared challenges and divergent solutions of European religious sects to social, political, and theological challenges.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3344"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3354",
+      "subject": "HIST",
+      "number": "3354",
+      "level": 3000,
+      "title": "Reform and Revolution in Early Modern England",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the political, social, economic, and religious history of early modern England. Focus on the English Reformation and descent into Civil War and Revolution. Discussion of the Houses of Tudor and Stuart and their roles in radically transforming England into a constitutional monarchy in which the rule of law reigned supreme. Engagement with diverse perspectives on the religious, social, and political upheaval of the sixteenth and seventeenth centuries through focused study of primary and secondary source materials.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3364",
+      "subject": "HIST",
+      "number": "3364",
+      "level": 3000,
+      "title": "The Age of Revolution and Napoleon",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The French Revolution in its European and global context, with particular attention to social and political causes of unrest, strategies of popular mobilization, debates about authority and order, the emergence of empires, and the long-term implications of revolutionary change.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3374",
+      "subject": "HIST",
+      "number": "3374",
+      "level": 3000,
+      "title": "French Empire",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "History of French empire from the seventeenth century to the present, in the Carribean, Canada, Asia, North America and Sub-Saharan Africa. Considers indepdendence movements and the effects of post-colonial migrations on metropolitan France. Focus on issues of religion, race, and human rights",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3484",
+      "subject": "HIST",
+      "number": "3484",
+      "level": 3000,
+      "title": "Nazi Germany: History and Memory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Causes, course, and consequences of the rise of National Socialism in Germany. Political, economic, social, and cultural aspects of life in Germany. Conditions of Weimar Germany; fascism; the emergence of the Nazi Party and its acquisition, exercise and abuse of power; transformation of German society; the problem of Hitler; the Second World War and Holocaust; and memory and representation of the Nazi period.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3494",
+      "subject": "HIST",
+      "number": "3494",
+      "level": 3000,
+      "title": "The Holocaust",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides a historical account, a psychological analysis, and an occasion for philosophical contemplation on the Holocaust. We will examine the deliberate and systematic attempt to annihilate the Jewish people by the National Socialist German State during World War II. Although Jews were the primary victims, Gypsies, people with disabilities, homosexuals, Jehovahs Witnesses and political dissidents were targeted; we will discuss their fate as well. The class will be organized around the examination of primary sources: written accounts, photographic and film, and personal testimony.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "JUD 3494",
+        "RLCL 3494"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3504",
+      "subject": "HIST",
+      "number": "3504",
+      "level": 3000,
+      "title": "The Age of The Crusades",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The origins and development of religious violence examined from an interdisciplinary and cross-cultural perspective; the place of that phenomenon in medieval society. Christianity, Islam, Judaism and their interactions in the medieval world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3504"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3534",
+      "subject": "HIST",
+      "number": "3534",
+      "level": 3000,
+      "title": "Modern Military History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evolution of warfare in its political and social setting since the French Revolution. Discussion of both European and American military institutions.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3544",
+      "subject": "HIST",
+      "number": "3544",
+      "level": 3000,
+      "title": "World War II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the origins, nature, and consequences of the Second World War in transnational perspective. Discussion of social, economic, political and diplomatic conditions that led to and shaped the conduct of the war. Engagement with diverse perspectives on the war and its implications through primary and secondary source materials.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3554",
+      "subject": "HIST",
+      "number": "3554",
+      "level": 3000,
+      "title": "Age of Globalization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An examination of historical forces that have shaped patterns of globalization, with emphasis on the late twentieth and twenty-first centuries. Key themes: debates about the origins of globalization, causes and consequences of global inter-relatedness, influence of key people, events, and ideas on patterns of globalization, and the effects of disease, technology and environment on processes of globalization.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3564",
+      "subject": "HIST",
+      "number": "3564",
+      "level": 3000,
+      "title": "The Cold War",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines politics, society, and culture of the Cold War in transnational perspective. Discussion of origins of the Cold War and the emergence of superpowers; cultural, economic and territorial imperialism in the Cold War; the role of ideology; lived experience and the legacy of the Cold War. Engagement with diverse perspectives on the Cold War and its implications through primary and secondary source materials.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3594",
+      "subject": "HIST",
+      "number": "3594",
+      "level": 3000,
+      "title": "The Rise of Modern Latin America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Major themes and issues in Modern Latin American History. Discussion of the rise of Latin American nations, stressing the internal and external challenges new republics confronted during the nineteenth century and the opportunities and conflicts of the twentieth century.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3604",
+      "subject": "HIST",
+      "number": "3604",
+      "level": 3000,
+      "title": "Russia to Peter the Great",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Russian history from the founding of Russia in the ninth century to the reign of Peter the Great in the early eighteenth century, with special attention to political developments, changes in society and culture and regional context.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3614",
+      "subject": "HIST",
+      "number": "3614",
+      "level": 3000,
+      "title": "Imperial Russia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Russian history from Peter the Great to the Revolution of 1917, with special attention to political developments, changes in society and culture, and the impact of the regional context.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3624",
+      "subject": "HIST",
+      "number": "3624",
+      "level": 3000,
+      "title": "Health and Illness in African History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines key subjects and themes in the history of health, medicine, and disease in African history. Topics include indigenous health systems, colonial medicine, and post-colonial health crises, including HIV/AIDS.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3644",
+      "subject": "HIST",
+      "number": "3644",
+      "level": 3000,
+      "title": "Twentieth-Century Russia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The history of the Soviet Union from 1917 to the present, with particular emphasis on collectivization, industrialization, ideology, international relations, and other factors that have determined the peculiar character of the Soviet state.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3654",
+      "subject": "HIST",
+      "number": "3654",
+      "level": 3000,
+      "title": "Arab-Israeli Conflict",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the origin and evolution of the Arab-Israeli Conflict from the late Ottoman era to present. Considers a variety of perspectives on the major events, places, people and history of the conflict, including the British Mandate period, independence, and post-1967. Connects the relationship between events and ideas in Palestine/Israel and their local, regional and global significance through analysis and synthesis of primary and secondary texts. Promotes interpretation of the conflict and potential solutions in written and oral form, both from the student’s own and alternative points of view.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3664",
+      "subject": "HIST",
+      "number": "3664",
+      "level": 3000,
+      "title": "Revolutionary China",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Ideological and institutional development of the Chinese Communist movement since 1920; emphasis on problems of historical change in modern China.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3674",
+      "subject": "HIST",
+      "number": "3674",
+      "level": 3000,
+      "title": "Topics in Chinese History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of variable topics in Chinese history, ranging from the beginnings of civilization to the recent past. Examines the primary sources and histriographic debates of a particular issue. Explores the diversity within China and its relatiionship with the rest of the world. Can be repeated with different content up to 9 hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3694",
+      "subject": "HIST",
+      "number": "3694",
+      "level": 3000,
+      "title": "History through Film",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces students to critical issues in history and representation, utilizing film to analyze central historical issues. The specific thematic content is variable. Course may be repeated for up to 9 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3705",
+      "subject": "HIST",
+      "number": "3705",
+      "level": 3000,
+      "title": "History of Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Conceptual and institutional development of physical and biological sciences viewed within a cultural and societal context. 3705: Early Science; 3706: Modern Science.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 3705"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3706",
+      "subject": "HIST",
+      "number": "3706",
+      "level": 3000,
+      "title": "History of Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Conceptual and institutional development of physical and biological sciences viewed within a cultural and societal context. 3705: Early Science; 3706: Modern Science.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 3706"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3714",
+      "subject": "HIST",
+      "number": "3714",
+      "level": 3000,
+      "title": "War and Medicine",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the relationship between war and medicine. Focus on suffering and care during and after major conflicts, both on the battlefield and the home front. Emphasis on race, class, and gender.",
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3724",
+      "subject": "HIST",
+      "number": "3724",
+      "level": 3000,
+      "title": "History of Disease, Medicine, and Health",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of Western concepts and institutions of disease, medicine, and health with emphasis on nineteenth century to present. Social construction of disease, and relationship between health and social, economic, and political structures. Special attention to roles of race, class, gender and ethical issues in medical care and research, and to the lived experience of suffering, treatment and healing.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3734",
+      "subject": "HIST",
+      "number": "3734",
+      "level": 3000,
+      "title": "History of Modern Biology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of the history of biology during the nineteenth century and twentieth centuries, including developments in evolutionary biology, genetics and molecular biology, biology and race, and conservation biology. Emphasis on biology’s reciprocal relationship with society, how it has helped shape ideas of race and ethnicity, and the ethical dilemmas it has generated.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 3734"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3744",
+      "subject": "HIST",
+      "number": "3744",
+      "level": 3000,
+      "title": "Social History of Film",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces students to critical issues in the social history of film, examining the production and consumption of film in specific historical moments as well as the effects of film on society, culture, and politics. The specific thematic content is variable. May be repeated with different content for a maximum of 9 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3754",
+      "subject": "HIST",
+      "number": "3754",
+      "level": 3000,
+      "title": "Public History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of the ways in which historians research, interpret, and present the past to the public.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3764",
+      "subject": "HIST",
+      "number": "3764",
+      "level": 3000,
+      "title": "Oral History: Methods and Practices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores the theory and methodology of oral history practice. Considers the use of oral history interviews in historical research, and explores questions of ethics, interpretation, and the construction of memory. Includes training in technical operations and a variety of interview techniques, transcription, and historical use of interviews.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3774",
+      "subject": "HIST",
+      "number": "3774",
+      "level": 3000,
+      "title": "Digital History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops skills and methods for researching and presenting history in a digital environment, with special emphasis on use of digital media as a tool for public historians.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3804",
+      "subject": "HIST",
+      "number": "3804",
+      "level": 3000,
+      "title": "Mesoamerica and the Andes",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores major themes and events in the political and cultural history of major empires in Mexico and Peru from 900 CE to the present. Examines the emergence of Indigenous empires, their confrontation with European conquistadors, and life in the early colonial period. Discusses the cultural collision that occurred when Europeans arrived in the Americas, and complicates the narrative of the conquest. Focuses on the complex interplay between geography, political and economic organization, and social change. Investigates the position of Indigenous peoples in pre-Columbian and European empires in Mesoamerica and the Andes. Discussion of the methods and sources to interpret postclassic and early Colonial Latin America. Illustrate Indigenous Methodologies.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "NDIG 3804"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3914",
+      "subject": "HIST",
+      "number": "3914",
+      "level": 3000,
+      "title": "Critical Reading and Analysis in History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops critical reading skills in history. Demonstrates that historical knowledge is part of a scholarly conversation that grows and evolves over time. Assesses the critical role of interpretation in history, investigates historical controversies and debates, and develops skills to evaluate historiographical trends.",
+      "prerequisites": {
+        "rawText": "HIST 2004",
+        "referencedCourses": [
+          "HIST 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3954",
+      "subject": "HIST",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3954B",
+      "subject": "HIST",
+      "number": "3954B",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "2"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 3984",
+      "subject": "HIST",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4004",
+      "subject": "HIST",
+      "number": "4004",
+      "level": 4000,
+      "title": "Topics in Social and Cultural History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics in social and cultural history. May be repeated with different content. 3 other hours of history and junior standing required.",
+      "prerequisites": {
+        "rawText": "HIST 2004",
+        "referencedCourses": [
+          "HIST 2004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4014",
+      "subject": "HIST",
+      "number": "4014",
+      "level": 4000,
+      "title": "History Lab: Creative Technologies, Hidden Histories, Informal Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of creative technologies to visualize hidden histories in transdisciplinary experiential learning projects. Training in creative technologies, informal learning techniques, interpretation of marginalized histories, and digital cultural heritage design. Consideration of ethical questions involving the representation of diverse social identities, traditions, and histories. Pre: Sophomore Standing.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ART 4014",
+        "EDCI 4014"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4864",
+      "subject": "HIST",
+      "number": "4864",
+      "level": 4000,
+      "title": "History Internship",
+      "credits": {
+        "min": 1,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "description": "Placement in historically relevant work in one of a variety of settings. These may include museum interpretation and management, archival management, editing, historic preservation and more. Demonstrate historical research and communication skills. Plan with others in a professional setting. Apply disciplinary skills to site-based contemporary problems and situations. Evaluate the experience. P/F only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-6 Lec, 1-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4914",
+      "subject": "HIST",
+      "number": "4914",
+      "level": 4000,
+      "title": "History Research Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Variable topic, writing-intensive, capstone course for history majors. Provides in-depth knowledge of a specific historical subfield. Utilizes archival historical sources, online research databases, and existing literature to create an original work of historical scholarship. May be repeated with different content up to 6 hours. Junior standing or above required.",
+      "prerequisites": {
+        "rawText": "HIST 3914 or HIST 3904",
+        "referencedCourses": [
+          "HIST 3914"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4964",
+      "subject": "HIST",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4974",
+      "subject": "HIST",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4974H",
+      "subject": "HIST",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4984",
+      "subject": "HIST",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4994",
+      "subject": "HIST",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HIST 4994H",
+      "subject": "HIST",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hist/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

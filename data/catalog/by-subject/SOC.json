@@ -1,0 +1,1362 @@
+{
+  "subject": "SOC",
+  "scrapedAt": "2026-05-25T21:22:26.365Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "SOC 1004",
+      "subject": "SOC",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introductory Sociology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and basic concepts of human interaction and social organization. Basic theories and research methods, socialization, deviance, social institutions, population dynamics, social change, and social inequality by social class, race/ethnicity, gender, and sexual orientation.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 1014",
+      "subject": "SOC",
+      "number": "1014",
+      "level": 1000,
+      "title": "Introduction to Social Anthropology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to basic concepts including culture and ritual, research methods especially ethnography, and theory in social anthropology for understanding human behavior. Provides a survey of anthropological approaches to language, economics, kinship, religion, identity, gender, race, politics, social organizations, and globalization that compares western and non-western cultures.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 1024",
+      "subject": "SOC",
+      "number": "1024",
+      "level": 1000,
+      "title": "First Year Experience in Sociology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Develop an identity as a sociologist and foster a sense of community with first year and transfer students in the department. Acquire research skills and an awareness of university resources that enhance academic success. Explore theories used and topics examined by sociologists and participate in sociological research. Identify careers and internship opportunities in sociology.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 1084",
+      "subject": "SOC",
+      "number": "1084",
+      "level": 1000,
+      "title": "Food Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary introductory course explores how food shapes and is shaped by culture and society. Examines how people use food to express meanings (e.g., via foodways, story, art, architecture, religion, ethical codes), how food options, practices, and inequities are shaped by social structures (e.g. cultural and legal norms regarding race, class, and gender), and how the material properties of food (e.g., chemical, ecological, technological) are linked to identities, ideological commitments, and historical moments.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 1084",
+        "PSCI 1084",
+        "RLCL 1084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2004",
+      "subject": "SOC",
+      "number": "2004",
+      "level": 2000,
+      "title": "Social Problems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the nature, extent, and causes of social problems in the United States and around the globe from multiple perspectives. Emphasizes the role of social structural forces including conflicting economic, racial, ethnic, national, and gender interests in the creation and perpetuation of social problems. Discussion of poverty, work, health care, drugs, terrorism, human rights, and social change.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2014",
+      "subject": "SOC",
+      "number": "2014",
+      "level": 2000,
+      "title": "Sociology of Intimate Relationships",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to concepts, theories, methods, and major research findings in the sociology of intimate relationships. A description and analysis of research findings on the development, operation, and dissolution of intimate relationships, including how sociocultural and economic changes have shaped intimate relationships over time. Emphasis on the United States, including issues of diversity and inequalities in intimate relationships.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2024",
+      "subject": "SOC",
+      "number": "2024",
+      "level": 2000,
+      "title": "Sociology of Race and Ethnicity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Social construction of race and ethnicity. Relations among ethnic and racial groups. Immigration and patterns of racial and ethnic integration. Social structures and processes that perpetuate racial and ethnic stratification. Consideration of economic, social, political, and health challenges facing racial/ethnic minority groups in U.S. society. Core Curriculum approved for CLE Area 2 only when taken only in combination with AFST 1714.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2034",
+      "subject": "SOC",
+      "number": "2034",
+      "level": 2000,
+      "title": "Diversity and Community Engagement",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of patterns, meanings, and challenges of diversity and inclusion to improve social interactions and community engagement within a global society. Focus on diverse identities, social justice, power, and privilege, applying social science theories and concepts, to facilitate intercultural awareness. Community engagement projects employ research methods to connect course materials and service to community.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2054",
+      "subject": "SOC",
+      "number": "2054",
+      "level": 2000,
+      "title": "Ethnography: Studying Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the methodological tools used by anthropologists and other social scientists to study culture. Engagement with the development of, and debates about, ethnographic methods, as well as their application to case studies. Focus on sample ethnographic accounts of peoples throughout the world, as well as research techniques applicable to many different cultural environments.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2104",
+      "subject": "SOC",
+      "number": "2104",
+      "level": 2000,
+      "title": "Quantitative Approaches to Community Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Computational methods and ethical issues in the collection, transformation, consumption, and use of quantitative data in the design and evaluation of community programs. Consideration of effective data visualization and communication of findings. Emphasis on evaluating the reliability and accuracy of data used to frame decisions about community-related policies and service-oriented programs.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2264",
+      "subject": "SOC",
+      "number": "2264",
+      "level": 2000,
+      "title": "Race, Class, Gender, and Sexualities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on how race, class, gender, and sexualities form interlocking systems of privilege and oppression at individual and institutional levels. Emphasizes race, class, gender, and sexualities as changing social constructions and interactive systems that shape social institutions and organizations, meanings, and identities.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2264",
+        "WGS 2264"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2304",
+      "subject": "SOC",
+      "number": "2304",
+      "level": 2000,
+      "title": "Individual In Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundation in social psychological principles of sociology including the development of the self through social interaction and intergroup processes. Factors affecting self-perceptions, ways of thinking, attitudes, emotions, behavior, and psychological well-being in social contexts.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2404",
+      "subject": "SOC",
+      "number": "2404",
+      "level": 2000,
+      "title": "Deviant Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines behaviors considered deviant in the United States. Explores major types of deviant behavior, such as corporate crimes, extremist groups, sexual deviance, violence, suicide, alcoholism and other drug addictions, and cyber deviance. Includes sociological theories that explain them.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2454",
+      "subject": "SOC",
+      "number": "2454",
+      "level": 2000,
+      "title": "Race and Racism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines theories of race and racism specifically as they relate to African Americans. We will explain conservative, neo-conservative, liberal, and progressive ideologies concerning race in past and recent United States contexts and how such theories emerged and continue to emerge in recent times. Though the majority of the course focuses on race and racism within the U.S comparative analyses will be made with Brazil and South Africa.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AFST 2454"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2514",
+      "subject": "SOC",
+      "number": "2514",
+      "level": 2000,
+      "title": "Asian American Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary overview of the diverse Asian American experience, incorporating non-Eurocentric perspectives on the Asian immigrant experience and dialogue between Asian American and non-Asian American students. Examination of different historical tracks of various Asian ethnicities, experience of racism, discrimination, cultural adaptation and conflict, and economic survival and success. Gender, age, religious affiliation, family values and inter-generational differences among Asian Americans. The complexity of minority status and the stereotype of “model minority.” Activism, political participation, leadership and the meaning of citizenship among Asian Americans. Representations of Asian Americans in the arts and media.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2514"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2604",
+      "subject": "SOC",
+      "number": "2604",
+      "level": 2000,
+      "title": "Introduction to Data in Social Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the use of data to identify, reveal, explain, and interpret patterns of human behavior, identity, ethics, diversity, and interactions. Explores the historical trajectories of data to ask how societies have increasingly identified numerical measures as meaningful categories of knowledge, as well as the persistent challenges to assumptions about the universality of categories reducible to numerical measures.",
+      "pathwaysConcepts": [
+        "2",
+        "5F",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 2604",
+        "STS 2604"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2744",
+      "subject": "SOC",
+      "number": "2744",
+      "level": 2000,
+      "title": "Black Food in the US: Race, Racism, and Food Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A survey of the relationship between Black people in the United States with respect to food, culture, and society. Specifically covers Black food narratives, practices, space, place, as well as issues of inequality and exploitation within society.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2964",
+      "subject": "SOC",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2974",
+      "subject": "SOC",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2974H",
+      "subject": "SOC",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 2984",
+      "subject": "SOC",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3004",
+      "subject": "SOC",
+      "number": "3004",
+      "level": 3000,
+      "title": "Social Inequality",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Class, status, and power in society. Theories and empirical research findings on vertical and horizontal stratification in society. Class differences in behavior, values, and avenues and extent of social mobility. Cross cultural comparisons.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3014",
+      "subject": "SOC",
+      "number": "3014",
+      "level": 3000,
+      "title": "Gender Relations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on the social construction of gender relations. Examines how gender relations vary cross-culturally, historically, and for different categories of men and women. Explores the causes and consequences of inequality and privilege. Attention paid to the ways race, ethnicity, class, age, and sexualities shape and are shaped by gender and the relationship of gender to social institutions.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3104",
+      "subject": "SOC",
+      "number": "3104",
+      "level": 3000,
+      "title": "Sociological Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on the development and contemporary state of sociological theory. Primary concern is with those theorists who have had significant impact on our thinking about the relationships among man, society, and nature.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3144",
+      "subject": "SOC",
+      "number": "3144",
+      "level": 3000,
+      "title": "Language and Ethnicity in the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of how racial and ethnic identity are expressed through the use of different languages and dialects. Examination of how language is related to issues of equality, social opportunity, and discrimination in the United States.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3144"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3204",
+      "subject": "SOC",
+      "number": "3204",
+      "level": 3000,
+      "title": "Social Research Methods",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Techniques of data collection and analysis employed in the social sciences with emphasis on survey research methods including questionnaire construction, sampling, and analysis of both self-collected and national data; logic behind application of these techniques.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3314",
+      "subject": "SOC",
+      "number": "3314",
+      "level": 3000,
+      "title": "Social Movements",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The study of collective attempts to address social injustices and implement other social change in and across societies. Explores sociological and interdisciplinary conceptions of social movements and their relationships to society. Social movement emergence, development, engagement with opponents and authorities, and impact, as shaped by opportunity structures, mobilizing structures and processes, framing, collective identity, strategy and tactics, and other factors. How social movements oppose or promote inequality, oppression, or violence in the U.S. or elsewhere, at the local, national, and transnational level. Application of political process and other current social movement theories.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3404",
+      "subject": "SOC",
+      "number": "3404",
+      "level": 3000,
+      "title": "Environmental Justice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Causes and consequences of environmental and climate injustices; interactions between social inequalities (race, gender, class, position in world-system) and environmental pollution, food and land injustice, climate injustice, and environmental health; environmental racism in environmental policies and practices; political-economic barriers to achieving environmental justice; evaluation of environmental justice reforms and sustainability initiatives; possibilities for system change; social movement strategies for achieving environmental and climate justice; case studies in environmental justice and injustice.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3464",
+      "subject": "SOC",
+      "number": "3464",
+      "level": 3000,
+      "title": "Appalachian Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The concept of community in Appalachia using an interdisciplinary approach and experiential learning. Interrelationships among geographically, culturally, and socially constituted communities, public policy, and human development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AHRM 3464",
+        "APS 3464",
+        "GEOG 3464",
+        "HUM 3464",
+        "UAP 3464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3504",
+      "subject": "SOC",
+      "number": "3504",
+      "level": 3000,
+      "title": "Population Trends and Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Contemporary American and global population trends in historical and comparative perspective. Discussion of the impact of population change on individual and society. Relevant public policy questions examined.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3614",
+      "subject": "SOC",
+      "number": "3614",
+      "level": 3000,
+      "title": "Gender and Work in the U.S.",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the role that gender plays in shaping the experience of work, focusing especially on the persistence of occupational segregation by sex, its causes and implications. Also, the interaction of work and family life, including the allocation of household work and control of resources. Social policies affecting gender relations in work organizations will be analyzed.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3714",
+      "subject": "SOC",
+      "number": "3714",
+      "level": 3000,
+      "title": "Sociology of Aging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emergence of old age as a social problem. Social aspects of aging in America, including the minority experience and with some cross-cultural comparisons. Social and demographic characteristics of the aged, location of aged in the social structure, and current and future social problems of old age.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3854",
+      "subject": "SOC",
+      "number": "3854",
+      "level": 3000,
+      "title": "Globalization: Sociological Perspectives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Distinguishes global from international. Examines social globalization and cultural globalization and what forms they take. Explores changes in the role of nation-states and the implications of global changes in the division of labor for economic, gender, and racial/ethnic inequalities. Discusses how globalization is linked with peace, violence, and human rights. Considers alternative and more equitable forms of globalizations and how social movements might lead to such alternatives.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3884",
+      "subject": "SOC",
+      "number": "3884",
+      "level": 3000,
+      "title": "Culture and Society in Contemporary Europe",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The impact of religion and culture in contemporary European politics and societies. Nationalism versus European cosmopolitanism. Religion, religious radicalism and religious tolerance in Europe. Culture and society in European urban and rural areas. Attitudes towards women and LGBTQ in Europe. Social foundations and cultural determinants of marginalization of social groups, migrants and refugees.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3884",
+        "RLCL 3884"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3954",
+      "subject": "SOC",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 3984",
+      "subject": "SOC",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4014",
+      "subject": "SOC",
+      "number": "4014",
+      "level": 4000,
+      "title": "Sociology of the Family",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The family as a basic social institution: similarities and variations in family systems, their interrelationships with other social institutions, and patterns of continuity and change. Taught alternate years.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4024",
+      "subject": "SOC",
+      "number": "4024",
+      "level": 4000,
+      "title": "Sociology of Religion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Religion as a social structure as well as an institution; with special attention to the functions of religion for individuals, groups and societies, social organization; and the interplay between religion and other social institutions including economics and polity. Taught alternate years.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 4024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4034",
+      "subject": "SOC",
+      "number": "4034",
+      "level": 4000,
+      "title": "Sociology of Education",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the structure, functions, and consequences of schooling in America, the social processes affecting academic achievement, and the implications of current knowledge for educational reform. Taught alternate years.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4044",
+      "subject": "SOC",
+      "number": "4044",
+      "level": 4000,
+      "title": "Military Sociology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The military institution and its relationship to society. Emphasis on the role of the military and its social organization; recruitment, socialization, career, combat, deviant behavior, changes in the military, and future trends. Taught alternate years. Junior standing.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4054",
+      "subject": "SOC",
+      "number": "4054",
+      "level": 4000,
+      "title": "Appalachian Languages and Cultures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An empirical examination of how Appalachian speech both reflects and constitutes regional cultures. Emphasis is on applying sociological and anthropological methods and theories to the study of language in use.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 4034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4094",
+      "subject": "SOC",
+      "number": "4094",
+      "level": 4000,
+      "title": "Appalachian Community Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Undergraduate participatory community research as applied to issues of cultural heritage, sustainability, and identity. Students engage in projects defined by community groups and organizations as being critical to their well-being, continuity, or growth. Emphasis is on developing concepts of civic professionalism and developmental democracy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 4094",
+        "PHS 4094"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4114",
+      "subject": "SOC",
+      "number": "4114",
+      "level": 4000,
+      "title": "The Sociology of Popular Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examine the social context(s) of popular music, including the social, economic, and political factors that influence the development of different popular music forms; authenticity within popular music genres; popular musics impact on social activity and identity; the institutions that connect popular music producers with consumers.",
+      "prerequisites": {
+        "rawText": "SOC 1004 and SOC 1014 or AFST 1714",
+        "referencedCourses": [
+          "AFST 1714",
+          "SOC 1004",
+          "SOC 1014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4124",
+      "subject": "SOC",
+      "number": "4124",
+      "level": 4000,
+      "title": "Topics in Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Uses sociological, anthropological, as well as artistic and humanist paradigms to analyze culture. Discusses 20th and 21st century cultural trends. Analyzes the implications of social context for cultural artifacts such as art. Topics are variable. Example topics include the cultural construction of race and the cultural of the nineteen sixties. Course may be repeated with different course content for up to 6 credits. Pre: Junior or Senior standing.",
+      "prerequisites": {
+        "rawText": "SOC 1004 or SOC 1014 or AFST 1714 or AINS 1104 or RLCL 1004 or RLCL 2004 or WGS 1824",
+        "referencedCourses": [
+          "AFST 1714",
+          "RLCL 1004",
+          "RLCL 2004",
+          "SOC 1004",
+          "SOC 1014",
+          "WGS 1824"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 4124"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4194",
+      "subject": "SOC",
+      "number": "4194",
+      "level": 4000,
+      "title": "Senior Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Required seminar for majors. Integration and application of prior coursework, including reviews of theory and research methods. Application of sociological knowledge toward an actual needs assessment in a work setting, completion of a social policy analysis, and a written critique of a sociological publication. Course serves as a bridge to graduate study, prepares students for application of sociological knowledge, and provides overall career guidance. Senior standing and sociology majors only.",
+      "prerequisites": {
+        "rawText": "SOC 3104 and SOC 3204",
+        "referencedCourses": [
+          "SOC 3104",
+          "SOC 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4204",
+      "subject": "SOC",
+      "number": "4204",
+      "level": 4000,
+      "title": "Applied Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Stresses differences between applied research and other methodologies. Examines the topics, purposes, problems, theories, and methods appropriate for applied research. Explores ethical and political issues prevalent in applied settings. Includes qualitative, quantitative, and mixed methodologies. Emphasis on survey construction and administration, experimental designs, evaluation research, and participatory action research as used by applied researchers. Includes data analysis and issues of presenting applied research to lay audiences.",
+      "prerequisites": {
+        "rawText": "SOC 3204 and STAT 3604",
+        "referencedCourses": [
+          "SOC 3204",
+          "STAT 3604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4324",
+      "subject": "SOC",
+      "number": "4324",
+      "level": 4000,
+      "title": "Medical Experiences and Biomedical Theories",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Builds the analytical tools of STS and humanistic deconstruction. Challenges students to read, write, and interrogate academic literatures and real-life, immediate problems and artifacts in ethical, sociocultural, historical, and context informed ways. Builds this competence while examining materials related to current topics in health, such as but not limited to: population, development, reproductive technologies, pollution, climate change, environmental health beyond humans, and, colonialism. Employs multiple humanistic lenses including: biopolitics & biopower, intersectionality, structural and institutional analysis, syndemics, anticolonialism, violence, and disability to examine these materials.",
+      "prerequisites": {
+        "rawText": "STS 2154 or STS 3314 or SOC 3104",
+        "referencedCourses": [
+          "SOC 3104",
+          "STS 2154",
+          "STS 3314"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "STS 4324"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4404",
+      "subject": "SOC",
+      "number": "4404",
+      "level": 4000,
+      "title": "Sociology of Law",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The functions of law as a form of social control. The social forces in the creation, enforcement, and change of the law. The nature of law as a force in social change. Taught alternate years.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4414",
+      "subject": "SOC",
+      "number": "4414",
+      "level": 4000,
+      "title": "Drugs and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the use of drugs, including legal and illegal drugs, from a sociological perspective. Cross-cultural and historical patterns of use are discussed and explained. Particular attention is given to drug use within the context of various social institutions. Junior standing.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4444",
+      "subject": "SOC",
+      "number": "4444",
+      "level": 4000,
+      "title": "Schools, Violence, and Justice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focuses on the nature, extent, causes, and consequences of widely recognized forms of violence within schools, such as bullying, fighting, sexual assaults, harassment, dating violence, and shootings. Examines the effectiveness of violence prevention programs. Includes sociological theories of violence within schools. Explores the social debate over balancing the collective public safety obligations of schools with individual students rights/responsibilities.",
+      "prerequisites": {
+        "rawText": "SOC 3414 or CRIM 3414",
+        "referencedCourses": [
+          "CRIM 3414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSVP 4444"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4454",
+      "subject": "SOC",
+      "number": "4454",
+      "level": 4000,
+      "title": "Topics in Sociology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable topics course in sociology. In-depth examination of topics such as environmental sociology, the sociology of sport and competition, social networks, and sociology of the body. May be repeated 2 times with different content for a maximum of 9 credits. Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4704",
+      "subject": "SOC",
+      "number": "4704",
+      "level": 4000,
+      "title": "Medical Sociology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Social and cultural response to illness and infirmity. Emphasis on the sick role, patient role, practitioner role, organization and politics of health care delivery, stratification, professionalism, and socialization of health practitioners. Taught alternate years. Junior Standing.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4714",
+      "subject": "SOC",
+      "number": "4714",
+      "level": 4000,
+      "title": "Sociology of Mental Illness",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Mental illness and social systems, historically and in contemporary society. Distribution of mental illness with special reference to stratification, role, and deviance theories. Mental health occupations and organization of treatment. Implications for social policy. Taught alternate years. Junior standing.",
+      "prerequisites": {
+        "rawText": "SOC 1004",
+        "referencedCourses": [
+          "SOC 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4754",
+      "subject": "SOC",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Placement and sociologically relevant work in one of a variety of human service settings, combined with relevant readings, discussion and written work coordinated jointly by a faculty member and the setting supervisor. Placement settings include human resource agencies, corrections facilities, extension offices, and law agencies. Sociology major or minor required. Junior or Senior standing required. Consent of internship coordinator required. Coursework relevant to placement setting.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4764",
+      "subject": "SOC",
+      "number": "4764",
+      "level": 4000,
+      "title": "International Development Policy and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of major development theories and contemporary issues and characteristics of low-income societies (industrialization, urbanization, migration, rural poverty, hunger, foreign trade, and debt) that establish contexts for development planning and policy-making. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 4764",
+        "UAP 4764"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4954",
+      "subject": "SOC",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4964",
+      "subject": "SOC",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4974",
+      "subject": "SOC",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4974H",
+      "subject": "SOC",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4984",
+      "subject": "SOC",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4994",
+      "subject": "SOC",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "SOC 4994H",
+      "subject": "SOC",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/soc/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,1465 @@
+{
+  "subject": "MGT",
+  "scrapedAt": "2026-05-25T21:21:15.568Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "MGT 1064",
+      "subject": "MGT",
+      "number": "1064",
+      "level": 1000,
+      "title": "Entrepreneurs Residence Experience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students in the Innovate Living Learning Community to the various aspects of the entrepreneurial ecosytem at Virginia Tech and familiarizes them with common business terminology in the field. Discover the difference between ideas and entrepreneurial opportunities and relate current business events to topics in the course, including specific entrepreneurial opportunities. Provides weekly opportunities to interact with and learn from visiting entrepreneurs through various methods (i.e. fireside chats, dinners, and speaking events) to enhance learning outside of the classroom and build confidence in engaging with seasoned professionals. Discusses entrepreneurial ideas and current opportunities and applies learning to create and deliver an effective, individual startup concept pitch.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 1104",
+      "subject": "MGT",
+      "number": "1104",
+      "level": 1000,
+      "title": "Foundations of Business",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces students to the free enterprise system and the various business functions, such as management, human resources, marketing, operations, accounting and finance, technology as well as to the different types of business such as manufacturing and service. Analyzes the various business functions to help improve understanding of career interests and opportunities, as well as to provide a basic understanding of how a company operates. Applies learning through a group project in which a micro-business is created and managed.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 1935",
+      "subject": "MGT",
+      "number": "1935",
+      "level": 1000,
+      "title": "Fundamentals of Cadet Professional Leadership",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "1935: Foundational course of the Virginia Tech Corps of Cadets Citizen-Leader Program. Explores basic business etiquette and introduces the cadet to concepts of online professional identity, basic career preparation, resume writing, basic interviewing techniques and ways to create a healthy nutrition and physical fitness program. Includes a comprehensive physical fitness laboratory. Membership in the Corps of Cadets is required. 1936: Introduces methodologies for efficient and effective leadership, explores options for multiple career paths, basic business etiquette, opportunity to attend leadership conferences and field trips to local businesses. Prepares cadets for leadership positions in their sophomore year. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 1936",
+      "subject": "MGT",
+      "number": "1936",
+      "level": 1000,
+      "title": "Fundamentals of Cadet Professional Leadership",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "1935: Foundational course of the Virginia Tech Corps of Cadets Citizen-Leader Program. Explores basic business etiquette and introduces the cadet to concepts of online professional identity, basic career preparation, resume writing, basic interviewing techniques and ways to create a healthy nutrition and physical fitness program. Includes a comprehensive physical fitness laboratory. Membership in the Corps of Cadets is required. 1936: Introduces methodologies for efficient and effective leadership, explores options for multiple career paths, basic business etiquette, opportunity to attend leadership conferences and field trips to local businesses. Prepares cadets for leadership positions in their sophomore year. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 1945",
+      "subject": "MGT",
+      "number": "1945",
+      "level": 1000,
+      "title": "Fundamentals of Cadet Leadership",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Foundational course of the Virginia Tech Corps of Cadet Leader Development Program. Explores self-understanding, personality types, active and passive followership, leadership and ethical theories. A laboratory introduces freshmen cadets to academic success strategies. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 1946",
+      "subject": "MGT",
+      "number": "1946",
+      "level": 1000,
+      "title": "Fundamentals of Cadet Leadership",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Continued emphasis on self-understanding and followership. Introduces adversarial and positive leadership models, hazing statutes and leadership case studies. Prepares cadets for leadership positions in their sophomore year. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 1984",
+      "subject": "MGT",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2064",
+      "subject": "MGT",
+      "number": "2064",
+      "level": 2000,
+      "title": "Foundations of Entrepreneurship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the study and practice of entrepreneurship in a human-centered context. Examination of the influence of different cultures, institutions, and global factors and the role of human values, beliefs and behaviors on modes of entrepreneurial action. Application of theories and methods of entrepreneurial opportunity identification within the contexts of human behavior, social institutions and/or patterns of culture to generate ideas for new ventures and application of design-thinking theories and concepts in a field-based, experiential learning project to design, iterate and validate a value proposition and business model for a new venture.",
+      "pathwaysConcepts": [
+        "3",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2104",
+      "subject": "MGT",
+      "number": "2104",
+      "level": 2000,
+      "title": "Careers in Management",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Career opportunities associated with the Management major’s three options: Human Resource Management (HRM), Management Consulting and Analytics (MCA), and Entrepreneurship, Innovation and Technology (EIT). Analyzes the current job markets and opportunities for these career paths. Creating effective resumes and cover letters and researching and networking with targeted firms. Experience scenarios of informational, behavioral, case interviews, and elevator pitch presentations. Incorporate real life perspective through guest speakers who are industry experts and local field visits. Pre: Sophomore and Junior Management majors and business undecided only. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2114",
+      "subject": "MGT",
+      "number": "2114",
+      "level": 2000,
+      "title": "Principles of Project Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Broad and comprehensive overview of project management (PM) with emphasis on its application in organizations. Tools, techniques, and evaluative frameworks that are intended to solve problems and execute organizational strategy. Emphasizes project lifecycle and introduces multiple PM approaches and technologies. Change management evaluation and project manager role in implementing related strategies. Assessment of project financial performance, impact, and risk.",
+      "prerequisites": {
+        "rawText": "MGT 1064 or MGT 1104",
+        "referencedCourses": [
+          "MGT 1064",
+          "MGT 1104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2204",
+      "subject": "MGT",
+      "number": "2204",
+      "level": 2000,
+      "title": "Global Business of Pop Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analyze the global business of pop culture through a semester-long case study of a selected pop culture industry. Investigate how social, historical, political, and economic forces shape, and are shaped by, business-decision making at local and global scales. Emphasis on business-decision making by pop culture entities reflecting how they have (or have not) responded over time to changing power dynamics and inequity in the macroenvironment (e.g., reimagined social identities and expectations, accelerated globalization and market access, political unrest, etc.). Use project-based learning to assess past strategic decisions from multiple, intersecting perspectives (e.g., social, historical, political, economic, etc.) and make recommendations about market-based decisions.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2314",
+      "subject": "MGT",
+      "number": "2314",
+      "level": 2000,
+      "title": "Introduction to International Business",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental concepts of international business. International business environment and how it affects decisions, the creation of competitive advantage in the multinational firm, and complexities of managing it. Why international businesses exist, drivers of international expansion, differences among countries in terms of political, legal, economic, technological and cultural dimensions, and the complexity of international business decisions. Causes and consequences of globalization, international trade, and analyzing the challenges of managing international business, with a focus on a number of industries, including hospitality and tourism. Operational, strategic, and ethical issues which are unique to multinational corporations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HTM 2314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2354",
+      "subject": "MGT",
+      "number": "2354",
+      "level": 2000,
+      "title": "Teams, Leadership, and Business: Cultivating Excellence",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores a broad range of concepts and theories important for a basic understanding of team leadership, including organizational behavior, motivation, conflict management, business engagement and stakeholders. Semester-long, service-learning assignment and case analyses to evaluate practical applications of exceptional leadership practices and team skills. Examines different cultures and values found within a team and business and challenges of diversity and inclusion in team settings. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2504",
+      "subject": "MGT",
+      "number": "2504",
+      "level": 2000,
+      "title": "Sustainable Business Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundational study and practice of sustainability and social issues in a business management context. Uses the emerging environmental, social, and governance (ESG) framework to explore the historical context of sustainability in business, influential ESG stakeholders, business commitments towards “net zero” status, business’ role in creating and mitigating environmental impact of greenhouse gas emissions (GHG’s), profitability of sustainable businesses, relevant government policy and regulation, ESG measurement and reporting, innovation and competitive advantage, sustainable supply chain management, sustainable business models, embedding sustainability into strategy, and how managers conceptualize and initiate ESG programming.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2614",
+      "subject": "MGT",
+      "number": "2614",
+      "level": 2000,
+      "title": "Foundations of Management Consulting and Data Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides students with a fundamental understanding of management consulting as an industry, the consulting process, and success-factors for providing value-adding consulting services. Examines financial and other key concepts that successful management consultants need to master to provide insight and value to their customers. Provides a comprehensive overview of new and emerging technologies impacting the consulting industry and consulting skills in data analytics, data sense-making and data visualization.",
+      "prerequisites": {
+        "rawText": "MGT 1104 or MGT 1064",
+        "referencedCourses": [
+          "MGT 1064",
+          "MGT 1104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2935",
+      "subject": "MGT",
+      "number": "2935",
+      "level": 2000,
+      "title": "Career Planning for Cadets",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "2935: Cadets in this class learn the basic of business networking, developing presentations, professional mentorship, personal finance, and investments, advanced nutrition and living a healthy lifestyle. A physical fitness laboratory complements the lecture. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2936",
+      "subject": "MGT",
+      "number": "2936",
+      "level": 2000,
+      "title": "Career Planning for Cadets",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "2936: Cadets in the class learn about careers in public service, leadership through service learning, personal investment strategies, ethical business leadership, explore opportunities for public service, and participate in leadership conference. A physical fitness laboratory complements the lecture. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2945",
+      "subject": "MGT",
+      "number": "2945",
+      "level": 2000,
+      "title": "Small Unit Leadership for Cadets",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Prepares cadets for responsibilities as small unit leaders. Builds on the previous years knowledge to focus on skills and knowledge necessary to lead small units. Introduces cadets to the importance of communication, includes basic counseling techniques, disciplinary actions, conflict resolution, cadet regulations and leadership case studies. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2946",
+      "subject": "MGT",
+      "number": "2946",
+      "level": 2000,
+      "title": "Small Unit Leadership for Cadets",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Prepares cadets for organizational leadership. Teaches skills and knowledge necessary to effectively lead a mid- level organization. Includes practical counseling techniques using the cadet counseling form, the leaders toolbox, the cadet disciplinary system, mentor program, and conflict resolution. Includes instruction on the Senior Sergeant Selection Process. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2954",
+      "subject": "MGT",
+      "number": "2954",
+      "level": 2000,
+      "title": "Business Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "This course provides students with an international business experience. It is only offered as part of a program outside of the United States. Students will learn from the structured educational experience developed by the faculty leader. This course is intended for students who want to take management-related free electives. Pre: Instructors consent and the completion of 24 semester hours with a minimum GPA of 3.0 or departmental consent.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2964",
+      "subject": "MGT",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2984",
+      "subject": "MGT",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2984G",
+      "subject": "MGT",
+      "number": "2984G",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "7"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 2984O",
+      "subject": "MGT",
+      "number": "2984O",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "5F"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3064",
+      "subject": "MGT",
+      "number": "3064",
+      "level": 3000,
+      "title": "Cornerstones of Entrepreneurship and Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides a cornerstone foundation for the understanding of entrepreneurship and the business innovation process exposing students to fundamental business concepts applied and integrated in these arenas. An examination of value creation through entrepreneurship and the rudiments of new ventures are provided helping students develop an entrepreneurial frame of mind and perspective. Pre: Completion of 45 credit hours and two CLE Area 5 courses.",
+      "prerequisites": {
+        "rawText": "MGT 2064",
+        "referencedCourses": [
+          "MGT 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3074",
+      "subject": "MGT",
+      "number": "3074",
+      "level": 3000,
+      "title": "Social Entrepreneurship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Provides a foundation for how social entrepreneurs use and combine resources to pursue opportunities that lead to social change and/or address social needs. An examination of the nature of social entrepreneurship and its various practices is provided, helping students develop an entrepreneurial frame of mind and prepare them to act as effective leaders of social change.",
+      "prerequisites": {
+        "rawText": "MGT 2064",
+        "referencedCourses": [
+          "MGT 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3084",
+      "subject": "MGT",
+      "number": "3084",
+      "level": 3000,
+      "title": "Digital Entrepreneurship, Innovation, and Product Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Technology-based and digital entrepreneurship in startups, corporate, and public-sector organizations. Course activities in commercialization and resource mobilization strategies for the development of new digital technologies. Data-driven assessment and pursuit of entrepreneurial opportunities in digital environments, including cybersecurity, artificial intelligence, blockchain technologies, biotechnology, and other emerging new technologies.",
+      "prerequisites": {
+        "rawText": "MGT 2064",
+        "referencedCourses": [
+          "MGT 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3094",
+      "subject": "MGT",
+      "number": "3094",
+      "level": 3000,
+      "title": "Global Entrepreneurship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Global entrepreneurship and venture creation strategies in intercultural global perspectives. Identifies the global entrepreneurial core competencies, applies formal global thinking concepts, and uses integrative problem-solving tools in global entrepreneurial opportunity contexts. Analyze the value proposition of a new venture model across national boundaries. Builds framework for understanding the entrepreneurial process in global contexts. Blends theory with practical experiences in global business contexts to explore and research global entrepreneurial process and environment.",
+      "prerequisites": {
+        "rawText": "MGT 2064",
+        "referencedCourses": [
+          "MGT 2064"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3304",
+      "subject": "MGT",
+      "number": "3304",
+      "level": 3000,
+      "title": "Management Theory and Leadership Practice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduces the student to a broad range of concepts, theories and practices important for a basic understanding of management. Includes the functions of management, roles of managers in organizations, and tools and techniques for managing organizational performance. Focus on the global environment in which today's managers must effectively and ethically lead organizations. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3324",
+      "subject": "MGT",
+      "number": "3324",
+      "level": 3000,
+      "title": "Organization Behavior",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines the determinants and consequences of human behavior in formal organizations. Specific focus is on the individual, interpersonal, and group processes which underlie all the human dynamics.",
+      "corequisites": {
+        "rawText": "3304 or 3404.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3334",
+      "subject": "MGT",
+      "number": "3334",
+      "level": 3000,
+      "title": "Managing Human Resources",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the strategies, policies, and practices associated with effectively managing human resources. Designed to provide future managers with tools and techniques to acquire, develop, reward, and retain employees within the legal and social context of todays organizations. Emphasizes how managing human resources can contribute to organizational effectiveness in a variety of industrial and organizational settings.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404",
+        "referencedCourses": [
+          "MGT 3304",
+          "MGT 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3344",
+      "subject": "MGT",
+      "number": "3344",
+      "level": 3000,
+      "title": "Employee & Labor Relations Law, Bargaining, and Dispute Resolution",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical, legal, social, and economic forces that shape employment relationships in the U.S. Labor and employment laws and how they apply in specific cases. Anticipate and respond to a union organizing campaign. Employment contract bargaining and dispute resolution in union and nonunion settings. Compare U.S. private sector, public sector, and international employee and labor relations laws and institutions. Debate contemporary employee relations’ events and issues using critical thinking and ethical reasoning.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3404",
+      "subject": "MGT",
+      "number": "3404",
+      "level": 3000,
+      "title": "Principles of Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Management concepts, theories, and practices for the effective and successful operation of modern organizations. Four functions of management and the activities involved in each function. Importance of ethical management practices in the effective operation of global business organizations, including entrepreneurial ventures. Individuals and group behaviors in the workplace, as well as methods to improve workplace performance.Duplicates some material in MGT 3304. Course credit will not be awarded for both MGT 3304 and MGT 3404.",
+      "prerequisites": {
+        "rawText": "MGT 1104 or MGT 1064",
+        "referencedCourses": [
+          "MGT 1064",
+          "MGT 1104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3414",
+      "subject": "MGT",
+      "number": "3414",
+      "level": 3000,
+      "title": "Talent and Organizational Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Talent development systems and their strategic support of organizational learning, performance management process, a high-performing workforce, and organizational success. Foundational elements of talent development, including performance management process equity in evaluation and interviews. Emerging talent and organizational development trends and technologies. Talent development and performance management analytics to identify organizational talent capacity to meet current and future workplace needs. Organizational and talent development learning plans within talent-centered cultures in diverse organizational contexts. Emerging issues in learning, performance management, and talent development. Client projects, guest speakers from the field, and contemporary case studies.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404",
+        "referencedCourses": [
+          "MGT 3304",
+          "MGT 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3424",
+      "subject": "MGT",
+      "number": "3424",
+      "level": 3000,
+      "title": "Strategic Talent Planning, Acquisition, and Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Strategic talent planning, acquisition, and analytics within organizations. Alignment of talent planning and acquisition strategies with legal and social contexts, organizational goals, equity, and firm performance. Identification and analysis of key human capital data to inform talent acquisition decisions. Impact of talent planning decisions on acquisition and selection decisions, job design, internal workforce mobility, retention and succession planning for immediate and long-term outcomes. Emerging trends impacting field of human resources and specific to these topics.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404",
+        "referencedCourses": [
+          "MGT 3304",
+          "MGT 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3444",
+      "subject": "MGT",
+      "number": "3444",
+      "level": 3000,
+      "title": "Multicultural Diversity in Organizations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluates the impact of multicultural diversity on the employees work experience and on organizational processes/ performance. Students analyze and discuss theories and practices related to the business case for diversity, exploring the processes through which multicultural diversity (both domestic and international) affects the organization and its stakeholders. Topics include multicultural diversity theories, legislation, interpersonal and international differences, cultural intelligence, and organizational practices. Pre: Junior Standing. (3H,3C)",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3604",
+      "subject": "MGT",
+      "number": "3604",
+      "level": 3000,
+      "title": "Managerial Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Digital tools to analyze managerial data ranging from productivity data to large scale, organizational databases. Three themes: (1) analyzing and improving productivity using digital tools; (2) applying exploratory data tools; (3) improving organizational collaboration, analysis, and knowledge sharing using relational databases.",
+      "corequisites": {
+        "rawText": "3304 or 3404.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3614",
+      "subject": "MGT",
+      "number": "3614",
+      "level": 3000,
+      "title": "Strategy and Competition Analytics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops concepts and techniques for analyzing and formulating strategy in a variety of business environments. Focuses on research, data, and analysis related to the key players in the environment from both a competitive and cooperative perspective. Basic frameworks for analysis include mapping the objectives and constraints of the players, and modeling the pattern of interaction among the players. Provides an in-depth exposure to the theory and tools of strategy analysis and practice in their management consulting application.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3754",
+      "subject": "MGT",
+      "number": "3754",
+      "level": 3000,
+      "title": "Management Internships and Career Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Guided experience in work environments and job search. Through unpaid internships, students have the opportunity to view the inner workings of businesses first hand while working on organizationally meaningful assignments. Class activities prepare students for conducting effective job searches.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404",
+        "referencedCourses": [
+          "MGT 3304",
+          "MGT 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3804",
+      "subject": "MGT",
+      "number": "3804",
+      "level": 3000,
+      "title": "Topics for Cadet Global Leadership Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analyzes historic and current leadership challenges using specific military campaigns for context. Covers national and military objectives and various instruments of national power in relation to national security. Travel to relevant country and battlefields for experiential learning. May be repeated with different content for a maximum of six (6) credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3844",
+      "subject": "MGT",
+      "number": "3844",
+      "level": 3000,
+      "title": "DCTC 301 – Fundamentals of Civilian Service in the DoD",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduce students to the Defense Civilian Training Corps program, including the Department of Defense (DoD) use of innovation, critical technology, and successful teamwork to provide solutions to future national security challenges. Topics include DoD organization, authorities, and relationships with the executive and legislative branches; introduction to DoD policies and the policy development process; overview of federal personnel management and training; analysis of innovation and acquisition ecosystems to develop operational capability; application of critical technologies to further the DoD strategic mission; demonstration of how diverse, multidisciplinary teams provide solutions to future national security challenges. Pre: Students must be a part of the DCTC program to enroll.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3854",
+      "subject": "MGT",
+      "number": "3854",
+      "level": 3000,
+      "title": "DCTC 302 – Exploration of the DOD Acquisition Environment",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduce students to the basic acquisition processes of the Department of Defense. Topics include: overview of federal purchasing principles, project management, and risk management; employment of systems engineering in the acquisition process; use of science and technology to support military operations; responsibilities to hold a DoD security clearance; and understanding the importance of ethical decision-making by government employees. Pre: Students must be a part of the DCTC program to enroll.",
+      "prerequisites": {
+        "rawText": "MGT 3844",
+        "referencedCourses": [
+          "MGT 3844"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3874",
+      "subject": "MGT",
+      "number": "3874",
+      "level": 3000,
+      "title": "The European Business Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Political, legal, economic, socio-cultural, technological and environmental issues and policies affecting the operation and strategies of foreign companies in Europe. Business operations inside and outside the European Union. Impact of EU policies and the EU legal framework on business strategies and policies of non-EU companies. Business strategy for the European market, marketing and human resources management in Europe, and corporate governance and control in Europe. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3874",
+        "PSCI 3874"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3935",
+      "subject": "MGT",
+      "number": "3935",
+      "level": 3000,
+      "title": "Advanced Professional Development for Cadets",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "3935: Cadets in this learn about the mentor-protege relationship; resolving team conflicts; diversity in the workplace; standards of business conduct, dining etiquette; and maintaining a healthy lifestyle. A physical fitness laboratory compliments the lecture. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3936",
+      "subject": "MGT",
+      "number": "3936",
+      "level": 3000,
+      "title": "Advanced Professional Development for Cadets",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "3936: Cadets in the class learn about business challenges from panels of experts in various career fields, business problem solving, speaking before a business audience, business writing, preparing for an internship and participation in a leadership conference. A physical fitness laboratory complements the lecture. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3945",
+      "subject": "MGT",
+      "number": "3945",
+      "level": 3000,
+      "title": "Cadet Organizational Leadership",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Prepares junior class cadets for responsibilities as senior sergeants. Builds on the previous years knowledge of small unit leadership. Introduces cadets to decision making, writing decision papers/executive summaries, project management, public speaking, and refinement of their personal leadership philosophy. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3946",
+      "subject": "MGT",
+      "number": "3946",
+      "level": 3000,
+      "title": "Cadet Organizational Leadership",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Prepares junior calss cadets for the role of responsibility they will assume as senior leaders in the Corps. Continues focus on organizational leadership and introduces cadets to command and a commanders responsibilities. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3954",
+      "subject": "MGT",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3964",
+      "subject": "MGT",
+      "number": "3964",
+      "level": 3000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3974",
+      "subject": "MGT",
+      "number": "3974",
+      "level": 3000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 3984",
+      "subject": "MGT",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4064",
+      "subject": "MGT",
+      "number": "4064",
+      "level": 4000,
+      "title": "Developing Entrepreneurial Ventures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Takes a cross-functional perspective on identifying and evaluating entrepreneurial opportunities, developing new ventures, and pursuing new venture strategies to compete in the marketplace. Explores business potentials of new venture ideas, examines new ventures feasibility, and develops business planning tools for the venture. Pre: Senior Standing.",
+      "prerequisites": {
+        "rawText": "MGT 3064",
+        "referencedCourses": [
+          "MGT 3064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4084",
+      "subject": "MGT",
+      "number": "4084",
+      "level": 4000,
+      "title": "Management Consulting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Hands-on application of accounting, finance, marketing, management, information technology, and project management to actual business clients through on-site consultation with start-up and existing businesses and non-profits. Through classroom instruction, instructor coaching, and experiential studies, students will use the skills they have learned over several semesters to explore the field of management consulting. For the Management major with senior standing in the Management Consulting Option.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404 and MGT 3614",
+        "referencedCourses": [
+          "MGT 3304",
+          "MGT 3404",
+          "MGT 3614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4094",
+      "subject": "MGT",
+      "number": "4094",
+      "level": 4000,
+      "title": "Startup: Commercialization of Innovation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Work in interdisciplinary teams in an experiential environment replicating modern innovation environments. Engage in real world innovation commercialization opportunities. Individual experiences and projects involving actual inventions, innovations, technologies, intellectual property (e.g. patents) and market opportunities. Integrate design thinking, scientists, entrepreneurs, advisors and other potential collaborators. Create a representation of a plan for a minimum viable product for an innovative product or service based on customer and market feedback.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGE 4094",
+        "IDS 4094"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4314",
+      "subject": "MGT",
+      "number": "4314",
+      "level": 4000,
+      "title": "International Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The course is designed to provide the student with familiarity concerning the unique problems, characteristics, and demands that face multinational managers and the international business community. Junior standing required.",
+      "prerequisites": {
+        "rawText": "MGT 2314 or HTM 2314",
+        "referencedCourses": [
+          "HTM 2314",
+          "MGT 2314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4334",
+      "subject": "MGT",
+      "number": "4334",
+      "level": 4000,
+      "title": "Ethical Leadership and Corporate Social Responsibility",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Focus on the leadership role of managers in promoting ethics and corporate social responsibility in business today. Consideration of the overall role of business in society and specific business-society issues such as equity and identity at work, environmental pollution, consumer and employee concerns, corporate-community relations, and the activities of multinational corporations. Issues examined through conceptual frameworks of business ethics, corporate social responsibility, and leadership (especially servant leadership). Emphasis placed on students articulating analysis of such issues through written and oral communication.",
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4344",
+      "subject": "MGT",
+      "number": "4344",
+      "level": 4000,
+      "title": "Productivity and Quality Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides an introduction to leadership in the context of productivity and quality improvement. It focuses on understanding the concepts and skills associated with contemporary management strategies and systems. This course requires active student involvement and emphasizes participative leadership skills, data collection, qualitative problem solving, and communication processes. For Management majors only. Senior standing required.",
+      "prerequisites": {
+        "rawText": "MGT 3304 or MGT 3404 and MGT 3324 and MGT 3604 and BIT 3414",
+        "referencedCourses": [
+          "BIT 3414",
+          "MGT 3304",
+          "MGT 3324",
+          "MGT 3404",
+          "MGT 3604"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4354",
+      "subject": "MGT",
+      "number": "4354",
+      "level": 4000,
+      "title": "Leadership: Advances in Skills and Concepts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This cornerstone course provides cutting-edge experiences, skills, and knowledge in leadership for students in the leadership minor. Within an historical context that balances military, political, and business perspectives, four types of leadership will be examined: self-leadership, dyadic leadership, team leadership, and enterprise leadership. Special emphasis will be placed on the specific skills, such as computer literacy and project management, required for leaders to succeed in modern, technologically oriented organizations. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "MGT 2354 or MGT 3304 or MGT 3404",
+        "referencedCourses": [
+          "MGT 2354",
+          "MGT 3304",
+          "MGT 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4394",
+      "subject": "MGT",
+      "number": "4394",
+      "level": 4000,
+      "title": "Strategic Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Senior-level capstone course to formulate and implement strategies to create and sustain competitive advantage. Emphasis on developing pragmatic and action-oriented general management skills that integrate across functional areas of the organization. Utilize various tools, concepts, and analytical framework to define and analyze strategic problems. Revisits business principles and practices covered in basic business courses. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "(MGT 3304 or MGT 3404) and (MKTG 3104 or MKTG 3104H) and FIN 3104 and BIT 3414",
+        "referencedCourses": [
+          "BIT 3414",
+          "FIN 3104",
+          "MGT 3304",
+          "MGT 3404",
+          "MKTG 3104",
+          "MKTG 3104H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4414",
+      "subject": "MGT",
+      "number": "4414",
+      "level": 4000,
+      "title": "Strategic Compensation, Benefits, and Rewards",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Strategic perspective on how decisions about employee compensation, benefits, and rewards help firms to implement business strategy and achieve competitive advantage. Basic compensation tools and analytic techniques used to design an internally aligned and externally competitive pay system in organizations. Individual and group level performance-based rewards that drive performance and achieve business objectives. Strategic choice of employee benefits aligned with organizational goals. Compensation-related laws and analysis of compensation data to ensure equity and legal compliance.",
+      "prerequisites": {
+        "rawText": "MGT 3334 or MGT 3344 or MGT 3424",
+        "referencedCourses": [
+          "MGT 3334",
+          "MGT 3344",
+          "MGT 3424"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4854",
+      "subject": "MGT",
+      "number": "4854",
+      "level": 4000,
+      "title": "Analytics in Action",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Problem-solving framework and analytic techniques for solving messy, unstructured, high-impact, real-world organizational/societal problems within an interdisciplinary, intercultural, experiential learning context. Definition of problem scope, objectives, need for change, ethical concerns, and diversity and inclusion issues; identification of stakeholders and their values; evaluation of decision tradeoffs; problem decomposition and hypothesis formulation; project planning and administration; data versus user requirements, ethical and inclusive decision making, data collection, preparation, and analysis; team roles and management; professional communication of insights, policy and action recommendations.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BIT 4854"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4935",
+      "subject": "MGT",
+      "number": "4935",
+      "level": 4000,
+      "title": "Cadet Citizen Leader Practicum",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "4935:Students in the class learn practical strategies for leading teams to plan execute a project; project writing; applied dining etiquette; being a mentor to others, leadership through service learning and living a healthy lifestyle. A physical fitness laboratory compliments the lecture. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4936",
+      "subject": "MGT",
+      "number": "4936",
+      "level": 4000,
+      "title": "Cadet Citizen Leader Practicum",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "4936: Students in the class begin the process of transition from college to their intended career. Topics include conduct of effective meetings, salary and benefits negotiation, obtaining post-graduation professional development, serving as a mentor, and developing a plan for the first six months in a new job. A physical fitness laboratory compliments the lecture. Membership in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4945",
+      "subject": "MGT",
+      "number": "4945",
+      "level": 4000,
+      "title": "Executive Leadership for Cadets",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Examines executive level leadership. It explores executive decision making, constraint theory and problem solving in both the military and civilian career fields. Senior standing in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4946",
+      "subject": "MGT",
+      "number": "4946",
+      "level": 4000,
+      "title": "Executive Leadership for Cadets",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Prepares senior class cadets for the transition from college to career professional. Explores life planning, personal finance, taking charge in a new organization, cross- generational communication, and developing subordinate relationships. Senior standing in the Corps of Cadets is required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4954",
+      "subject": "MGT",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4964",
+      "subject": "MGT",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4974",
+      "subject": "MGT",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4984",
+      "subject": "MGT",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4994",
+      "subject": "MGT",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MGT 4994H",
+      "subject": "MGT",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mgt/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

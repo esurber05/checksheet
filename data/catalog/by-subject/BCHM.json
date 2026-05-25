@@ -1,0 +1,607 @@
+{
+  "subject": "BCHM",
+  "scrapedAt": "2026-05-25T21:18:35.370Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "BCHM 1014",
+      "subject": "BCHM",
+      "number": "1014",
+      "level": 1000,
+      "title": "Biochemistry First Year Experience",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Academic and career planning for biochemistry majors and students considering biochemistry as a major. Topics discussed: academic success, careers, diversity and inclusion, graduate school, professional health opportunities, library resources, wellness, undergraduate research, internships, study abroad, and service-learning opportunities. Introduction to biochemistry discipline and faculty. Development of a comprehensive academic plan of study and opportunity for self-awareness/reflection.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 1024",
+      "subject": "BCHM",
+      "number": "1024",
+      "level": 1000,
+      "title": "Introductory Experience in Biochemistry Research Skills",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction of foundational knowledge on the central tenets of biochemistry and research skills. Development of critical thinking skills and professional development through networks. Collection, analysis, and interpretation of data. Evaluation of literature, use of citation management programs, and development of scientific writing and presentation skills. Data management, visualization, and ethics in the context of biochemistry. Emphasis on teamwork, literature reading, and scientific communication skills.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 1984",
+      "subject": "BCHM",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2024",
+      "subject": "BCHM",
+      "number": "2024",
+      "level": 2000,
+      "title": "Concepts of Biochemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Short course in fundamentals of the chemistry of living systems. Introduction to major categories of biochemical substances, metabolic pathways, and principles of biochemical information transfer. (No credit for majors).",
+      "prerequisites": {
+        "rawText": "CHEM 2514 or CHEM 2535",
+        "referencedCourses": [
+          "CHEM 2514",
+          "CHEM 2535"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2354",
+      "subject": "BCHM",
+      "number": "2354",
+      "level": 2000,
+      "title": "Biochemical Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental aspects of biochemical laboratory measurements. Properties of biomolecules and methods for their isolation, separation, detection and quantification. Calculations required to provide quantitative biomolecular data. Common instrumentation in biochemical laboratories, their principles of operation, and their roles in biochemical assays and measuring biochemical interactions. Overview of on-line resources for biochemical information.",
+      "prerequisites": {
+        "rawText": "CHEM 2514 or CHEM 2535 or CHEM 2565",
+        "referencedCourses": [
+          "CHEM 2514",
+          "CHEM 2535",
+          "CHEM 2565"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2364",
+      "subject": "BCHM",
+      "number": "2364",
+      "level": 2000,
+      "title": "Biochemical Techniques Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Operation of key equipment found in a biochemistry/molecular biology laboratory (e.g., enzyme kinetics, PCR); analyzes, interpretation and presentation of data acquired in laboratory-based protocols; report of results of experiments; use of laboratory automation for biochemical measurements.",
+      "corequisites": {
+        "rawText": "BCHM 2354",
+        "referencedCourses": [
+          "BCHM 2354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2974",
+      "subject": "BCHM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2974H",
+      "subject": "BCHM",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2984",
+      "subject": "BCHM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 2994",
+      "subject": "BCHM",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 3114",
+      "subject": "BCHM",
+      "number": "3114",
+      "level": 3000,
+      "title": "Biochemistry for Biotechnology and the Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey presentation of the basic principles of biochemistry as they apply to biotechnology. Topics covered include protein structure, enzymology, cellular organization, and biochemical regulation. Special emphasis will be given to gene structure, transcription, and translation, cellular organization, and cloning, sequencing, modification and expression of recombinant DNA. Examples will be given of agricultural/medical/industrial applications of cellular and molecular biochemical knowledge. Non-majors only.",
+      "prerequisites": {
+        "rawText": "CHEM 2536 or CHEM 2566",
+        "referencedCourses": [
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 3634",
+      "subject": "BCHM",
+      "number": "3634",
+      "level": 3000,
+      "title": "Analysis of Biochemical Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of primary scientific literature using recently published biochemical research articles. Application of the CREATE model (Consider, Read, Elucidate and generate a hypothesis, Analyze and interpret the data, and Think of next Experiment) as a conceptual framework. Evaluation of article data, limitations and broader impacts. Impact of scientific philosophy, experimental design, and peer review in scientific research and publishing. Pre: Junior standing.",
+      "prerequisites": {
+        "rawText": "(BIOL 2134 or BIOL 2604) and CHEM 2535",
+        "referencedCourses": [
+          "BIOL 2134",
+          "BIOL 2604",
+          "CHEM 2535"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 3900",
+      "subject": "BCHM",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 3984",
+      "subject": "BCHM",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4054",
+      "subject": "BCHM",
+      "number": "4054",
+      "level": 4000,
+      "title": "Genomics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A contemporary analysis of the development, utility and application of high-resolution methods for the study and manipulation of the complete genomes of organisms. The use of new techniques for genomic, metabolic and protein engineering (functional genomics), including high-throughput methods and nanotechnology, will be emphasized.",
+      "prerequisites": {
+        "rawText": "BCHM 3114 or BCHM 4116 or BIOL 3774",
+        "referencedCourses": [
+          "BCHM 3114",
+          "BCHM 4116",
+          "BIOL 3774"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APSC 4054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4074",
+      "subject": "BCHM",
+      "number": "4074",
+      "level": 4000,
+      "title": "Career Orientation",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Examination of various career opportunities for biochemists in industry, academia, medicine and related health sciences. Introduction to resources for locating career opportunities, resume preparation and interview skills. Restricted to biochemistry majors. Junior standing required. I",
+      "corequisites": {
+        "rawText": "BCHM 4115",
+        "referencedCourses": [
+          "BCHM 4115"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4115",
+      "subject": "BCHM",
+      "number": "4115",
+      "level": 4000,
+      "title": "General Biochemistry",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Metabolism and chemistry of carbohydrates, proteins, lipids, and nucleic acids with emphasis on interactions and comparative aspects of microbial, plant, and animal forms. For students in the biochemistry curriculum and other students interested in a foundation course. (Students are required to have at least a C- in both CHEM 2535 and 2536 to be admitted to BCHM 4115).",
+      "prerequisites": {
+        "rawText": "(CHEM 2536 or CHEM 2566) and (BCHM 2114 or CHEM 2154)",
+        "referencedCourses": [
+          "CHEM 2154",
+          "CHEM 2536",
+          "CHEM 2566"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4116",
+      "subject": "BCHM",
+      "number": "4116",
+      "level": 4000,
+      "title": "General Biochemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Metabolism and chemistry of carbohydrates, proteins, lipids, and nucleic acids with emphasis on interactions and comparative aspects of microbial, plant, and animal forms. For students in the biochemistry curriculum and other students interested in a foundation course. (Students are required to have at least a C- in both CHEM 2535 and 2536 to be admitted to BCHM 4115). I,II",
+      "prerequisites": {
+        "rawText": "BCHM 4115",
+        "referencedCourses": [
+          "BCHM 4115"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4124",
+      "subject": "BCHM",
+      "number": "4124",
+      "level": 4000,
+      "title": "Laboratory Problems in Biochemistry and Molecular Biology",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Presentation of major analytical techniques of importance to biochemistry and molecular biology, including spectrophotometry, electrophoresis, chromatography. Lab study of selected principles and methods used in biochemistry and molecular biology.",
+      "prerequisites": {
+        "rawText": "BCHM 4115 and (CHEM 2114 and CHEM 2124) or (CHEM 3114 and CHEM 3124)",
+        "referencedCourses": [
+          "BCHM 4115",
+          "CHEM 2114",
+          "CHEM 2124"
+        ]
+      },
+      "corequisites": {
+        "rawText": "BCHM 4116",
+        "referencedCourses": [
+          "BCHM 4116"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 9 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4354",
+      "subject": "BCHM",
+      "number": "4354",
+      "level": 4000,
+      "title": "Biochemical Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of how chemical signals are produced, transported, and influence microbes (Bacterial and unicellular organism (chemotaxis), plants, and animals (olfactory neuroethology). Applications to cell biology, neurobiology, and ecology. Analysis of the interaction between biochemical communication systems and health (diseases). Management, statistical analysis, and interpretation of large datasets related to biochemical communication, using computational approaches.",
+      "prerequisites": {
+        "rawText": "(BCHM 3114 or BCHM 4115) and (STAT 2004 or STAT 3615)",
+        "referencedCourses": [
+          "BCHM 3114",
+          "BCHM 4115",
+          "STAT 2004",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4554",
+      "subject": "BCHM",
+      "number": "4554",
+      "level": 4000,
+      "title": "Biophysics for Biochemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Thermodynamics, quantum mechanics, and statistical mechanics in biological systems, with emphasis on theoretical understanding of experimental biophysical methods. Fundamental concepts in protein and nucleic acid folding, dynamics from bond vibrations to kinetics and diffusion, molecular orbital theory, protein-ligand interactions and associated molecular visualization tools. Computational modeling, calculations, and simulation using both quantum and classical mechanics.",
+      "prerequisites": {
+        "rawText": "BCHM 3114 or BCHM 4115",
+        "referencedCourses": [
+          "BCHM 3114",
+          "BCHM 4115"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4754",
+      "subject": "BCHM",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4784",
+      "subject": "BCHM",
+      "number": "4784",
+      "level": 4000,
+      "title": "Applications in Molecular Life Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Synthesis and application of biochemistry, cell biology, genetics, genomics, physiology, immunology concepts and techniques to address medical and agricultural problems. Gene characterization and manipulation, protein-based drugs, diagnostics, vaccines, transgenic plants/animals. Analysis, critique, application of research in molecular life science.",
+      "prerequisites": {
+        "rawText": "(BCHM 3114 and BCHM 3124 and BIOL 3774 and BIOL 4774) or (BCHM 4116 and BCHM 4124)",
+        "referencedCourses": [
+          "BCHM 3114",
+          "BCHM 4116",
+          "BCHM 4124",
+          "BIOL 3774"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4974",
+      "subject": "BCHM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4974H",
+      "subject": "BCHM",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4984",
+      "subject": "BCHM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4994",
+      "subject": "BCHM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "BCHM 4994H",
+      "subject": "BCHM",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/bchm/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

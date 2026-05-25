@@ -1,0 +1,1807 @@
+{
+  "subject": "GEOG",
+  "scrapedAt": "2026-05-25T21:20:19.381Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "GEOG 1004",
+      "subject": "GEOG",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introduction to Human Geography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to geography as a social science. Development of a conceptual framework for studying and evaluating human-environment relationships. Through examination of selected regional and global issues and through exploring basic concepts like regions, place, location, human-environment interaction, movement, and accessibility, students will discover how power is spatially expressed and explore how culture shapes the production of space and vice versa. Students will also discover and describe how ethical issues manifest spatially.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1014",
+      "subject": "GEOG",
+      "number": "1014",
+      "level": 1000,
+      "title": "World Regions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Human and physical patterns and characteristics of major regions of the world including political systems, religions, economies, and physical settings. Concepts and perspectives of geography as a social science; linkages and interdependence of nations and regions; analysis of media coverage of events or global issues; engagement with current and historical global affairs.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1024",
+      "subject": "GEOG",
+      "number": "1024",
+      "level": 1000,
+      "title": "Survey of Geography",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Foundations of geography and subdisciplines. Career pathways for geography-interested students in various workforce sectors and sub-disciplinary specialization areas, including physical geography, GIScience, and human geography. Introduction to campus academic and geography-related career resources to enhance the undergraduate experience. Professional goal reflection and development.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1084",
+      "subject": "GEOG",
+      "number": "1084",
+      "level": 1000,
+      "title": "Digital Planet",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of innovative geospatial technologies and their impact on the world around us, including how humans interact with the environment and each other. Roles of location-based services, global positioning systems, geographic information systems, remote sensing, virtual globes and web based mapping for environmental applications. Skills and techniques for spatial thinking and environmental decision-making. Ethical implications of the use of geospatial technologies, data, and computational approaches.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 1004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1104",
+      "subject": "GEOG",
+      "number": "1104",
+      "level": 1000,
+      "title": "Introduction to Environmental Geography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An integrated survey of the field of physical and environmental geography. A study of the natural processes and human activities that shape earth systems, including the atmosphere, hydrosphere, biosphere, and lithosphere through application of the principles and techniques of geographic scientific inquiry. Analysis of the reciprocal impact of science and society while addressing significant global challenges and opportunities in the natural and human world. Interpretation of intercultural experiences with respect to environmental challenges from one’s own and another’s worldview. Analysis and interpretation of spatial patterns pertaining to earth systems from photographs, maps, and imagery.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1115",
+      "subject": "GEOG",
+      "number": "1115",
+      "level": 1000,
+      "title": "Seeking Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "1115: Strategies to promote sustainability through the identification, description, and analysis of the dominant interconnections within and between environmental, social, and economic systems across local to global scales. 1116: Perceptions of, conditions of, and strategies to analyze processes of change within complex systems, and promote sustainability across local to global scales.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1116",
+      "subject": "GEOG",
+      "number": "1116",
+      "level": 1000,
+      "title": "Seeking Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "prerequisites": {
+        "rawText": "GEOG 1115 or NR 1115",
+        "referencedCourses": [
+          "GEOG 1115"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1504",
+      "subject": "GEOG",
+      "number": "1504",
+      "level": 1000,
+      "title": "Survey of Meteorology",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "An introductory look into the world of meteorology, including the role of forecasters, broadcast meteorologists, current research, and the prediction and response to significant storm events.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1514",
+      "subject": "GEOG",
+      "number": "1514",
+      "level": 1000,
+      "title": "Introduction to Meteorology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundational properties and processes of Earth’s atmosphere. Governing radiative and thermodynamic atmospheric equations. Extratropical weather systems, thunderstorms, hurricanes, and tornadoes. Cultural and societal impacts of extreme weather and climate change. Using meteorological and atmospheric data to construct weather forecasts.",
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1524",
+      "subject": "GEOG",
+      "number": "1524",
+      "level": 1000,
+      "title": "Introduction to Earths Climate",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to Earths climate system, including the physical mechanisms responsible for the global climate as well as its spatial and temporal variation; composition and structure of the atmosphere, radiation budget and temperature, precipitation and hydrologic budget, atmosphere and oceanic circulation, weather systems, paleoclimate, future climate; synergistic human-climate relationships, including global warming, climate change.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 1984",
+      "subject": "GEOG",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2004",
+      "subject": "GEOG",
+      "number": "2004",
+      "level": 2000,
+      "title": "Water, Environment, and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the hydrologic cycle, water resources, and related environmental issues. Emphasis on ethics and relationships between human needs for and effects upon water including: water quality, water treatment, and wastewater treatment; water for health, energy, and food; water management, laws, economics, and conflict; hydrometeorological hazards and climate change; and potential solutions for these and other critical water issues.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "WATR 2004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2014",
+      "subject": "GEOG",
+      "number": "2014",
+      "level": 2000,
+      "title": "Health and Place: Introduction to Health Geography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A survey of the field of health and medical geography. A study of the underlying interconnected processes at global to local scales from ecological and social perspectives that explain geographic patterns related to health, disease, and access to healthcare. Analysis of spatial patterns depicted on maps and connection to explanatory processes related to environmental exposures, demographic change, and the intersection of power, culture, and identity. Development of health-related written and oral content for broad audiences. Assessment and critique of presentation of scientific findings in popular media.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2034",
+      "subject": "GEOG",
+      "number": "2034",
+      "level": 2000,
+      "title": "Geography of Global Conflict",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geographical dimensions of global conflicts, international management of conflicts, conflicts of differences, historical, ideological, failed states and resources will be examined. Background to conflicts, current status of conflicts, different points of view in conflict. Topics in the course will change as the geography of global conflict changes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2034",
+        "PSCI 2034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2054",
+      "subject": "GEOG",
+      "number": "2054",
+      "level": 2000,
+      "title": "Introduction to World Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the prevalent methods and theories in the study of world politics. Topics include: historical context of contemporary world politics, global actors and power relations, conflict and conflict resolution, international law, and contemporary global issues.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2054",
+        "PSCI 2054"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2064",
+      "subject": "GEOG",
+      "number": "2064",
+      "level": 2000,
+      "title": "The Global Economy and World Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to theories and methods in the study of global political economy. Topics include: historical origins, comparative advantage, the factor endowment trade theory, the gold standard, economic nationalism, the Great Depression, the Bretton Woods System, Keynesianism, the Nixon shocks, international organizations, monetary governance, the Great Recession, poverty and underdevelopment, and contemporary challenges of income inequality within and among economies.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2064",
+        "PSCI 2064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2074",
+      "subject": "GEOG",
+      "number": "2074",
+      "level": 2000,
+      "title": "The Next Pandemic",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination and analysis of past and future potential pandemics at multiple spatial scales, from global to individual, understanding pandemics as intersecting biological, ecological, and social phenomena, placed within cultural, historical, economic, political, and geographic contexts. Analysis of impacts of pandemics on varied populations through examination of underlying population characteristics such as socioeconomic status, race, ethnicity, and others. Analysis of spatial patterns and descriptions of pandemics and underlying explanatory processes from maps, videos, and published written work. Development and assessment of content on pandemics exchanged with broad audiences. Critique of information on pandemics presented in popular media outlets.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2084",
+      "subject": "GEOG",
+      "number": "2084",
+      "level": 2000,
+      "title": "Principles of Geographic Information Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and diverse applications of Geographic Information Systems, geographic coordinate systems, Cartesian map projections, spatial data sources, GIS databases, map representations, and illustrated spatial applications of GIS. Requires regular use of computer systems for geographic data analysis.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2104",
+      "subject": "GEOG",
+      "number": "2104",
+      "level": 2000,
+      "title": "Introduction to Environmental Security",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental security concepts, issues, and terminology. Study of emerging issues at the nexus of environmental and climate change and security risks, including homeland, human, national, energy, food, and water securities. Overview of climate-driven conflicts, displacement and migration, and geopolitical instability. Policy and programmatic solutions. Assessment of case studies using methods such as strategy analysis, scenario development, and simulations.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2114",
+      "subject": "GEOG",
+      "number": "2114",
+      "level": 2000,
+      "title": "Introduction to Coastal Regions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to coastal geomorphology (landforms and processes), climate drivers (sea level rise and storms surge), and natural systems that shape coastal regions. Study of human systems including population growth, built environment, and social vulnerability. Overview of coastal zone management and policy. Discussion of the future of coastlines shaped by complexity, emerging challenges, uncertainty, adaptation, and resilience.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2134",
+      "subject": "GEOG",
+      "number": "2134",
+      "level": 2000,
+      "title": "Geography of the Global Economy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geographical dimensions of the global economy since World War II. Globalization and the emergence of a new international division of labor. The relative decline of the United States and the growth of Japan, East Asia and the European Union. Changing geographies of foreign direct investment location. Places and regions in geo-economic discourse. Population and resources issues in the early twenty-first century.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2134",
+        "PSCI 2134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2224",
+      "subject": "GEOG",
+      "number": "2224",
+      "level": 2000,
+      "title": "Geography of Europe",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Europe: as an idea, as a place, as a space, and as a political entity. Basic knowledge of Europe’s historical physical environments, political geography, population distribution, varied cultures, and economic development. Cultural variations and their implications on settlement patterns, political divisions, and economic patterns and processes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 2224",
+        "PSCI 2224"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2244",
+      "subject": "GEOG",
+      "number": "2244",
+      "level": 2000,
+      "title": "Sustainable Urbanization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Process of urbanization and theories and approaches of urban development. Debates on the meanings of sustainable urbanization and development in cities and how they are measured. Urban sustainability initiatives in the context of urban political economies, land-use practices, urban inequality and diversity, urban nature, and urban policy and politics. Programs and policies designed to enhance sustainable urbanization. Comparative approach and global perspective. Fee $30.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SPIA 2244"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2314",
+      "subject": "GEOG",
+      "number": "2314",
+      "level": 2000,
+      "title": "Maps and Mapping",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to maps. Fundamentals of reading, analysis, and interpretation of hard copy and digital maps, as they are required to illuminate spatial problems. Influences of maps on attitudes toward and images of the geographic environment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2505",
+      "subject": "GEOG",
+      "number": "2505",
+      "level": 2000,
+      "title": "Weather Analysis I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the operational tools and processes in weather forecasting. Surface data and upper-air sounding analysis, forces producing and directing wind flow, jetstreams, weather chart analysis, and atmospheric moisture including clouds and precipitation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2506",
+      "subject": "GEOG",
+      "number": "2506",
+      "level": 2000,
+      "title": "Weather Analysis II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the operational tools and processes in weather forecasting. Numerical forecast modeling and current operational models, ensemble forecasting and model output statistics, structureand dynamics of fronts and mid-latitude cyclones, development of thunderstorms and tornadoes, and the use of Doppler radar and satellite imagery in short-term forecasting.",
+      "prerequisites": {
+        "rawText": "GEOG 2505",
+        "referencedCourses": [
+          "GEOG 2505"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2784",
+      "subject": "GEOG",
+      "number": "2784",
+      "level": 2000,
+      "title": "Geography of Tea",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical and human geographic overview of tea. Biogeography, history, economics, and ceremonial practices of the worlds tea producing regions. Analysis of terroir and processing through tasting exercises and sensory evaluation. Pre: Sophomore standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2964",
+      "subject": "GEOG",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2974",
+      "subject": "GEOG",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2984",
+      "subject": "GEOG",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 2994",
+      "subject": "GEOG",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3034",
+      "subject": "GEOG",
+      "number": "3034",
+      "level": 3000,
+      "title": "The CIA: Its Capabilities in Todays Geo-Political World",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Role of the discipline of geography in the origins, procedures, and history of CIA. Role of the CIA in providing national intelligence at both strategic and operational levels. Origins and changes to the CIA since WWII. Capabilities to support both policy-makers and national security entities. Case studies illustrating the CIAs operations in different regions of the world.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3034",
+        "PSCI 3034"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3104",
+      "subject": "GEOG",
+      "number": "3104",
+      "level": 3000,
+      "title": "Environmental Justice, Resources and Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental problems in their social, spatial, and global contexts. Impacts of globalization, neoliberalism, and population growth on the environment. Examination of effects of human-environment interaction. Focus on conceptualizing development, population and demographic change, environmental justice, rights of biota and posterity, factory farming, energy, global health, disasters, and intercultural and global awareness.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3214",
+      "subject": "GEOG",
+      "number": "3214",
+      "level": 3000,
+      "title": "Africa Together",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Strategies to identify, discuss and apply theories of stereotyping, empathy, and scarcity in the context of contemporary Africa. Application of theories to compare and analyze examples of social networks, music, disease, and violence in Africa and the U.S. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3224",
+      "subject": "GEOG",
+      "number": "3224",
+      "level": 3000,
+      "title": "Geography of Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Appalachia as a region: physical environment, development of internal settlement, cultural, and economic patterns. Human adaptations to environmental change, traditions, and connections to and from external regions.",
+      "prerequisites": {
+        "rawText": "GEOG 1004 or GEOG 1104 or GEOG 1014 or APS 1704 or HUM 1704",
+        "referencedCourses": [
+          "APS 1704",
+          "GEOG 1004",
+          "GEOG 1014",
+          "GEOG 1104",
+          "HUM 1704"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3234",
+      "subject": "GEOG",
+      "number": "3234",
+      "level": 3000,
+      "title": "Geography of Virginia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Virginia as a region: its physical environment, settlement, cultural, economic, and political patterns. Human adaptation to environmental change, human modification of environments and linkages to external regions. Climate, Biogeography and Water, and Environmental Hazards related to Natural Resources. Pre: 3 credit hours of Geography.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3244",
+      "subject": "GEOG",
+      "number": "3244",
+      "level": 3000,
+      "title": "The U.S. City",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The economic, political, and social forces driving urbanization in the United States. The American city in historical context with particular emphasis on the rise of manufacturing, deindustrialization, and suburbanization. Case studies from the manufacturing and sunbelt regions to illuminate key constructs from urban and human geography. Border examples of comparative urbanization from the U.S. -Mexican border, the Caribbean, and Canada.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3254",
+      "subject": "GEOG",
+      "number": "3254",
+      "level": 3000,
+      "title": "Geography of East Asia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A geographical analysis of several modern states in East Asia, specifically China, Japan and the Koreas. Economic, political, and cultural change since the end of World War II. Globalization and the emergence of the China as a demographic and economic giant.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3274",
+      "subject": "GEOG",
+      "number": "3274",
+      "level": 3000,
+      "title": "Polar Environments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to polar regions emphasizing interdisciplinary concepts, a systems approach, and communication of polar science to non-scientific audiences. Developing and defending arguments on the global significance and geopolitics of polar regions. Feedbacks among biophysical and human processes and resources. Strategies to deliver effective oral presentations, and to defend arguments in writing and group debates on topics including multiculturalism, human-environmental interactions, and climate change impacts in polar regions. Foster understanding of indigenous worldviews using native narratives. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3304",
+      "subject": "GEOG",
+      "number": "3304",
+      "level": 3000,
+      "title": "Geomorphology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the variety of landforms that exist at the earths surface. Detailed investigation of major processes operating at the earths surface including: tectonic, weathering, fluvial, coastal, eolian, and glacial processes. Field excursion.",
+      "prerequisites": {
+        "rawText": "GEOG 1104 or GEOS 1004 or GEOS 2104",
+        "referencedCourses": [
+          "GEOG 1104",
+          "GEOS 1004",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CSES 3304",
+        "GEOS 3304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3314",
+      "subject": "GEOG",
+      "number": "3314",
+      "level": 3000,
+      "title": "Cartography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Science and art of cartography including the conceptual framework of the cartographic method. Development of the skills necessary to create maps to be used in the analysis of spatial phenomena. Emphasis on thematic and ethical cartography.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3404",
+      "subject": "GEOG",
+      "number": "3404",
+      "level": 3000,
+      "title": "Mountain Geography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical characteristics of mountains, such as steep slopes, climatic extremes, and sharp environmental gradients, and their influences on the ways in which people, animals, and plants interact. Physical processes that operate in high-relief environments, including consideration of climate, geomorphology and biogeography. Influence of physical processes in mountain environments on human culture and activities. Cultural significance of mountains. Mountains as a resource. Land use and human-land interactions in mountains. Course is intended for students with an interest in what makes mountains unique and inspiring landscape elements.",
+      "prerequisites": {
+        "rawText": "GEOG 1104",
+        "referencedCourses": [
+          "GEOG 1104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3464",
+      "subject": "GEOG",
+      "number": "3464",
+      "level": 3000,
+      "title": "Appalachian Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The concept of community in Appalachia using an interdisciplinary approach and experiential learning. Interrelationships among geographically, culturally, and socially constituted communities, public policy, and human development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AHRM 3464",
+        "APS 3464",
+        "HUM 3464",
+        "SOC 3464",
+        "UAP 3464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3504",
+      "subject": "GEOG",
+      "number": "3504",
+      "level": 3000,
+      "title": "Severe Weather",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction into mesoscale environments favoring the development of severe thunderstorms and tornadoes, the analysis of moisture, instability and shear parameters associated with severe weather events. Thunderstorm life-cycles, analysis of thermodynamic diagrams, role of wind shear and associated convective mode, hail production and forecasting, tornadogenesis and research.",
+      "prerequisites": {
+        "rawText": "GEOG 2505",
+        "referencedCourses": [
+          "GEOG 2505"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3515",
+      "subject": "GEOG",
+      "number": "3515",
+      "level": 3000,
+      "title": "Dynamic Meteorology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the physics that govern motion of Earths atmosphere. General atmospheric concepts, atmospheric principles of thermodynamics, hydrostatics, and stability. 3516: Examination of the physics that govern motion of Earths atmosphere. Principles of fluid dynamics, specifically the physics governing horizontal motion, corresponding vertical motions, and synoptic scale systems, as represented in various coordinate systems.",
+      "prerequisites": {
+        "rawText": "GEOG 2506 and MATH 2214 and PHYS 2306",
+        "referencedCourses": [
+          "GEOG 2506",
+          "MATH 2214",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3516",
+      "subject": "GEOG",
+      "number": "3516",
+      "level": 3000,
+      "title": "Dynamic Meteorology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3515: Examination of the physics that govern motion of Earths atmosphere. General atmospheric concepts, atmospheric principles of thermodynamics, hydrostatics, and stability. 3516: Examination of the physics that govern motion of Earths atmosphere. Principles of fluid dynamics, specifically the physics governing horizontal motion, corresponding vertical motions, and synoptic scale systems, as represented in various coordinate systems.",
+      "prerequisites": {
+        "rawText": "GEOG 3515",
+        "referencedCourses": [
+          "GEOG 3515"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3844",
+      "subject": "GEOG",
+      "number": "3844",
+      "level": 3000,
+      "title": "European Geopolitics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impact of Geography on European politics and economics. Significance of territorial, identity, networking and environmental geopolitics. Theoretical debates in the fields of political and population geography. Current culture and demographic challenges and geopolitical disputes within Europe and particularly between the European Union (EU) and its neighboring world regions.",
+      "prerequisites": {
+        "rawText": "GEOG 2224 or IS 2224 or PSCI 2224",
+        "referencedCourses": [
+          "GEOG 2224",
+          "IS 2224",
+          "PSCI 2224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3844",
+        "PSCI 3844"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3900",
+      "subject": "GEOG",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3954",
+      "subject": "GEOG",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 18 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 3984",
+      "subject": "GEOG",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4044",
+      "subject": "GEOG",
+      "number": "4044",
+      "level": 4000,
+      "title": "Biogeography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A survey of the field of biogeography. A study of the factors influencing the distribution of plants and animals approached from ecological, historical, and cultural perspectives. Human influence on biotic patterns, such as crop domestication, habitat alteration, species introductions and extinctions, management issues, and environmental change, is a primary focus.",
+      "prerequisites": {
+        "rawText": "GEOG 1104 or BIOL 2804",
+        "referencedCourses": [
+          "BIOL 2804",
+          "GEOG 1104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4054",
+      "subject": "GEOG",
+      "number": "4054",
+      "level": 4000,
+      "title": "Geography of Wine",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of physical and cultural forces that shape the production, consumption, and great variety of wine in the world. Wine as a complex commodity is examined through its economic, social, political, and ideological impacts in different parts of the world throughout history. Particular emphasis will be focused on place as an agent in defining the product.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4074",
+      "subject": "GEOG",
+      "number": "4074",
+      "level": 4000,
+      "title": "Medical Geography of Infectious Diseases",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of geographic patterns of infectious diseases and underlying explanatory processes at spatial scales ranging from global to local. Interactions between natural and social environments and their contributions to infectious disease burdens. Human health impacts of climate variability and change. Application of theories such as landscape epidemiology and methods in medical geography and the social sciences to understanding disease emergence events and pandemics. Examination of role of environmental change and human migration on disease diffusion patterns. Analysis of major factors related to HIV/AIDS epidemic that explain the disease's spatial and spatio-temporal pattern in different social and cultural settings. Pre: Junior standing.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4084",
+      "subject": "GEOG",
+      "number": "4084",
+      "level": 4000,
+      "title": "Modeling with Geographic Information Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Use of automated systems for geographic data collection, digitization, storage, display, modeling and analysis. Basic data flow in GIS modeling applications. Development of proficiency in the use of current GIS software. Senior Standing.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [
+        "GEOS 4084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4094",
+      "subject": "GEOG",
+      "number": "4094",
+      "level": 4000,
+      "title": "Generative AI Applications in Social Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Apply key concepts in generative AI to social science research across multiple disciplines, including geography, urban studies and planning, environmental studies, education, writing, sociology, psychology, political science, and economics. Analyze quantitative and qualitative data by utilizing various generative AI tools, such as ChatGPT and Dall-E. Integrate the geographic information system (GIS) with generative AI tools. Evaluate the impacts of generative AI on society in terms of ethical concerns, geographic and sociodemographic biases, and responsible uses. Criticize existing generative AI tools. Develop public and educational policies to guide the responsible use of generative AI for social science research. Pre: Junior Standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4134",
+      "subject": "GEOG",
+      "number": "4134",
+      "level": 4000,
+      "title": "Interdisciplinary Issues and Ethics in Water Resources",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of issues and ethics related to water resources, water as a hazard upon human (infrastructure, economy) and ecological (rivers, groundwater) systems, water and vector borne disease, climate change, dams, and eutrophication. Development of proficiency in demonstrating the multidimensionality of water resources. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOS 4134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4164",
+      "subject": "GEOG",
+      "number": "4164",
+      "level": 4000,
+      "title": "Qualitative Methods & Ethics in Geography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of qualitative research methods in the context of human geography. Theories, practices, and interpretations surrounding human geography methods. Debates surrounding the use of a range of qualitative methods. Critical analysis of academic writing. Data collection, analysis and interpretation methods. Epistemological underpinnings of qualitative methodological choices. Ethical considerations related to human subject research. Visual, graphic, and oral communication skills. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4184",
+      "subject": "GEOG",
+      "number": "4184",
+      "level": 4000,
+      "title": "Health Applications of Geospatial Techniques",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Investigation of theoretical foundations and practical uses of geospatial techniques in the analysis of human health data. Emphasis on description of spatial data and measurement of clustering of diseases and health concerns. Quantification of exposure to pathogens and environmental factors that impact human health to explain clusters. Analysis of health disparities and their impact on health. Acquisition and analysis of health data, interpretation of findings, and presentation of results in independent analysis. Development of policies to promote population health.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4204",
+      "subject": "GEOG",
+      "number": "4204",
+      "level": 4000,
+      "title": "Geography of Resources",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical and cultural systems that influence the spatial distribution of resources and resource use. Emphasis on historical and current contexts of natural resources use and perspectives in the United States, with consideration of worldwide distributions of resources. Environmental cognition and perception, water, public lands, conservation and preservation, food and hunger, human population, and alternative energy. Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4214",
+      "subject": "GEOG",
+      "number": "4214",
+      "level": 4000,
+      "title": "Gender, Environment, and International Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Key concepts and critiques related to the intersection of gender, environment, and international development. Development institutions and organizations with relationship to gender and environment. Theoretical and applied perspectives on eco-feminism; bio-diversity; climate change; feminist political ecology; agriculture and natural resources; participatory methods and empowerment. Case studies from Africa, Asia, and Latin America. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "UAP 4214",
+        "WGS 4214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4224",
+      "subject": "GEOG",
+      "number": "4224",
+      "level": 4000,
+      "title": "Tracking Environmental Change",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary approaches to documenting and understanding past environmental change. Methods used to unravel the physical and human drivers of historical and longer-term changes in climate, vegetation, and fire patterns. Application of environmental change data and insights to improve land and conservation management under changing climates. Pre: Junior standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4254",
+      "subject": "GEOG",
+      "number": "4254",
+      "level": 4000,
+      "title": "R Programming for Geospatial Applications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geospatial data analytics using R programming language. Batch-processing capability for analyzing large vector and raster geospatial data including remote sensing imagery and GIS layers. Using R scripts, algorithms, and functions to implement spatial analysis and spatial-temporal modeling. Bridging open source GIS/remote sensing and Machine learning. Linux system and high-performance computing environment.",
+      "prerequisites": {
+        "rawText": "GEOG 4084",
+        "referencedCourses": [
+          "GEOG 4084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4284",
+      "subject": "GEOG",
+      "number": "4284",
+      "level": 4000,
+      "title": "Human Dimensions of Coastal Social-Ecological Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Coastal change and multiple stressors. Social-ecological systems. Concepts of resilience, vulnerability and adaptation to climate change. The tragedy of the coastal commons. Adaptive management, co-management, adaptive co-management. Non-Western knowledge systems, Indigenous and local knowledge. Food security, blue food systems, food system transformations. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4304",
+      "subject": "GEOG",
+      "number": "4304",
+      "level": 4000,
+      "title": "Geospatial Analysis of Mobility",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Apply key concepts in human mobility and travel behavior theories to real-world scenarios. Analyze emerging issues in mobility and its impacts on society, encompassing topics such as ride-hailing services, autonomous vehicles, AI, and smart city technologies, and evaluate their implications for future urban development. Evaluate and implement R- and Python-based geospatial analysis tools to address contemporary mobility issues. Synthesize and analyze big geospatial and human mobility data. Propose innovative policy and urban planning recommendations.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4314",
+      "subject": "GEOG",
+      "number": "4314",
+      "level": 4000,
+      "title": "Spatial Analysis in Geographic Information Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and application of Geographic Information Systems, with special emphasis on analytical operations, database design, cartographic modeling, and raster GIS. Spatial data handling and analysis to facilitate decision-making through the communication of geographically referenced data.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4324",
+      "subject": "GEOG",
+      "number": "4324",
+      "level": 4000,
+      "title": "Algorithms in Geographic Information Systems",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Computational methods in automated mapping and map analysis. Visual Basic programming and algorithm design for spatial display and analysis under both raster and vector data models. Requires regular use of the departmental microcomputer and UNIX workstation laboratory.",
+      "prerequisites": {
+        "rawText": "GEOG 4084 and CS 1064",
+        "referencedCourses": [
+          "CS 1064",
+          "GEOG 4084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4334",
+      "subject": "GEOG",
+      "number": "4334",
+      "level": 4000,
+      "title": "Geospatial Information Technology for Land Change Modeling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the spatio-temporal patterns of Land Use and Land Cover Change (LULCC) as observed in satellite images. Tropical deforestation, urbanization, and agricultural intensification. Rates and patterns of LULCC linked to biophysical and socio-economic drivers. Impacts of land change with respect to local climate, biodiversity, water yield and quality, and ecosystem services.",
+      "prerequisites": {
+        "rawText": "GEOG 4084 or GEOS 4084",
+        "referencedCourses": [
+          "GEOG 4084",
+          "GEOS 4084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4354",
+      "subject": "GEOG",
+      "number": "4354",
+      "level": 4000,
+      "title": "Introduction to Remote Sensing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and methods of remote sensing. Practical exercises in interpretation of aerial photography, satellite, radar, and thermal infrared imagery. Digital analysis, image classification, and evaluation. Applications in earth sciences, hydrology, plant sciences, and land use studies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "GEOS 4354"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4374",
+      "subject": "GEOG",
+      "number": "4374",
+      "level": 4000,
+      "title": "Remote Sensing and Phenology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of spatial and temporal patterns of the vegetated land surface as observed by satellite images. Application of satellite image time series to derivation of land surface phenology, and analysis of the appearance and development of phenology in the USA and worldwide. Methods of monitoring of phenology with satellite imagery. Causes of spatio-temporal changes of phenological events. Effects of global climate change.",
+      "prerequisites": {
+        "rawText": "GEOG 4354",
+        "referencedCourses": [
+          "GEOG 4354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4394",
+      "subject": "GEOG",
+      "number": "4394",
+      "level": 4000,
+      "title": "Introduction to Web Mapping",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of web mapping technologies to geographic data collection, storage, analysis, and display. History and context, spatial data infrastructures, hardware and software architectures, open geospatial consortium standards, mapping APIs, virtual globes, user-centric design, web cartography. Group and individual projects.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4404",
+      "subject": "GEOG",
+      "number": "4404",
+      "level": 4000,
+      "title": "Geovisualization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced topics in digital and dynamic map production, emphasizing concepts in advanced cartographic design, information visualization, and human-computer interaction. Topics include cartograms, computer aided design, animation, lidar and photogrammetric point cloud visualization, Web Geographic Information Systems, terrain visualization, and virtual geographic environments.",
+      "prerequisites": {
+        "rawText": "GEOG 2084 and GEOG 3314",
+        "referencedCourses": [
+          "GEOG 2084",
+          "GEOG 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4414",
+      "subject": "GEOG",
+      "number": "4414",
+      "level": 4000,
+      "title": "Climate Change and Societal Impacts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impacts of climate change on different societies. Concepts of adaptation, vulnerability, and resilience. Notions of complexity, uncertainty, and thresholds related to climate change outcomes. Case study analysis of communities affected by climate change. Understanding future and assessing climate vulnerability across various spatiotemporal scales. Scenario planning, foresight analysis, and interactive digital tools. Pre: Sophomore standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4424",
+      "subject": "GEOG",
+      "number": "4424",
+      "level": 4000,
+      "title": "Geospatial Data Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Students will develop an understanding of principles and new frontiers in geospatial data science. Gain hands-on experience with geospatial libraries in Python and Jupyter notebooks for geospatial data manipulation and spatial database. Create, manage, process, analyze and visualize various raster and vector geospatial data to extract and interpret spatial patterns. Leverage Geospatial AI and cyberGIS with modern tools for addressing real-world geospatial data challenges.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4444",
+      "subject": "GEOG",
+      "number": "4444",
+      "level": 4000,
+      "title": "Practicing Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practicum in sustainability. Synthesize and integrate knowledge from undergraduate career and apply to real world problems of sustainability. Topics and projects selected from opportunities to examine specific local and regional sustainability issues on the VT campus, in the New River Valley and the Commonwealth at large. Pre: Senior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4504",
+      "subject": "GEOG",
+      "number": "4504",
+      "level": 4000,
+      "title": "Synoptic Meteorology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of large-scale (1000-5000km) weather systems using both analytical and operational analysis. Topics include thermal structure of atmosphere & resulting circulation, frontal analysis, lifting mechanisms, barotropic/baroclinic systems, and mid-latitude cyclones. Weather pattern influences of the jetstreams and oscillation of large pressure systems including El Nino/La Nina and the North Atlantic Oscillation.",
+      "prerequisites": {
+        "rawText": "GEOG 3504 and MATH 1226",
+        "referencedCourses": [
+          "GEOG 3504",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4514",
+      "subject": "GEOG",
+      "number": "4514",
+      "level": 4000,
+      "title": "Tropical Meteorology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Tropical weather and climate topics: remote sensing and observations; tropical climatology, including regional and large-scale circulations, monsoons, and the El Nino/Southern Oscillation; tropical convection, including the clouds in the subtropics, deep convection in the equatorial region, and tropical cloud clusters and thunderstorms; and tropical cyclones, including their structure, intensity, lifecycle, and formation.",
+      "prerequisites": {
+        "rawText": "GEOG 2506 and GEOG 3504",
+        "referencedCourses": [
+          "GEOG 2506",
+          "GEOG 3504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4524",
+      "subject": "GEOG",
+      "number": "4524",
+      "level": 4000,
+      "title": "Physical Meteorology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the physics associated with cloud and precipitation development, the emission, absorption, and transmission of solar and terrestrial radiation, meteorological acoustics, and atmospheric electricity.",
+      "prerequisites": {
+        "rawText": "GEOG 3515",
+        "referencedCourses": [
+          "GEOG 3515"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4534",
+      "subject": "GEOG",
+      "number": "4534",
+      "level": 4000,
+      "title": "Numerical Weather Prediction",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Scientific basis of numerical weather prediction, including data assimilation, numerical integration, model initialization, physical parameterizations, ensemble methods, and model verification. Overview of numerical errors and their effects on predictability. Current operational forecasting models and the role of models in weather forecasting. Application of knowledge to running a high-resolution numerical weather forecast in a high-performance computing environment.",
+      "prerequisites": {
+        "rawText": "GEOG 3515 or GEOG 4504",
+        "referencedCourses": [
+          "GEOG 3515",
+          "GEOG 4504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4554",
+      "subject": "GEOG",
+      "number": "4554",
+      "level": 4000,
+      "title": "Remote Sensing of Atmosphere",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Remote sensing technologies used in monitoring weather. Evaluation of Doppler radar products, including base reflectivity, base velocity, storm-relative velocity, and vertically integrated liquid imagery. Could observation through infrared and visible satellite imagery; remote weather station design, set-up and data retrieval.",
+      "prerequisites": {
+        "rawText": "GEOG 4354",
+        "referencedCourses": [
+          "GEOG 4354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4574",
+      "subject": "GEOG",
+      "number": "4574",
+      "level": 4000,
+      "title": "Climate Data Analysis and Programming",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Elements of 1-dimensional and high-dimensional climate data storage and formatting. Manipulate and query atmospheric reanalysis, global climate model, and gridded observation datasets. Implement efficient research workflows through the development of computer scripts to statistically analyze climate data.",
+      "prerequisites": {
+        "rawText": "GEOG 2505",
+        "referencedCourses": [
+          "GEOG 2505"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4764",
+      "subject": "GEOG",
+      "number": "4764",
+      "level": 4000,
+      "title": "International Development Policy and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of major development theories and contemporary issues and characteristics of low-income societies (industrialization, urbanization, migration, rural poverty, hunger, foreign trade, and debt) that establish contexts for development planning and policy-making. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "SOC 4764",
+        "UAP 4764"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4964",
+      "subject": "GEOG",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4974",
+      "subject": "GEOG",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4984",
+      "subject": "GEOG",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOG 4994",
+      "subject": "GEOG",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geog/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

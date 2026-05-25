@@ -1,0 +1,814 @@
+{
+  "subject": "UH",
+  "scrapedAt": "2026-05-25T21:22:47.163Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "UH 1404",
+      "subject": "UH",
+      "number": "1404",
+      "level": 1000,
+      "title": "Principles of Collaborative Discovery",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to honors education at Virginia Tech. Disciplinarity, interdisciplinarity, multidisciplinarity, and transdisciplinarity. Qualitative and quantitative research methods. \"Wicked problems,\" systems thinking, and collaborative discovery. Problem analysis and iterative thinking. Ethical dimensions of trans-sector activity.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 1504",
+      "subject": "UH",
+      "number": "1504",
+      "level": 1000,
+      "title": "PGS PStudy Abroad Pre-Departure Seminar",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Orientation for Presidential Global Scholars (PGS) participants. Introduction to theories of culture and cross-cultural competence. Survey of Swiss culture, history, and politics. Introduction to PGS faculty and research interests. Development of individual research questions; transdisciplinary research on critical issues in U.S. contexts. Critical travel and safety information.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 1604",
+      "subject": "UH",
+      "number": "1604",
+      "level": 1000,
+      "title": "Introduction to Honors Quantitative and Qualitative Research Practices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to critical practices in undergraduate quantitative and qualitative research for Honors College students, including generating focused research questions, finding scholarly literature, organizing data, conducting ethical research, collaborative research practices, and identifying venues to present research findings.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 1984",
+      "subject": "UH",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2124",
+      "subject": "UH",
+      "number": "2124",
+      "level": 2000,
+      "title": "Honors Reading Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Reading based sections in which small groups of students practice discussion, debate, and argumentation grounded in a topic or genre of reading of their groups choosing. Honors standing. Variable course content. Repeatable for up to six credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2504",
+      "subject": "UH",
+      "number": "2504",
+      "level": 2000,
+      "title": "Topics in Discourse and Global Citizenship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discovery, analysis, creation, and evaluation of written, spoken, and visual presentation of ideas in cross-cultural contexts. Special attention to the relationship of rhetoric to effective participation in academic, professional, and public/civic problem-solving. Course cannot be repeated for credit.",
+      "corequisites": {
+        "rawText": "UH 2524, UH 2534, UH 2544, UH 2554, UH 4994",
+        "referencedCourses": [
+          "UH 2524",
+          "UH 2544",
+          "UH 2554",
+          "UH 4994"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2514",
+      "subject": "UH",
+      "number": "2514",
+      "level": 2000,
+      "title": "Topics in Quantitative/Computational Thinking and Global Citizenship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of quantitative/computational thinking in cross-cultural civic/public contexts. Use of quantitative/computational thinking to frame a question and devise a solution related to a civic/public issue. Drawing valid quantitative inferences about civic/public and cross-cultural issues characterized by inherent uncertainty. Evaluating conclusions or decisions about civic/public issues based on quantitative data. Ethical considerations of quantitative/computational thinking in cross-cultural civic/public issues. Course cannot be repeated for credit.",
+      "corequisites": {
+        "rawText": "UH 4994",
+        "referencedCourses": [
+          "UH 4994"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2524",
+      "subject": "UH",
+      "number": "2524",
+      "level": 2000,
+      "title": "Topics in Natural Sciences and Global Citizenship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of a specific branch of the natural sciences, especially as it intersects with public/civic controversies and problem-solving. Cross-cultural perspectives on the nature, purposes, and processes of scientific inquiry and knowledge. Course cannot be repeated for credit.",
+      "corequisites": {
+        "rawText": "UH 2504, UH 2534, UH 2544, UH 2554, UH 4994",
+        "referencedCourses": [
+          "UH 2504",
+          "UH 2544",
+          "UH 2554",
+          "UH 4994"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2544",
+      "subject": "UH",
+      "number": "2544",
+      "level": 2000,
+      "title": "Topics in Social Science and Global Citizenship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the behavior and actions of individuals, groups, and institutions within larger social, economic, political, and geographic contexts, especially in cross-cultural settings. Special attention to social beliefs and actions as they influence public/civic controversies and problem- solving. Examination of the influence of value and beliefs on human behavior and social relationships. Course cannot be repeated for credit.",
+      "corequisites": {
+        "rawText": "UH 2504, UH 2524, UH 2534, UH 2554, UH 4994",
+        "referencedCourses": [
+          "UH 2504",
+          "UH 2524",
+          "UH 2554",
+          "UH 4994"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2554",
+      "subject": "UH",
+      "number": "2554",
+      "level": 2000,
+      "title": "Topics in Humanities and Global Citizenship",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and interpretation of texts and other artifacts to understand ideas, values, and identities in cross-cultural contexts. Special attention to the functions of narrative and rhetoric in public/civic controversies and problem- solving. Situating local/regional texts and artifacts in global frameworks. Course cannot be repeated for credit.",
+      "corequisites": {
+        "rawText": "UH 2504, UH 2524, UH 2534, UH 2544, UH 4994",
+        "referencedCourses": [
+          "UH 2504",
+          "UH 2524",
+          "UH 2544",
+          "UH 4994"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2604",
+      "subject": "UH",
+      "number": "2604",
+      "level": 2000,
+      "title": "Intermediate Honors Quantitative and Qualitative Research Practices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intermediate study of critical practices in quantitative and qualitative research for Honors College students, including identifying funding opportunities for research, collaborating across disciplines, designing introductory research protocols, managing research projects, and using posters to present research findings.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2744",
+      "subject": "UH",
+      "number": "2744",
+      "level": 2000,
+      "title": "Foundational Topics in Computing in Technology Innovation for Societal Impa",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Foundational study of applications of computational thinking in technology innovation for societal impact. Key components of computing and their interrelation. Uses of computational thinking to frame questions and devise solutions. Implementation of simple computational processes and tools. Construction of computational models to analyze and draw inferences about complex and uncertain phenomena. Evaluation of knowledge based on quantitative data. Impacts of computing and information technology on society. Ethical dimensions of computing for technological and societal innovation. May be repeated 5 times with different content for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "5F",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2764",
+      "subject": "UH",
+      "number": "2764",
+      "level": 2000,
+      "title": "Advanced Topics in Engineering in Technology Innovation for Societal Impact",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Study of applications of computer and systems engineering in technology innovation for societal impact. Application of computer and systems engineering processes and tools to analyze complex or large-scale phenomena. Application and evaluation of computer and systems engineering approaches to analyze and draw inferences about the feasibility and effectiveness of technological innovations. Impacts of computer and systems engineering on society and the environment. Ethical dimensions of computer and systems engineering for technological and societal innovation. May be repeated 2 times with different content for a maximum of 3 credits.",
+      "prerequisites": {
+        "rawText": "UH 2744",
+        "referencedCourses": [
+          "UH 2744"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2814",
+      "subject": "UH",
+      "number": "2814",
+      "level": 2000,
+      "title": "Topics in Social Sciences for Technology Innovation for Societal Impact",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Threshold concepts in social sciences related to collaborative, transdisciplinary technology innovation for societal impact. Study of key ideas about the behavior of individuals, groups, and institutions related to technology innovation within larger social, economic, political, and geographic contexts. Use of key concepts in the social sciences to examine the ethical dimensions of technological and societal innovation. May be repeated 5 times with different content for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2824",
+      "subject": "UH",
+      "number": "2824",
+      "level": 2000,
+      "title": "Topics in the Arts for Technology Innovation for Societal Impact",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Application of threshold concepts in the fine arts to collaborative, transdisciplinary technology innovation for societal impact. Study of key ideas for non-specialists about the formal elements, process, meaning, and value of the fine arts in technology innovation. Use of key concepts in the fine arts to examine the ethical dimensions of technological and societal innovation. May be repeated 2 times with different content for a maximum of 3 credits.",
+      "pathwaysConcepts": [
+        "6A",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2834",
+      "subject": "UH",
+      "number": "2834",
+      "level": 2000,
+      "title": "Topics in Humanities for Technology Innovation for Societal Impact",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Threshold concepts in the humanities related to collaborative, transdisciplinary technology innovation for societal impact. Study of key ideas and values related to technology innovation in various spatial, cultural, and temporal contexts. Use of key concepts in the humanities such as historical/cultural context and the nature of the good to examine the ethics of technological and societal innovation. May be repeated 5 times with different content for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2855",
+      "subject": "UH",
+      "number": "2855",
+      "level": 2000,
+      "title": "Calhoun Transdisciplinary Fusion Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to transdisciplinary, collaborative design processes to address real-world problems in technology innovation provided by clients from business, government, and nonprofit organizations. 2855: Collaborative problem-setting. Evaluative criteria for technology innovation: feasibility (can it be made?), viability (is it financially sensible?), desirability (do people want it?), and sustainability (can it work long-term?). Introduction to design thinking. Ethical dimensions of collaborative technology innovation for societal impact. 2856: Collaborative problem-solving. Introduction to quantitative and qualitative research methods. Optimization and integration. Design thinking and component prototyping. Ethical dimensions of collaborative technology innovation for societal impact. Design Lab/Studio.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2856",
+      "subject": "UH",
+      "number": "2856",
+      "level": 2000,
+      "title": "Calhoun Transdisciplinary Fusion Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to transdisciplinary, collaborative design processes to address real-world problems in technology innovation provided by clients from business, government, and nonprofit organizations. 2855: Collaborative problem-setting. Evaluative criteria for technology innovation: feasibility (can it be made?), viability (is it financially sensible?), desirability (do people want it?), and sustainability (can it work long-term?). Introduction to design thinking. Ethical dimensions of collaborative technology innovation for societal impact. 2856: Collaborative problem-solving. Introduction to quantitative and qualitative research methods. Optimization and integration. Design thinking and component prototyping. Ethical dimensions of collaborative technology innovation for societal impact. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "UH 2855",
+        "referencedCourses": [
+          "UH 2855"
+        ]
+      },
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2974",
+      "subject": "UH",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 2984",
+      "subject": "UH",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3204",
+      "subject": "UH",
+      "number": "3204",
+      "level": 3000,
+      "title": "Honors Service Learning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A two-part course. Part one: three hours a week working directly with community partners. Part two: a one-hour class to reflect on the service experience and discuss readings and other course materials that place the experiential learning into a theoretical context. Open to all Honors students. Variable course content. Repeatable for up to six credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3504",
+      "subject": "UH",
+      "number": "3504",
+      "level": 3000,
+      "title": "Topics in Honors Transdisciplinary Seminars",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of transdisciplinary issues and questions. Analysis of complex topics from multiple points of view. Collaborative discussion and critique. Ethical decision-making across disciplines. Application of knowledge and processes from other disciplines. Variable course content. May be repeated one (1) time with different content for a maximum of 6 credit hours.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3604",
+      "subject": "UH",
+      "number": "3604",
+      "level": 3000,
+      "title": "Designing Protocols for Honors Quantitative and Qualitative Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced study of critical practices in quantitative and qualitative research for Honors College students, including transdisciplinary project management, refining research protocols based on feasibility of data collection, maintaining research ethics and integrity, planning for data collection, and planning for dissemination of research findings.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3614",
+      "subject": "UH",
+      "number": "3614",
+      "level": 3000,
+      "title": "Data Collection and Analysis for Honors Quantitative and Qualitative Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Continuing advanced study of critical practices in quantitative and qualitative research for Honors College students, including working with multiple types of data, collecting, cleaning and managing data, reporting of primary and secondary data, evaluating the work of others, and communicating conclusions to general audiences.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3855",
+      "subject": "UH",
+      "number": "3855",
+      "level": 3000,
+      "title": "Calhoun Transdisciplinary Design Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intermediate study of transdisciplinary, collaborative design processes to address real-world problems in technology innovation provided by clients from business, government, and nonprofit organizations. 3855: Systems thinking and systems definition; identification and analysis of stakeholders; skills discovery and transdisciplinary team building; rapid prototyping. 3856: Collaborative innovation; customer discovery; evidence-based decision-making; iterative design; troubleshooting. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "UH 2856",
+        "referencedCourses": [
+          "UH 2856"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3856",
+      "subject": "UH",
+      "number": "3856",
+      "level": 3000,
+      "title": "Calhoun Transdisciplinary Design Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Intermediate study of transdisciplinary, collaborative design processes to address real-world problems in technology innovation provided by clients from business, government, and nonprofit organizations. 3855: Systems thinking and systems definition; identification and analysis of stakeholders; skills discovery and transdisciplinary team building; rapid prototyping. 3856: Collaborative innovation; customer discovery; evidence-based decision-making; iterative design; troubleshooting. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "UH 3855",
+        "referencedCourses": [
+          "UH 3855"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3954",
+      "subject": "UH",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors Section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 3984",
+      "subject": "UH",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4004",
+      "subject": "UH",
+      "number": "4004",
+      "level": 4000,
+      "title": "Honors Tutorial",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Small, seminar-style course of one or a few students. Students explore a specific topic that is new to them with a faculty member who provides individual attention and is an expert in that established field. Open to all Honors students. Junior Honors standing. Variable course content. Repeatable for up to six credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4104",
+      "subject": "UH",
+      "number": "4104",
+      "level": 4000,
+      "title": "Honors Student Teach Practicum",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "For Honors students facilitating Honors courses that encourage and require student facilitation or mentorship responsibilities. Student Teaching Assistants and their sections are overseen by honors faculty or staff. Student Teaching Assistants meet weekly with a member of the honors staff in a class designed to prepare them for the facilitation experience and to monitor their progress. Open to all Honors students, subject to Program approval. Sophomore Honors standing required. Variable course content. Repeatable for up to eight credits. P/F only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 2 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4504",
+      "subject": "UH",
+      "number": "4504",
+      "level": 4000,
+      "title": "Topics in Honors Discovery and Innovation Studios",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discovery and definition of critical, real-world problems. Transdisciplinary collaboration, design thinking, and experimentation. Reflective evaluation of individual and collective problem-solving efforts. Communication of solutions to diverse stakeholders. Variable course content. Repeatable for up to 12 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4514",
+      "subject": "UH",
+      "number": "4514",
+      "level": 4000,
+      "title": "Honors SuperStudio",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Transdisciplinary collaboration. Identifying and defining public/civic issues. Framing and strategizing transdisciplinary solutions to public/civic problems. Reflecting on transdisciplinary processes. Identifying and reflecting on issues of ethics and equity in public/civic problem solving. May be repeated one time with different content for a maximum of two credit hours.",
+      "corequisites": {
+        "rawText": "4504 or enrollment in an approved disciplinary capstone course.",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4704",
+      "subject": "UH",
+      "number": "4704",
+      "level": 4000,
+      "title": "Honors Studio+",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Transdisciplinary and trans-sector collaboration in technology innovation. Identifying, defining, and setting problems in technology innovation. Applying evaluative criteria for technology innovation — feasibility, viability, desirability, sustainability. Using design thinking to analyze and reflect on creative processes. Identifying, articulating, and reflecting on the ethical dimensions of collaborative technology innovation. Design Lab/Studio (2H, 2L, 3C)",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4855",
+      "subject": "UH",
+      "number": "4855",
+      "level": 4000,
+      "title": "Calhoun Transdisciplinary Capstone Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced study of transdisciplinary, collaborative design processes to address real-world problems in technology innovation provided by clients from business, government, and nonprofit organizations. 4855: Systems building; project leadership and management, including resource allocation and scheduling; team management; value propositions; project pitches. 4856: User experience; user testing; systems assessment, including feasibility, viability, desirability, sustainability, optimization, and integration; systems reflection and documentation. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "UH 3856",
+        "referencedCourses": [
+          "UH 3856"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4856",
+      "subject": "UH",
+      "number": "4856",
+      "level": 4000,
+      "title": "Calhoun Transdisciplinary Capstone Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced study of transdisciplinary, collaborative design processes to address real-world problems in technology innovation provided by clients from business, government, and nonprofit organizations. 4855: Systems building; project leadership and management, including resource allocation and scheduling; team management; value propositions; project pitches. 4856: User experience; user testing; systems assessment, including feasibility, viability, desirability, sustainability, optimization, and integration; systems reflection and documentation. Design Lab/Studio.",
+      "prerequisites": {
+        "rawText": "UH 4855",
+        "referencedCourses": [
+          "UH 4855"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4974",
+      "subject": "UH",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4984",
+      "subject": "UH",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UH 4994",
+      "subject": "UH",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uh/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

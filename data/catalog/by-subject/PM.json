@@ -1,0 +1,447 @@
+{
+  "subject": "PM",
+  "scrapedAt": "2026-05-25T21:22:03.372Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PM 2664",
+      "subject": "PM",
+      "number": "2664",
+      "level": 2000,
+      "title": "Introduction to Property Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The history of residential and commercial property management, roles and responsibilities of real estate managers, developing effective management plans for properties, maintenance strategies, marketing, legal regulations that pertain to real estate management.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 2684",
+      "subject": "PM",
+      "number": "2684",
+      "level": 2000,
+      "title": "Marketing and Leasing Residential Properties",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Marketing and leasing functions for multifamily residential properties. Leasing processes, options, and online management tools. Market analysis. State and federal housing laws. Preparation for National Apartment Leasing Professional credentials.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 2964",
+      "subject": "PM",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 2974",
+      "subject": "PM",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 2974H",
+      "subject": "PM",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 2984",
+      "subject": "PM",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 3634",
+      "subject": "PM",
+      "number": "3634",
+      "level": 3000,
+      "title": "Managing Affordable and Specialized Housing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Operations management of specialized housing such as senior apartments, active adult communities, independent living communities, assisted living communities, nursing homes, affordable housing, military housing, student housing, as well as community associations and mixed-use housing developments. Consideration of consumer lifestyles, financial circumstances, and sustainability issues for each housing option.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 3674",
+      "subject": "PM",
+      "number": "3674",
+      "level": 3000,
+      "title": "Property Management Operations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed investigation and analysis of the fundamentals of property management operation functions. Functions included: human resources and relationship management, maintenance and risk management, marketing and leasing, and accounting and finance. Property manager and property owner role interpretation through examination of management agreement and plan components as well as nuances among residential properties, office buildings, and shopping centers.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 3684",
+      "subject": "PM",
+      "number": "3684",
+      "level": 3000,
+      "title": "Sustainable Property Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comparison and justification of green alternatives during the operations and maintenance phase of the building lifecycle by function with respect to the interrelationships of the social, environmental, and economic spheres of sustainability. Course topics also include group and individual decision-making and their influences on resource use such as energy, water, and waste as well as environmental degradation concern and its influence on various stakeholders and their relationship with each other. Ethical issues as they relate to sustainable property management also covered.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 3954",
+      "subject": "PM",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4644",
+      "subject": "PM",
+      "number": "4644",
+      "level": 4000,
+      "title": "Advanced Property and Asset Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the competencies necessary to maximize the value of real estate assets through effective operations and financial management practices. Includes detailed examination of income maximization, financial reporting, and ownership objectives of real estate investors.",
+      "prerequisites": {
+        "rawText": "(PM 2674 or PM 3674) and PM 4964",
+        "referencedCourses": [
+          "PM 3674",
+          "PM 4964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4674H",
+      "subject": "PM",
+      "number": "4674H",
+      "level": 4000,
+      "title": "Managing and Marketing Housing for Later Life",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Managing and marketing housing for later life, including active adult communities and assisted living facilities. Pre: Junior Standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4684",
+      "subject": "PM",
+      "number": "4684",
+      "level": 4000,
+      "title": "Leasing Commercial Properties",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the strategies used to market and lease various types of industrial, office and retail buildings with emphasis placed on brokerage relationships, the legal structure of commercial real estate leases, lease analytics, lease negotiations, and the impact of lease terms on the value of income-producing properties. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4694",
+      "subject": "PM",
+      "number": "4694",
+      "level": 4000,
+      "title": "Contemporary Issues in Property Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Issues affecting property management, including ethics, professional management decisions, legislative issues, and current management practices. The course culminates in the analysis of an apartment community and development of a management plan. Senior standing.",
+      "prerequisites": {
+        "rawText": "PM 4964 or PM 4644",
+        "referencedCourses": [
+          "PM 4644",
+          "PM 4964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4744",
+      "subject": "PM",
+      "number": "4744",
+      "level": 4000,
+      "title": "Housing Challenges and Policies in the United States",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the issues relating to U.S. housing policy with an emphasis on housing affordability, homeownership, fair housing and community development, and homelessness. Examination of the policy tools used to respond to housing problems at local, state and federal levels.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4914",
+      "subject": "PM",
+      "number": "4914",
+      "level": 4000,
+      "title": "Residential Property Management Study Tour",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Study tour that examines trends in the multifamily housing industry focusing on marketing, management, design, and customer service. Variable credit 2 credits maximum.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4964",
+      "subject": "PM",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4964H",
+      "subject": "PM",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4974",
+      "subject": "PM",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4974H",
+      "subject": "PM",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4984",
+      "subject": "PM",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4984H",
+      "subject": "PM",
+      "number": "4984H",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4994",
+      "subject": "PM",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PM 4994H",
+      "subject": "PM",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/pm/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

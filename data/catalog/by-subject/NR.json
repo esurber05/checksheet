@@ -1,0 +1,295 @@
+{
+  "subject": "NR",
+  "scrapedAt": "2026-05-25T21:21:40.494Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "NR 1234",
+      "subject": "NR",
+      "number": "1234",
+      "level": 1000,
+      "title": "First Year Experience In Natural Resources and Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to problem solving related to natural resources and environmental issues. Developing a sense of identity and place within the college while acquiring skills and knowledge that enhance academic success. Exposure to programs on campus that support sustainability and student success. Introduction to a variety of career pathways within natural resources and environmental conservation.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 1984",
+      "subject": "NR",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 2234",
+      "subject": "NR",
+      "number": "2234",
+      "level": 2000,
+      "title": "1st Semester Experience-Transfer Students in Natural Resources and Environment",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Problem solving related to natural resources and environmental issues, focusing on research, writing and oral presentation skills. Orientation to the college while acquiring skills and knowledge that enhance academic success, including university resources and professional/ personal ethics. Introduction to a variety of career pathways within natural resources and environmental conservation. Restricted to transfer students.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 2974",
+      "subject": "NR",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 2984",
+      "subject": "NR",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 3954",
+      "subject": "NR",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 3964",
+      "subject": "NR",
+      "number": "3964",
+      "level": 3000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4004",
+      "subject": "NR",
+      "number": "4004",
+      "level": 4000,
+      "title": "Professional Skills in Natural Resources",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Elements of professionalism and principles of success across a wide spectrum of natural resources careers. Skills for ethical and professional interaction including effective communication, advancement of diversity and inclusion, and personal responsibility. Career preparation principles including employer outreach, job seeking, resume writing, and interview preparation. Guest speakers from academia, industry, and government. Pre: Senior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "FREC 4004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4014",
+      "subject": "NR",
+      "number": "4014",
+      "level": 4000,
+      "title": "Natural Resources Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of domestic and international natural resource use, exploitation, and degradation problems, with special focus on use of economics to understand why potential overuse of natural resources exists, and what policy options are available to correct these problems and ensure sustainable natural resource use over time. Water, forests, fisheries, land and exhaustible resources. Permission of instructor may be substituted for the pre-requisite.",
+      "prerequisites": {
+        "rawText": "ECON 2005 or AAEC 1005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 4014"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4105",
+      "subject": "NR",
+      "number": "4105",
+      "level": 4000,
+      "title": "Leadership in Natural Resources",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Preparation for leadership roles in the natural resource professions. Introduction to theories of leadership; characteristics of effective leaders; leading and working in interdisciplinary teams. Techniques of meeting facilitation; written and oral communication skills in a leadership context. Effects of preferred modes of interacting with others, perceiving information, making decisions, and approaching tasks on the ability to lead and work with others. Consent of instructor.",
+      "prerequisites": {
+        "rawText": "FIW 2114 or FOR 2314 or FREC 2314 or GEOG 3104 or SBIO 2124",
+        "referencedCourses": [
+          "FIW 2114",
+          "FREC 2314",
+          "GEOG 3104",
+          "SBIO 2124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4106",
+      "subject": "NR",
+      "number": "4106",
+      "level": 4000,
+      "title": "Leadership in Natural Resources",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Preferred styles for dealing with change and conflict; generational change in the workplace; approaches to negotiation and resolution of conflicts. Exploration of specific models of leadership. Application of leadership skills, conflict resolution, teambuilding and project development skills in student group projects. Consent of instructor.",
+      "prerequisites": {
+        "rawText": "NR 4105",
+        "referencedCourses": [
+          "NR 4105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4964",
+      "subject": "NR",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4974",
+      "subject": "NR",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4984",
+      "subject": "NR",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NR 4994",
+      "subject": "NR",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nr/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

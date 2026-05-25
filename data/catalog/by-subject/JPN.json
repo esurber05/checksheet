@@ -1,0 +1,581 @@
+{
+  "subject": "JPN",
+  "scrapedAt": "2026-05-25T21:20:58.838Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "JPN 1105",
+      "subject": "JPN",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Japanese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the Japanese language with emphasis on developing proficiency in practical language use and cultural competency. 1105 is for students with no prior knowledge of the language; 1106 is for students who have completed 1105, or more than one year, but less than three years of high school Japanese.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 1106",
+      "subject": "JPN",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Japanese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the Japanese language, with emphasis on developing proficiency in practical language use and cultural competency. 1105 is for students with no prior knowledge of the language; 1106 is for students who have completed 1105, or more than one, but less than three, units of high school Japanese.",
+      "prerequisites": {
+        "rawText": "JPN 1105",
+        "referencedCourses": [
+          "JPN 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 1114",
+      "subject": "JPN",
+      "number": "1114",
+      "level": 1000,
+      "title": "Accelerated Elementary Japanese",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to Elementary Japanese, designed for learners who wish to progress rapidly through the beginning stages of language learning. Speaking, listening comprehension, reading comprehension, writing, and cultural competency at the JLPT (Japanese Language Proficiency Test) level 4 (ACTFL novice-high). Accelerated version of 1105-1106. Duplicates 1105 and 1106. For students with no prior knowledge of the language.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 1984",
+      "subject": "JPN",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 19 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2105",
+      "subject": "JPN",
+      "number": "2105",
+      "level": 2000,
+      "title": "Intermediate Japanese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes comprehension of written and spoken Japanese, communication in Japanese; study of some literature and culture of the Japanese people. 2105 is for students who have completed 1105 and 1106 or equivalent. 2106 is for students who have completed 2105 or equivalent.",
+      "prerequisites": {
+        "rawText": "JPN 1106 or JPN 1114",
+        "referencedCourses": [
+          "JPN 1106",
+          "JPN 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2106",
+      "subject": "JPN",
+      "number": "2106",
+      "level": 2000,
+      "title": "Intermediate Japanese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasizes comprehension of written and spoken Japanese, communication in Japanese; study of some literature and culture of the Japanese people. 2105 is for students who have completed 1105 and 1106 or equivalent. 2106 is for students who have completed 2105 or equivalent.",
+      "prerequisites": {
+        "rawText": "JPN 2105",
+        "referencedCourses": [
+          "JPN 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2114",
+      "subject": "JPN",
+      "number": "2114",
+      "level": 2000,
+      "title": "Accelerated Intermediate Japanese",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to Intermediate Japanese, designed for highly motivated learners who wish to progress rapidly through the intermediate stages of language learning or those with some prior experience in Japanese in need of intensive review. Emphasis on reading, writing, listening, and oral communication, and review of intermediate grammar and vocabulary in guided oral and written assignments in tasks such as jobs (full and part time), holidays, vacations, shopping, and education. Study of authentic materials and cultural artifacts in Japanese. Accelerated version of 2105-2106. Duplicates 2105 and 2106. Not recommended for advanced or native speakers of Japanese.",
+      "prerequisites": {
+        "rawText": "JPN 1106 or JPN 1114",
+        "referencedCourses": [
+          "JPN 1106",
+          "JPN 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2744",
+      "subject": "JPN",
+      "number": "2744",
+      "level": 2000,
+      "title": "From Atom to Akira: Japan's Pop Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of Japanese popular culture through anime (animation), manga (comics), and video games. Introduction of important socio-cultural issues in Japan such as language, ideology, identity, gender, race, class, and nationalism. Exploration of the domestic and global popularity of these mediums and their socio-historical contexts, styles, and characteristics. Fostering of cross-cultural awareness and intercultural understanding by addressing global challenges and opportunities in Japan through popular culture. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2964",
+      "subject": "JPN",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2974",
+      "subject": "JPN",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2974H",
+      "subject": "JPN",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 2984",
+      "subject": "JPN",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3105",
+      "subject": "JPN",
+      "number": "3105",
+      "level": 3000,
+      "title": "Advanced Japanese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3105: Practice in communication skills in Japanese both orally and writing, including review of grammar, directed composition and conversation, with an emphasis on pronunciation, cultural competency, and oral expressions. Not recommended for native speakers. 3106: Reinforcement of oral proficiency, reading, grammar, and writing skills, allowing students to explore a broad range of texts of general and professional interest. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "JPN 2106 or JPN 2114",
+        "referencedCourses": [
+          "JPN 2106",
+          "JPN 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3106",
+      "subject": "JPN",
+      "number": "3106",
+      "level": 3000,
+      "title": "Advanced Japanese",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "3106: Reinforcement of oral proficiency, reading, grammar, and writing skills, allowing students to explore a broad range of texts of general and professional interest. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "JPN 3105",
+        "referencedCourses": [
+          "JPN 3105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3125",
+      "subject": "JPN",
+      "number": "3125",
+      "level": 3000,
+      "title": "Japanese for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Devoted to the acquisition of spoken dialect and the enhancement of cultural competency. 3125: Provides students with the ability to converse in every day Japanese conversation. Focus on everyday conversational skills including life topics, transactions, and Japanese media. Emphasis on appropriate body language and understanding of cultural, political, and religious knowledge. 3126: Provides students with the ability to converse in advanced and complex situations. Focus on formal conversations (honorific, humble, and extra-polite) and business Japanese. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "JPN 2106",
+        "referencedCourses": [
+          "JPN 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3126",
+      "subject": "JPN",
+      "number": "3126",
+      "level": 3000,
+      "title": "Japanese for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Devoted to the acquisition of spoken dialect and the enhancement of cultural competency. 3125: Provides students with the ability to converse in every day Japanese conversation. Focus on everyday conversational skills including life topics, transactions, and Japanese media. Emphasis on appropriate body language and understanding of cultural, political, and religious knowledge. 3126: Provides students with the ability to converse in advanced and complex situations. Focus on formal conversations (honorific, humble, and extra-polite) and business Japanese. Not recommended for native speakers.",
+      "prerequisites": {
+        "rawText": "JPN 3125",
+        "referencedCourses": [
+          "JPN 3125"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3304",
+      "subject": "JPN",
+      "number": "3304",
+      "level": 3000,
+      "title": "Japanese Literature in Translation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of genres, themes, and narrative strategies characteristic of Japanese literature and other cultural artifacts, as well as the various historical and cultural contexts from which they arose. Exploration of themes, such as transience, honor, and community, with a particular focus on change and evolution over time. Assessment of literature and cultural artifacts’ rendering of and impact on the construction of Japanese identity, such as race, gender, and sexuality. Creation of cross-cultural awareness by distinguishing the influence of other literary traditions on Japan’s literature. Development of intercultural understanding by analyzing common themes in Japanese literature and culture and their implications not just for Japanese life, but also for how they interact with broader global concerns. Taught in English.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 and ENGL 1204H",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3474",
+      "subject": "JPN",
+      "number": "3474",
+      "level": 3000,
+      "title": "Topics in Japanese Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Evaluation of the socio-cultural contexts and perspectives of Japanese cinema, including Japanese cinema’s ability both to produce and reproduce socio-cultural contexts like the political, religious, or aesthetic constructs of a particular time period. Explanation of the relationship between those contexts and films, such as the anti-war stance of many pre-WWII directors or the impact of Japan’s 1989 financial collapse on cinema. Development of a coherent understanding of Japanese cinema and cinematic techniques through films and literary sources, both primary in translation and secondary. Analysis of intercultural perspectives, such as the influence of American and European films on Japanese cinema and vice-versa, in relation to a student’s own cinematic tradition. Comparison of intercultural experiences with broader global concerns, challenges, and opportunities as expressed through Japanese film. Taught in English. Variable content. May be repeated twice with different content for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3724",
+      "subject": "JPN",
+      "number": "3724",
+      "level": 3000,
+      "title": "Modern Japanese Culture and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of Japanese society and culture through analysis of Japanese language texts and other cultural artifacts, with an emphasis on modern Japan. Examination of socio-cultural and linguistic factors that have influenced the development of modern Japan and Japanese identity, such as its focus on community, weakened financial clout, growing cultural capital. Exploration of the impact of issues such as aging, work-life balance, globalization, and gender norms that continue to shape modern Japanese society, and relating them to students’ lives. Assessment of these issues within regional (Asian) and global contexts. Taught in Japanese.",
+      "prerequisites": {
+        "rawText": "JPN 3106",
+        "referencedCourses": [
+          "JPN 3106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3954",
+      "subject": "JPN",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 3984",
+      "subject": "JPN",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4104",
+      "subject": "JPN",
+      "number": "4104",
+      "level": 4000,
+      "title": "Japanese Advanced Grammar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Advanced Japanese grammar skills. Use of special verbs in honorific, extra-modest, and humble form. Analysis and writing of personal and professional texts. Question formation within larger sentences, naming items, using passive and passive-causative sentences. Development of the ability to read, write, and apply the use of 317 intermediate-level kanji in various contexts.",
+      "prerequisites": {
+        "rawText": "JPN 3106",
+        "referencedCourses": [
+          "JPN 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4964",
+      "subject": "JPN",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4974",
+      "subject": "JPN",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4974H",
+      "subject": "JPN",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4984",
+      "subject": "JPN",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4994",
+      "subject": "JPN",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JPN 4994H",
+      "subject": "JPN",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jpn/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

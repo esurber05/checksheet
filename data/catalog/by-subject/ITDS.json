@@ -1,0 +1,531 @@
+{
+  "subject": "ITDS",
+  "scrapedAt": "2026-05-25T21:20:52.615Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ITDS 1114",
+      "subject": "ITDS",
+      "number": "1114",
+      "level": 1000,
+      "title": "Design Appreciation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to fundamental design concepts, design methods and the history of design. Examples drawn from architecture, interior design, industrial design, graphic design as well as vernacular craft and design traditions. Key concepts from art, literature and philosophy are discussed in relation to design theory.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "10",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 1224",
+      "subject": "ITDS",
+      "number": "1224",
+      "level": 1000,
+      "title": "Introduction to Interior Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the elements and principles of interior design, the discipline and practice of interior design. Case studies from interior design practice. Design thinking, language of design, career paths, contemporary issues, global issues, presentation and drawing techniques and sketchbook preparation.",
+      "pathwaysConcepts": [
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 2044",
+      "subject": "ITDS",
+      "number": "2044",
+      "level": 2000,
+      "title": "Interior Design I",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "First in a series of six studios. Foundation level interior design studio. Exploration and development of interior spaces emphasizing spatial volume, human factors, elements and principles of design, and presentation techniques. Course contact to credit hour structure: Lecture (1H,1C), Lab (6L, 2C), Design Lab/Studio (5L,3C).",
+      "prerequisites": {
+        "rawText": "ARCH 1016",
+        "referencedCourses": [
+          "ARCH 1016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 2054",
+      "subject": "ITDS",
+      "number": "2054",
+      "level": 2000,
+      "title": "Interior Design II",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Spatial relationships continue as a priority from ITDS 2044 and become more advanced. Programs of required spaces are introduced in design projects along with issues of human behavior and perception and color. Course contact to credit hour structure: Lecture (1H,1C), Lab (6L, 2C), Design Lab/Studio (5L,3C).",
+      "prerequisites": {
+        "rawText": "ITDS 2044",
+        "referencedCourses": [
+          "ITDS 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 2134",
+      "subject": "ITDS",
+      "number": "2134",
+      "level": 2000,
+      "title": "Materials and Methods in Interior Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Properties and appropriate use of materials in design and construction of building interiors. Floor, wall, and ceiling materials, and materials used in furnishings and equipment are included. Special attention is given to the health effects and environmental impact of material choices in interior design.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 2224",
+      "subject": "ITDS",
+      "number": "2224",
+      "level": 2000,
+      "title": "Interior Design Graphic Communication",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration and development of advanced presentation techniques appropriate for communicating interior design concepts. Special attention is given to utilizing digital media as support for visual and verbal communication.",
+      "prerequisites": {
+        "rawText": "ITDS 2114",
+        "referencedCourses": []
+      },
+      "corequisites": {
+        "rawText": "ITDS 2144",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 2984",
+      "subject": "ITDS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3044",
+      "subject": "ITDS",
+      "number": "3044",
+      "level": 3000,
+      "title": "Interior Design III",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Exploration and development of interior spaces emphasizing corporate office use, branding of interior environments, and building system integration. Course contact to credit hour structure: Lecture (1H,1C), Lab (6L, 2C), Design Lab/Studio (5L,3C).",
+      "prerequisites": {
+        "rawText": "ITDS 2054",
+        "referencedCourses": [
+          "ITDS 2054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3054",
+      "subject": "ITDS",
+      "number": "3054",
+      "level": 3000,
+      "title": "Interior Design IV",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Design process, space planning and code compliance with advanced understanding of appropriate concepts for integrating furniture, fixtures, equipment, color, and finish materials in design solutions. Course contact to credit hour structure: Lecture (1H,1C), Lab (6L, 2C), Design Lab/Studio (5L,3C).",
+      "prerequisites": {
+        "rawText": "ITDS 3044",
+        "referencedCourses": [
+          "ITDS 3044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3114",
+      "subject": "ITDS",
+      "number": "3114",
+      "level": 3000,
+      "title": "Sustainable Design and Biophilia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Sustainable design concepts and theories. Ethical considerations of biophilia, biomimicry, cradle-to-cradle, and other emerging ways of addressing environmental sustainability. Use of biophilia to guide decision making in the built environment. Use of core green building concepts including water use, energy use, sustainable sites and materials. Review of Green Building standards.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3125",
+      "subject": "ITDS",
+      "number": "3125",
+      "level": 3000,
+      "title": "History of Interiors",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of significant developments in the design of interiors, furniture, and materials culture with a focus on western civilization. Style, scale, material culture of each period. Social, economic, technological and political influences on design. Significant designers and craftsmen. 3125: 3000 BC through the 19th century European. Egypt, Greece, Rome, Renaissance, Baroque, Rococo, Neoclassical. 3126: Colonial America through 21st century including Modern design. Bauhaus, DeStijl, Post-War, Post-Modern, Eastern influences.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3126",
+      "subject": "ITDS",
+      "number": "3126",
+      "level": 3000,
+      "title": "History of Interiors",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of significant developments in the design of interiors, furniture, and materials culture with a focus on western civilization. Style, scale, material culture of each period. Social, economic, technological and political influences on design. Significant designers and craftsmen. 3125: 3000 BC through the 19th century European. Egypt, Greece, Rome, Renaissance, Baroque, Rococo, Neoclassical. 3126: Colonial America through 21st century including Modern design. Bauhaus, DeStijl, Post-war, Post-Modern, Eastern influences.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3175",
+      "subject": "ITDS",
+      "number": "3175",
+      "level": 3000,
+      "title": "Building Systems for Interior Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of building systems as they relate to the design of building interiors. 3175: overview of building construction including structural systems and materials, code information and thermal concepts related to building systems. 3176: lighting for buildings, sustainable design guidelines, integration of building systems.",
+      "prerequisites": {
+        "rawText": "ITDS 2044",
+        "referencedCourses": [
+          "ITDS 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3176",
+      "subject": "ITDS",
+      "number": "3176",
+      "level": 3000,
+      "title": "Building Systems for Interior Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of building systems as they relate to the design of building interiors. 3175: overview of building construction including structural systems and materials, code information and thermal concepts related to building systems. 3176: lighting for buildings, sustainable design guidelines, integration of building systems.",
+      "prerequisites": {
+        "rawText": "ITDS 2044 and ITDS 3175",
+        "referencedCourses": [
+          "ITDS 2044",
+          "ITDS 3175"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3184",
+      "subject": "ITDS",
+      "number": "3184",
+      "level": 3000,
+      "title": "Construction Documents for Interior Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An overview of construction documents: drawings and specifications. Development of a set of construction documents for a small commercial interior.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3954",
+      "subject": "ITDS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad-Interior Design",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 3984",
+      "subject": "ITDS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4044",
+      "subject": "ITDS",
+      "number": "4044",
+      "level": 4000,
+      "title": "Interior Design V",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "High-level spatial quality and design solution. Exploration and development of interior spaces for a variety of project types. Focus on collaboration and team work. Course contact to credit hour structure: Lecture (1H,1C), Lab (6L, 2C), Design Lab/Studio (5L,3C).",
+      "prerequisites": {
+        "rawText": "ITDS 3054",
+        "referencedCourses": [
+          "ITDS 3054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4054",
+      "subject": "ITDS",
+      "number": "4054",
+      "level": 4000,
+      "title": "Interior Design VI",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Senior Thesis studio requiring the integration of research and the design of a self-generated project. Course contact to credit hour structure: Lecture (1H,1C), Lab (6L, 2C), Design Lab/Studio (5L,3C).",
+      "prerequisites": {
+        "rawText": "ITDS 4044 and ITDS 4224",
+        "referencedCourses": [
+          "ITDS 4044",
+          "ITDS 4224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 11 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4224",
+      "subject": "ITDS",
+      "number": "4224",
+      "level": 4000,
+      "title": "Design Research for Interiors",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Project Programming and Design Research Methods in Interior Design. Evaluate and apply design research. Methods in design research, evidence-based design, and neuroscience.",
+      "corequisites": {
+        "rawText": "ITDS 4044",
+        "referencedCourses": [
+          "ITDS 4044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4554",
+      "subject": "ITDS",
+      "number": "4554",
+      "level": 4000,
+      "title": "Contemporary Interior Design Practice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of social, economic, political, and technological issues that influence contemporary interior design practice.",
+      "prerequisites": {
+        "rawText": "ITDS 3126",
+        "referencedCourses": [
+          "ITDS 3126"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4964",
+      "subject": "ITDS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4974",
+      "subject": "ITDS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4984",
+      "subject": "ITDS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ITDS 4994",
+      "subject": "ITDS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/itds/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

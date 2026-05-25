@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/ethansurber/Documents/checksheet/app/page.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function Home() {\n  return (\n    <div className=\"flex items-center justify-center min-h-[60vh]\">\n      <div className=\"border border-stone-200 rounded-lg p-8 bg-white text-center\">\n        <p className=\"text-stone-600 mb-4 text-sm\">Sample student audit</p>\n        <Link\n          href=\"/audit/S00001\"\n          className=\"text-maroon font-medium hover:text-maroon-hover underline underline-offset-2\"\n        >\n          View Alex Chen → /audit/S00001\n        </Link>\n      </div>\n    </div>\n  );\n}\n"],"names":["Home","className","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAIC,WAAU;kBACb,cAAA,8OAAC;YAAIA,WAAU;;8BACb,8OAAC;oBAAEA,WAAU;8BAA8B;;;;;;8BAC3C,8OAAC,0LAAI;oBACHC,MAAK;oBACLD,WAAU;8BACX;;;;;;;;;;;;;;;;;AAMT"}}]
-}

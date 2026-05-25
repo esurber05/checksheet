@@ -1,0 +1,1614 @@
+{
+  "subject": "PHYS",
+  "scrapedAt": "2026-05-25T21:21:52.939Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PHYS 1055",
+      "subject": "PHYS",
+      "number": "1055",
+      "level": 1000,
+      "title": "Introduction to Astronomy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey course of astronomy topics ranging from the solar system to the universe, with Application of evidence-based reasoning, critical thinking, and use of theoretical models and observations. 1055 has a focus on the solar system: apparent sky motions, telescopes, matter and radiation, properties of the planets, structure and evolution of the solar system, cultural and intercultural aspects that influenced the understanding of the solar system, climate change as a Global challenge. 1056 has a focus on the universe: stars, star formation, stellar evolution, organization of the Milky Way Galaxy, galaxies, quasars, structure and evolution of the universe, cosmological models, cultural and intercultural aspects of the development of astronomical thought, life in the universe.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 1056",
+      "subject": "PHYS",
+      "number": "1056",
+      "level": 1000,
+      "title": "Introduction to Astronomy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey course of astronomy topics ranging from the solar system to the universe, with Application of evidence-based reasoning, critical thinking, and use of theoretical models and observations. 1055 has a focus on the solar system: apparent sky motions, telescopes, matter and radiation, properties of the planets, structure and evolution of the solar system, cultural and intercultural aspects that influenced the understanding of the solar system, climate change as a Global challenge. 1056 has a focus on the universe: stars, star formation, stellar evolution, organization of the Milky Way Galaxy, galaxies, quasars, structure and evolution of the universe, cosmological models, cultural and intercultural aspects of the development of astronomical thought, life in the universe.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 1155",
+      "subject": "PHYS",
+      "number": "1155",
+      "level": 1000,
+      "title": "Astronomy Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Simulation of apparent sky motions; observations of planets, stars, and nebulae with quantitative analysis; long term observations of sky changes; analysis of images; laboratory experiments of astrophysical relevance.",
+      "corequisites": {
+        "rawText": "PHYS 1055",
+        "referencedCourses": [
+          "PHYS 1055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 1156",
+      "subject": "PHYS",
+      "number": "1156",
+      "level": 1000,
+      "title": "Astronomy Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Simulation of apparent sky motions; observations of planets, stars, and nebulae with quantitative analysis; long term observations of sky changes; analysis of images; laboratory experiments of astrophysical relevance.",
+      "prerequisites": {
+        "rawText": "PHYS 1155",
+        "referencedCourses": [
+          "PHYS 1155"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 1056",
+        "referencedCourses": [
+          "PHYS 1056"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2074",
+      "subject": "PHYS",
+      "number": "2074",
+      "level": 2000,
+      "title": "Highlights of Contemporary Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Conceptual overview of modern scientific thinking in physics, with application of critical reasoning and quantitative and conceptual problem solving based on fundamental physics principles. Presentation of the key ideas and philosophical aspects of the most important developments in modern physics, such as quantum mechanics, relativity, particle physics, cosmology. Discussion of their impact on our understanding of the universe, our position in it, intercultural aspects, and the relevance of physics for technical challenges requiring global awareness.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2205",
+      "subject": "PHYS",
+      "number": "2205",
+      "level": 2000,
+      "title": "General Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "General physics course sequence for students in curricula other than physical sciences, mathematics, or engineering, who have not studied calculus. Applications of reasoning in the natural sciences using physical laws in a real-world context and in the students own discipline. Overview of intercultural and universal aspects of physics, and of human benefits of physics to address global challenges. 2205: mechanics, wave phenomena, fluids. 2206: optics, thermodynamics, electromagnetism, relativity, topics in nuclear and modern physics.",
+      "prerequisites": {
+        "rawText": "MATH 1025 or MATH 1026 or MATH 1225 or MATH 1524",
+        "referencedCourses": [
+          "MATH 1025",
+          "MATH 1026",
+          "MATH 1225",
+          "MATH 1524"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2206",
+      "subject": "PHYS",
+      "number": "2206",
+      "level": 2000,
+      "title": "General Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "General physics course sequence for students in curricula other than physical sciences, mathematics, or engineering, who have not studied calculus. Applications of reasoning in the natural sciences using physical laws in a real-world context and in the students own discipline. Overview of intercultural and universal aspects of physics, and of human benefits of physics to address global challenges. 2205: mechanics, wave phenomena, fluids. 2206: optics, thermodynamics, electromagnetism, relativity, topics in nuclear and modern physics.",
+      "prerequisites": {
+        "rawText": "(PHYS 2305 or PHYS 2205) and (MATH 1025 or MATH 1026 or MATH 1225 or MATH 1524)",
+        "referencedCourses": [
+          "MATH 1025",
+          "MATH 1026",
+          "MATH 1225",
+          "MATH 1524",
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2215",
+      "subject": "PHYS",
+      "number": "2215",
+      "level": 2000,
+      "title": "General Physics Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory experiments dealing with basic laws and techniques of physics; designed to illustrate topics covered in PHYS 2205-2206. Applications of reasoning in the natural sciences using physics experiments in a real-world and interdisciplinary context. Ethical responsibilities and issues in a laboratory setting. 2215: analysis of experimental errors, formatting for presenting graphical data, analyzing and describing and prioritizing experimental design features, communicating concepts orally and in writing, concepts of force, momentum, conservation of energy, wave and interference phenomena. 2216: analysis of experimental errors, communicating concepts orally and in writing, concepts of geometrical optics, optical instruments, heat and phase transitions, electricity and electrical energy storage, magnetic fields and magnetic induction, atomic spectra.",
+      "corequisites": {
+        "rawText": "PHYS 2205",
+        "referencedCourses": [
+          "PHYS 2205"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2216",
+      "subject": "PHYS",
+      "number": "2216",
+      "level": 2000,
+      "title": "General Physics Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory experiments dealing with basic laws and techniques of physics; designed to illustrate topics covered in PHYS 2205-2206. Applications of reasoning in the natural sciences using physics experiments in a real-world and interdisciplinary context. Ethical responsibilities and issues in a laboratory setting. 2215: analysis of experimental errors, formatting for presenting graphical data, analyzing and describing and prioritizing experimental design features, communicating concepts orally and in writing, concepts of force, momentum, conservation of energy, wave and interference phenomena. 2216: analysis of experimental errors, communicating concepts orally and in writing, concepts of geometrical optics, optical instruments, heat and phase transitions, electricity and electrical energy storage, magnetic fields and magnetic induction, atomic spectra.",
+      "prerequisites": {
+        "rawText": "PHYS 2215 or PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2215",
+          "PHYS 2305"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2206",
+        "referencedCourses": [
+          "PHYS 2206"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2254",
+      "subject": "PHYS",
+      "number": "2254",
+      "level": 2000,
+      "title": "Hello Quantum World!",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the concepts of quantum mechanics and quantum computing using a pictorial approach. Quantum bits, quantum superposition, quantum gate operations, quantum entanglement, and quantum measurements represented pictorially. Demonstration of quantum circuits and quantum algorithms. Use of cloud quantum processors with drag-and-drop interfaces. Quantum teleportation, no-cloning theorem, quantum key distribution. Use of the pictorial formalism to define the concept of vectors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2305",
+      "subject": "PHYS",
+      "number": "2305",
+      "level": 2000,
+      "title": "Foundations of Physics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Introductory sequence for students in physical sciences, mathematics, and engineering. Overview of intercultural contributions to physics and universal aspects of physics, and of human benefits of physics to address world-wide challenges. 2305: classical mechanics of translational and rotational motion, Newtonian gravitation, and thermal physics. 2306: oscillations, waves, electricity, magnetism, and optics.",
+      "prerequisites": {
+        "rawText": "MATH 1225",
+        "referencedCourses": [
+          "MATH 1225"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2306",
+      "subject": "PHYS",
+      "number": "2306",
+      "level": 2000,
+      "title": "Foundations of Physics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Introductory sequence for students in physical sciences, mathematics, and engineering. Overview of intercultural contributions to physics and universal aspects of physics, and of human benefits of physics to address world-wide challenges. 2305: classical mechanics of translational and rotational motion, Newtonian gravitation, and thermal physics. 2306: oscillations, waves, electricity, magnetism, and optics.",
+      "prerequisites": {
+        "rawText": "MATH 1226 and PHYS 2305",
+        "referencedCourses": [
+          "MATH 1226",
+          "PHYS 2305"
+        ]
+      },
+      "corequisites": {
+        "rawText": "2325 or (MATH 1206 or MATH 1206H or MATH 1226) for 2305.",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2324",
+      "subject": "PHYS",
+      "number": "2324",
+      "level": 2000,
+      "title": "Thermal Physics Module",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to thermal physics; solids, liquids, and gases; moles, temperature, ideal gas law; work, heat, first law of thermodynamics, ideal gas processes; molecular speeds, pressure; heat engines, refrigerators, the second law of thermodynamics. Intended for transfer students whose introductory physics courses did not include thermal physics. Pass/Fail only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2325",
+      "subject": "PHYS",
+      "number": "2325",
+      "level": 2000,
+      "title": "Seminar for Physics Majors",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the field of physics and to the Physics Department. Overview of modern physics topics such as special relativity, quantum mechanics, condensed matter, nuclear, and particle physics. Presentation of research activities in the department. Also provides more in-depth discussion of and math preparation for topics in 2305-2306. For physics majors.",
+      "corequisites": {
+        "rawText": "PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2326",
+      "subject": "PHYS",
+      "number": "2326",
+      "level": 2000,
+      "title": "Seminar for Physics Majors",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the field of physics and the Physics Department. Overview of modern physics topics such as special relativity, quantum mechanics, condensed matter, nuclear, and particle physics. Presentation of research activities in the department. Also provides more in-depth discussion of and math preparation for topics in 2305-2306. For physics majors.",
+      "prerequisites": {
+        "rawText": "PHYS 2325",
+        "referencedCourses": [
+          "PHYS 2325"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2334",
+      "subject": "PHYS",
+      "number": "2334",
+      "level": 2000,
+      "title": "Waves and Sound Module",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to mechanical waves and sound; one-dimensional waves, transverse waves, sinusoidal waves; sound waves; waves in two- and three-dimensions; power, intensity; the Doppler Effect; principle of superposition of waves; standing waves, standing waves on a string, standing sound waves; interference of waves, interference in two and three-dimensions. Intended for transfer students whose introductory physics courses did not include the topics of mechanical waves and sound. Pass/Fail only.",
+      "prerequisites": {
+        "rawText": "PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2344",
+      "subject": "PHYS",
+      "number": "2344",
+      "level": 2000,
+      "title": "Optics Module",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to ray and wave optics; the ray model for light; reflection and refraction; image formation by mirrors; image formation by lenses; lenses in combinations, optical instruments; the wave model of light; interference of light waves; diffraction of light waves. Intended for transfer students whose introductory physics courses did not include introductory optics. Pass/Fail only.",
+      "corequisites": {
+        "rawText": "PHYS 2334",
+        "referencedCourses": [
+          "PHYS 2334"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2404",
+      "subject": "PHYS",
+      "number": "2404",
+      "level": 2000,
+      "title": "Physics Outreach",
+      "credits": {
+        "min": 2,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Service learning through teaching. An early field experience for physics students who are interested in physics education. Visit local schools and host campus visits to teach K-12 students fundamental physics concepts by performing physics demonstrations and activities. Learn successful communication techniques, lead classroom discussions, and utilize pedagogical content knowledge to effectively organize physics presentations to the general public. Repeatable (no maximum).",
+      "corequisites": {
+        "rawText": "PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2-19 Lec, 2-19 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2504",
+      "subject": "PHYS",
+      "number": "2504",
+      "level": 2000,
+      "title": "Math Methods in Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Applications of mathematical methods to physics. Topics include spatial coordinate systems, linear algebra techniques in coupled motions, series approximations of solutions to physical systems, extremum problems in physics, differential equations in mechanics, integration in two and three spatial dimensions, probability theory in thermal physics.",
+      "prerequisites": {
+        "rawText": "PHYS 2305",
+        "referencedCourses": [
+          "PHYS 2305"
+        ]
+      },
+      "corequisites": {
+        "rawText": "2306, (MATH 2214 or 2214H) and (MATH 2224 or 2204 or 2204H).",
+        "referencedCourses": [
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2964",
+      "subject": "PHYS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 9
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "(1-19 Lec, 1-9 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2974",
+      "subject": "PHYS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2974H",
+      "subject": "PHYS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2984",
+      "subject": "PHYS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2994",
+      "subject": "PHYS",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 2994H",
+      "subject": "PHYS",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3154",
+      "subject": "PHYS",
+      "number": "3154",
+      "level": 3000,
+      "title": "Observational Astrophysics",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Telescopic observations of the moon, planets, stars, interstellar medium, and galaxies; astrophotography; digital imaging. Telescopes; virtual observing techniques and instruments; photographic and digital imaging systems. Astronomical data reduction and interpretation; digital image processing. Prior credit for PHYS 2154 precludes credit for 3154.",
+      "prerequisites": {
+        "rawText": "PHYS 1156",
+        "referencedCourses": [
+          "PHYS 1156"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3254",
+      "subject": "PHYS",
+      "number": "3254",
+      "level": 3000,
+      "title": "Enriched Physics Outreach",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design and implementation of physics lesson plans for K-12 students at local schools and campus visits. Creation of inquiry-based, student-centered physics lessons which motivate and educate students of all ages. Development of activities and experiments to engage students in being scientists.",
+      "corequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3314",
+      "subject": "PHYS",
+      "number": "3314",
+      "level": 3000,
+      "title": "Intermediate Laboratory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Characteristics of common instrumentation and basic circuits, methods of producing good practices in data gathering, recording, and analysis.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3324",
+      "subject": "PHYS",
+      "number": "3324",
+      "level": 3000,
+      "title": "Modern Physics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Photons and their interactions with matter, wave-particle duality, Heisenberg uncertainty principle, Schrodingers equation of motion, hydrogenic and multi-electron atoms, Pauli exclusion principle, molecules, solids, nuclei, elementary particles. Includes lab work. MATH 4544 can be substituted for co-requisite MATH 2214 or 2214H. Pre: 2306.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 2214 or MATH 2214H.",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3355",
+      "subject": "PHYS",
+      "number": "3355",
+      "level": 3000,
+      "title": "Intermediate Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Formal aspects of classical mechanics and dynamics. Topics include Newtonian, Lagrangian and Hamiltonian theory applied to non-relativistic systems in one, two, and three dimensions, relativistic dynamics, linear algebra applied to coupled many-body motion, small oscillations, and rigid body motion.",
+      "prerequisites": {
+        "rawText": "(PHYS 2305 and PHYS 2306 and PHYS 2504 and MATH 2204 and MATH 2214) or (PHYS 2305 and PHYS 2306 and PHYS 2504 and MATH 2204 and MATH 2214H) or (PHYS 2305 and PHYS 2306 and PHYS 2504 and MATH 2204H and MATH 2214) or (PHYS 2305 and PHYS 2306 and PHYS 2504 and MATH 2204H and MATH 2214H) or (PHYS 2305 and PHYS 2306 and PHYS 2504 and MATH 2406H)",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H",
+          "PHYS 2305",
+          "PHYS 2306",
+          "PHYS 2504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3356",
+      "subject": "PHYS",
+      "number": "3356",
+      "level": 3000,
+      "title": "Intermediate Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Formal aspects of classical mechanics and dynamics. Topics include Newtonian, Lagrangian and Hamiltonian theory applied to non-relativistic systems in one, two, and three dimensions, relativistic dynamics, linear algrbra applied to coupled many-body motion, small oscillations, and rigid body motion.",
+      "prerequisites": {
+        "rawText": "PHYS 3355",
+        "referencedCourses": [
+          "PHYS 3355"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3405",
+      "subject": "PHYS",
+      "number": "3405",
+      "level": 3000,
+      "title": "Intermediate Electricity and Magnetism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Electrostatics, multipoles, Laplaces equation, and dielectric media. Magnetostatics, magnetic media, and electromagnetic induction. Maxwells equations, electromagnetic energy, waves, and radiation. Must meet pre-requisites and have a grade of C or better in each of 2305-2306 sequence.",
+      "prerequisites": {
+        "rawText": "(MATH 2214 or MATH 2214H) and PHYS 2305 and PHYS 2306 and PHYS 2504",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "PHYS 2305",
+          "PHYS 2306",
+          "PHYS 2504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3406",
+      "subject": "PHYS",
+      "number": "3406",
+      "level": 3000,
+      "title": "Intermediate Electricity and Magnetism",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Electrostatics, multipoles, Laplaces equation, and dielectric media. Magnetostatics, magnetic media, and electromagnetic induction. Maxwells equations, electromagnetic energy, waves, and radiation. Must meet pre-requisites and have a grade of C or better in each of 2305-2306 sequence.",
+      "prerequisites": {
+        "rawText": "PHYS 3405",
+        "referencedCourses": [
+          "PHYS 3405"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3655",
+      "subject": "PHYS",
+      "number": "3655",
+      "level": 3000,
+      "title": "Introduction to Astrophysics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of elementary physical laws to determine dimensions, masses, luminosities, structures, and evolution of astronomical objects and the universe as a whole. Emphasis is on quantitative derivation.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3656",
+      "subject": "PHYS",
+      "number": "3656",
+      "level": 3000,
+      "title": "Introduction to Astrophysics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of elementary physical laws to determine dimensions, masses, luminosities, structures, and evolution of astronomical objects and the universe as a whole. Emphasis is on quantitative derivation.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3684",
+      "subject": "PHYS",
+      "number": "3684",
+      "level": 3000,
+      "title": "Quantum Software I",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Organization of quantum information (assemblies of bits) for quantum-computing applications in chemistry, physics, biology, and computer science. Numerical methods for quantum software, emphasizing spin lattices and simulations such as quantum games. Best practices for programming, including techniques for quantum-coding (in Python or Julia), structuring a software product for quantum-computational science use, version control, and cloud-based documentation and code-sharing (via Github). Classical/quantum translation.",
+      "prerequisites": {
+        "rawText": "MATH 2114 or MATH 2114H or MATH 3144",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [
+        "CHEM 3684"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 3704",
+      "subject": "PHYS",
+      "number": "3704",
+      "level": 3000,
+      "title": "Thermal Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the concepts, formalism, and applications of classical and quantum statistical mechanics, including thermodynamics.",
+      "prerequisites": {
+        "rawText": "PHYS 2306 and PHYS 3324",
+        "referencedCourses": [
+          "PHYS 2306",
+          "PHYS 3324"
+        ]
+      },
+      "corequisites": {
+        "rawText": "2504, (MATH 2214 or 2214H).",
+        "referencedCourses": [
+          "MATH 2214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4224",
+      "subject": "PHYS",
+      "number": "4224",
+      "level": 4000,
+      "title": "Physics Teaching and Learning",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Seminar course on how people learn and understand key concepts in physics to encourage more effective teaching strategies. Discussions of readings in physics, physics education research, and cognitive science. Recognition of common student preconceptions of physics concepts and identification of strategies which help to elicit conceptual change. Field work teaching precollege or college students. For students interested in teaching and learning physics, graduate teaching assistants, and undergraduate learning assistants.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4254",
+      "subject": "PHYS",
+      "number": "4254",
+      "level": 4000,
+      "title": "Quantum Information Technologies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantum computing and other quantum information technologies. Differences between bit and qubit. Quantum logic gates, concept of entanglement, quantum teleportation, quantum cryptography and key distribution, quantum computing algorithms, including Deutsch-Jozsa algorithm, Grovers search algorithm, Shors factoring algorithm. Basics of public-key cryptosystems and number theory as needed to present Shors algorithm. Errors in a quantum computer and quantum error correction.",
+      "prerequisites": {
+        "rawText": "MATH 2114 or MATH 2114H",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4264",
+      "subject": "PHYS",
+      "number": "4264",
+      "level": 4000,
+      "title": "Quantum Optics and Qubit Processors",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantum optics and quantum bit (qubit) platforms for quantum technology applications. Qubit as physical system, quantum unitary evolution as quantum gate, quantum control using electromagnetic fields, Rabi oscillations, adiabatic theorem, density matrix, Liouville-von Neumann equation, decay and decoherence (T1 and T2), spin echo, Ramsey interferometry, coherent population trapping, entanglement, dynamical maps, electromagnetic field quantization, Jaynes-Cummings Hamiltonian, spontaneous emission, solid-state qubit platforms (spin qubits, superconducting qubits), atomic qubit platforms (trapped ions), color-centers in solids.",
+      "prerequisites": {
+        "rawText": "PHYS 4455",
+        "referencedCourses": [
+          "PHYS 4455"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4315",
+      "subject": "PHYS",
+      "number": "4315",
+      "level": 4000,
+      "title": "Modern Experimental Physics",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Representative apparatus, techniques, and phenomena of contemporary research. Includes electrical measurements, computers, thermometry, vacuum deposition, machine shop, nuclear spectra, experimentation related to major developments of modern physics.",
+      "prerequisites": {
+        "rawText": "PHYS 3314",
+        "referencedCourses": [
+          "PHYS 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4316",
+      "subject": "PHYS",
+      "number": "4316",
+      "level": 4000,
+      "title": "Modern Experimental Physics",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Representative apparatus, techniques, and phenomena of contemporary research. Includes electrical measurements, computers, thermometry, vacuum deposition, machine shop, nuclear spectra, experimentation related to major developments of modern physics.",
+      "prerequisites": {
+        "rawText": "PHYS 3314 and PHYS 4315",
+        "referencedCourses": [
+          "PHYS 3314",
+          "PHYS 4315"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4455",
+      "subject": "PHYS",
+      "number": "4455",
+      "level": 4000,
+      "title": "Introduction to Quantum Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Experimental bases; postulates; conservation theorems and symmetry; one-dimensional and two-dimensional problems; angular momentum and problems in three dimensions; matrix mechanics and spin; applications to atomic and molecular physics; perturbation theory; scattering.",
+      "prerequisites": {
+        "rawText": "PHYS 3355",
+        "referencedCourses": [
+          "PHYS 3355"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 3406",
+        "referencedCourses": [
+          "PHYS 3406"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4456",
+      "subject": "PHYS",
+      "number": "4456",
+      "level": 4000,
+      "title": "Introduction to Quantum Mechanics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Experimental bases; postulates; conservation theorems and symmetry; one-dimensional and two-dimensional problems; angular momentum and problems in three dimensions; matrix mechanics and spin; applications to atomic and molecular physics; perturbation theory; scattering.",
+      "prerequisites": {
+        "rawText": "PHYS 4455",
+        "referencedCourses": [
+          "PHYS 4455"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4514",
+      "subject": "PHYS",
+      "number": "4514",
+      "level": 4000,
+      "title": "Introduction to Nuclear Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Nuclear properties and nuclear interactions. Nuclear reactions and radioactive decays, including alpha, beta and gamma decays. Theoretical models of the nucleus and their interpretations. Experimental methods in nuclear physics. Applications, including nuclear power production.",
+      "prerequisites": {
+        "rawText": "PHYS 3324",
+        "referencedCourses": [
+          "PHYS 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4524",
+      "subject": "PHYS",
+      "number": "4524",
+      "level": 4000,
+      "title": "Intro Particle Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Relativistic kinematics. Particle interaction amplitudes and cross sections. Particle types including quarks, hadrons, leptons and bosons. Experimental methods in particle physics. Symmetries. The quark model. Weak interactions and electroweak unification. Particle physics beyond the Standard Model.",
+      "prerequisites": {
+        "rawText": "PHYS 3324",
+        "referencedCourses": [
+          "PHYS 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4534",
+      "subject": "PHYS",
+      "number": "4534",
+      "level": 4000,
+      "title": "Quantitative Analysis of Physics Experiments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Statistical analysis of physics experiments. Probabilistic elements in experiments. Data analysis frameworks in physics subfields. Maximum likelihood estimation and Bayesian techniques. Physical principles and nuisance parameters. Analysis strategies and computational methods. Graphical data representation.",
+      "prerequisites": {
+        "rawText": "PHYS 2504 and PHYS 3324 and CS 1064",
+        "referencedCourses": [
+          "CS 1064",
+          "PHYS 2504",
+          "PHYS 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4554",
+      "subject": "PHYS",
+      "number": "4554",
+      "level": 4000,
+      "title": "Introduction to Solid State Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic concepts of solid state physics including crystal structure, lattice vibrations, electron states, energy bands, semiconductors, metals. Consent required.",
+      "corequisites": {
+        "rawText": "PHYS 4456",
+        "referencedCourses": [
+          "PHYS 4456"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4564",
+      "subject": "PHYS",
+      "number": "4564",
+      "level": 4000,
+      "title": "Polymer Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the field of polymer physics. Statistical descriptions of polymers based on Brownian motion and random walk models. Conformations and single chains. Thermodynamics of polymer mixtures, solutions, and melts. Properties of polymer networks. Polymer dynamics in both melt and solution states.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4574",
+      "subject": "PHYS",
+      "number": "4574",
+      "level": 4000,
+      "title": "Nanotechnology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to methods of controlling matter on the nanometer length scale and the applications thereof. Nanolithography, self-assembly, and scanned probe microscopy; nanomaterials including fullerenes, carbon nanotubes, and quantum dots; nanoscale and molecular electronics; nanoelectromechanical systems; nanoscale optoelectronics; and nanobiotechnology.",
+      "prerequisites": {
+        "rawText": "PHYS 2205 and PHYS 2206 or PHYS 2305 and PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2205",
+          "PHYS 2206",
+          "PHYS 2305",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4614",
+      "subject": "PHYS",
+      "number": "4614",
+      "level": 4000,
+      "title": "Optics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of the ray, wave and quantum models of light, and topics in modern optics with contemporary applications.",
+      "prerequisites": {
+        "rawText": "PHYS 2306 and (MATH 2214 or MATH 2214H) and (MATH 2224 or MATH 2204 or MATH 2204H)",
+        "referencedCourses": [
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4634",
+      "subject": "PHYS",
+      "number": "4634",
+      "level": 4000,
+      "title": "Modern Classical Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Geometric formulation of classical physics. Applications in relativity, optics, elasticity, fluid mechanics, plasma physics. Real-world examples from fundamental, experimental, and applied physics. Quantum roots of and quantum techniques in classical physics. Geometrical connections between classical mechanics, optics, and quantum physics. Problems in and connections between elasticity, fluid dynamics, magnetohydrodynamics, and plasma physics.",
+      "prerequisites": {
+        "rawText": "PHYS 3355 and PHYS 3405",
+        "referencedCourses": [
+          "PHYS 3355",
+          "PHYS 3405"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4654",
+      "subject": "PHYS",
+      "number": "4654",
+      "level": 4000,
+      "title": "Modern Cosmology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of our current understanding of the origin, evolution, and fate of the Universe. Observational evidence behind the idea of the hot Big Bang, including the linear velocity-distance law, the existence of the cosmic microwave background, and the arguments for dark matter. Physics of a dynamic, expanding Universe via the Friedman-Lemaitre- Robertson-Walker metric. Physical principles to determine the conditions in the early Universe, introducing the idea of inflation. Mechanisms driving the origin and evolution of galaxies and large-scale structures.",
+      "prerequisites": {
+        "rawText": "PHYS 3656",
+        "referencedCourses": [
+          "PHYS 3656"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4664",
+      "subject": "PHYS",
+      "number": "4664",
+      "level": 4000,
+      "title": "Astroparticle Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Observations of high-energy photons, cosmic rays, and neutrinos. Energy-loss interactions in astrophysical environments. Propagation of cosmic particles and ultra-high energy cosmic rays. Origins of cosmic rays. Astrophysical neutrinos and neutrino oscillations. Stellar evolution and evolution into supernova explosions. Mechanisms of astrophysical particle acceleration. Multi-messenger astronomy.",
+      "prerequisites": {
+        "rawText": "PHYS 3655 or PHYS 3656",
+        "referencedCourses": [
+          "PHYS 3655",
+          "PHYS 3656"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4674",
+      "subject": "PHYS",
+      "number": "4674",
+      "level": 4000,
+      "title": "Introduction to General Relativity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to methods and applications of Einsteins general theory of relativity. Space and time and gravity in Newtonian physics; special theory of relativity, gravity as geometry of curved space-time; black holes; cosmology; Einsteins gravitational field equations; gravitational waves and relativistic stars.",
+      "prerequisites": {
+        "rawText": "(MATH 2214 or MATH 2214H or MATH 2514) and PHYS 3355",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "PHYS 3355"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 3406",
+        "referencedCourses": [
+          "PHYS 3406"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4684",
+      "subject": "PHYS",
+      "number": "4684",
+      "level": 4000,
+      "title": "Quantum Software II",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Modern software collaboration techniques and tools including collaborative code repositories and cloud-based documentation. Application of structure and version control to software and documentation. Developing code with industry-standard quantum-software modules. Hands-on scientific coding for quantum problems. Project management skills including proposal development and technical presentation delivery.",
+      "prerequisites": {
+        "rawText": "CHEM 3684 or PHYS 3684",
+        "referencedCourses": [
+          "CHEM 3684",
+          "PHYS 3684"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "CHEM 4684"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4714",
+      "subject": "PHYS",
+      "number": "4714",
+      "level": 4000,
+      "title": "Introduction to Biophysics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected topics from the general area of biomechanics, bioelectricity, radiation biophysics, molecular biophysics, and thermodynamics and transport in biological systems. Emphasis on the physical aspects of biological phenomena and biophysical measurement techniques and instrumentation.",
+      "prerequisites": {
+        "rawText": "PHYS 2206 or PHYS 2306 or ISC 2106H",
+        "referencedCourses": [
+          "ISC 2106H",
+          "PHYS 2206",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4724",
+      "subject": "PHYS",
+      "number": "4724",
+      "level": 4000,
+      "title": "Soft Matter Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical characteristics of various soft matter systems including liquids, liquid crystals, polymers, colloids, surfactants, granular materials, and biological soft materials. Van der Waals and electrostatic interactions in the context of soft matter. Descriptions of soft matter phases, phase diagrams, phase separation, and phase transitions. Theories of self-assembly and self-organization. Problems in and connections between elasticity, viscoelasticity, and mechanics of fluids including capillarity and wetting. Model of random walk and its applications to colloidal systems. Applications of variational methods in soft matter. Computer simulation methods in soft matter.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4755",
+      "subject": "PHYS",
+      "number": "4755",
+      "level": 4000,
+      "title": "Introduction to Computational Physics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of computational methods in physics. 4755: Applications in physics of curve fitting, numerical calculus, ordinary and partial differential equations, numerical methods for matrices, spectral analysis, and N-body systems. 4756: Investigation of physical systems using Molecular Dynamics simulations, Monte Carlo simulations, genetic algorithm and numerical renormalization. Introduction to advanced techniques, as for example density matrix renormalization group method, matrix product state approach, smoothed particle hydrodynamics, and density functional theory.",
+      "prerequisites": {
+        "rawText": "PHYS 2306 and CS 1044 or CS 1054 or CS 1064 or CS 1114 or ECE 1574 or AOE 2074 or ESM 2074",
+        "referencedCourses": [
+          "AOE 2074",
+          "CS 1044",
+          "CS 1054",
+          "CS 1064",
+          "CS 1114",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4774",
+      "subject": "PHYS",
+      "number": "4774",
+      "level": 4000,
+      "title": "Intro to Physics of Galaxies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of our current observational and theoretical understanding of the formation and evolution of galaxies. Observational review of galaxy sizes and compositions, including the origin of the Hubble sequence. Physical description of a galaxy via distribution functions and stellar orbits. Time evolution of the distribution function. The Schwarzschild method for determining orbits. The physics of active galaxies.",
+      "prerequisites": {
+        "rawText": "PHYS 3656",
+        "referencedCourses": [
+          "PHYS 3656"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4964",
+      "subject": "PHYS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4974",
+      "subject": "PHYS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4974H",
+      "subject": "PHYS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4984",
+      "subject": "PHYS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4994",
+      "subject": "PHYS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PHYS 4994H",
+      "subject": "PHYS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/phys/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

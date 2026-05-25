@@ -1,0 +1,317 @@
+{
+  "subject": "JUD",
+  "scrapedAt": "2026-05-25T21:21:03.045Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "JUD 1105",
+      "subject": "JUD",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Modern Hebrew",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to speaking, listening, reading, and writing the modern Hebrew language. Emphasis on developing proficiency in practical language use, comprehension and cultural competency. 1105: Basic tasks such as greetings, counting, and simple requests; for students with no prior knowledge of the language. 1106: More advanced tasks like asking directions, expressing personal preferences, or making purchases.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HEB 1105"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 1106",
+      "subject": "JUD",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Modern Hebrew",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to speaking, listening, reading, and writing the modern Hebrew language. Emphasis on developing proficiency in practical language use, comprehension and cultural competency. 1105: Basic tasks such as greetings, counting, and simple requests; for students with no prior knowledge of the language. 1106: More advanced tasks like asking directions, expressing personal preferences, or making purchases.",
+      "prerequisites": {
+        "rawText": "JUD 1105",
+        "referencedCourses": [
+          "JUD 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HEB 1106"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 2134",
+      "subject": "JUD",
+      "number": "2134",
+      "level": 2000,
+      "title": "Judaism: A Survey of History, Culture, and Heritage",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the academic study of Judaism; a variety of scholarly approaches to Jewish textual and cultural sources, including the Hebrew Bible, rabbinic literature, and diverse contemporary cultural, religious, and social expressions. Emphasis on developing skills in critical thinking, reading, and writing about Judaism as a way of understanding the beliefs, philosophies, and histories of global Jewish communities past and present.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 2414",
+      "subject": "JUD",
+      "number": "2414",
+      "level": 2000,
+      "title": "Hebrew Bible/Old Testament",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the academic study of the Hebrew Bible (Old Testament), including its contents, contexts, major themes, and reception; a variety of scholarly approaches, including historical-critical, literary, ethical, and gender studies methods. Emphasis on developing skills in critical thinking, reading, and writing about the Hebrew Bible (Old Testament).",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 2414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 2974",
+      "subject": "JUD",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 2974H",
+      "subject": "JUD",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 2984",
+      "subject": "JUD",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 3404",
+      "subject": "JUD",
+      "number": "3404",
+      "level": 3000,
+      "title": "Torah and Tradition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed study of the first five books of the Bible, known as the Torah or Pentateuch. Scholarly approaches will include historical-critical research; comparative mythology; form and canon criticism; gender and literary studies; and the reception of these books in the Hebrew Bible, the New Testament and beyond.",
+      "prerequisites": {
+        "rawText": "REL 2414",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3404"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 3404H",
+      "subject": "JUD",
+      "number": "3404H",
+      "level": 3000,
+      "title": "Torah and Tradition",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed study of the first five books of the Bible, known as the Torah or Pentateuch. Scholarly approaches will include historical-critical research; comparative mythology; form and canon criticism; gender and literary studies; and the reception of these books in the Hebrew Bible, the New Testament, and beyond.",
+      "prerequisites": {
+        "rawText": "RLCL 2414",
+        "referencedCourses": [
+          "RLCL 2414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "RLCL 3404H"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 3494",
+      "subject": "JUD",
+      "number": "3494",
+      "level": 3000,
+      "title": "The Holocaust",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides a historical account, a psychological analysis, and an occasion for philosophical contemplation on the Holocaust. We will examine the deliberate and systematic attempt to annihilate the Jewish people by the National Socialist German State during World War II. Although Jews were the primary victims, Gypsies, people with disabilities, homosexuals, Jehovahs Witnesses and political dissidents were targeted; we will discuss their fate as well. The class will be organized around the examination of primary sources: written accounts, photographic and film, personal testimony.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3494",
+        "RLCL 3494"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 3544",
+      "subject": "JUD",
+      "number": "3544",
+      "level": 3000,
+      "title": "The State of Israel: A Political History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course provides a survey on the political history of the State of Israel and highlights major themes uniquely characterizing the specific events surrounding its establishment and its first 50 years of existence. Additionally, the course will add a comparative dimension by using the political history of Israel as a case study to discuss major themes in political science such as democracy, government, political economy, etc.",
+      "prerequisites": {
+        "rawText": "JUD 2134 or PSCI 1024",
+        "referencedCourses": [
+          "JUD 2134",
+          "PSCI 1024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3544",
+        "RLCL 3544"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 4974",
+      "subject": "JUD",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 4974H",
+      "subject": "JUD",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 4994",
+      "subject": "JUD",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "JUD 4994H",
+      "subject": "JUD",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/jud/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

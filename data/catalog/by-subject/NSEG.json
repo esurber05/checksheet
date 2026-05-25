@@ -1,0 +1,252 @@
+{
+  "subject": "NSEG",
+  "scrapedAt": "2026-05-25T21:21:44.648Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "NSEG 3145",
+      "subject": "NSEG",
+      "number": "3145",
+      "level": 3000,
+      "title": "Fundamentals of Nuclear Engr",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of fundamental principles of neutron physics and reactor theory. Introduction to nuclear cross-section data, neutron scattering, nuclear fission, and diffusion theory. Examination of current and next generation nuclear power.",
+      "prerequisites": {
+        "rawText": "MATH 2214 or MATH 2214H or MATH 2406H",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 3146",
+      "subject": "NSEG",
+      "number": "3146",
+      "level": 3000,
+      "title": "Fundamental of Nuclear Engr",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of fundamental principles of neutron physics and reactor theory. Calculation of critical mass and dimensions of a reactor using modified one-group theory; reactivity changes in the core due to control rods, chemical boron shim, temperature changes, and fissioin production poisons. Determination of reactor thermal design criteria. Introduction to radiation protection and reactor accident analysis. Nuclear enginering ethics principles.",
+      "prerequisites": {
+        "rawText": "NSEG 3145 or ME 3145",
+        "referencedCourses": [
+          "NSEG 3145"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 3604",
+      "subject": "NSEG",
+      "number": "3604",
+      "level": 3000,
+      "title": "Radiation Detection, Protection and Shielding",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Radioactive decay, interaction of charged particles and photons with matter, methods of radiation detection and radiation dosimetry, counting statistics, radiation protection criteria and exposure limits, external radiation protection using time, distance and shielding.",
+      "prerequisites": {
+        "rawText": "PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2306"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MATH 2214 or MATH 2214H or MATH 2406H.",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4204",
+      "subject": "NSEG",
+      "number": "4204",
+      "level": 4000,
+      "title": "Nuclear Fuel Cycle",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Uranium nuclear fuel cycle: radiation basics, uranium reserves, mining, conversion, enrichment, fuel manufacturing, in-core fuel management and refueling, spent fuel storage, reprocessing/recycling and final disposition as waste in a geologic repository. Introduction to nuclear safeguards and nonproliferation as applied to each step of cycle. Alternative fuel cycles.",
+      "prerequisites": {
+        "rawText": "MATH 2214 or MATH 2214H or MATH 2406H",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "corequisites": {
+        "rawText": "NSEG 3146",
+        "referencedCourses": [
+          "NSEG 3146"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4214",
+      "subject": "NSEG",
+      "number": "4214",
+      "level": 4000,
+      "title": "Nuclear Power Plant Operations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasis on pressurized water reactor plant operations. Review of boiling water reactor operations. Detailed system functions and operation, reactor plant startup and shutdown procedures, reactor refueling, reactor plant safety analysis, reactor plant licensing, ethics and integrity in the nuclear industry.",
+      "prerequisites": {
+        "rawText": "NSEG 3145",
+        "referencedCourses": [
+          "NSEG 3145"
+        ]
+      },
+      "corequisites": {
+        "rawText": "NSEG 3146",
+        "referencedCourses": [
+          "NSEG 3146"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4424",
+      "subject": "NSEG",
+      "number": "4424",
+      "level": 4000,
+      "title": "Reactor Thermal Hydraulics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental processes of heat generation and transport in nuclear reactors: reactor coolant systems and components, heat generation and spatial distribution, heat transport by conduction and convection, single-phase flow, two-phase flow and boiling, critical heat flux.",
+      "prerequisites": {
+        "rawText": "MATH 2214 or MATH 2214H or MATH 2406H",
+        "referencedCourses": [
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "corequisites": {
+        "rawText": "NSEG 3145",
+        "referencedCourses": [
+          "NSEG 3145"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4974",
+      "subject": "NSEG",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4984",
+      "subject": "NSEG",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4994",
+      "subject": "NSEG",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NSEG 4994H",
+      "subject": "NSEG",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors Section",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nseg/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

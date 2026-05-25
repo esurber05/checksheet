@@ -1,0 +1,325 @@
+{
+  "subject": "WATR",
+  "scrapedAt": "2026-05-25T21:22:53.388Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "WATR 1984",
+      "subject": "WATR",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 2004",
+      "subject": "WATR",
+      "number": "2004",
+      "level": 2000,
+      "title": "Water, Environment, and Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the hydrologic cycle, water resources, and related environmental issues. Emphasis on ethics and relationships between human needs for and effects upon water including: water quality, water treatment, and wastewater treatment; water for health, energy, and food; water management, laws, economics, and conflict; hydrometeorological hazards and climate change; and potential solutions for these and other critical water issues.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 2004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 2964",
+      "subject": "WATR",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 2974",
+      "subject": "WATR",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 2984",
+      "subject": "WATR",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 2994",
+      "subject": "WATR",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 3104",
+      "subject": "WATR",
+      "number": "3104",
+      "level": 3000,
+      "title": "Principles of Watershed Hydrology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of hydrology in watersheds. Qualitative and quantitative principles of physical hydrological processes governing the movement, storage, and transformation of water on the Earths surface as influenced by watershed characteristics, including human modifications. Pre: Junior Standing",
+      "prerequisites": {
+        "rawText": "MATH 1026 or MATH 1226 or STAT 3005 or STAT 3604 or STAT 3615",
+        "referencedCourses": [
+          "MATH 1026",
+          "MATH 1226",
+          "STAT 3005",
+          "STAT 3604",
+          "STAT 3615"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 3104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 3754",
+      "subject": "WATR",
+      "number": "3754",
+      "level": 3000,
+      "title": "Watersheds and Water Quality Monitoring",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Delivery of water quality constituents from watersheds to water bodies (streams, lakes, and estuaries). Field monitoring methods to assess watershed drivers and how they affect water quality and aquatic ecosystem condition. Linkages among water quality, watershed characteristics, land use and management, and climate. Design of watershed monitoring programs to guide watershed management for protecting water quality and ecological condition of aquatic systems.",
+      "prerequisites": {
+        "rawText": "(BIOL 1106 or BIOL 1006) and CHEM 1035 and FREC 2004 or (FOR 2004 or FREC 2114 or FOR 2114 or FREC 3314 or FOR 3314 or BIOL 2804 or ENSC 3604)",
+        "referencedCourses": [
+          "BIOL 1106",
+          "BIOL 2804",
+          "CHEM 1035",
+          "ENSC 3604",
+          "FREC 2004",
+          "FREC 2114",
+          "FREC 3314"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 3754"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4244",
+      "subject": "WATR",
+      "number": "4244",
+      "level": 4000,
+      "title": "Hydroinformatics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis and examination of hydrologic data using basic statistics and computer programming. Calculation and interpretation of flow frequency and duration, hydrologic analysis of geospatial digital terrain data, and implementation and analysis of simple hydrologic models. Advanced methods of temporal and spatial hydrologic data visualization using computer programming.",
+      "prerequisites": {
+        "rawText": "FREC 3104 or WATR 3104 or FREC 1044",
+        "referencedCourses": [
+          "FREC 1044",
+          "FREC 3104",
+          "WATR 3104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 4244"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4464",
+      "subject": "WATR",
+      "number": "4464",
+      "level": 4000,
+      "title": "Water Resources Policy and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic theory and methods to explain water use decisions. Efficiency, equity, and ethical considerations in U.S. water policy. Analysis of water markets, climate change, and environmental flows from diverse stakeholder perspectives.",
+      "prerequisites": {
+        "rawText": "AAEC 1005 or ECON 2005",
+        "referencedCourses": [
+          "AAEC 1005",
+          "ECON 2005"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AAEC 4464",
+        "FREC 4464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4614",
+      "subject": "WATR",
+      "number": "4614",
+      "level": 4000,
+      "title": "Watershed Assessment, Management, and Policy",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary perspectives of assessment, management and policy issues for protecting and improving watershed ecosystems. Topics include: monitoring and modeling approaches for assessment, risk-based watershed assessment geographic information systems for watershed analysis, decision support systems and computerized decision tools for watershed management, policy alternatives for watershed protection, urban watersheds, and current issues in watershed management. Pre: Two 4000 level courses in environmental/natural resource science, management, engineering, and/or policy in BSE, CEE, FOR, FREC, GEOL, LAR, CSES, ENT, BIOL, GEOG, AAEC, UAP or equivalent.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [
+        "ALS 4614"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4964",
+      "subject": "WATR",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4974",
+      "subject": "WATR",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4984",
+      "subject": "WATR",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "WATR 4994",
+      "subject": "WATR",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/watr/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

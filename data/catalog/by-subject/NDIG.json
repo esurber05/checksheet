@@ -1,0 +1,406 @@
+{
+  "subject": "NDIG",
+  "scrapedAt": "2026-05-25T21:20:42.248Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "NDIG 1104",
+      "subject": "NDIG",
+      "number": "1104",
+      "level": 1000,
+      "title": "Introduction to American Indian Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the historical richness and complexity of American Indian societies. Examination of American Indian identities, worldviews, past and present sustainability practices, experiences with and resistance to colonial domination and policies, and cultural interchanges with non-Indians.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 1234",
+      "subject": "NDIG",
+      "number": "1234",
+      "level": 1000,
+      "title": "Colonial Latin America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines how Spanish and Portuguese Settler Colonialism and Indigenous and Black resistance shaped Abya Yala, what is today called Latin America. Uncovers the rich and vibrant histories of Indigenous Peoples in Mesoamerica, the Andes, the Caribbean, and the Amazon. The course will discuss the ways in which enslaved Africans and their descendants dealt with colonialism and made a home in Abya Yala. Students will learn to recognize how Europeans built cities, ports, and societies in Latin America that attempted to replicate their own in Europe. The class will identify what settler colonialism is and how it worked in Latin America, and the differences between Spanish and Portuguese forms of settler colonialism. Students will relate contemporary concerns about ethical issues as well as identity and sovereignty.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 1234"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 2104",
+      "subject": "NDIG",
+      "number": "2104",
+      "level": 2000,
+      "title": "Oral Traditions and Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the worlds great oral traditions, both ancient and contemporary. Emphasis on performance contexts, relationships among multicultural traditions, including American Indian oral traditions, and the relationships among orality, literacy, technology, media, and culture.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HUM 2104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 2414",
+      "subject": "NDIG",
+      "number": "2414",
+      "level": 2000,
+      "title": "Identity and Inclusion in Agricultural and Life Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines histories of persons representing different social identities, statuses, space, place, and traditions in agricultural and life sciences. Explores how differences influence experiences individuals may have in agricultural and life sciences. Apply ethical reasoning practices to recognize and addresses critical issues surrounding inclusion of diverse populations within agricultural and life sciences education and leadership.",
+      "prerequisites": {
+        "rawText": "ENGL 1106",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ALCE 2414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 2804",
+      "subject": "NDIG",
+      "number": "2804",
+      "level": 2000,
+      "title": "Contemporary Native American Literatures",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course offers a sampling of fiction, poetry, and non-fiction by the most influential American Indian writers since 1970, authors such as Momaday, Silko, Deloria, Welch, Harjo, and Alexie. Students also learn about those aspects of cosmology and storytelling traditionally shared by all American Indian Nations, as well as about those aspects specific to the individual tribal traditions from which the authors and their characters come.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL H1204 or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 2804"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 2974",
+      "subject": "NDIG",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 3174",
+      "subject": "NDIG",
+      "number": "3174",
+      "level": 3000,
+      "title": "Native American History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The Native experience in North America or Latin America from 1491 to present. Emphasis on social diversity and organization, resistance to colonization, leadership and cultural change, and political sovereignty among indigenous peoples. Methods for interpreting a variety of primary sources, including texts, material culture, and archaeological findings. Engagements with shifting historiographical perspectives and political movements for recognition of Native sovereignty.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3174"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 3184",
+      "subject": "NDIG",
+      "number": "3184",
+      "level": 3000,
+      "title": "Food Sovereignty",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Food sovereignty, the right to produce and consume culturally relevant food, as a set of practices and as a social movement through comparative case studies. Origins of food sovereignty in response to effects of colonialism, the green revolution, and the global corporate food system on peasant and Indigenous subsistence livelihoods and the concept’s transformation through dialogue with indigenous agricultural knowledge and poor peoples’ environmentalism. Food sovereignty’s challenge to the dominant food system and conceptions of development, how groups implement this vision of democratized social and productive relations through projects of agroecology and land reform, and its potential in the context of ecological calamity.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3184"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 3304",
+      "subject": "NDIG",
+      "number": "3304",
+      "level": 3000,
+      "title": "The Languages of Native America",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the structures of the native languages of the Americas; their interrelationships; their use in individual speech communities; contact with other languages; the interrelationships of linguistic structure, culture, and thought; their future survival.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 3684",
+      "subject": "NDIG",
+      "number": "3684",
+      "level": 3000,
+      "title": "Indigenous Peoples and World Politics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A survey of the historical and contemporary struggles of indigenous peoples throughout the world. Examines the dynamics of colonialism (internal and external), identity construction, gender, cultural integrity, and the ongoing global indigenous rights discourse. In addition to covering broad global processes/theoretical approaches, comparative case studies of particular indigenous groups, such as the Maasai (Kenya, Tanzania) and Mayans (Mexico, Guatemala, Belize), are used to highlight the global, regional and intra-community diversity among contemporary indigenous peoples.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3684"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 3804",
+      "subject": "NDIG",
+      "number": "3804",
+      "level": 3000,
+      "title": "Mesoamerica and the Andes",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Explores major themes and events in the political and cultural history of major empires in Mexico and Peru from 900 CE to the present. Examines the emergence of Indigenous empires, their confrontation with European conquistadors, and life in the early colonial period. Discusses the cultural collision that occurred when Europeans arrived in the Americas, and complicates the narrative of the conquest. Focuses on the complex interplay between geography, political and economic organization, and social change. Investigates the position of Indigenous peoples in pre-Columbian and European empires in Mesoamerica and the Andes. Discussion of the methods and sources to interpret postclassic and early Colonial Latin America. Illustrate Indigenous Methodologies.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "HIST 3804"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4004",
+      "subject": "NDIG",
+      "number": "4004",
+      "level": 4000,
+      "title": "Topics in American Indian Studies",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A variable topics course in which students will engage an interdisciplinary methodology to pursue a critical and in-depth examination of various topics concerning and pertinent to American indigenous peoples. This course is repeatable for up to 6 hours credit with different topics.",
+      "prerequisites": {
+        "rawText": "AINS 1104",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4114",
+      "subject": "NDIG",
+      "number": "4114",
+      "level": 4000,
+      "title": "Indigenous Foodways",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines American Indian worldviews and human-Nature relationships within the context of a dominant non-Indigenous society, through land-based learning including foraging and cultivation. Introduces and contrasts Traditional Ecological Knowledge (TEK) and Scientific Ecological Knowledge (SEK). Encourages the equitable inclusion of Indigenous peoples’ practices in the human and environmental sustainability of our collective future, with attention to decolonization and global Indigenous struggles for justice. Student engagement opportunities in hands-on foraging, seed saving, cultivation, and projects around food sovereignty, food security, and revitalization of traditional foodways, in collaboration with local Native communities.",
+      "pathwaysConcepts": [
+        "4",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4754",
+      "subject": "NDIG",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4964",
+      "subject": "NDIG",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4974",
+      "subject": "NDIG",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4984",
+      "subject": "NDIG",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 4994",
+      "subject": "NDIG",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NDIG 5984",
+      "subject": "NDIG",
+      "number": "5984",
+      "level": 5000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ndig/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

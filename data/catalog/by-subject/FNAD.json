@@ -1,0 +1,92 @@
+{
+  "subject": "FNAD",
+  "scrapedAt": "2026-05-25T21:20:02.711Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FNAD 3900",
+      "subject": "FNAD",
+      "number": "3900",
+      "level": 3000,
+      "title": "Study Abroad-Consortium Enroll",
+      "credits": {
+        "min": 1,
+        "max": 21
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 1-21 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fnad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FNAD 3910",
+      "subject": "FNAD",
+      "number": "3910",
+      "level": 3000,
+      "title": "Travel Activity",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Lec, 0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fnad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FNAD 3920",
+      "subject": "FNAD",
+      "number": "3920",
+      "level": 3000,
+      "title": "Domestic Consortium",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fnad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FNAD 3930",
+      "subject": "FNAD",
+      "number": "3930",
+      "level": 3000,
+      "title": "International Autonomous",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fnad/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FNAD 3950H",
+      "subject": "FNAD",
+      "number": "3950H",
+      "level": 3000,
+      "title": "Honors Travel Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fnad/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

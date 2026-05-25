@@ -1,0 +1,2962 @@
+{
+  "subject": "MUS",
+  "scrapedAt": "2026-05-25T21:21:36.360Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "MUS 1004",
+      "subject": "MUS",
+      "number": "1004",
+      "level": 1000,
+      "title": "School of Performing Arts First Year Experience",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Orientation to the School of Performing Arts philosophy and the resources of the School, the College, and the University. Cultivate a common intellectual, analytical, and creative conversation among first-year students. Enhance student participation in the creative and scholarly life of the Schools programs. Foster a sense of community and understanding across disciplines.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "TA 1004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1005",
+      "subject": "MUS",
+      "number": "1005",
+      "level": 1000,
+      "title": "Theory Fundamentals",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental elements of music theory. 1005: Introduction to elements of music theory. Musical notation, scales of various global traditions, foundations of tonality; intervals, triads, dominant seventh chords, rhythm, meter, cadences, harmonic analysis. Composition with species counterpoint and the twelve-bar blues progression. Aural recognition of musical sounds through ear training. 1006: More complex harmonic and rhythmic processes. Increase complexity of intervals, chords, rhythms, progressions and score reading. Introduce transposition and vocabulary for timbre and textural discussion. Aural recognition of more advanced musical sounds through ear training. Fluency in terms and conventions for western art music, rock, hip-hop. Composition of original music.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1006",
+      "subject": "MUS",
+      "number": "1006",
+      "level": 1000,
+      "title": "Theory Fundamentals",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental elements of music theory. 1005: Introduction to elements of music theory. Musical notation, scales of various global traditions, foundations of tonality; intervals, triads, dominant seventh chords, rhythm, meter, cadences, harmonic analysis. Composition with species counterpoint and the twelve-bar blues progression. Aural recognition of musical sounds through ear training. 1006: More complex harmonic and rhythmic processes. Increase complexity of intervals, chords, rhythms, progressions and score reading. Introduce transposition and vocabulary for timbre and textural discussion. Aural recognition of more advanced musical sounds through ear training. Fluency in terms and conventions for western art music, rock, hip-hop. Composition of original music.",
+      "prerequisites": {
+        "rawText": "MUS 1005",
+        "referencedCourses": [
+          "MUS 1005"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1104",
+      "subject": "MUS",
+      "number": "1104",
+      "level": 1000,
+      "title": "Music Appreciation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of the art of music encompassing a variety of music styles and historical eras in both the western and non- western world. Students will develop strategies to contextualize music, via listening, from the perspective of the listener, composer, and performer.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1114",
+      "subject": "MUS",
+      "number": "1114",
+      "level": 1000,
+      "title": "Listening in the Digital Age",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to musical access and listening in the digital age. Introduces basic elements of music and the creative process together with important musicians and their works. Explores historical, social, and cultural forces and trends that influence the creation and interpretation of various musical styles, including classical, blues, jazz, popular, and world music.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1124",
+      "subject": "MUS",
+      "number": "1124",
+      "level": 1000,
+      "title": "Living a Musical Life",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Embrace a wide variety of music and ways to make music. Learn about the health benefits of lifelong music-making. Units include regional, national, and international traditions in historical, political, and cultural contexts. No prior musical training required.",
+      "pathwaysConcepts": [
+        "6A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1134",
+      "subject": "MUS",
+      "number": "1134",
+      "level": 1000,
+      "title": "Music of the Americas",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Musical traditions in the American continent, with a specific focus on Latin-American and Latinx musics. Introduction to music from different traditions across nations and social-historical contexts. Critical engagement with broad social concepts from cultural, political, and historical perspectives. Development of listening and writing skills.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 1154",
+      "subject": "MUS",
+      "number": "1154",
+      "level": 1000,
+      "title": "Discover Your Voice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vocal class for non-music majors, no previous musical experience or audition needed. Develop tools, body awareness, and a daily routine for healthy singing, using your natural speaking voice. Interpret multiple viewpoints of songwriters and learn to communicate the poetry of their music effectively. Analyze songs more deeply from the inside out using the basic building blocks of music theory. Grow more confident to share your voice through music. Reflect on your gradual journey as a developing singer, and how connecting with music impacts your life, mental health, and relationships with others.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2025",
+      "subject": "MUS",
+      "number": "2025",
+      "level": 2000,
+      "title": "European-American Music Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental elements of music and conventions of genre and style in a global context. 2025: pitch & harmony, rhythm & meter, timbre, texture, and movement. Emphasis on rote learning of pitch notation, intervals, key signatures, chords vs non-chord tones, and pitch collections. Methods to analyze harmony, phrase structure, and meter. Develop vocabulary for timbre and texture. Basic skills of score reading and transposition. 2026: form, as well as more complex harmonic and rhythmic processes, such as harmonic rhythm, syntax and metric dissonance. Increase complexity of score reading to include larger ensembles. In-depth study of genre, considering elements of harmony, rhythm & meter, and form in European and North-American classical, jazz, and popular musics.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2026",
+      "subject": "MUS",
+      "number": "2026",
+      "level": 2000,
+      "title": "European-American Music Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental elements of music and conventions of genre and style in a global context. 2025: pitch & harmony, rhythm & meter, timbre, texture, and movement. Emphasis on rote learning of pitch notation, intervals, key signatures, chords vs non-chord tones, and pitch collections. Methods to analyze harmony, phrase structure, and meter. Develop vocabulary for timbre and texture. Basic skills of score reading and transposition. 2026: form, as well as more complex harmonic and rhythmic processes, such as harmonic rhythm, syntax and metric dissonance. Increase complexity of score reading to include larger ensembles. In-depth study of genre, considering elements of harmony, rhythm & meter, and form in European and North-American classical, jazz, and popular musics.",
+      "prerequisites": {
+        "rawText": "MUS 2025",
+        "referencedCourses": [
+          "MUS 2025"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2045",
+      "subject": "MUS",
+      "number": "2045",
+      "level": 2000,
+      "title": "Sightsinging Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Study and practice of techniques involved in the sight reading and sightsinging of printed music. Majors and minors only.",
+      "corequisites": {
+        "rawText": "MUS 2025",
+        "referencedCourses": [
+          "MUS 2025"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2046",
+      "subject": "MUS",
+      "number": "2046",
+      "level": 2000,
+      "title": "Sightsinging Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Study and practice of techniques involved in the sight reading and sightsinging of printed music. Majors and minors only.",
+      "prerequisites": {
+        "rawText": "MUS 2045",
+        "referencedCourses": [
+          "MUS 2045"
+        ]
+      },
+      "corequisites": {
+        "rawText": "MUS 2026",
+        "referencedCourses": [
+          "MUS 2026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2054",
+      "subject": "MUS",
+      "number": "2054",
+      "level": 2000,
+      "title": "Introduction to Music Technology",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "History, theory, and applications of music technology. Techniques for notating music and for recording and editing audio, using computer software and digital audio equipment. Consent Required. Design lab.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2055",
+      "subject": "MUS",
+      "number": "2055",
+      "level": 2000,
+      "title": "Audio Technology For Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops basic understanding of audio technology for musical applications, focusing on todays digital audio recording and editing technologies including microphone use, live recording, and studio session recording. Develops critical listening skills through lab experimentation and recording. Pre: Permission of instructor required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2056",
+      "subject": "MUS",
+      "number": "2056",
+      "level": 2000,
+      "title": "Audio Technology For Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops basic understanding of audio technology for musical applications, focusing on todays digital audio recording and editing technologies including microphone use, live recording, and studio session recording. Develops critical listening skills through lab experimentation and recording. Pre: 2054 and permission of instructor required.",
+      "prerequisites": {
+        "rawText": "MUS 2055",
+        "referencedCourses": [
+          "MUS 2055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2065",
+      "subject": "MUS",
+      "number": "2065",
+      "level": 2000,
+      "title": "Music Composition",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Organizing the basic elements of music: pitch, rhythm, timbre, articulation, and dynamics. Composing pieces for solo instruments and duos. Preparing scores and parts, for performances and recordings of the compositions. Knowledge of basic music theory required. Consent Required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2066",
+      "subject": "MUS",
+      "number": "2066",
+      "level": 2000,
+      "title": "Music Composition",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Composing for specific instruments and combinations of instruments. Exploring traditional and extended technique. Organizing the structure of a piece based on recurrence, development, variation, priority, and perspective of musical material, for trio adn quartet or a larger ensemble. A grade of C or better in prerequisite.",
+      "prerequisites": {
+        "rawText": "MUS 2065",
+        "referencedCourses": [
+          "MUS 2065"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2115",
+      "subject": "MUS",
+      "number": "2115",
+      "level": 2000,
+      "title": "Survey of Western Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey and study of the historical evolution of Western art music. MUS 2115: classical music from Antiquity into the Classical era. MUS 2116: classical and other music from the Romantic era through the 20th century to music of today. Investigation of the materials of music. Exploration of music as it both reflects and impacts history, including historical considerations of gender, race, culture, and other extramusical factors. Relevance of historical and contemporary music to our society today.",
+      "pathwaysConcepts": [
+        "2",
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2116",
+      "subject": "MUS",
+      "number": "2116",
+      "level": 2000,
+      "title": "Survey of Western Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey and study of the historical evolution of Western art music. MUS 2115: classical music from Antiquity into the Classical era. MUS 2116: classical and other music from the Romantic era through the 20th century to music of today. Investigation of the materials of music. Exploration of music as it both reflects and impacts history, including historical considerations of gender, race, culture, and other extramusical factors. Relevance of historical and contemporary music to our society today.",
+      "pathwaysConcepts": [
+        "2",
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2124",
+      "subject": "MUS",
+      "number": "2124",
+      "level": 2000,
+      "title": "Music Traditions in Appalachia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey and study of music traditions in Appalachia. Investigation of the formal elements of this music, including instruments and musical terms and forms. Exploration of style as a reflection of many cultural influences. Study of the impact and development of these traditions in contemporary musical practices.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "APS 2124"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2134",
+      "subject": "MUS",
+      "number": "2134",
+      "level": 2000,
+      "title": "Disability Culture & the Arts",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Disability as an identity, community, and culture through a study of music and the arts. Overview of the disability rights and disability justice movements in the United States, as told through music, film, literature, and performance art. Analyze creative works, confront obstacles to inclusion, and discover disability cultural values. No previous musical training required.",
+      "pathwaysConcepts": [
+        "6A",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2214",
+      "subject": "MUS",
+      "number": "2214",
+      "level": 2000,
+      "title": "Class Applied Piano",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Group piano lessons for beginners or for students at an early stage of keyboard development. May be repeated for 1 credit. Consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2224",
+      "subject": "MUS",
+      "number": "2224",
+      "level": 2000,
+      "title": "Class Applied Voice",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Group voice lessons for beginners or for students at an early stage of vocal development. May be repeated for 1 credit. Consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2234",
+      "subject": "MUS",
+      "number": "2234",
+      "level": 2000,
+      "title": "Class Applied Strings",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Group string lessons for beginners or for students at an early stage of string development. May be repeated for 1 credit. Consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2244",
+      "subject": "MUS",
+      "number": "2244",
+      "level": 2000,
+      "title": "Class Applied Woodwinds",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Group woodwind lessons for beginners or for students at an early stage of woodwind development. May be repeated for 1 credit. Consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2254",
+      "subject": "MUS",
+      "number": "2254",
+      "level": 2000,
+      "title": "Class Applied Brass",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Group brass lessons for beginners or for students at an early stage of brass development. May be repeated for 1 credit. Consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2264",
+      "subject": "MUS",
+      "number": "2264",
+      "level": 2000,
+      "title": "Class Applied Percussion",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Group percussion lessons for beginners or for students at an early stage of development. May be repeated for 1 credit. Consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 2 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2274",
+      "subject": "MUS",
+      "number": "2274",
+      "level": 2000,
+      "title": "Music Education Lab Ensemble",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Music education laboratory ensemble. Performance techniques, teaching methods, management procedures, materials and literature for school music ensembles. May be repeated for credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2284",
+      "subject": "MUS",
+      "number": "2284",
+      "level": 2000,
+      "title": "Piano Accompanying",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Examine and practice the skills necessary for successful piano accompanying. Develop keyboard skills such as sightreading, transposition, choral score reading, and harmonization. Learn principles of accompanying vocal repertoire, instrumental repertoire, including large ensemble repertoire; adapt orchestral reductions for piano. Instructor consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2314",
+      "subject": "MUS",
+      "number": "2314",
+      "level": 2000,
+      "title": "Woodwind Techniques I - Flute, Clarinet, Saxophone",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Instruction in basic performing skills and practices for woodwind instruments (flute, clarinets, saxophone). Study of pedagogy for woodwind instruction in K-12 music education settings. Survey of repertoire, resources, and materials for use in woodwind instruction.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2324",
+      "subject": "MUS",
+      "number": "2324",
+      "level": 2000,
+      "title": "Woodwind Techniques II - Oboe and Bassoon",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Instruction in basic performing skills and practices for woodwind instruments (oboe, bassoon). Study of pedagogy for woodwind instruction in K-12 music education settings. Survey of repertoire, resources, and materials for use in woodwind instruction.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2334",
+      "subject": "MUS",
+      "number": "2334",
+      "level": 2000,
+      "title": "High Brass Techniques",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Instruction in basic performing skills and practices for high brass instruments (trumpet and horn). Study of pedagogy for teaching brass in K-12 music education settings. Survey of repertoire, resources, and materials for use in brass instruction.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2344",
+      "subject": "MUS",
+      "number": "2344",
+      "level": 2000,
+      "title": "Low Brass Techniques",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Instruction in basic performing skills and practices for low brass instruments (trombone, euphonium, and tuba). Study of pedagogy for teaching brass in K-12 music education settings. Survey of repertoire, resources, and materials for use in brass instruction.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2364",
+      "subject": "MUS",
+      "number": "2364",
+      "level": 2000,
+      "title": "Introduction to Music Education",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices fundamental to music learning and teaching. Philosophical bases for teaching music. Major educational learning theories (e.g., behaviorism, cognitivism, social constructivism, multiple intelligences, spiral learning theory, Bloom’s taxonomy, etc.). Pedagogical approaches, culturally responsive teaching, and technology integration in the music classroom. Field observation for real world public-school music instruction.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2514",
+      "subject": "MUS",
+      "number": "2514",
+      "level": 2000,
+      "title": "Individual Applied Voice",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in voice. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2515",
+      "subject": "MUS",
+      "number": "2515",
+      "level": 2000,
+      "title": "Vocal Diction",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to principles of vocal diction for singing using the International Phonetic Alphabet and standard foreign-language pronunciation techniques.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2516",
+      "subject": "MUS",
+      "number": "2516",
+      "level": 2000,
+      "title": "Vocal Diction",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to principles of vocal diction for singing using the International Phonetic Alphabet and standard foreign-language pronunciation techniques.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2524",
+      "subject": "MUS",
+      "number": "2524",
+      "level": 2000,
+      "title": "Individual Applied Keyboard",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in keyboard. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2534",
+      "subject": "MUS",
+      "number": "2534",
+      "level": 2000,
+      "title": "Individual Applied Violin",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in violin. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2544",
+      "subject": "MUS",
+      "number": "2544",
+      "level": 2000,
+      "title": "Individual Applied Viola",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in viola. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2554",
+      "subject": "MUS",
+      "number": "2554",
+      "level": 2000,
+      "title": "Individual Applied Cello",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in cello. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2564",
+      "subject": "MUS",
+      "number": "2564",
+      "level": 2000,
+      "title": "Individual Applied Bass",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in bass. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2574",
+      "subject": "MUS",
+      "number": "2574",
+      "level": 2000,
+      "title": "Individual Applied Flute",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in flute. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2584",
+      "subject": "MUS",
+      "number": "2584",
+      "level": 2000,
+      "title": "Individual Applied Oboe",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in oboe. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2594",
+      "subject": "MUS",
+      "number": "2594",
+      "level": 2000,
+      "title": "Individual Applied Clarinet",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in clarinet. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2604",
+      "subject": "MUS",
+      "number": "2604",
+      "level": 2000,
+      "title": "Introduction to Arts Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the theories and practice of marketing and building community engagement as applied to arts activities and professional not-for-profit arts organizations, through a survey of standard marketing approaches, examination of current practices in the field, and direct hands-on experience.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "TA 2604"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2614",
+      "subject": "MUS",
+      "number": "2614",
+      "level": 2000,
+      "title": "Individual Applied Saxophone",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in saxophone. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2624",
+      "subject": "MUS",
+      "number": "2624",
+      "level": 2000,
+      "title": "Individual Applied Bassoon",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in bassoon. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2634",
+      "subject": "MUS",
+      "number": "2634",
+      "level": 2000,
+      "title": "Individual Applied Horn",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in horn. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2644",
+      "subject": "MUS",
+      "number": "2644",
+      "level": 2000,
+      "title": "Individual Applied Trumpet",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in trumpet. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2654",
+      "subject": "MUS",
+      "number": "2654",
+      "level": 2000,
+      "title": "Individual Applied Trombone",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in trombone. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2664",
+      "subject": "MUS",
+      "number": "2664",
+      "level": 2000,
+      "title": "Individual Applied Baritone",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in baritone. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2674",
+      "subject": "MUS",
+      "number": "2674",
+      "level": 2000,
+      "title": "Individual Applied Tuba",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in tuba. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2684",
+      "subject": "MUS",
+      "number": "2684",
+      "level": 2000,
+      "title": "Individual Applied Percussion",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in percussion. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2734",
+      "subject": "MUS",
+      "number": "2734",
+      "level": 2000,
+      "title": "Individual Applied Composition",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in composition. May be repeated. Consent and audition required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2754",
+      "subject": "MUS",
+      "number": "2754",
+      "level": 2000,
+      "title": "Individual Applied Recording",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction through directed experiential learning of music recording and production. Integration of critical listening, acoustics, audio recording, and signal processing with music theory and performance. An emphasis on hands-on exploratory research in the use of instruments, acoustics, and microphone techniques combined with traditional methods and emerging technologies to capture and produce recordings of musical performances and works in a natural and effective manner. Permission required. May be repeated for a maximum of 8 hours.",
+      "prerequisites": {
+        "rawText": "MUS 2055",
+        "referencedCourses": [
+          "MUS 2055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2815",
+      "subject": "MUS",
+      "number": "2815",
+      "level": 2000,
+      "title": "Jazz Improvisation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental principles of jazz improvisation. Topics include interval relationships, chord identification, modes and modality, blues and ii-V-I chord progressions. Pre: Permission of instructor required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2816",
+      "subject": "MUS",
+      "number": "2816",
+      "level": 2000,
+      "title": "Jazz Improvisation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental principles of jazz improvisation. Topics include interval relationships, chord identification, modes and modality, blues and ii-V-I chord progressions. Pre: Permission of instructor required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2974",
+      "subject": "MUS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2974H",
+      "subject": "MUS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 2984",
+      "subject": "MUS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3024",
+      "subject": "MUS",
+      "number": "3024",
+      "level": 3000,
+      "title": "Counterpoint",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the development and aesthetics of contrapuntal techniques throughout the common practice period.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3025",
+        "referencedCourses": [
+          "MUS 3025",
+          "MUS 3026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3025",
+      "subject": "MUS",
+      "number": "3025",
+      "level": 3000,
+      "title": "European-American Music Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Extended compositional techniques in late-nineteenth and twentieth-century music, and analysis of larger works. 3025: chromatic harmony, twentieth-century techniques of pitch organization (e.g., set theory), grouping and displacement dissonance, large-scale musical forms. Analysis complemented by model composition and performance to demonstrate mastery of theoretical concepts and stylistic competency. 3026: synthesis of analytical techniques while navigating musical ambiguity in complete works of various sizes (miniatures to multi-part). Analytical observations connected to expressive or narrative meaning in musics from various styles and genres. Refine ability to write about music through research project.",
+      "prerequisites": {
+        "rawText": "MUS 2026",
+        "referencedCourses": [
+          "MUS 2026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3026",
+      "subject": "MUS",
+      "number": "3026",
+      "level": 3000,
+      "title": "European-American Music Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Extended compositional techniques in late-nineteenth and twentieth-century music, and analysis of larger works. 3025: chromatic harmony, twentieth-century techniques of pitch organization (e.g., set theory), grouping and displacement dissonance, large-scale musical forms. Analysis complemented by model composition and performance to demonstrate mastery of theoretical concepts and stylistic competency. 3026: synthesis of analytical techniques while navigating musical ambiguity in complete works of various sizes (miniatures to multi-part). Analytical observations connected to expressive or narrative meaning in musics from various styles and genres. Refine ability to write about music through research project.",
+      "prerequisites": {
+        "rawText": "MUS 2026",
+        "referencedCourses": [
+          "MUS 2026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3034",
+      "subject": "MUS",
+      "number": "3034",
+      "level": 3000,
+      "title": "Form and Analysis in the Common-practice Period",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Domains of rhythm and meter, harmony, and cadence as related to musical form. Score-based and aural analysis of formal functions of common theme-types and large-scale forms in selected works from the mid-eighteenth through nineteenth centuries using William Caplin’s theory. Identification of deviations from stylistic norms. Analysis complemented by model composition to demonstrate mastery of theoretical concepts and stylistic competency.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3025",
+        "referencedCourses": [
+          "MUS 3025",
+          "MUS 3026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3035",
+      "subject": "MUS",
+      "number": "3035",
+      "level": 3000,
+      "title": "Advanced Class Piano",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Develop keyboard skills such as sightreading, harmonization, transposition, learn all scales/arpeggios and important keyboard progressions. A grade of C or better required in prerequisite.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3036",
+      "subject": "MUS",
+      "number": "3036",
+      "level": 3000,
+      "title": "Advanced Class Piano",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Continued development of keyboard skills. Advanced transposition, harmonization, and sightreading, open score reading, and real-world application of skills acquired throughout keyboard study. A grade of C or better required in prerequisite.",
+      "prerequisites": {
+        "rawText": "MUS 3035",
+        "referencedCourses": [
+          "MUS 3035"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3044",
+      "subject": "MUS",
+      "number": "3044",
+      "level": 3000,
+      "title": "Orchestration & Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the craft of scoring and arranging of music for full orchestra. Analysis of scores, small projects and a full orchestration project.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3025",
+        "referencedCourses": [
+          "MUS 3025",
+          "MUS 3026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3045",
+      "subject": "MUS",
+      "number": "3045",
+      "level": 3000,
+      "title": "Advanced Ear Training",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "3045: Hearing chromatic chord function in melodic and harmonic contexts. Sight-singing chromatic melodies and performing chromatic progressions. Aurally recognizing musical form (binary, ternary, strophic). Discovering markedness in common practice era music and recognizing commonalities with and differences from other music cultures A grade of C or better required in prerequisite. 3046: Hearing chord function in advanced chromatic melodic and harmonic contexts. Sight-singing advanced chromatic melodies and performing highly chromatic progressions. Aurally recognizing musical form (sonata, rondo, other forms). Hypothesizing about evolution of style and articulating intertextual experience. A grade of C or better required in prerequisite.",
+      "prerequisites": {
+        "rawText": "MUS 2046 and MUS 2026",
+        "referencedCourses": [
+          "MUS 2026",
+          "MUS 2046"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3046",
+      "subject": "MUS",
+      "number": "3046",
+      "level": 3000,
+      "title": "Advanced Ear Training",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "prerequisites": {
+        "rawText": "MUS 3045",
+        "referencedCourses": [
+          "MUS 3045"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3054",
+      "subject": "MUS",
+      "number": "3054",
+      "level": 3000,
+      "title": "Introduction to Vocal/choral Arranging",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Techniques of arranging music for vocal/choral ensembles. Emphasis on transcription from recordings to develop rhythmic, melodic, and harmonic dictation skills. Discussion, transcription, listening, small writing exercises, final project.",
+      "prerequisites": {
+        "rawText": "MUS 3026",
+        "referencedCourses": [
+          "MUS 3026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3055",
+      "subject": "MUS",
+      "number": "3055",
+      "level": 3000,
+      "title": "Music and Media Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops advanced knowledge of music production through practical application of music recording and production technologies, including advanced microphone techniques, critical listening, and critical artistic evaluation skills. Individual and group production projects. Hands-on experience with a variety of expressive media technologies including CD and DVD production in a collaborative, inter- disciplinary team approach.",
+      "prerequisites": {
+        "rawText": "MUS 2056",
+        "referencedCourses": [
+          "MUS 2056"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3056",
+      "subject": "MUS",
+      "number": "3056",
+      "level": 3000,
+      "title": "Music and Media Production",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develops advanced knowledge of music production through practical application of music recording and production technologies, including advanced microphone techniques, critical listening, and critical artistic evaluation skills. Individual and group production projects. Hands-on experience with a variety if expressive media technologies including CD and DVD production in a collaborative, interdisciplinary team approach.",
+      "prerequisites": {
+        "rawText": "MUS 3055",
+        "referencedCourses": [
+          "MUS 3055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3064",
+      "subject": "MUS",
+      "number": "3064",
+      "level": 3000,
+      "title": "Digital Sound Manipulation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Cross-disciplinary study of recording technology and its effects on music. Aesthetics of electronic music. Recording and editing digital sound. Visual programming for live sound synthesis and processing. Acoustic compilers for programmatic sound processing and synthesis. Individual creative applications of tools learned in class. Team-based work on creative projects. Emphasis on intercultural and global use of creative music technologies.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3065",
+      "subject": "MUS",
+      "number": "3065",
+      "level": 3000,
+      "title": "Computer Music and Multimedia Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A two-semester study of interactive multimedia composition and performance software as a foundation for creative work and research endeavors. Also provides an in-depth study of digital sound synthesis, algorithmic creation of multimedia content, and the design of audio-visual interactive systems using latest technologies. Must meet pre-requisite or have permission of the instructor",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3066",
+      "subject": "MUS",
+      "number": "3066",
+      "level": 3000,
+      "title": "Computer Music and Multimedia Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A two-semester study of interactive multimedia composition and performance software as a foundation for creative work and research endeavors. Also provides an in-depth study of digital sound synthesis, algorithmic creation of multimedia content, and the design of audio-visual interactive systems using latest technologies. Must meet pre-requisite or have permission of the instructor",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3074",
+      "subject": "MUS",
+      "number": "3074",
+      "level": 3000,
+      "title": "Topics in Music Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Contemporary methods of music analysis. Readings from landmark music theory texts and top music theory journals. Analysis of complementary music. Formulating unique research projects to demonstrate mastery of theoretical frameworks. May be repeated 2 times with different content for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3025",
+        "referencedCourses": [
+          "MUS 3025",
+          "MUS 3026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3114",
+      "subject": "MUS",
+      "number": "3114",
+      "level": 3000,
+      "title": "Symphonic Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of representative works of symphonic music from the eighteenth, nineteenth, and twentieth centuries, with corollary readings in the history of musical ideas. Consent required.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3174",
+        "referencedCourses": [
+          "MUS 3026",
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3124",
+      "subject": "MUS",
+      "number": "3124",
+      "level": 3000,
+      "title": "20th Century Music Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to music in Europe and America since 1945; supplementary study in the aesthetics of contemporary music. Consent required.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3174",
+        "referencedCourses": [
+          "MUS 3026",
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3134",
+      "subject": "MUS",
+      "number": "3134",
+      "level": 3000,
+      "title": "Vocal Music Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Covers vocal music of Europe and America, especially music composed the eighteenth century. Examines differences in style and forms of choral and solo-vocal expression characteristic of the Baroque, Classic, Romantic, and Modern eras. Discusses issues of vocal performance practice. Ability to read music required.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3174",
+        "referencedCourses": [
+          "MUS 3026",
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3144",
+      "subject": "MUS",
+      "number": "3144",
+      "level": 3000,
+      "title": "Early Music Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Covers vocal and instrumental music from the Middle Ages to the eighteenth century. Examines differences in style and forms of expression characteristic especially of Medieval, Renaissance, and early Baroque music. Discusses issues of performance practice. Ability to read music required.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3174",
+        "referencedCourses": [
+          "MUS 3026",
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3154",
+      "subject": "MUS",
+      "number": "3154",
+      "level": 3000,
+      "title": "Piano Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of representative works of keyboard repertoire from the 17th century to the works of contemporary composers. Extensive stylistic analysis and discussion of performance practice. Pre: consent required.",
+      "prerequisites": {
+        "rawText": "MUS 3026 and MUS 3174",
+        "referencedCourses": [
+          "MUS 3026",
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3164",
+      "subject": "MUS",
+      "number": "3164",
+      "level": 3000,
+      "title": "History of Electronic Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Seminal electronic music works in historical context. Electronic music practices of the 20th and 21st centuries. The technologies of electronic music. Analysis of electronic music. Historical origins and trends in electronic music. Connections between experimental and popular electronic music forms.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3164H",
+      "subject": "MUS",
+      "number": "3164H",
+      "level": 3000,
+      "title": "History of Electronic Music",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Seminal electronic music works in historical context. Electronic music practices of the 20th and 21st centuries. The technologies of electronic music. Analysis of electronic music. Historical origins and trends in electronic music. Connections between experimental and popular electronic music forms.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3174",
+      "subject": "MUS",
+      "number": "3174",
+      "level": 3000,
+      "title": "Music as Global Culture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Musical traditions from around the globe as both artistic production and cultural practice. Expose students to music from both non-Western and Western traditions. Connect cultural context to musical meaning. Critical engagement with different musics and their histories.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3184",
+      "subject": "MUS",
+      "number": "3184",
+      "level": 3000,
+      "title": "Histories of Music I: Music in the European and American Traditions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the development of different musical genres in Europe and the Americas from approximately 1600 to 1918. Consideration of historical and sociocultural context. Introduction of a diverse array of styles and genres. Critical engagement with social, cultural, and historical issues and their relation to music. Development of historical research skills, facility with writing about music, and practical applications.",
+      "prerequisites": {
+        "rawText": "MUS 3174",
+        "referencedCourses": [
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3194",
+      "subject": "MUS",
+      "number": "3194",
+      "level": 3000,
+      "title": "Histories of Music II: Music in the 20th and 21st Centuries",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Musical traditions and developments in the twentieth and twenty-first centuries, with emphasis on music (voice, acoustic, and electronic) in the United States and increasing globalization. Introduction of students to music from both non-Western and Western traditions. Critical engagement with formalized and vernacular musics through sociopolitical concepts (race, gender, etc.). Research into music in the twenty-first century United States. Development of both historical and ethnographic research skills. Writing about music.",
+      "prerequisites": {
+        "rawText": "MUS 3174",
+        "referencedCourses": [
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3214",
+      "subject": "MUS",
+      "number": "3214",
+      "level": 3000,
+      "title": "Teaching Music in the Elementary School",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods of teaching elementary school music. Emphasis on Kodaly, Orff, and traditional music textbook series approaches to teaching music in elementary schools. Pre: Instructor permission and successful completion of sophomore music continuation exam.",
+      "corequisites": {
+        "rawText": "MUS 4964",
+        "referencedCourses": [
+          "MUS 4964"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3225",
+      "subject": "MUS",
+      "number": "3225",
+      "level": 3000,
+      "title": "Conducting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the practice and theory of ensemble conducting and leadership. 3225: Basic conducting skills, and choral conducting. 3226: Intermediate conducting skills, and instrumental conducting. Consent required.",
+      "prerequisites": {
+        "rawText": "MUS 3026",
+        "referencedCourses": [
+          "MUS 3026"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3226",
+      "subject": "MUS",
+      "number": "3226",
+      "level": 3000,
+      "title": "Conducting",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the practice and theory of ensemble conducting and leadership. 3225: Basic conducting skills, and choral conducting. 3226: Intermediate conducting skills, and instrumental conducting. Consent required.",
+      "prerequisites": {
+        "rawText": "MUS 3225",
+        "referencedCourses": [
+          "MUS 3225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3234",
+      "subject": "MUS",
+      "number": "3234",
+      "level": 3000,
+      "title": "Piano Pedagogy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of principles and practice of piano pedagogy. Covers teaching methods, materials and literature for the independent studio teacher. Pre: consent required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3244",
+      "subject": "MUS",
+      "number": "3244",
+      "level": 3000,
+      "title": "Vocal Pedagogy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of historical and modern treatises. Implementation of technical methods to build vocal technique. Experimentation with biofeedback in pedagogical context. Practical application of pedagogical methods. Pre: Successful completion of continuation exam.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3314",
+      "subject": "MUS",
+      "number": "3314",
+      "level": 3000,
+      "title": "Instrumental Ensemble Music",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Instruction and participation in instrumental music performance ensembles under direction of members of the music faculty. Attention to technical proficiency, stylistic elements, musical design and interpretation in the works to be performed. Addresses ethical obligations and practice in a music ensemble setting. May be repeated for a combined maximum of 8 hours. Consent and audition required.",
+      "pathwaysConcepts": [
+        "6A",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3414",
+      "subject": "MUS",
+      "number": "3414",
+      "level": 3000,
+      "title": "Choral Ensemble Music",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Instruction and participation in choral music performance ensembles under direction of members of the music faculty. Attention to technical proficiency, stylistic elements, musical design and interpretation in the works to be performed. Addresses ethical obligations and practice in a music ensemble setting. May be repeated for a combined maximum of 8 hours. Consent and audition required.",
+      "pathwaysConcepts": [
+        "6A",
+        "10"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3814",
+      "subject": "MUS",
+      "number": "3814",
+      "level": 3000,
+      "title": "Jazz History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A survey and analysis of jazz music, including traditional jazz, big band, bebop, rhythm and blues, free jazz/avant garde, fusion, and hip-hop. Exploration of historical, social, and cultural forces and trends that influence the creation and interpretation of jazz music.",
+      "pathwaysConcepts": [
+        "6A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3815",
+      "subject": "MUS",
+      "number": "3815",
+      "level": 3000,
+      "title": "Advanced Jazz Improvisation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Topics will include in-depth analysis of the great improvisers in multiple genres with a focus on developing professional-level skills.",
+      "prerequisites": {
+        "rawText": "MUS 2816",
+        "referencedCourses": [
+          "MUS 2816"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3900",
+      "subject": "MUS",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3954",
+      "subject": "MUS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3954M",
+      "subject": "MUS",
+      "number": "3954M",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "6A"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 3984",
+      "subject": "MUS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4014",
+      "subject": "MUS",
+      "number": "4014",
+      "level": 4000,
+      "title": "Topics in Advanced Electroacoustic Research",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Rotating advanced research topics in electroacoustic music. Sonification, spatialization, algorithmic music, electronic music instrument design, digital performance ensembles, and advanced computer music composition. Repeatable with different content up to a maximum of 12 credit hours.",
+      "prerequisites": {
+        "rawText": "MUS 3066 and MUS 3164",
+        "referencedCourses": [
+          "MUS 3066",
+          "MUS 3164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4014H",
+      "subject": "MUS",
+      "number": "4014H",
+      "level": 4000,
+      "title": "Topics Adv Electroacoustic Res",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Rotating advanced research topics in electroacoustic music. Sonification, spatialization, algorithmic music, electronic music instrument design, digital performance ensembles, and advanced computer music composition. Repeatable with different content up to a maximum of 12 credit hours.",
+      "prerequisites": {
+        "rawText": "MUS 3066 and MUS 3164",
+        "referencedCourses": [
+          "MUS 3066",
+          "MUS 3164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4055",
+      "subject": "MUS",
+      "number": "4055",
+      "level": 4000,
+      "title": "Music Technology Senior Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Weekly seminars in music technology with group discussion of progress in current student projects, the current state of artistic and business practices in the recording industry, and guest lecturers drawn from the professional world.",
+      "prerequisites": {
+        "rawText": "MUS 3056",
+        "referencedCourses": [
+          "MUS 3056"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4056",
+      "subject": "MUS",
+      "number": "4056",
+      "level": 4000,
+      "title": "Music Technology Senior Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Weekly seminars in music technology with group discussion of progress in current student projects, the current state of artistic and business practices in the recording industry, and guest lecturers drawn from the professional world.",
+      "prerequisites": {
+        "rawText": "MUS 3056",
+        "referencedCourses": [
+          "MUS 3056"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4124",
+      "subject": "MUS",
+      "number": "4124",
+      "level": 4000,
+      "title": "Special Topics in Music History and Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Specific, in depth study of one of several topics in music history and or literature.",
+      "prerequisites": {
+        "rawText": "MUS 3174",
+        "referencedCourses": [
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4174",
+      "subject": "MUS",
+      "number": "4174",
+      "level": 4000,
+      "title": "Topics in Musicology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examine topics in historical musicology and their interdisciplinary resonance. Examination of primary sources, top musicology journals, and monographs as appropriate. Historical and technical analysis of music. Investigation of historical and sociocultural context of music. May be repeated 2 times with different content for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "MUS 3174",
+        "referencedCourses": [
+          "MUS 3174"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4204",
+      "subject": "MUS",
+      "number": "4204",
+      "level": 4000,
+      "title": "Secondary General and Choral Music Education Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines philosophical, planning, administrative, organizational, instructional methods, assessment of student learning and cultural performances necessary to manage and teach secondary general and choral music programs.",
+      "prerequisites": {
+        "rawText": "MUS 3214",
+        "referencedCourses": [
+          "MUS 3214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4214",
+      "subject": "MUS",
+      "number": "4214",
+      "level": 4000,
+      "title": "Instrumental Methods: Elementary",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Develop skills and practices to direct an elementary instrumental music program in a school setting. Learn practices, procedures, and strategies for leading rehearsals and lessons, developing curriculum, assessing student learning, and administering a school instrumental program.",
+      "prerequisites": {
+        "rawText": "MUS 2364",
+        "referencedCourses": [
+          "MUS 2364"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4224",
+      "subject": "MUS",
+      "number": "4224",
+      "level": 4000,
+      "title": "Instrumental Methods: Secondary",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Develop skills and practices to direct an instrumental music program in a middle or high school setting. Learn practices, procedures, and strategies for leading rehearsals and lessons, developing curriculum, assessing student learning, and administering a school instrumental music program.",
+      "prerequisites": {
+        "rawText": "MUS 2364",
+        "referencedCourses": [
+          "MUS 2364"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4234",
+      "subject": "MUS",
+      "number": "4234",
+      "level": 4000,
+      "title": "Topics in Music Education",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Study of specialized areas of pedagogy, instruction, administration, and classroom management in music education. Prepares students to lead specialized ensembles and courses in school music contexts. Course can only be taken one time for credit toward degree requirements.",
+      "prerequisites": {
+        "rawText": "MUS 2364",
+        "referencedCourses": [
+          "MUS 2364"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4514",
+      "subject": "MUS",
+      "number": "4514",
+      "level": 4000,
+      "title": "Advanced Individual Applied Voice",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in voice at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2514",
+        "referencedCourses": [
+          "MUS 2514"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4524",
+      "subject": "MUS",
+      "number": "4524",
+      "level": 4000,
+      "title": "Advanced Individual Applied Keyboard",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in keyboard at an advanced level. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2524",
+        "referencedCourses": [
+          "MUS 2524"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4534",
+      "subject": "MUS",
+      "number": "4534",
+      "level": 4000,
+      "title": "Advanced Individual Applied Violin",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in violin at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2534",
+        "referencedCourses": [
+          "MUS 2534"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4544",
+      "subject": "MUS",
+      "number": "4544",
+      "level": 4000,
+      "title": "Advanced Individual Applied Viola",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in viola at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2544",
+        "referencedCourses": [
+          "MUS 2544"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4554",
+      "subject": "MUS",
+      "number": "4554",
+      "level": 4000,
+      "title": "Advanced Individual Applied Cello",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in cello at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2554",
+        "referencedCourses": [
+          "MUS 2554"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4564",
+      "subject": "MUS",
+      "number": "4564",
+      "level": 4000,
+      "title": "Advanced Individual Applied Bass",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in bass at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2564",
+        "referencedCourses": [
+          "MUS 2564"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4574",
+      "subject": "MUS",
+      "number": "4574",
+      "level": 4000,
+      "title": "Advanced Individual Applied Flute",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in flute at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2574",
+        "referencedCourses": [
+          "MUS 2574"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4584",
+      "subject": "MUS",
+      "number": "4584",
+      "level": 4000,
+      "title": "Advanced Individual Applied Oboe",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in oboe at an advanced level. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2584",
+        "referencedCourses": [
+          "MUS 2584"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4594",
+      "subject": "MUS",
+      "number": "4594",
+      "level": 4000,
+      "title": "Advanced Individual Applied Clarinet",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in clarinet at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2594",
+        "referencedCourses": [
+          "MUS 2594"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4614",
+      "subject": "MUS",
+      "number": "4614",
+      "level": 4000,
+      "title": "Advanced Individual Applied Saxophone",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in saxophone at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2614",
+        "referencedCourses": [
+          "MUS 2614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4624",
+      "subject": "MUS",
+      "number": "4624",
+      "level": 4000,
+      "title": "Advanced Individual Applied Bassoon",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in bassoon at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2624",
+        "referencedCourses": [
+          "MUS 2624"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4634",
+      "subject": "MUS",
+      "number": "4634",
+      "level": 4000,
+      "title": "Advanced Individual Applied Horn",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in horn at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2634",
+        "referencedCourses": [
+          "MUS 2634"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4644",
+      "subject": "MUS",
+      "number": "4644",
+      "level": 4000,
+      "title": "Advanced Individual Applied Trumpet",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in trumpet at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2644",
+        "referencedCourses": [
+          "MUS 2644"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4654",
+      "subject": "MUS",
+      "number": "4654",
+      "level": 4000,
+      "title": "Advanced Individual Applied Trombone",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in trombone at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2654",
+        "referencedCourses": [
+          "MUS 2654"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4664",
+      "subject": "MUS",
+      "number": "4664",
+      "level": 4000,
+      "title": "Advanced Individual Applied Baritone",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in baritone at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2664",
+        "referencedCourses": [
+          "MUS 2664"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4674",
+      "subject": "MUS",
+      "number": "4674",
+      "level": 4000,
+      "title": "Advanced Individual Applied Tuba",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in tuba at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2674",
+        "referencedCourses": [
+          "MUS 2674"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4684",
+      "subject": "MUS",
+      "number": "4684",
+      "level": 4000,
+      "title": "Advanced Individual Applied Percussion",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in percussion at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2684",
+        "referencedCourses": [
+          "MUS 2684"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4734",
+      "subject": "MUS",
+      "number": "4734",
+      "level": 4000,
+      "title": "Advanced Individual Applied Composition",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in composition at an advanced level. Majors only. May be repeated. Performance continuation exam required.",
+      "prerequisites": {
+        "rawText": "MUS 2734",
+        "referencedCourses": [
+          "MUS 2734"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4744",
+      "subject": "MUS",
+      "number": "4744",
+      "level": 4000,
+      "title": "Advanced Individual Applied Conducting",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction in conducting at an advanced level. May be repeated. Consent required.",
+      "prerequisites": {
+        "rawText": "MUS 2744",
+        "referencedCourses": []
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4754",
+      "subject": "MUS",
+      "number": "4754",
+      "level": 4000,
+      "title": "Advanced Individual Applied Recording",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Individual instruction through directed experiential learning in music recording and production at an advanced level. Integration of critical listening, acoustics, audio recording, signal processing, audio mixing, and audio mastering with music theory and performance. An emphasis in hands-on exploratory research in the use of instruments, acoustics, microphones, recording, and production techniques combined with traditional methods and emerging technologies to capture and produce recordings in an artistic manner suitable for use in a senior portfolio. Permission required. May be repeated for a maximum of 12 hours.",
+      "prerequisites": {
+        "rawText": "MUS 2754",
+        "referencedCourses": [
+          "MUS 2754"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4764",
+      "subject": "MUS",
+      "number": "4764",
+      "level": 4000,
+      "title": "Advanced Individual Applied Electroacoustics",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Individual instruction and completion of a major project in electroacoustic composition, performance, or research, at an advanced level. Repeatable up to three times for a maximum of 3 credit hours.",
+      "prerequisites": {
+        "rawText": "MUS 3064 and MUS 3066",
+        "referencedCourses": [
+          "MUS 3064",
+          "MUS 3066"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4964",
+      "subject": "MUS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4974",
+      "subject": "MUS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4974H",
+      "subject": "MUS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4984",
+      "subject": "MUS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4994",
+      "subject": "MUS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MUS 4994H",
+      "subject": "MUS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/mus/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

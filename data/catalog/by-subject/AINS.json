@@ -1,0 +1,24 @@
+{
+  "subject": "AINS",
+  "scrapedAt": "2026-05-25T21:18:16.628Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AINS 2974",
+      "subject": "AINS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ains/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

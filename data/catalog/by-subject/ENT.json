@@ -1,0 +1,413 @@
+{
+  "subject": "ENT",
+  "scrapedAt": "2026-05-25T21:19:52.339Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ENT 2004",
+      "subject": "ENT",
+      "number": "2004",
+      "level": 2000,
+      "title": "Insects and Human Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Past, present, and future role of insects in human society. Insect biology, diversity, and identification of common insects and other arthropods. Effects of insects on disease transmission, global food security, and human health. Management of pests of plants, animals, insects as food, and its effects on environmental pollution. Critique popular science communication and its effect on public policy. Human perceptions of insect conflicts, benefits of insects, and arthropod conservation across the world.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 2254",
+      "subject": "ENT",
+      "number": "2254",
+      "level": 2000,
+      "title": "Bees and Beekeeping",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to honey bee biology, the social organization of the honey bee colony and to modern apiculture, including the use of bees for pollination. Topics on beekeeping include equipment, how to get started, and colony management practices. II",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 2264",
+      "subject": "ENT",
+      "number": "2264",
+      "level": 2000,
+      "title": "Bees and Beekeeping Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A laboratory course which examines the principles and practices of modern apiculture as they relate to honey bee biology. An emphasis is placed on students gaining practical field experience in modern management techniques. II",
+      "corequisites": {
+        "rawText": "ENT 2254",
+        "referencedCourses": [
+          "ENT 2254"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 2804",
+      "subject": "ENT",
+      "number": "2804",
+      "level": 2000,
+      "title": "Bees: Biology, Diversity, and Sustainability",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Foundational introduction to bees. Behavior, communication, and social organization of honey bees; diversity and use of alternative (non honey bee) pollinators; scientific inquiry in ecosystem services management; and current global challenges to and sustainable solutions for pollination in the modern-day agricultural landscape.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 2974",
+      "subject": "ENT",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 2984",
+      "subject": "ENT",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 3014",
+      "subject": "ENT",
+      "number": "3014",
+      "level": 3000,
+      "title": "Insect Biology",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Insect biology provides an introduction to the science of entomology. The course covers the diversity of insects, their biology and behavior, the importance of insects and insect control programs in agriculture, and the effects that insects have had on human history and culture. Laboratory (3024) is optional.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 and BIOL 1006) or (BIOL 1105 and BIOL 1106) or (BIOL 1205H and BIOL 1206H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [
+        "BIOL 3014"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 3024",
+      "subject": "ENT",
+      "number": "3024",
+      "level": 3000,
+      "title": "Insect Biology Laboratory",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Taxonomy and ecology of insects commonly encountered. Identification of all orders and many common families. Ecological attributes of each taxon, including food, habitat, life cycle, and behavior. An insect collection is required. I",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 and BIOL 1006) or (BIOL 1105 and BIOL 1106) or (BIOL 1205H and BIOL 1206H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ENT 3014",
+        "referencedCourses": [
+          "ENT 3014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [
+        "BIOL 3024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 3254",
+      "subject": "ENT",
+      "number": "3254",
+      "level": 3000,
+      "title": "Medical and Veterinary Entomology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the roles of insects and other arthropods in the direct causation of disease in humans and animals, and as vectors in the transmission of disease organisms. The epidemiology and replication cycles of vector-borne pathogens with major medical and veterinary importance will be examined. Information will be provided on the biology and behavior of disease vectors and external parasites, and on the annoying and venomous pests of humans and animals. Mechanisms of control will be discussed.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 and BIOL 1006) or (BIOL 1105 and BIOL 1106) or (BIOL 1205H and BIOL 1206H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BIOL 3254"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 3264",
+      "subject": "ENT",
+      "number": "3264",
+      "level": 3000,
+      "title": "Medical and Veterinary Entomology Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Taxonomy and anatomy of insects and arthropods of medical and veterinary importance. Examination of feeding behavior and ecology. Emphasis on the mechanism of injury or pathogen transmission by each group.",
+      "prerequisites": {
+        "rawText": "(BIOL 1105 and BIOL 1106) or (BIOL 1005 and BIOL 1006) or (BIOL 1205H and BIOL 1206H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106"
+        ]
+      },
+      "corequisites": {
+        "rawText": "ENT 3254",
+        "referencedCourses": [
+          "ENT 3254"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [
+        "BIOL 3264"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4254",
+      "subject": "ENT",
+      "number": "4254",
+      "level": 4000,
+      "title": "Insect Pest Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of insect pest management with application to the major insect pests found in Virginia. Pest management involves the utilization of all effective control practices in a program which is ecologically and economically efficient. This course is intended for all students with an interest in efficient agricultural production and in reducing losses to our most diverse competitor. One year of General Biology required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4264",
+      "subject": "ENT",
+      "number": "4264",
+      "level": 4000,
+      "title": "Pesticide Usage",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An interdisciplinary study of pesticides used in urban and agricultural environments. Topics studied will include: classification, toxicology, formulation, application techniques, safety, legal considerations, environmental impact, and research and development of new pesticides.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "PPWS 4264"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4354",
+      "subject": "ENT",
+      "number": "4354",
+      "level": 4000,
+      "title": "Aquatic Entomology",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Biology and taxonomy of insects and other macroinvertebrates most commonly encountered in freshwater environments. Selected aspects of biology, such as habitat, feeding, locomotion, and life history. Identification of individual taxa, mostly at family and genus level. Significance of these organism in aquatic ecology, pollution monitoring, and natural resource management.",
+      "prerequisites": {
+        "rawText": "(BIOL 1005 and BIOL 1006) and (BIOL 1015 and BIOL 1016) or (BIOL 1105 and BIOL 1106 and BIOL 1115 and BIOL 1116)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "BIOL 1115",
+          "BIOL 1116"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [
+        "BIOL 4354"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4484",
+      "subject": "ENT",
+      "number": "4484",
+      "level": 4000,
+      "title": "Freshwater Biomonitoring",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Concepts and practices of using macroinvertebrates and fish to monitor the environmental health of freshwater ecosystems. Effects of different types of pollution and environmental stress on assemblages of organisms and underlying ecological principles. Role of biological studies in environmental regulation. Study design, field and laboratory methods, data analysis and interpretation, verbal and written presentation of results.",
+      "prerequisites": {
+        "rawText": "(BIOL 2804) and (BIOL 4004 or BIOL 4354 or ENT 4354 or FIW 4424 or FIW 4614)",
+        "referencedCourses": [
+          "BIOL 2804",
+          "BIOL 4004",
+          "BIOL 4354",
+          "ENT 4354",
+          "FIW 4424",
+          "FIW 4614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [
+        "BIOL 4484",
+        "FIW 4484"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4624",
+      "subject": "ENT",
+      "number": "4624",
+      "level": 4000,
+      "title": "Animal and Plant Biosafety and Biosecurity",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A One Health approach to the concept of biosafety and biosecurity. Principles, tools and techniques of disease detection, early warning, and containment of animal and plant pathogens. Regulatory agencies and guidelines that work to protect human, animal, plant, and environmental health and prevent economic and public health disasters. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4974",
+      "subject": "ENT",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4984",
+      "subject": "ENT",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENT 4994",
+      "subject": "ENT",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ent/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

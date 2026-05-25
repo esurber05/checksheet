@@ -1,0 +1,565 @@
+{
+  "subject": "NANO",
+  "scrapedAt": "2026-05-25T21:21:38.430Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "NANO 1014",
+      "subject": "NANO",
+      "number": "1014",
+      "level": 1000,
+      "title": "Introduction to Nanoscience: From Atoms to Applications",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Entry-level, hands-on introduction to the growing, cross-disciplinary field of nanoscience and its applications with perspectives from chemistry, engineering, environmental geoscience, life sciences, materials science, and physics. Topics include: quantitative intuition from macroscale to nanoscale; physical scaling and societal importance of electronic and magnetic devices; capabilities and limits of microscopy and nanofabrication; atomic-scale understanding of solids; counterintuitive phenomena at the nanoscale; nanoscience in medicine and environment.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 1015",
+      "subject": "NANO",
+      "number": "1015",
+      "level": 1000,
+      "title": "Introduction to Nanoscience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the interdisciplinary field of nanoscience with perspectives from biology, geoscience, computational science, chemistry, and physics. 1015: Historical perspectives; public perception; economic impact, nanoscience in biology and environment; quantum physics principles; characterization tools; mathematical modeling. 1016: Nanofabrication methods; nanoparticle synthesis and characterization; self-assembly; applications in medicine, electronics, and energy; sustainability. Pre: 1015 for 1016",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 1016",
+      "subject": "NANO",
+      "number": "1016",
+      "level": 1000,
+      "title": "Introduction to Nanoscience",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the intersdisciplinary field of nanoscience with perspectives from biology, geoscience, computational sceince, chemistry, and physics. 1015: Historical perspectives; public perception; economic impact, nanoscience in biology and environment; quantum physics principles; characterization tools; mathematical modeling. 1016: Nanofabrication methods; nanoparticle synthesis and characterization; self-assembly; applications in medicine, electronics, and energy; sustainability. Pre: 1015 for 1016.",
+      "prerequisites": {
+        "rawText": "NANO 1015",
+        "referencedCourses": [
+          "NANO 1015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 1024",
+      "subject": "NANO",
+      "number": "1024",
+      "level": 1000,
+      "title": "Nanoscience: From Principles to Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to technological applications of nanoscience, with emphasis on nanomaterials and physical principles that enable modern devices. Topics include: basics of nanomaterials, nanotechnology and devices that leverage quantum effects; artificial and natural nanomaterials; nanoelectronics, nanophotonics, nano-optoelectronics, nanoplasmonics, nano-mechanics; semiconductor device manufacturing methods; photonic and solar-cell technologies; nano-biotechnology.",
+      "prerequisites": {
+        "rawText": "NANO 1014 or NANO 1015",
+        "referencedCourses": [
+          "NANO 1014",
+          "NANO 1015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2024",
+      "subject": "NANO",
+      "number": "2024",
+      "level": 2000,
+      "title": "Quantum Physics of Nanostructures",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the quantum physics which governs the properties of matter at the nanoscale. Specific topics include: Quantization, wave-particle duality, and Schrodinger equation, with applications to the hydrogen atom, periodic crystals, and nanostructures; electron spin, spintronics, and quantum statistical physics.",
+      "prerequisites": {
+        "rawText": "(NANO 1016 or NANO 1024) and MATH 1226 and (PHYS 2306 or ISC 2105)",
+        "referencedCourses": [
+          "ISC 2105",
+          "MATH 1226",
+          "NANO 1016",
+          "NANO 1024",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2114",
+      "subject": "NANO",
+      "number": "2114",
+      "level": 2000,
+      "title": "Nanoscience Research Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Readings and discussion of current research areas of nanoscience and nanotechnology including nanofabrication, scanning probe techniques, functional nanomaterials, molecular engineering, bionanotechnology and nanomedicine. Presentations by guest nanoscience faculty on their research activities.",
+      "prerequisites": {
+        "rawText": "NANO 1016 or NANO 1024",
+        "referencedCourses": [
+          "NANO 1016",
+          "NANO 1024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2324",
+      "subject": "NANO",
+      "number": "2324",
+      "level": 2000,
+      "title": "Quantum Physics for Nanomedicine",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to quantum physics with a focus on nanomedicine related topics. Principles of quantization, wave-particle duality, Pauli exclusion principle, and the Schrödinger equation, with applications to the hydrogen atom, regular crystals, and nanostructures. Implications for nanomedicine of quantum dots, surface plasmon resonance, nanoscale sensing, and targeted drug delivery using nanoparticles.",
+      "prerequisites": {
+        "rawText": "(NANO 1016 or NANO 1024) and (PHYS 2206 or PHYS 2306 or ISC 2105)",
+        "referencedCourses": [
+          "ISC 2105",
+          "NANO 1016",
+          "NANO 1024",
+          "PHYS 2206",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2814",
+      "subject": "NANO",
+      "number": "2814",
+      "level": 2000,
+      "title": "NanoCareers",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of career opportunities in nanoscience and nanomedicine, including employment, graduate education, and health professions. Professional development activities, including resume assembly, career fairs, mentorship and networking, elevator pitch, entrepreneurship, and financial literacy. Pre: Sophomore standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2974",
+      "subject": "NANO",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2984",
+      "subject": "NANO",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2984E",
+      "subject": "NANO",
+      "number": "2984E",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "5A"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 2994",
+      "subject": "NANO",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 3015",
+      "subject": "NANO",
+      "number": "3015",
+      "level": 3000,
+      "title": "Nanoscale Synthesis, Fabrication, and Characterization",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Tools for synthesis, fabrication and characterization of nanomaterials and nanostructures including organic and polymer synthesis, self-assembly, and top-down fabrication as well as methods for identifying their structure and electronic, optical, and thermal properties. 3015: Multiphase macromolecules; electron and scanning probe microscopies; fullerenes, graphene, and nanotubes; optical and electron spectroscopies, thermal analysis; quantum dots and metallic nanoparticles. 3016: Nucleic acid self-assembly; polyelectrolyte complexes; dynamic light scattering and zeta potential; electrostatic self-assembly; self-assembled monolayers; photolithography; electron and ion beam lithography; microcontact printing and nanoimprint lithography.",
+      "prerequisites": {
+        "rawText": "CHEM 2514 or CHEM 2535 or CHEM 2565",
+        "referencedCourses": [
+          "CHEM 2514",
+          "CHEM 2535",
+          "CHEM 2565"
+        ]
+      },
+      "corequisites": {
+        "rawText": "2024 or 2324 or PHYS 3324.",
+        "referencedCourses": [
+          "PHYS 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 3016",
+      "subject": "NANO",
+      "number": "3016",
+      "level": 3000,
+      "title": "Nanoscale Synthesis, Fabrication, and Characterization",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Tools for synthesis, fabrication and characterization of nanomaterials and nanostructures including organic and polymer synthesis, self-assembly, and top-down fabrication as well as methods for identifying their structure and electronic, optical, and thermal properties. 3015: Multiphase macromolecules; electron and scanning probe microscopies; fullerenes, graphene, and nanotubes; optical and electron spectroscopies, thermal analysis; quantum dots and metallic nanoparticles. 3016: Nucleic acid self-assembly; polyelectrolyte complexes; dynamic light scattering and zeta potential; electrostatic self-assembly; self-assembled monolayers; photolithography; electron and ion beam lithography; microcontact printing and nanoimprint lithography.",
+      "prerequisites": {
+        "rawText": "NANO 3015 and (CHEM 2514 or CHEM 2535 or CHEM 2565)",
+        "referencedCourses": [
+          "CHEM 2514",
+          "CHEM 2535",
+          "CHEM 2565",
+          "NANO 3015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 3114",
+      "subject": "NANO",
+      "number": "3114",
+      "level": 3000,
+      "title": "Professional Dissemination of Nanoscience Research",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Technical skills for dissemination of nanoscience research. Effective use of the nanoscience and nanotechnology literature, use of technologies that support collaborative oral and written communication. Key elements of effective journal publications and conference presentations.",
+      "prerequisites": {
+        "rawText": "NANO 2114",
+        "referencedCourses": [
+          "NANO 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 3124",
+      "subject": "NANO",
+      "number": "3124",
+      "level": 3000,
+      "title": "Nanoscience and the Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the connections between nanoscience, nanotechnology, and the environment. Overview of environmental science, why environmental issues are relevant to industry/business/research, naturally-occurring nanomaterials and their roles on Earth, and what is currently known about how manufactured and incidental nanomaterials interact with the atmosphere, hydrosphere, pedosphere, and biosphere.",
+      "prerequisites": {
+        "rawText": "(NANO 1016 or NANO 1024) and BIOL 1105 and (CHEM 1036 or CHEM 1056 or ISC 2106H)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "CHEM 1036",
+          "CHEM 1056",
+          "ISC 2106H",
+          "NANO 1016",
+          "NANO 1024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4124",
+      "subject": "NANO",
+      "number": "4124",
+      "level": 4000,
+      "title": "Advanced Nanomaterials and Devices",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of types of nanomaterials such as nanoparticles, quantum dots, fullerenes, carbon nanotubes, nanowires, graphene, and ultra-thin films. Special nanocomposite materials. Electronic, optical, magnetic, and transport properties of nanomaterials. Interactions between nanomaterials and substrates or interfaces. Applications of nanomaterials for electronics, magnetic storage, and energy-efficient devices.",
+      "prerequisites": {
+        "rawText": "NANO 2024 or NANO 2324 or CHEM 3616 or PHYS 3324",
+        "referencedCourses": [
+          "CHEM 3616",
+          "NANO 2024",
+          "NANO 2324",
+          "PHYS 3324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4324",
+      "subject": "NANO",
+      "number": "4324",
+      "level": 4000,
+      "title": "Introduction to Nanomedicine",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of fundamental biocompatible technologies under development at the nanoscale level and their application in the biomedical field. Use of various forms and compositions of nanomaterials for potential applications in diagnosis, delivery, imaging, and treatment of human diseases. Focus on synthesis, characterization, and specific applications of nanomaterial as well as on nanotheranostics. Pharmacokinetic distribution of drug-embedded nanocarriers and their pharmacodynamics in biological systems. Nanoscale properties of materials for medical imaging. Classification of nanobiosensors used in clinical settings.",
+      "prerequisites": {
+        "rawText": "NANO 3015 and (BIOL 1105 or NEUR 3044)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "NANO 3015",
+          "NEUR 3044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4334",
+      "subject": "NANO",
+      "number": "4334",
+      "level": 4000,
+      "title": "Advanced Nanomedicine",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Medical use of nanomaterials in translational medicine and clinical research. Nanomedical approaches to targeted delivery and local imaging. Diagnostic sensors. Use of nanomedical tools over conventional techniques to diagnose and treat human diseases/disorders. Bioavailability and biocompatibility of nanotherapeutics. Ethical concerns and economic benefits associated with developing and implementing nanomedical approaches in the clinic. Use of nanotechnological advances for surgical procedures. Use of nanoparticles composites for nanodentistry and in nanodermatology. Safety protocols for the use of nanotechnology in clinical treatment.",
+      "prerequisites": {
+        "rawText": "NANO 4324",
+        "referencedCourses": [
+          "NANO 4324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4354",
+      "subject": "NANO",
+      "number": "4354",
+      "level": 4000,
+      "title": "Advanced Nanomedicine Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Use of nanotechnology to study cellular and molecular processes relevant to human diseases. Manipulation of nucleic acids. Use of various nanoparticle materials to study nucleic acids uptake by cells. Use of fluorescence and confocal imaging to identify homotypic and heterotypic cellular interactions. Purification of cells from biological fluids. Concepts in dielectrophoresis and microfluidic devices. Students must be certified to work with blood-borne pathogens from the Environmental Health and Safety department.",
+      "prerequisites": {
+        "rawText": "NANO 4324",
+        "referencedCourses": [
+          "NANO 4324"
+        ]
+      },
+      "corequisites": {
+        "rawText": "NANO 4334",
+        "referencedCourses": [
+          "NANO 4334"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4964",
+      "subject": "NANO",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4974",
+      "subject": "NANO",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4974H",
+      "subject": "NANO",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4984",
+      "subject": "NANO",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "NANO 4994",
+      "subject": "NANO",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/nano/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

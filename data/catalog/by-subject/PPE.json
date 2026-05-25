@@ -1,0 +1,348 @@
+{
+  "subject": "PPE",
+  "scrapedAt": "2026-05-25T21:21:50.863Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "PPE 1004",
+      "subject": "PPE",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introduction to Philosophy, Politics, and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discussion of classic and contemporary texts in philosophy, politics, and economics (PPE) with historical and current relevance. Core concepts, ideas, and topics include: history of moral, political, and economic thought; political economy; justice, equality, fairness, and democracy; socioeconomic status, power, class, and diversity; the human condition and its cultural evolution and experience in the United States and abroad. Course introduces students to basic principles of research and writing. First-Year Experience course.",
+      "pathwaysConcepts": [
+        "2",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 1214",
+      "subject": "PPE",
+      "number": "1214",
+      "level": 1000,
+      "title": "Economic History of Diversity and Inclusion",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Economic analysis of topics concerning diversity and inclusion. Emphasis on Virginia and surrounding states. Introduction to the basic principles of economic analysis and economic history, with a special emphasis on models of institutional change, economic growth, discrimination, inequality, migration, and indigenous economic systems. Impact of institutions, environment, and technological change on labor markets, asset markets, and standard of living. Consideration of the role of data in understanding diversity and related ethical issues.",
+      "pathwaysConcepts": [
+        "3",
+        "7",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 1214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 2024",
+      "subject": "PPE",
+      "number": "2024",
+      "level": 2000,
+      "title": "Research Methods in Political Science",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to research in political science; formulation of theory, operationalization and measurement, gathering, analysis and interpretation of data.",
+      "prerequisites": {
+        "rawText": "(PSCI 1014 or PSCI 1014H) and (PSCI 1024 or PSCI 1024H or IS 1024 or IS 1024H)",
+        "referencedCourses": [
+          "IS 1024",
+          "PSCI 1014",
+          "PSCI 1014H",
+          "PSCI 1024",
+          "PSCI 1024H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 2024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 2894",
+      "subject": "PPE",
+      "number": "2894",
+      "level": 2000,
+      "title": "PPE Gateway Course",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integrated study of philosophy, politics, and economics. Trains students to make decisions that are not only economically sound, but also socially, ethically, and politically informed. Core concepts, topics, and ideas include: models of human nature, rational choice theory, social cooperation, distributive justice, markets, and democracy. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 2974",
+      "subject": "PPE",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 3016",
+      "subject": "PPE",
+      "number": "3016",
+      "level": 3000,
+      "title": "Political Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of the fundamental ideas in the history of political theory. 3015: The thought and ethical implications of philosophers from the ancient Greeks to early modern times. Analysis of writings from Plato through medieval theorists to those of the Seventeenth Century. 3016: The thought and ethical implications of philosophers from the late Seventeenth Century to the present. Analysis of key concepts in the thought of theorists from the early modern period until the present.",
+      "prerequisites": {
+        "rawText": "PSCI 2014",
+        "referencedCourses": [
+          "PSCI 2014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHIL 3016",
+        "PSCI 3016"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 3024",
+      "subject": "PPE",
+      "number": "3024",
+      "level": 3000,
+      "title": "Economic Justice",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course explores how different assumptions regarding the basis of claims for access to economic resources lead to different outcomes. Students will explore a variety of theories and examine their own beliefs about economic justice.",
+      "prerequisites": {
+        "rawText": "(ECON 2005 or ECON 2025H) and (ECON 2006 or ECON 2026H)",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006",
+          "ECON 2025H",
+          "ECON 2026H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 3024"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 3314",
+      "subject": "PPE",
+      "number": "3314",
+      "level": 3000,
+      "title": "Ethical Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Careful examination of some important historical or contemporary ethical theories. Includes coverage of such topics as the assessment of character and action, the foundations of ethical theories, their justification, their relationship to scientific theories, and their objective or subjective status. 3 Philosophy credits required.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHIL 3314"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 3884",
+      "subject": "PPE",
+      "number": "3884",
+      "level": 3000,
+      "title": "Topics in Philosophy, Politics, and Economics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Topics-based course in philosophy, politics, and economics (PPE). Discussion of important topics and thinkers in PPE with historical and practical relevance. Focus on interdisciplinary analysis and methods. Topics include: limits of markets; well-being theory, science, and policy; socioeconomic justice; economic and political institutions; and global poverty. May be repeated 1 time with different content for a maximum of six credits hours. Pre: 3 credit hours in PPE, PHIL, PSCI, or ECON.",
+      "pathwaysConcepts": [
+        "2",
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ECON 3884",
+        "PHIL 3884",
+        "PSCI 3884"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 3900",
+      "subject": "PPE",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 4304",
+      "subject": "PPE",
+      "number": "4304",
+      "level": 4000,
+      "title": "Political Philosophy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of fundamental topics in political philosophy, such as distributive justice, equality, individual rights, constitutional government, and the justification of political authority. 3 Philosophy credits required.",
+      "pathwaysConcepts": [
+        "2",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PHIL 4304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 4884",
+      "subject": "PPE",
+      "number": "4884",
+      "level": 4000,
+      "title": "PPE Capstone Course",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Discussion of advanced concepts, methods, and ideas at the intersection of philosophy, politics, and economics. Focus on utility theory, game theory, social choice theory, public choice theory, markets, justice, and democracy. Senior research project. Senior standing required.",
+      "prerequisites": {
+        "rawText": "PPE 2894 or PHIL 2894 or PSCI 2894 or ECON 2894",
+        "referencedCourses": [
+          "PPE 2894"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 4964",
+      "subject": "PPE",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Work/Practicum",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 4984",
+      "subject": "PPE",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "PPE 4994",
+      "subject": "PPE",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ppe/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

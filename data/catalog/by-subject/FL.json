@@ -1,0 +1,215 @@
+{
+  "subject": "FL",
+  "scrapedAt": "2026-05-25T21:20:11.062Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "FL 1984",
+      "subject": "FL",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 2774",
+      "subject": "FL",
+      "number": "2774",
+      "level": 2000,
+      "title": "Multilingualism and Language Contact",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of multilingualism as a social and linguistic phenomenon. Examination of language practices in multilingual contexts around the world. Analysis of current socio-political policies pertaining to language in situations of language contact. Discussion of linguistic rights, such as economic opportunities, education, and national languages, and their connection to world affairs. Exploration of language revitalization efforts for endangered languages. Taught in English.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 2964",
+      "subject": "FL",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 2974",
+      "subject": "FL",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 2974H",
+      "subject": "FL",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 2984",
+      "subject": "FL",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 4964",
+      "subject": "FL",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 4974",
+      "subject": "FL",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 4974H",
+      "subject": "FL",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 4984",
+      "subject": "FL",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 4994",
+      "subject": "FL",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "FL 4994H",
+      "subject": "FL",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/fl/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

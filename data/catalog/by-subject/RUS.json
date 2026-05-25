@@ -1,0 +1,680 @@
+{
+  "subject": "RUS",
+  "scrapedAt": "2026-05-25T21:22:15.961Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "RUS 1105",
+      "subject": "RUS",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Russian",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of grammar, pronunciation, conversation, and reading. Respond to simple questions using appropriate grammar and syntax, participate in conversation about family, school, everyday situations, etc., write in cursive, and read adapted texts. 1105: Grammar and conversation; 1106: Grammar, conversation, and reading.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 1106",
+      "subject": "RUS",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Russian",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of grammar, pronunciation, conversation, and reading. Respond to simple questions using appropriate grammar and syntax, participate in conversation about family, school, everyday situations, etc., write in cursive, and read adapted texts. 1105: Grammar and conversation; 1106: Grammar, conversation, and reading.",
+      "prerequisites": {
+        "rawText": "RUS 1105",
+        "referencedCourses": [
+          "RUS 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 1114",
+      "subject": "RUS",
+      "number": "1114",
+      "level": 1000,
+      "title": "Accelerated Elementary Russian",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to elementary Russian, designed for learners who wish to progress rapidly through the beginning stages of language learning. Develops the four language skills (speaking, listening, reading, writing) in a cultural context. Duplicates 1105 and 1106.",
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2105",
+      "subject": "RUS",
+      "number": "2105",
+      "level": 2000,
+      "title": "Intermediate Russian",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Grammar, reading, conversation, and composition. Emphasizes comprehension of written and spoken Russian.",
+      "prerequisites": {
+        "rawText": "RUS 1106",
+        "referencedCourses": [
+          "RUS 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2106",
+      "subject": "RUS",
+      "number": "2106",
+      "level": 2000,
+      "title": "Intermediate Russian",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Grammar, reading, conversation, and composition. Emphasizes comprehension of written and spoken Russian.",
+      "prerequisites": {
+        "rawText": "RUS 1106",
+        "referencedCourses": [
+          "RUS 1106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2114",
+      "subject": "RUS",
+      "number": "2114",
+      "level": 2000,
+      "title": "Accelerated Intermediate Russian",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to intermediate Russian for learners who wish to progress rapidly through the intermediate stages of language learning. Develops the four language skills (speaking, listening, reading, writing) in a cultural context. Duplicates 2105 and 2106.",
+      "prerequisites": {
+        "rawText": "RUS 1106 or RUS 1114",
+        "referencedCourses": [
+          "RUS 1106",
+          "RUS 1114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2724",
+      "subject": "RUS",
+      "number": "2724",
+      "level": 2000,
+      "title": "Magic, Ritual, and Mythology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of folklore, society, and culture in Slavic written and visual texts and speech communities, including the Russian-speaking world. Evaluation of multiple sources to interrogate dominant stereotypes associated with the Russian-speaking world. Application of foundational theories and approaches to the study of Slavic folklore in historical, social, political, and geographic contexts. Fostering of cross-cultural awareness and intercultural understanding by comparing Slavic folkways with those of the West, the US, and Appalachia. Taught in English.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2734",
+      "subject": "RUS",
+      "number": "2734",
+      "level": 2000,
+      "title": "Introduction to Russian Culture and Civilization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Russian Culture and Civilization. Interactions between major political and historical events, social and artistic movements in Russia. Russian literature, art, architecture, film, and theatre in the context of Russian cultural history. Aesthetic and rhetorical strategies. Interpretation of intercultural experiences from different vantage points. Taught in English.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2964",
+      "subject": "RUS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2974",
+      "subject": "RUS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2974H",
+      "subject": "RUS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 2984",
+      "subject": "RUS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3105",
+      "subject": "RUS",
+      "number": "3105",
+      "level": 3000,
+      "title": "Grammar, Composition and Conversation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed study of grammar. Practice in written and oral expression in Russian on a variety of topics. Supplementary readings to emphasize application of grammatical principles. 3105 includes a rapid grammatical review.",
+      "prerequisites": {
+        "rawText": "RUS 2106",
+        "referencedCourses": [
+          "RUS 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3106",
+      "subject": "RUS",
+      "number": "3106",
+      "level": 3000,
+      "title": "Grammar, Composition and Conversation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Detailed study of grammar. Practice in written and oral expression in Russian on a variety of topics. Supplementary readings to emphasize application of grammatical principles. 3105 includes a rapid grammatical review.",
+      "prerequisites": {
+        "rawText": "RUS 2106",
+        "referencedCourses": [
+          "RUS 2106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3114",
+      "subject": "RUS",
+      "number": "3114",
+      "level": 3000,
+      "title": "Accelerated Advanced Russian Grammar Conversation Composition",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Proficiency-oriented approach to advanced Russian. Daily progression through advanced Russian grammar, conversation and composition. Accelerated development of the four language modalities (speaking, listening, reading, writing) in a cultural context. Short translations and paraphrases of authentic Russian texts. Duplicates RUS 3105 and 3106.",
+      "prerequisites": {
+        "rawText": "RUS 2106 or RUS 2114",
+        "referencedCourses": [
+          "RUS 2106",
+          "RUS 2114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lec, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3124",
+      "subject": "RUS",
+      "number": "3124",
+      "level": 3000,
+      "title": "Russian for Oral Proficiency",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Devoted to the acquisition of measured levels of proficiency in speaking and understanding spoken Russian. Content-based instruction in small groups. For students who would like to achieve an oral proficiency rating comparable to Intermediate-high on the American Council on the Teaching of Foreign Languages Oral Proficiency Interview (ACTFL-OPI) or S-1+ on the Foreign Service Institute (FSI) scale. Admission by oral exam required. Taught alternate years.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3304",
+      "subject": "RUS",
+      "number": "3304",
+      "level": 3000,
+      "title": "Survey of Nineteenth-Century Russian Literature in Translation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Masterpieces of Russian fiction and poetry written between 1815 and 1881. Romantic poetry of the early nineteenth century and traces the beginnings of Russian prose from early short stories to the rise of the novel as the dominant literary form in the second half of the century. History and politics to theological and philosophical issues in various works. Methods, terminology and practice of literary analysis. Taught in English.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3314",
+      "subject": "RUS",
+      "number": "3314",
+      "level": 3000,
+      "title": "Survey of Twentieth-Century Russian Literature in Translation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Masterpieces of the twentieth-century Russian literature. Symbolist, Acmeist and Futurist poetry, modernist and postmodernist prose such as Mikhail Bulgakovs The Master and Margarita, and Viktor Pelevins Life of Insects. Terminology, practice, and standard methods of literary analysis. Interactions between major political events, social and literary movement. Aesthetic and rhetorical strategies. Taught in English.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H",
+        "referencedCourses": [
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3424",
+      "subject": "RUS",
+      "number": "3424",
+      "level": 3000,
+      "title": "Topics in Russian Literature in English",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Variable-content course devoted to the study of Russian literary classics. From general surveys of nineteenth- and twentieth-century literature to more intensive study of the works of a single major author. Aesthetic and rhetorical strategies. Interactions between literary movements and political, historical, and cultural events. May be repeated once with different content for a maximum of 6 credits. Readings and lectures in English. No knowledge of Russian required.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3424"
+      ],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3434",
+      "subject": "RUS",
+      "number": "3434",
+      "level": 3000,
+      "title": "The Works of Vladimir Nabokov",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Readings in major works of Vladimir Nabokov from the 1920s through the 1970s. Aesthetic and rhetorical strategies, literary analysis, major themes, immigration and cultural knowledge. Taught in English.",
+      "prerequisites": {
+        "rawText": "ENGL 1106 or ENGL 1204H or COMM 1016",
+        "referencedCourses": [
+          "COMM 1016",
+          "ENGL 1106"
+        ]
+      },
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGL 3434"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3474",
+      "subject": "RUS",
+      "number": "3474",
+      "level": 3000,
+      "title": "Russian and Soviet Cinema",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Exploration of Russian and Soviet cinema from the 1890s to the present day. Evaluation of film techniques and narrative approaches. Discussion of Socialist Realism, propaganda and agitka (short informational films) as well as auteur cinema and filmmakers. Comparison of the various historical, political and artistic movements in cinema from Imperial Russia through the fall of the Soviet Union. Taught in English.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3954",
+      "subject": "RUS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 3984",
+      "subject": "RUS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4104",
+      "subject": "RUS",
+      "number": "4104",
+      "level": 4000,
+      "title": "Professional Communication in Russia",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Task-based approach to professional communication in Russian. Progression through topics of advanced Russian grammar, conversation, interpretation, and composition of professional documents. Practice and application of professional communication skills (inform, instruct, persuade, request, and respond) and vocabulary in a variety of Russian-speaking professional contexts. Examination of professional practices and customs in professional settings with authentic materials.",
+      "prerequisites": {
+        "rawText": "RUS 3106 or RUS 3114",
+        "referencedCourses": [
+          "RUS 3106",
+          "RUS 3114"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4204",
+      "subject": "RUS",
+      "number": "4204",
+      "level": 4000,
+      "title": "Topics in Russian Culture and Civilization",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Specific topics in Russian culture and civilization. Variable content. May be repeated for credit with different content.",
+      "prerequisites": {
+        "rawText": "RUS 3106",
+        "referencedCourses": [
+          "RUS 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4304",
+      "subject": "RUS",
+      "number": "4304",
+      "level": 4000,
+      "title": "Studies in Russian Literature",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Selected masterpieces of Russian literature, read in original. Lectures and discussions in Russian. May be repeated for credit with different content.",
+      "prerequisites": {
+        "rawText": "RUS 3106",
+        "referencedCourses": [
+          "RUS 3106"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4964",
+      "subject": "RUS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4974",
+      "subject": "RUS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4974H",
+      "subject": "RUS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4984",
+      "subject": "RUS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4994",
+      "subject": "RUS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "RUS 4994H",
+      "subject": "RUS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/rus/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

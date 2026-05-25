@@ -1,0 +1,41 @@
+{
+  "subject": "REG",
+  "scrapedAt": "2026-05-25T21:22:49.243Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "REG 1004",
+      "subject": "REG",
+      "number": "1004",
+      "level": 1000,
+      "title": "Registrar Placeholder Course",
+      "credits": {
+        "min": 3,
+        "max": 6
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "(3-6 Lec, 3-6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/reg/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "REG 1234",
+      "subject": "REG",
+      "number": "1234",
+      "level": 1000,
+      "title": "Testing Crosslisting Capabilities in Courseleaf CIM",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/reg/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

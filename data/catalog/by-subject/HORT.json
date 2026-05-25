@@ -1,0 +1,791 @@
+{
+  "subject": "HORT",
+  "scrapedAt": "2026-05-25T21:20:31.857Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "HORT 1264",
+      "subject": "HORT",
+      "number": "1264",
+      "level": 1000,
+      "title": "Landscape Skills Practicum",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Relevant skills important for the success in the landscape industry. Safe equipment operation, landscape, irrigation and hardscape installation, management and estimating techniques, marketing and sales strategies, and arboriculture methods.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2134",
+      "subject": "HORT",
+      "number": "2134",
+      "level": 2000,
+      "title": "Plants and Greenspaces in Urban Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Modern concepts of sustainability changing plant use in urban settings. Fundamentals of urban plant systems in the context of urban ecosystem management. Philosophy and critical analysis of sustainability related to green infrastructure, including urban forests, green roofs, urban soils, urban wildlife, urban agriculture, and innovations merging plant and ecosystem functions with building and site engineering. Multi-disciplinary emphasis at site, regional, and global, scales.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 2134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2144",
+      "subject": "HORT",
+      "number": "2144",
+      "level": 2000,
+      "title": "Indoor Plants",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic horticultural principles, identification and cultural criteria applicable to foliage and flowering plants grown indoors. Specific plant groups discussed include ferns, cacti and succulents, and carnivorous plants, among many others.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2164",
+      "subject": "HORT",
+      "number": "2164",
+      "level": 2000,
+      "title": "Floral Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental art theory, historical and cultural influences, tools and techniques as applied to current floral art. Emphasis on applied experiential learning through designing, building and producing acceptable floral displays for home and public environments. Sustainable and ethical practices in growing and purchasing flowers. Fee $128.",
+      "pathwaysConcepts": [
+        "6A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2184",
+      "subject": "HORT",
+      "number": "2184",
+      "level": 2000,
+      "title": "Plants, Places, and Cultures in a Global Context",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Impact of worldwide production and trade in fruits, vegetables, and cut flowers (horticultural commodities) on societies, cultures, economies, politics, and environment. Case studies covering history, economics, social/cultural impacts of producing fruit, vegetables, tea, coffee, and other horticultural crops in producing and consuming countries. Case studies illustrate inextricable interactions and interconnectedness between horticultural crops and cultures.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2224",
+      "subject": "HORT",
+      "number": "2224",
+      "level": 2000,
+      "title": "Horticulture Science and Industry",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Survey course of horticultural crops (fruits, vegetables, ornamentals) and enterprises. Includes plant science and business aspects of horticultural production and service industries, and introduces related issues and emerging technologies such as work force characteristics, organic production, and biotechnology. I.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2234",
+      "subject": "HORT",
+      "number": "2234",
+      "level": 2000,
+      "title": "Environmental Factors in Horticulture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices in managing environmental factors - temperature, water, light, atmospheric gases and pollutants, and soil and minerals - that influence growth and production of horticultural plants.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2244",
+      "subject": "HORT",
+      "number": "2244",
+      "level": 2000,
+      "title": "Plant Propagation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles and practices of plant propagation by sexual and asexual methods.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2304",
+      "subject": "HORT",
+      "number": "2304",
+      "level": 2000,
+      "title": "Plant Biology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory botany. Form, growth, function, reproduction, and ecological adaptations of major groups of plants.",
+      "prerequisites": {
+        "rawText": "(BIOL 1105 or ISC 2105) and BIOL 1106",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "ISC 2105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BIOL 2304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2834",
+      "subject": "HORT",
+      "number": "2834",
+      "level": 2000,
+      "title": "Sustainable Agriculture Practicum",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Hands-on training in sustainable agricultural production at a student-operated vegetable and fruit farm. Participation in tasks required in managing a diversified sustainable horticulture operation, including planting, pest management, irrigation, and post-harvest handling. Discussion of soil fertility, planning, efficiency, food safety and community food systems. May be repeated with different content, for a maximum of 6 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2964",
+      "subject": "HORT",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2974",
+      "subject": "HORT",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 2984",
+      "subject": "HORT",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 3114",
+      "subject": "HORT",
+      "number": "3114",
+      "level": 3000,
+      "title": "Wines and Vines",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of a working knowledge of world wine styles, wine appreciation, and sensory evaluation of wine. Emphasis on the influences of grape growing and winemaking practices on wine quality, style, economic value, and significance in global food culture. Pre: Must be at least 21 years of age.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FST 3114"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 3324",
+      "subject": "HORT",
+      "number": "3324",
+      "level": 3000,
+      "title": "Herbaceous Landscape Plants",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Identification, growing requirements, culture, landscape use, physiology, and propagation of native and non-native herbaceous landscape plants for temperate environments. Ornamental annuals and perennials; cultivated wildflowers, plants for wetland and aquatic systems.",
+      "prerequisites": {
+        "rawText": "HORT 2244",
+        "referencedCourses": [
+          "HORT 2244"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 3325",
+      "subject": "HORT",
+      "number": "3325",
+      "level": 3000,
+      "title": "Woody Landscape Plants",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Functions, growing requirements, hardiness, problems, and methods of identification of landscape plant materials. 3325: Commonly available woody landscape plants. 3326: Native and rare woody landscape plants.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 3326",
+      "subject": "HORT",
+      "number": "3326",
+      "level": 3000,
+      "title": "Woody Landscape Plants",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Functions, growing requirements, hardiness, problems, and methods of identification of landscape plant materials. 3325: Commonly available woody landscape plants. 3326: Native and rare woody landscape plants.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 3354",
+      "subject": "HORT",
+      "number": "3354",
+      "level": 3000,
+      "title": "Trees in the Built Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Science and practice of tree cultivation, conservation, and management in human-dominated environments along an urban to rural gradient. Holistic study of landscape tree management: planning, planting, inspection, maintenance, removal, and wood waste utilization. Examination of tree responses to urbanization and tree influences on built environments. Emphasis on sustainable, ethical stewardship of landscape trees for the benefit of people and the environment.",
+      "prerequisites": {
+        "rawText": "(FREC 2314 or BIOL 2304 or HORT 2304) and (FREC 2324 or HORT 3325 or HORT 3326)",
+        "referencedCourses": [
+          "BIOL 2304",
+          "FREC 2314",
+          "FREC 2324",
+          "HORT 2304",
+          "HORT 3325",
+          "HORT 3326"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FREC 3354"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 3664",
+      "subject": "HORT",
+      "number": "3664",
+      "level": 3000,
+      "title": "Hardscape Materials and Installation",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Non-plant portions of landscape construction such as rock walls, paver floors, arbors, and water gardens. The course covers the materials, construction methods, and business aspects required for hardscape construction.",
+      "prerequisites": {
+        "rawText": "HORT 2224",
+        "referencedCourses": [
+          "HORT 2224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(6 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4205",
+      "subject": "HORT",
+      "number": "4205",
+      "level": 4000,
+      "title": "Public Gardens Maintenance and Management",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "4205: Principles and practices of winter annuals and spring blooming bulb production and installation; water garden cultivation and systems maintenance; fall fertilization programming; vegetative waste management; information dissemination and communication methods for public outreach including education, interpretive programs, and fundraising. 4206: Principles and practices of pruning, summer annual production; soil amendment and protection; plant collections/accessions curation and database management; personnel and financial management issues unique to public gardens. Pre: Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4206",
+      "subject": "HORT",
+      "number": "4206",
+      "level": 4000,
+      "title": "Public Gardens Maintenance and Management",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "4205: Principals and practices of winter annuals and spring blooming bulb production and installation; water garden cultivation and systems maintenance; fall fertilization programming; vegetative waste management; information dissemination and communication methods for public outreach including education, interpretive programs, and fundraising. 4206: Principles and practices of pruning, summer annual production; soil amendment and protection; plant collections/accessions curation and database management; personnel and financial management issues unique to public gardens. Junior status required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4324",
+      "subject": "HORT",
+      "number": "4324",
+      "level": 4000,
+      "title": "Greenhouse Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "For persons who intend to manage or advise those managing commercial or institutional greenhouses. Includes greenhouse construction, environmenal controls, disease/insect identification and management, control of plant growth, root-zone management, and marketing and management principles specific to greenhouse operations. Pre: Coursework or experience in plant growth and environmental management required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4334",
+      "subject": "HORT",
+      "number": "4334",
+      "level": 4000,
+      "title": "Greenhouse and Controlled Environment Agriculture Management",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Managing commercial or institutional greenhouses and/or controlled environment operations. Construction, environmental controls, disease/insect identification and management, control of plant growth, root-zone management. Marketing, accounting, and management principles specific to greenhouse and controlled environment operations.",
+      "prerequisites": {
+        "rawText": "HORT 2234",
+        "referencedCourses": [
+          "HORT 2234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4344",
+      "subject": "HORT",
+      "number": "4344",
+      "level": 4000,
+      "title": "Production of Food Crops in Controlled Environment Agriculture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Controlled environment agriculture. Study of major hydroponic systems used in the production of horticultural food crops. Crop life cycles, nutrient requirements. Cost analysis and troubleshooting common problems that arise in controlled environment systems.",
+      "prerequisites": {
+        "rawText": "HORT 4334",
+        "referencedCourses": [
+          "HORT 4334"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4504",
+      "subject": "HORT",
+      "number": "4504",
+      "level": 4000,
+      "title": "Landscape Contracting",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Capstone course for students entering the landscape contracting industry. Includes contracts, site plan interpretation, cost estimation and bidding, project sequencing, business marketing, irrigation design, and current issues. Emphasis on real-world skills and problem solving. Pre: Senior Standing Required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 3 Lab, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4545",
+      "subject": "HORT",
+      "number": "4545",
+      "level": 4000,
+      "title": "Small Scale and Residential Landscape Design",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Development of graphic skills with concentration on a variety of media and techniques. Basic theory and principles on design of small scale and residential landscapes with emphasis on spatial composition, user needs, ecology, and uses of plant materials and light construction.",
+      "prerequisites": {
+        "rawText": "HORT 3325",
+        "referencedCourses": [
+          "HORT 3325"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 6 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4546",
+      "subject": "HORT",
+      "number": "4546",
+      "level": 4000,
+      "title": "Small Scale and Residential Landscape Design",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Development of graphic skills with concentration on a variety of media and techniques. Basic theory and principles on design of small scale and residential landscapes with emphasis on spatial composition, user needs, ecology, and uses of plant materials and light construction. 4545, I; 4546, II.",
+      "prerequisites": {
+        "rawText": "HORT 3325",
+        "referencedCourses": [
+          "HORT 3325"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 6 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4554",
+      "subject": "HORT",
+      "number": "4554",
+      "level": 4000,
+      "title": "Creating the Ecological City",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Multidisciplinary, team oriented, problem-solving approaches to creating cities that foster healthy interconnections between human and ecological systems. Analysis of problems from practical and ethical perspectives in the context of the diverse knowledge bases and values of decision-makers. Formation and utilization of integrated design teams to solve complex urban design and planning problems at a variety of scales. Senior standing.",
+      "prerequisites": {
+        "rawText": "HORT 2134 or FREC 2134",
+        "referencedCourses": [
+          "FREC 2134",
+          "HORT 2134"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "6A",
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "BSE 4554",
+        "FREC 4554",
+        "LAR 4554",
+        "SPIA 4554"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4614",
+      "subject": "HORT",
+      "number": "4614",
+      "level": 4000,
+      "title": "Ornamental Plant Production and Marketing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "In-depth production and marketing of woody and herbaceous plants in wholesale nursery and floriculture/greenhouse and related retail outlets. Includes production laboratory.",
+      "prerequisites": {
+        "rawText": "HORT 2234 and HORT 2244 and HORT 4324 and AAEC 2434",
+        "referencedCourses": [
+          "AAEC 2434",
+          "HORT 2234",
+          "HORT 2244",
+          "HORT 4324"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4654",
+      "subject": "HORT",
+      "number": "4654",
+      "level": 4000,
+      "title": "Viticulture",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of grapevine growth and development, factors affecting yield and grape quality, and regional industry. Vineyard financial considerations, site evaluation, varietal characteristics plus cultural practices of pruning, training, canopy management, fertilization and pest management.",
+      "prerequisites": {
+        "rawText": "HORT 2234",
+        "referencedCourses": [
+          "HORT 2234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4764",
+      "subject": "HORT",
+      "number": "4764",
+      "level": 4000,
+      "title": "Vegetable Crops",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A comprehensive study of major and minor vegetable crops of Virginia, the U.S., and world in relation to production practices, crop development, nutritional value, and quality characteristics.",
+      "prerequisites": {
+        "rawText": "HORT 2234",
+        "referencedCourses": [
+          "HORT 2234"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4784",
+      "subject": "HORT",
+      "number": "4784",
+      "level": 4000,
+      "title": "Vegetable Seed Production",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "The study of production agriculture or reproductive biology. Seed production, handling, identification, conditioning, enhancement, packaging, storage, testing, federal standards, and biotechnology. Pre: 4764 or 2244 or equivalent experience in vegetable crops, plant propagation, or plant growth and development.",
+      "prerequisites": {
+        "rawText": "HORT 4764 or HORT 2244",
+        "referencedCourses": [
+          "HORT 2244",
+          "HORT 4764"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4794",
+      "subject": "HORT",
+      "number": "4794",
+      "level": 4000,
+      "title": "Medicinal Plants and Herbs",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Comprehensive study of medicinal plants/herbs history, production, processing, lore and documented scientific benefits. Traditional plant medicinal practices of Native Americans, Chinese, Indians, European and African cultures will be contrasted with use of contemporary herbal products.",
+      "prerequisites": {
+        "rawText": "BIOL 1005 or BIOL 1105",
+        "referencedCourses": [
+          "BIOL 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4964",
+      "subject": "HORT",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4974",
+      "subject": "HORT",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4984",
+      "subject": "HORT",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "HORT 4994",
+      "subject": "HORT",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/hort/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

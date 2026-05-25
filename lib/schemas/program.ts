@@ -32,10 +32,10 @@ import { z } from "zod";
 
 // Helpers
 
-/** VT course code, normalized to "SUBJ NNNN" with a single space  */
+/** VT course code, normalized to "SUBJ NNNN[N][L]" with a single space */
 export const CourseCodeSchema = z
   .string()
-  .regex(/^[A-Z]{2,5}\s\d{4}[A-Z]?$/, {
+  .regex(/^[A-Z]{2,5}\s\d{4,5}[A-Z]?$/, {
     message: 'Course code must be like "CS 1114" or "MATH 2405H"',
   });
 
@@ -49,16 +49,16 @@ export const GradeSchema = z.enum([
   "P", // pass for pass/fail courses
 ]);
 
-/** Pathways concept identifiers used by VT */
-export const PathwaysConceptSchema = z.enum([
-  "1F", "1A",
-  "2",
-  "3",
-  "4",
-  "5F", "5A",
-  "6D", "6A",
-  "7",
-]);
+/**
+ * Pathways concept identifiers used by VT.
+ * Regex rather than closed enum so future concepts (observed: 10, 11) don't
+ * require a schema change — new IDs only need the regex updated.
+ */
+export const PathwaysConceptSchema = z
+  .string()
+  .regex(/^(1[AF]|[234]|5[AF]|6[AD]|7|1[01])$/, {
+    message: "Pathways concept must be one of: 1A, 1F, 2, 3, 4, 5A, 5F, 6A, 6D, 7, 10, 11",
+  });
 
 // ---------------------------------------------------------------------------
 // Pool definitions (used by credits_from_pool, etc.)

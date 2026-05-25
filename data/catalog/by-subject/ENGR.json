@@ -1,0 +1,486 @@
+{
+  "subject": "ENGR",
+  "scrapedAt": "2026-05-25T21:19:43.998Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "ENGR 1014",
+      "subject": "ENGR",
+      "number": "1014",
+      "level": 1000,
+      "title": "Engineering Research Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Discussion of current research topics in the College of Engineering by Virginia Tech Faculty. (1C, 1H)",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 1034",
+      "subject": "ENGR",
+      "number": "1034",
+      "level": 1000,
+      "title": "First Year Hypatia Seminar",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Success strategies that are designed for first-year female engineering students who are residents of the Hypatia learning community are presented. Students are provided information on study skills; resources and academic support for Virginia Tech students; gender issues in engineering; service learning; leadership; technology; and the College of Engineerings departments/majors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 1054",
+      "subject": "ENGR",
+      "number": "1054",
+      "level": 1000,
+      "title": "First Year Galileo Seminar",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Success strategies that are designed for first-year male engineering students who are residents of the Galileo learning community are presented. Students are provided information on study skills; resources and academic support for Virginia Tech students; gender issues in engineering; service learning; leadership; technology; and the College of Engineerings department/majors. (2H, 2C)",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 1984",
+      "subject": "ENGR",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2004A",
+      "subject": "ENGR",
+      "number": "2004A",
+      "level": 2000,
+      "title": "Engineering International Activity",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Engineering International Education course reflects academic effort in study abroad settings as defined by the college. No degree applicable credit awarded. Enrollment in this course does not apply toward the definition of full time status. 0 Credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2004E",
+      "subject": "ENGR",
+      "number": "2004E",
+      "level": 2000,
+      "title": "Engineering Experiential Learning",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Engineering Experiential course reflects college defined experiential learning experiences for undergraduates. No degree applicable credit is awarded. Enrollment in this course does not apply toward the definition of full time status.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2004R",
+      "subject": "ENGR",
+      "number": "2004R",
+      "level": 2000,
+      "title": "Engineering Undergraduate Exploratory Activity",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Engineering Undergraduate Exploratory Activity course is an undergraduate research experience as defined by the college. No degree applicable credit is awarded. Enrollment in this course will not apply toward the definition of full time status. 0 Credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2004S",
+      "subject": "ENGR",
+      "number": "2004S",
+      "level": 2000,
+      "title": "Engineering Service Learning",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Engineering Service Learning course reflects academic effort in service learning settings as defined by the college. No degree applicable credit is awarded. Enrollment in this course will not apply toward the definition of full time status. 0 Credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2044",
+      "subject": "ENGR",
+      "number": "2044",
+      "level": 2000,
+      "title": "Second-Year Galileo and Hypatia Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Second-Year Galileo and Hypatia seminar for student leaders. Success strategies designed for second-year engineering students who are participants of the Galileo and Hypatia Living-Learning Community; topics include communication skills, critical thinking skills, diversity, leadership, networking with peers and future employers, and goals associated with academic and professional success.",
+      "prerequisites": {
+        "rawText": "ENGR 1034 or ENGR 1054",
+        "referencedCourses": [
+          "ENGR 1034",
+          "ENGR 1054"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2164",
+      "subject": "ENGR",
+      "number": "2164",
+      "level": 2000,
+      "title": "Introduction to Scieneering",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Seminar-based course providing a survey of current interdisciplinary science and engineering research problems; introduction interdisciplinary thinking and communication; issues related to interdisciplinary research teams.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "COS 2164"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2464",
+      "subject": "ENGR",
+      "number": "2464",
+      "level": 2000,
+      "title": "Engineering Fundamentals for Scientists",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the engineering profession and basic engineering skills for students pursuing science majors. Fundamentals of graphing, technical communication, ethics, the design process, project management, and problem solving as applicable to engineering. Partially duplicates ENGE 1024. May not be used for credit towards any degree from the College of Engineering.",
+      "prerequisites": {
+        "rawText": "ENGR 2164 or COS 2164",
+        "referencedCourses": [
+          "COS 2164",
+          "ENGR 2164"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2974",
+      "subject": "ENGR",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2984",
+      "subject": "ENGR",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2984G",
+      "subject": "ENGR",
+      "number": "2984G",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [
+        "7"
+      ],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 2994",
+      "subject": "ENGR",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 3044",
+      "subject": "ENGR",
+      "number": "3044",
+      "level": 3000,
+      "title": "Third-Year Galileo and Hypatia Seminar",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Success strategies designed for third year engineering students who are participants of the Galileo and Hypatia Living-Learning Community; topics include critical thinking skills, diversity, leadership, networking with peers and future employers, and goals associated with academic and professional success.",
+      "prerequisites": {
+        "rawText": "ENGR 2044",
+        "referencedCourses": [
+          "ENGR 2044"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 3124",
+      "subject": "ENGR",
+      "number": "3124",
+      "level": 3000,
+      "title": "Introduction to Green Engineering",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to green engineering and global environmental issues. Impacts of human and engineering activities on the environment, and techniques that can be utilized to minimize adverse environmental impacts with emphasis on environmentally conscious design and manufacturing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 3954",
+      "subject": "ENGR",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 3984",
+      "subject": "ENGR",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 4064",
+      "subject": "ENGR",
+      "number": "4064",
+      "level": 4000,
+      "title": "Scieneering Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A capstone experience centered around an open-ended, faculty-advised senior project involving the design of a process, material, or technique for solving an interdisciplinary problem. Pre: Enrollment in Interdisciplinary Engineering and Science Minor.",
+      "prerequisites": {
+        "rawText": "ENGR 2464 or BIOL 2124",
+        "referencedCourses": [
+          "BIOL 2124",
+          "ENGR 2464"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "COS 4064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 4134",
+      "subject": "ENGR",
+      "number": "4134",
+      "level": 4000,
+      "title": "Environmental Life Cycle Assessment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantification of the environmental impacts for products, processes, and systems across all engineering disciplines. A detailed look at life cycle phases and formal and informal Life Cycle Assessment (LCA) methodologies including ISO standards, stream-lined LCA, green building ratings systems, carbon footprints, and other environmental ratings systems.",
+      "prerequisites": {
+        "rawText": "ENGR 3124",
+        "referencedCourses": [
+          "ENGR 3124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 4974",
+      "subject": "ENGR",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 4984",
+      "subject": "ENGR",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 4994",
+      "subject": "ENGR",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "ENGR 4994H",
+      "subject": "ENGR",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/engr/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "subject": "AS",
+  "scrapedAt": "2026-05-25T21:21:32.204Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "AS 1115",
+      "subject": "AS",
+      "number": "1115",
+      "level": 1000,
+      "title": "Introduction to the Air Force",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the United States Air Force and Air Force Reserve Officer Training Corps. Mission and organization of the Air Force, officership and professionalism, military customs and courtesies, Air Force officer opportunities, and introduction to communication skills.",
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 1116",
+      "subject": "AS",
+      "number": "1116",
+      "level": 1000,
+      "title": "Introduction to the Air Force",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the United States Air Force and Air Force Reserve Officer Training Corps. Mission and organization of the Air Force, officership and professionalism, military customs and courtesies, Air Force officer opportunities, and introduction to communication skills.",
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 2115",
+      "subject": "AS",
+      "number": "2115",
+      "level": 2000,
+      "title": "Team and Leadership Fundamentals",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A fundamental understanding of both leadership and team building. 2115: Followership, motivation, listening, problem solving, full-range leadership, standards and accountability, self-assessment, oral and written communication, and financial readiness of an Air Force officer. 2116: Human relations, team building models, ethical decision making, stress management and resiliency, and conflict resolution.",
+      "prerequisites": {
+        "rawText": "AS 1115 and AS 1116",
+        "referencedCourses": [
+          "AS 1115",
+          "AS 1116"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AS 2934, AS 2944",
+        "referencedCourses": [
+          "AS 2934",
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 2116",
+      "subject": "AS",
+      "number": "2116",
+      "level": 2000,
+      "title": "Team and Leadership Fundamentals",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "A fundamental understanding of both leadership and team building. 2115: Followership, motivation, listening, problem solving, full-range leadership, standards and accountability, self-assessment, oral and written communication, and financial readiness of an Air Force officer. 2116: Human relations, team building models, ethical decision making, stress management and resiliency, and conflict resolution.",
+      "prerequisites": {
+        "rawText": "AS 2115",
+        "referencedCourses": [
+          "AS 2115"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AS 2934, AS 2944",
+        "referencedCourses": [
+          "AS 2934",
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 2934",
+      "subject": "AS",
+      "number": "2934",
+      "level": 2000,
+      "title": "Air Force Fitness",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Reflects change in culture on physical fitness and incorporates fitness as a way of life with the United States Air Force & the Air Force Reserve Officer Training Corps (AFROTC). Structured to motivate members to develop and maintain year-round physical fitness conditioning program emphasizing total-body wellness to meet expeditionary mission requirements. Prepares cadets to tackle squadron fitness programs upon entering active duty. Course may be taken up to 10 times. Pre-requisite: Enrollment on AFROTC",
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 10 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 2944",
+      "subject": "AS",
+      "number": "2944",
+      "level": 2000,
+      "title": "AFROTC Leadership Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Experiential learning laboratory that allows cadets to practice and demonstrate mastery of leadership skills essential to an Air Force officer. May be taken eight times. Membership in Virginia Tech Corps of Cadets required.",
+      "corequisites": {
+        "rawText": "AS 1115, AS 1116, AS 2115, AS 2116, AS 3215, AS 3216, AS 4215, AS 4216",
+        "referencedCourses": [
+          "AS 1115",
+          "AS 1116",
+          "AS 2115",
+          "AS 2116",
+          "AS 3215",
+          "AS 3216",
+          "AS 4215",
+          "AS 4216"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(4 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 8 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 2974",
+      "subject": "AS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 2984",
+      "subject": "AS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 3215",
+      "subject": "AS",
+      "number": "3215",
+      "level": 3000,
+      "title": "Air Force Management and Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integrated leadership study emphasizing concepts and skills. Motivational and behavioral processes, management, military ethics, communication, and group dynamics. Examines case studies and scenarios.",
+      "prerequisites": {
+        "rawText": "AS 2116",
+        "referencedCourses": [
+          "AS 2116"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 3216",
+      "subject": "AS",
+      "number": "3216",
+      "level": 3000,
+      "title": "Air Force Management and Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integrated leadership study emphasizing concepts and skills. Motivational and behavioral processes, management, military ethics, communications, and group dynamics. Examines case studies and scenarios.",
+      "prerequisites": {
+        "rawText": "AS 2116",
+        "referencedCourses": [
+          "AS 2116"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 4215",
+      "subject": "AS",
+      "number": "4215",
+      "level": 4000,
+      "title": "National Security Forces in Contemporary American Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the formulation, organization, and implementation of national security; evolution of strategy; management of conflict; and civil-military interaction. Military profession, officership, and the military justice system. Air Force communication skills.",
+      "prerequisites": {
+        "rawText": "AS 3216",
+        "referencedCourses": [
+          "AS 3216"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 4216",
+      "subject": "AS",
+      "number": "4216",
+      "level": 4000,
+      "title": "National Security Forces in Contemporary American Society",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the formulation, organization, and implementation of national security; evolution of strategy; management of conflict; and civil-military interaction. Military profession, officership, and the military justice system. Air Force communications skills.",
+      "prerequisites": {
+        "rawText": "AS 3216",
+        "referencedCourses": [
+          "AS 3216"
+        ]
+      },
+      "corequisites": {
+        "rawText": "AS 2944",
+        "referencedCourses": [
+          "AS 2944"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 4964",
+      "subject": "AS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 4974",
+      "subject": "AS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "AS 4984",
+      "subject": "AS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/as/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

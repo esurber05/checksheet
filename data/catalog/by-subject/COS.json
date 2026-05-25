@@ -1,0 +1,413 @@
+{
+  "subject": "COS",
+  "scrapedAt": "2026-05-25T21:19:08.793Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "COS 1004",
+      "subject": "COS",
+      "number": "1004",
+      "level": 1000,
+      "title": "Explore Science Seminar",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the college and its degrees as well as the various career opportunities available to College of Science graduates. Introduction to University resources that aid in strategic academic and career planning. Intended for first-year Explore Science majors in the College of Science.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 1015",
+      "subject": "COS",
+      "number": "1015",
+      "level": 1000,
+      "title": "Successful Starts in Science: Curie and Da Vinci Living Learning Communities",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "First year experience course for students living in the Curie or Da Vinci Living Learning Communities at Virginia Tech. Provides resources and fundamental skills to enhance learning experiences and support academic success in the sciences. Engages students with professional and academic development activities both in the classroom and within a science-themed residence hall. Uses a learn by doing approach to blending technical know-how with leadership, ethical, interpersonal and professional skills fundamental to the practice of science. Requires teamwork to envision, design, and implement research projects while using innovative discipline-specific technology. Provides first-year students with support through a weekly peer mentoring program. 1015: Emphasis on scientific inquiry, curriculum planning, career planning in the sciences, skills to promote academic success, awareness of academic and career resources and opportunities. 1016: Emphasis on collaborative problem-solving skills using innovative discipline-specific technology, critical thinking; Integration of ideas and experiences to encourage life-long learning through service work related to their academic/ career interests.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 1016",
+      "subject": "COS",
+      "number": "1016",
+      "level": 1000,
+      "title": "Successful Starts in Science: Curie and Da Vinci Living Learning Communities",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "First year experience course for students living in the Curie or Da Vinci Living Learning Communities at Virginia Tech. Provides resources and fundamental skills to enhance learning experiences adn support academic success in the sciences. Engages students with professional and academic development activities both in the classroom and within a science-themed residence hall. Uses a learn by doing approach to blending technical know-how with leadership, ethical, interpersonal and professional skills fundamental to the practice of science. Requires teamwork to envision, design, and implement research projects while using innovative discipline-specific technology. Provides first-year students with support through a weekly peer mentoring program. 1015: Emphasis on scientific inquiry, curriculum planning, career planning in the sciences, skills to promot academic success, awarenenss of academic and career resources and opportunities. 1016: Emphasis on collaborative problem- solving skills using innovative discipline-specific technology, critical thinking; Integration of ideas and experiences to encourage life-long learning through service work related to their academic/career interests.",
+      "prerequisites": {
+        "rawText": "COS 1015",
+        "referencedCourses": [
+          "COS 1015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 1984",
+      "subject": "COS",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2015",
+      "subject": "COS",
+      "number": "2015",
+      "level": 2000,
+      "title": "Professional Leadership in Science: Curie and Da Vinci LLC Leadership Course",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Leadership and professional development course for sophomore science majors in the Curie and Da Vinci Living Learning Communities (LLCs). Applied experience in fundamental leadership and project management skills associated with practice of science, gained through service learning within the LLC. 2015: Academic peer mentoring, application and development of leadership and communication skills; application and development of project planning, organizational and collaboration skills; emphasis on written communication skills. 2016: Application of team mentoring and project management skills, including project planning and coordination, leadership strategies, collaboration, communication, conflict resolution, understanding group dynamics and the importance of diversity, and facilitating group discussion on scientific problem solving; emphasis on verbal communication skills.",
+      "prerequisites": {
+        "rawText": "COS 1016",
+        "referencedCourses": [
+          "COS 1016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2016",
+      "subject": "COS",
+      "number": "2016",
+      "level": 2000,
+      "title": "Professional Leadership in Science: Curie and Da Vinci LLC Leadership Course",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "prerequisites": {
+        "rawText": "COS 2015",
+        "referencedCourses": [
+          "COS 2015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2024",
+      "subject": "COS",
+      "number": "2024",
+      "level": 2000,
+      "title": "Science Outreach and Service Learning",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Outreach and service-learning in the College of Science through teaching. Prepare educational science activities to K-12 students in local schools or on visits to campus. Explain fundamental science concepts by leading engaging, hands-on activities. Apply effective communication skills to reach each audience. Generate learning goals. Construct and interpret assessments to determine whether activity has met learning goals. May be repeated once for a maximum of 4 credit hours. Pre: Sophomore standing",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 4 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2164",
+      "subject": "COS",
+      "number": "2164",
+      "level": 2000,
+      "title": "Introduction to Scieneering",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Seminar-based course providing a survey of current interdisciplinary science and engineering research problems; introduction to interdisciplinary thinking and communication; issues related to interdisciplinary research teams.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [
+        "ENGR 2164"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2964",
+      "subject": "COS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2974",
+      "subject": "COS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 2984",
+      "subject": "COS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 3015",
+      "subject": "COS",
+      "number": "3015",
+      "level": 3000,
+      "title": "Applications of Leadership in the Orion Science Living Learning Community",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Applications of science leadership for sophomore through senior students in the Orion Science Living Learning Community (LLC). Students learn leadership skills while mentoring and designing activities to help younger students develop skills needed to succeed in college and future science careers. 3015: Recognize the needs of first- and second-year college students: help students find their own solutions; cooperatively plan and run activities that help first- and second-year college students develop professional skills and meet learning objectives; practice communication and motivation skills; model professional and ethical conduct; assess self as a learner and a leader. 3016: Coach teams and manage projects: help first- and second-year college students to apply their existing knowledge to a new project; identify problem-solving strategies and propose solutions; facilitate teamwork; communicate scientific information to the public in writing and orally; articulate the relationship between service to others and effective leadership.",
+      "prerequisites": {
+        "rawText": "COS 1016 or COS 2016",
+        "referencedCourses": [
+          "COS 1016",
+          "COS 2016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 3016",
+      "subject": "COS",
+      "number": "3016",
+      "level": 3000,
+      "title": "Applications of Leadership in the Orion Science Living Learning Community",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Applications of science leadership for sophomore through senior students in the Orion Science Living Learning Community (LLC). Students learn leadership skills while mentoring and designing activities to help younger students develop skills needed to succeed in college and future science careers. 3015: Recognize the needs of first- and second-year college students: help students find their own solutions; cooperatively plan and run activities that help first- and second-year college students develop professional skills and meet learning objectives; practice communication and motivation skills; model professional and ethical conduct; assess self as a learner and a leader. 3016: Coach teams and manage projects: help first- and second-year college students to apply their existing knowledge to a new project; identify problem-solving strategies and propose solutions; facilitate teamwork; communicate scientific information to the public in writing and orally; articulate the relationship between service to others and effective leadership.",
+      "prerequisites": {
+        "rawText": "COS 3015",
+        "referencedCourses": [
+          "COS 3015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4015",
+      "subject": "COS",
+      "number": "4015",
+      "level": 4000,
+      "title": "Supervision in Science: Orion Living Learning Community",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Supervision in Science is a course for junior through senior students in the Orion Living Learning Community (LLC). Students learn more advanced management and supervisory skills while working closely with Orion LLC faculty and staff to build on previously learned mentorship, leadership, and lesson/event planning skills to help younger students develop skills needed for success in college and future science careers. 4015: Recognize the needs and manage activities of first, second, and third year college students: assess self as a peer supervisor; develop an individual development plan (IDP) for peer supervisors with Orion LLC Directors; model professional and ethical conduct; effectively and positively motivate teams of first, second, and third year students to meet learning objectives and develop professional skills; help first, second, and third year college students effectively and professionally communicate needs. 4016: Apply supervisory skills to managing and coaching student teams toward completion of program activities and projects: reassess and revise individual development plan (IDP) for peer supervisory role with Orion LLC Directors; help second and third year college students effectively motivate and guide first year students toward the completion of a group research project; help younger students communicate scientific information to the public orally and in writing; facilitate conflict resolution; promote professional and timely communication for second and third year college students; articulate the role of supervision as an aspiring science professional.",
+      "prerequisites": {
+        "rawText": "COS 3016",
+        "referencedCourses": [
+          "COS 3016"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4016",
+      "subject": "COS",
+      "number": "4016",
+      "level": 4000,
+      "title": "Supervision in Science: Orion Living Learning Community",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Supervision in Science is a course for junior through senior students in the Orion Living Learning Community (LLC). Students learn more advanced management and supervisory skills while working closely with Orion LLC faculty and staff to build on previously learned mentorship, leadership, and lesson/event planning skills to help younger students develop skills needed for success in college and future science careers. 4015: Recognize the needs and manage activities of first, second, and third year college students: assess self as a peer supervisor; develop an individual development plan (IDP) for peer supervisors with Orion LLC Directors; model professional and ethical conduct; effectively and positively motivate teams of first, second, and third year students to meet learning objectives and develop professional skills; help first, second, and third year college students effectively and professionally communicate needs. 4016: Apply supervisory skills to managing and coaching student teams toward completion of program activities and projects: reassess and revise individual development plan (IDP) for peer supervisory role with Orion LLC Directors; help second and third year college students effectively motivate and guide first year students toward the completion of a group research project; help younger students communicate scientific information to the public orally and in writing; facilitate conflict resolution; promote professional and timely communication for second and third year college students; articulate the role of supervision as an aspiring science professional.",
+      "prerequisites": {
+        "rawText": "COS 4015",
+        "referencedCourses": [
+          "COS 4015"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4064",
+      "subject": "COS",
+      "number": "4064",
+      "level": 4000,
+      "title": "Scieneering Capstone",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A capstone experience centered around an open-ended, faculty-advised senior project involving the design of a process, material, or technique for solving an interdisciplinary problem. Pre: Enrollment in Interdisciplinary Engineering and Science Minor.",
+      "prerequisites": {
+        "rawText": "ENGR 2464 or BIOL 2124",
+        "referencedCourses": [
+          "BIOL 2124",
+          "ENGR 2464"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ENGR 4064"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4964",
+      "subject": "COS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4974",
+      "subject": "COS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4984",
+      "subject": "COS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "COS 4994",
+      "subject": "COS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/cos/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

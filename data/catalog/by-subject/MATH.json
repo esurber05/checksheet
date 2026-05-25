@@ -1,0 +1,1687 @@
+{
+  "subject": "MATH",
+  "scrapedAt": "2026-05-25T21:21:21.834Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "MATH 1004",
+      "subject": "MATH",
+      "number": "1004",
+      "level": 1000,
+      "title": "Discovering Mathematics I",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the scope and applicability of mathematics and its many sub-disciplines. Introduction to the process of thinking, learning, and writing as a mathematician through topics such as logic systems, recreational mathematics, LaTeX programming, history, ethics, open problems, and research in mathematics. Also includes advising topics such as planning a Virginia Tech course of study. P/F only. Math majors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1014",
+      "subject": "MATH",
+      "number": "1014",
+      "level": 1000,
+      "title": "Precalculus with Transcendental Functions",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Precalculus college algebra, basic functions (algebraic, exponential, logarithmic, and trigonometric), conic sections, graphing techniques, basic probability. Usage of mathematical models, analytical calculations, and graphical or numerical representations of data to analyze problems from multiple disciplines that address intercultural and global challenges in areas such as chemistry, environmental science, the life sciences, finance, and statistics. Use of spreadsheet software. Two units of high school algebra and one of plane geometry are required.",
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1025",
+      "subject": "MATH",
+      "number": "1025",
+      "level": 1000,
+      "title": "Elementary Calculus",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantitative and computational thinking to address relevant global issues. Unified calculus course covering techniques and applications of differential and integral calculus for functions of one variable. Constitutes the standard first-year mathematics courses for the life sciences. 1025: Differential calculus, graphing, applications for the life sciences, use of spreadsheet software. Assumes 2 units of high school algebra, 1 unit of geometry, 1/2 unit of trigonometry and precalculus. 1026: Integral calculus, numerical techniques, elementary differential equations, applications for the life sciences, use of spreadsheet and scientific software. A student can earn credit for at most one of 1025 and 1225. A student can earn credit for at most one of 1026 and 1226.",
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1026",
+      "subject": "MATH",
+      "number": "1026",
+      "level": 1000,
+      "title": "Elementary Calculus",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Quantitative and computational thinking to address relevant global issues. Unified calculus course covering techniques and applications of differential and integral calculus for functions of one variable. Constitutes the standard first-year mathematics courses for the life sciences. 1025: Differential calculus, graphing, applications for the life sciences, use of spreadsheet software. Assumes 2 units of high school algebra, 1 unit of geometry, 1/2 unit of trigonometry and precalculus. 1026: Integral calculus, numerical techniques, elementary differential equations, applications for the life sciences, use of spreadsheet and scientific software. A student can earn credit for at most one of 1025 and 1225. A student can earn credit for at most one of 1026 and 1226.",
+      "prerequisites": {
+        "rawText": "MATH 1025 or MATH 1225",
+        "referencedCourses": [
+          "MATH 1025",
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1044",
+      "subject": "MATH",
+      "number": "1044",
+      "level": 1000,
+      "title": "Discovering Mathematics II",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the scope and applicability of mathematics and its many sub-disciplines. Introduction to the process of thinking, learning, and writing as a mathematician through topics in pure and applied mathematics and a brief experience with mathematical research. Also includes advising topics such as planning a Virginia Tech course of study. Math majors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1214",
+      "subject": "MATH",
+      "number": "1214",
+      "level": 1000,
+      "title": "Preparation for Calculus",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Linear equations, polynomials, relations and functions, rational functions, quadratic equations, radicals and functions with rational exponents, exponentials, logarithms, trigonometric functions, trigonometric identities. Designed as preparation for MATH 1225: Calculus of a Single Variable.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1225",
+      "subject": "MATH",
+      "number": "1225",
+      "level": 1000,
+      "title": "Calculus of a Single Variable",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "1225-1226: CALCULUS OF A SINGLE VARIABLE Quantitative and computational thinking to address relevant intercultural and global issues. Unified calculus course covering techniques of differential and integral calculus for functions of one variable. Constitutes the standard first-year mathematics courses for science and engineering. 1225: limits, continuity, differentiation, transcendental functions, applications of differentiation, introduction to integration. Assumes 2 units of high school algebra, 1 unit of geometry, 1/2 unit each of trigonometry and precalculus, and placement by Math Dept. 1226: techniques and applications of integration, trapezoidal and Simpson’s rules, improper integrals, sequences and series, power series, parametric curves and polar coordinates, software-based techniques. A student can earn credit for at most one of 1025 and 1225. A student can earn credit for at most one of 1525 and 1225. A student can earn credit for at most one of 1026 and 1226. Pre: Grade of at least C- in 1225 for 1226.",
+      "prerequisites": {
+        "rawText": "MATH 1214",
+        "referencedCourses": [
+          "MATH 1214"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1226",
+      "subject": "MATH",
+      "number": "1226",
+      "level": 1000,
+      "title": "Calculus of a Single Variable",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "1225-1226: CALCULUS OF A SINGLE VARIABLE Quantitative and computational thinking to address relevant intercultural and global issues. Unified calculus course covering techniques of differential and integral calculus for functions of one variable. Constitutes the standard first-year mathematics courses for science and engineering. 1225: limits, continuity, differentiation, transcendental functions, applications of differentiation, introduction to integration. Assumes 2 units of high school algebra, 1 unit of geometry, 1/2 unit each of trigonometry and precalculus, and placement by Math Dept. 1226: techniques and applications of integration, trapezoidal and Simpson’s rules, improper integrals, sequences and series, power series, parametric curves and polar coordinates, software-based techniques. A student can earn credit for at most one of 1025 and 1225. A student can earn credit for at most one of 1525 and 1225. A student can earn credit for at most one of 1026 and 1226. Pre: Grade of at least C- in 1225 for 1226.",
+      "prerequisites": {
+        "rawText": "MATH 1225",
+        "referencedCourses": [
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1454",
+      "subject": "MATH",
+      "number": "1454",
+      "level": 1000,
+      "title": "Introduction to Programming for Mathematical Problem-Solving",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to programming for mathematical problem solving. Programming software interfaces. Logic and conditional computations. Iterative computations and recursion. Data arrays. Compartmentalized computations using functions. Data visualization. Data input/output. Programming applications such as Monte Carlo simulation, random walks, computational geometry, and graph theory.",
+      "corequisites": {
+        "rawText": "MATH 1225",
+        "referencedCourses": [
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1524",
+      "subject": "MATH",
+      "number": "1524",
+      "level": 1000,
+      "title": "Business Calculus",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Differential calculus techniques for functions of one and two variables. Emphasis on graphs, rates of change, and optimization of linear, quadratic, exponential, and logistic functions. Terminology and applications for business, including spreadsheet software. Mathematical models of real-world business problems, including discrete and continuous models, that address intercultural and global challenges in such areas as finance, marketing, and accounting. Assumes 2 units of high school algebra and 1 unit of geometry.",
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(4 Lec, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1535",
+      "subject": "MATH",
+      "number": "1535",
+      "level": 1000,
+      "title": "Geometry and Mathematics of Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A standard first-year mathematics sequence for architecture majors. Mathematical models of real-world problems, including discrete and continuous models, that address relevant global challenges in such areas as urban planning, building construction, and home design. 1535: Euclidean geometry, trigonometry, sequences and the golden ratio, graph theory, tilings, polygons and polyhedra, applications for 2- and 3-dimensional design and construction, use of geometric software. 1536: vectors in the plane and space, descriptive and projective geometry, differential and integral calculus, applications for 2- and 3-dimensional design and construction, including areas, volumes, centroids, and optimization. Assumes 2 unites of high school algebra and 1 unit of high school geometry.",
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1536",
+      "subject": "MATH",
+      "number": "1536",
+      "level": 1000,
+      "title": "Geometry and Mathematics of Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "A standard first-year mathematics sequence for architecture majors. Mathematical models of real-world problems, including discrete and continuous models, that address relevant global challenges in such areas as urban planning, building construction, and home design. 1535: Euclidean geometry, trigonometry, sequences and the golden ratio, graph theory, tilings, polygons and polyhedra, applications for 2- and 3-dimensional design and construction, use of geometric software. 1536: vectors in the plane and space, descriptive and projective geometry, differential and integral calculus, applications for 2- and 3-dimensional design and construction, including areas, volumes, centroids, and optimization. Assumes 2 unites of high school algebra and 1 unit of high school geometry.",
+      "pathwaysConcepts": [
+        "5F",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1614",
+      "subject": "MATH",
+      "number": "1614",
+      "level": 1000,
+      "title": "Numbers and Operations for Teachers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of the nature and structure of numbers for prospective elementary and middle school teachers; number theory, number systems, operations and algebraic thinking, problem solving, and mathematical modeling. 1614 may not be taken by math majors for credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1624",
+      "subject": "MATH",
+      "number": "1624",
+      "level": 1000,
+      "title": "Geometry for Teachers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of key geometry concepts for prospective elementary and middle school teachers; multiple perspectives including transformational, coordinate, Euclidean and analytical geometry; geometric modeling; geometric and spatial reasoning. 1624 may not be taken by math majors for credit.",
+      "prerequisites": {
+        "rawText": "MATH 1614",
+        "referencedCourses": [
+          "MATH 1614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1984",
+      "subject": "MATH",
+      "number": "1984",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 1984E",
+      "subject": "MATH",
+      "number": "1984E",
+      "level": 1000,
+      "title": "Special Study",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "pathwaysConcepts": [
+        "5F"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2114",
+      "subject": "MATH",
+      "number": "2114",
+      "level": 2000,
+      "title": "Introduction to Linear Algebra",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vector and matrix algebra systems of linear equations, linear equations, linear independence, bases, orthonormal bases, rank, linear transformations, diagonalization, implementation with contemporary software. Math 1226 or a grade of at least B in VT MATH 1225. A student can earn credit for at most one of 2114 and 2405H.",
+      "prerequisites": {
+        "rawText": "MATH 1225 or MATH 1226",
+        "referencedCourses": [
+          "MATH 1225",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2114H",
+      "subject": "MATH",
+      "number": "2114H",
+      "level": 2000,
+      "title": "Introduction to Linear Algebra",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vector and matrix algebra systems of linear equations, linear equations, linear independence, bases, orthonormal bases, rank, linear transformations, diagonalization, implementation with contemporary software. Math 1226 or a grade of at least B in VT MATH 1225. A student can earn credit for at most one of 2114H and 2405H.",
+      "prerequisites": {
+        "rawText": "MATH 1225 or MATH 1226",
+        "referencedCourses": [
+          "MATH 1225",
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2204",
+      "subject": "MATH",
+      "number": "2204",
+      "level": 2000,
+      "title": "Introduction to Multivariable Calculus",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Calculus for functions for several variables. Planes and surfaces, continuity, differentiation, chain rule, extreme values, Lagrange multipliers, double and triple integrals and applications, software-based techniques. A student can earn credit for at most one of 2204 and 2406H. A student can earn credit for at most one of 2024 and 2204. A student can earn credit for at most one of 2204 and CMDA 2005.",
+      "prerequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2204H",
+      "subject": "MATH",
+      "number": "2204H",
+      "level": 2000,
+      "title": "Introduction to Multivariable Calculus",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Calculus for functions of several variables. Planes and surfaces, continuity, differentiation, chain rule, extreme values, Lagrange multipliers, double and triple integrals and applications, software-based techniques. A student can earn credit for at most one of 2204H and 2406H. A student can earn credit for at most one of 2024 and 2204H. A student can earn credit for at most one of 2204H and CMDA 2005.",
+      "prerequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2214",
+      "subject": "MATH",
+      "number": "2214",
+      "level": 2000,
+      "title": "Introduction to Differential Equations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Unified course in ordinary differential equations. First-order equations, second-and-higher-order constant coefficient linear equations, systems of first-order linear equations, and numerical methods. Mathematical models describing motion and cooling, predator-prey population models, SIR-models, mechanical vibrations, electric circuits, rates of chemical reactions, radioactive decay. Quantitative and computational thinking to address relevant intercultural and global issues. A student can earn credit for at most one of 2214 and 2406H. A student can earn credit for at most one of 2214 and CMDA 2006.",
+      "prerequisites": {
+        "rawText": "(MATH 2114 or MATH 2114H or MATH 2405H) and MATH 1226",
+        "referencedCourses": [
+          "MATH 1226",
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2405H"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2214H",
+      "subject": "MATH",
+      "number": "2214H",
+      "level": 2000,
+      "title": "Introduction to Differential Equations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Unified course in ordinary differential equations. First-order equations, second-and-higher-order constant coefficient linear equations, systems of first-order linear equations, and numerical methods. Mathematical models describing motion and cooling, predator-prey population models, SIR-models, mechanical vibrations, electric circuits, rates of chemical reactions, radioactive decay. Quantitative and computational thinking to address relevant intercultural and global issues. A student can earn credit for at most one of 2214H and 2406H. A student can earn credit for at most one of 2214H and CMDA 2006",
+      "prerequisites": {
+        "rawText": "(MATH 1114 or MATH 2114 or MATH 2114H or MATH 2405H or ISC 2105) and MATH 1226",
+        "referencedCourses": [
+          "ISC 2105",
+          "MATH 1226",
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2405H"
+        ]
+      },
+      "pathwaysConcepts": [
+        "5A",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2405H",
+      "subject": "MATH",
+      "number": "2405H",
+      "level": 2000,
+      "title": "Mathematics in a Computational Context",
+      "credits": {
+        "min": 5,
+        "max": 5
+      },
+      "isVariableCredit": false,
+      "description": "Unified course covering topics from linear algebra, differential equations, and calculus for functions of several variables. Comprises the standard second year mathematics courses for science and engineering. 2405H: Vector and matrix algebra, systems of linear equations, linear independence, bases, orthonormal bases, rank, linear transformations and diagonalization. Ordinary linear homogeneous differential equations, implementation with contemporary software. 2406H: Ordinary nonhomogeneous differential equations, calculus for functions of several variables, planes and surfaces, continuity, differentiation, chain rule, extreme values, Lagrange multipliers, double and triple integrals and applications, with software-based techniques. A student can earn credit for at most one of 2114, 2114H, and 2405H. A student can earn credit for at most one of 2204, 2204H, and 2406H. A student can earn credit for at most one of 2214, 2214H, and 2406H.",
+      "prerequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lec, 5 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2406H",
+      "subject": "MATH",
+      "number": "2406H",
+      "level": 2000,
+      "title": "Mathematics in a Computational Context",
+      "credits": {
+        "min": 5,
+        "max": 5
+      },
+      "isVariableCredit": false,
+      "description": "Unified course covering topics from linear algebra, differential equations, and calculus for functions of several variables. Comprises the standard second year mathematics courses for science and engineering. 2405H: Vector and matrix algebra, systems of linear equations, linear independence, bases, orthonormal bases, rank, linear transformations and diagonalization. Ordinary linear homogeneous differential equations, implementation with contemporary software. 2406H: Ordinary nonhomogeneous differential equations, calculus for functions of several variables, planes and surfaces, continuity, differentiation, chain rule, extreme values, Lagrange multipliers, double and triple integrals and applications, with software-based techniques. A student can earn credit for at most one of 2114, 2114H, and 2405H. A student can earn credit for at most one of 2204, 2204H, and 2406H. A student can earn credit for at most one of 2214, 2214H, and 2406H.",
+      "prerequisites": {
+        "rawText": "MATH 2405H",
+        "referencedCourses": [
+          "MATH 2405H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lec, 5 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2534",
+      "subject": "MATH",
+      "number": "2534",
+      "level": 2000,
+      "title": "Introduction to Discrete Mathematics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasis on topics relevant to computer science. Topics include logic, propositional calculus, set theory, relations, functions, mathematical induction, elementary number theory and Boolean algebra. Does not carry credit for mathematics majors, but may be used as though it were a 3000-level elective course for the mathematics minor. Two units of high school algebra, one unit of geometry, one-half unit each of trigonometry and precalculus mathematics required. 2534 may not be taken by math majors for credit without special permission. A student can earn credit for at most one of 2534 and 3034.",
+      "prerequisites": {
+        "rawText": "CS 1114 or ECE 1574 or ECE 1004 or CS 2064",
+        "referencedCourses": [
+          "CS 1114",
+          "CS 2064",
+          "ECE 1004"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2644",
+      "subject": "MATH",
+      "number": "2644",
+      "level": 2000,
+      "title": "Mathematics Tutoring",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to professional, culturally respectful mathematics tutoring. Development of listening and questioning skills, assessment of students’ mathematical difficulties. Exploration of teaching and learning processes, effectively utilizing technology, and adjusting instruction to diversity in students’ mathematical reasoning. Concurrent mathematics tutoring experience required. May be repeated twice with different leadership expectations for a maximum of 3 credits.",
+      "prerequisites": {
+        "rawText": "MATH 1226",
+        "referencedCourses": [
+          "MATH 1226"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 3 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2964",
+      "subject": "MATH",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2974",
+      "subject": "MATH",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2974H",
+      "subject": "MATH",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2984",
+      "subject": "MATH",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2984H",
+      "subject": "MATH",
+      "number": "2984H",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2994",
+      "subject": "MATH",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 2994H",
+      "subject": "MATH",
+      "number": "2994H",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3034",
+      "subject": "MATH",
+      "number": "3034",
+      "level": 3000,
+      "title": "Introduction to Proofs",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practice in writing mathematical proofs. Exercises from set theory, number theory, and functions. Propositional logic, set operations, equivalence relations, methods of proof, mathematical induction, the division algorithm and images and pre-images of sets. A student can earn credit for at most one of 2534 and 3034.",
+      "prerequisites": {
+        "rawText": "MATH 2114 or MATH 2114H or MATH 2405H",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2405H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3124",
+      "subject": "MATH",
+      "number": "3124",
+      "level": 3000,
+      "title": "Modern Algebra",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to abstract algebraic structures (groups, rings, and fields) and structure-preserving maps (homomorphisms) for these structures. Proof-intensive course illustrating the rigorous development of a mathematical theory from initial axioms.",
+      "prerequisites": {
+        "rawText": "MATH 3034",
+        "referencedCourses": [
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3134",
+      "subject": "MATH",
+      "number": "3134",
+      "level": 3000,
+      "title": "Applied Combinatorics and Graph Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Emphasis on concepts related to computational theory and formal languages. Includes topics in graph theory such as paths, circuits, and trees. Topics from combinatorics such as permutations, generating functions, and recurrence relations.",
+      "prerequisites": {
+        "rawText": "MATH 1226 and (MATH 2534 or MATH 3034)",
+        "referencedCourses": [
+          "MATH 1226",
+          "MATH 2534",
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3144",
+      "subject": "MATH",
+      "number": "3144",
+      "level": 3000,
+      "title": "Linear Algebra I",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introductory course in linear algebra. Abstract vector spaces, linear transformations, algorithms for solving systems of linear equations, matrix analysis. This course involves mathematical proofs.",
+      "prerequisites": {
+        "rawText": "(MATH 3034 or MATH 2534) and (MATH 2114 or MATH 2114H or MATH 2405H)",
+        "referencedCourses": [
+          "MATH 2114",
+          "MATH 2114H",
+          "MATH 2405H",
+          "MATH 2534",
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3214",
+      "subject": "MATH",
+      "number": "3214",
+      "level": 3000,
+      "title": "Calculus of Several Variables",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamental calculus of functions of two or more variables. Implicit function theorem, Taylor expansion, line integrals, Greens theorem, surface integrals.",
+      "prerequisites": {
+        "rawText": "MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005",
+        "referencedCourses": [
+          "CMDA 2005",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3224",
+      "subject": "MATH",
+      "number": "3224",
+      "level": 3000,
+      "title": "Advanced Calculus",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory of limits, continuity, differentiation, integration, series. 3224 duplicates 4525.",
+      "prerequisites": {
+        "rawText": "(MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005) and MATH 3034",
+        "referencedCourses": [
+          "CMDA 2005",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H",
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 3414",
+      "subject": "MATH",
+      "number": "3414",
+      "level": 3000,
+      "title": "Numerical Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Computational methods for numerical solution of non-linear equations, differential equations, approximations, iterations, methods of least squares, and other topics. A grade of C or better required in CS prerequisite 1044 or 1705. A student can earn credit for at most one of 3414 and 4404.",
+      "prerequisites": {
+        "rawText": "(CS 1044 or CS 1705 or CS 1114 or CS 1124) and MATH 2406H or (CMDA 2005 and CMDA 2006) or (MATH 2214 or MATH 2214H) and (MATH 2204 or MATH 2204H)",
+        "referencedCourses": [
+          "CMDA 2005",
+          "CMDA 2006",
+          "CS 1044",
+          "CS 1114",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CS 3414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4044",
+      "subject": "MATH",
+      "number": "4044",
+      "level": 4000,
+      "title": "History of Mathematics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Historical development of mathematics from antiquity to modern times. Senior standing in mathematics or mathematics education required.",
+      "prerequisites": {
+        "rawText": "MATH 3034",
+        "referencedCourses": [
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4124",
+      "subject": "MATH",
+      "number": "4124",
+      "level": 4000,
+      "title": "Introduction to Abstract Algebra",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to the theory of groups and rings. Topics include normal subgroups, permutation groups, Sylows Theorem, Abelian groups, Integral Domains, Ideals, and Polynomial Rings.",
+      "prerequisites": {
+        "rawText": "MATH 3124",
+        "referencedCourses": [
+          "MATH 3124"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4134",
+      "subject": "MATH",
+      "number": "4134",
+      "level": 4000,
+      "title": "Number Theory",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to elementary number theory. Topics covered may include divisibility, greatest common divisors, unique prime factorization, congruences, Fermat's Little Theorem, Chinese Remainder Theorem, multiplicative number-theoretic functions, Diophantine equations, primitive roots, and the Quadratic Reciprocity Law.",
+      "prerequisites": {
+        "rawText": "MATH 3034 or MATH 3134",
+        "referencedCourses": [
+          "MATH 3034",
+          "MATH 3134"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4144",
+      "subject": "MATH",
+      "number": "4144",
+      "level": 4000,
+      "title": "Linear Algebra II",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Second course in linear algebra. Similarity invariants, Jordan canonical form, inner product spaces, self-adjoint operators, selected applications.",
+      "prerequisites": {
+        "rawText": "MATH 3144",
+        "referencedCourses": [
+          "MATH 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4175",
+      "subject": "MATH",
+      "number": "4175",
+      "level": 4000,
+      "title": "Cryptography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4175: Introduction to classical and modern symmetric-key cryptography; alphabetic ciphers, block ciphers and stream ciphers; background in modular arithmetic and probability; perfect secrecy; linear and differential cryptanalysis; Advanced Encryption Standard; hashing. 4176: Introduction to modern public-key cryptography and cryptanalysis; RSA algorithm, ElGamal algorithm, Diffie-Hellman algorithm; digital signatures; background in group theory and number theory; algorithms for primality testing, factoring, and discrete logarithms; elliptic curves.",
+      "prerequisites": {
+        "rawText": "MATH 3034 or CMDA 3605 or MATH 3134 or MATH 3144",
+        "referencedCourses": [
+          "CMDA 3605",
+          "MATH 3034",
+          "MATH 3134",
+          "MATH 3144"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4176",
+      "subject": "MATH",
+      "number": "4176",
+      "level": 4000,
+      "title": "Cryptography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4175: Introduction to classical and modern symmetric-key cryptography; alphabetic ciphers, block ciphers and stream ciphers; background in modular arithmetic and probability; perfect secrecy; linear and differential cryptanalysis; Advanced Encryption Standard; hashing. 4176: Introduction to modern public-key cryptography and cryptanalysis; RSA algorithm, ElGamal algorithm, Diffie-Hellman algorithm; digital signatures; background in group theory and number theory; algorithms for primality testing, factoring, and discrete logarithms; elliptic curves.",
+      "prerequisites": {
+        "rawText": "MATH 4175 or CMDA 3606 or MATH 3034 or MATH 3134 or MATH 3144",
+        "referencedCourses": [
+          "CMDA 3606",
+          "MATH 3034",
+          "MATH 3134",
+          "MATH 3144",
+          "MATH 4175"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4225",
+      "subject": "MATH",
+      "number": "4225",
+      "level": 4000,
+      "title": "Elementary Real Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Real number system, point set theory, limits, continuity, differentiation, integration, infinite series, sequences and series of functions.",
+      "prerequisites": {
+        "rawText": "MATH 3224",
+        "referencedCourses": [
+          "MATH 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4226",
+      "subject": "MATH",
+      "number": "4226",
+      "level": 4000,
+      "title": "Elementary Real Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Real number system, point set theory, limits, continuity, differentiation, integration, infinite series, sequences and series of functions.",
+      "prerequisites": {
+        "rawText": "MATH 4225",
+        "referencedCourses": [
+          "MATH 4225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4234",
+      "subject": "MATH",
+      "number": "4234",
+      "level": 4000,
+      "title": "Elementary Complex Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analytic functions, complex integration, series representation of analytic functions, residues, conformal mapping, applications",
+      "prerequisites": {
+        "rawText": "MATH 3224",
+        "referencedCourses": [
+          "MATH 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4245",
+      "subject": "MATH",
+      "number": "4245",
+      "level": 4000,
+      "title": "Intermediate Differential Equations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Solution techniques, linear systems, the matrix exponential, existence theorems, stability, non-linear systems, eigenvalue problems.",
+      "prerequisites": {
+        "rawText": "MATH 3224",
+        "referencedCourses": [
+          "MATH 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4254",
+      "subject": "MATH",
+      "number": "4254",
+      "level": 4000,
+      "title": "Chaos and Dynamical Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Survey of basic concepts in chaotic dynamical systems. Includes material on bifurcation theory, conjugacy, stability, and symbolic dynamics.",
+      "prerequisites": {
+        "rawText": "(MATH 3034 or MATH 2534) and MATH 3214",
+        "referencedCourses": [
+          "MATH 2534",
+          "MATH 3034",
+          "MATH 3214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4324",
+      "subject": "MATH",
+      "number": "4324",
+      "level": 4000,
+      "title": "Elementary Topology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic concepts of topological spaces, continuous functions, connected spaces, compact spaces, and metric spaces.",
+      "prerequisites": {
+        "rawText": "MATH 3224",
+        "referencedCourses": [
+          "MATH 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4334",
+      "subject": "MATH",
+      "number": "4334",
+      "level": 4000,
+      "title": "College Geometry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Transformational approach to Euclidean geometry including an in-depth study of isometries and their application to symmetry, geometric constructions, congruence, coordinate geometry, and non-Euclidean geometries.",
+      "prerequisites": {
+        "rawText": "MATH 3034",
+        "referencedCourses": [
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4404",
+      "subject": "MATH",
+      "number": "4404",
+      "level": 4000,
+      "title": "Applied Numerical Methods",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interpolation and approximation, numerical integration, solution of equations, matrices and eigenvalues, systems of equations, approximate solution of ordinary and partial differential equations. Applications to physical problems. A student can earn credit for at most one of 3414 and 4404.",
+      "prerequisites": {
+        "rawText": "MATH 4564 and (ESM 2074 or AOE 2074)",
+        "referencedCourses": [
+          "AOE 2074",
+          "MATH 4564"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AOE 4404"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4414",
+      "subject": "MATH",
+      "number": "4414",
+      "level": 4000,
+      "title": "Issues in Scientific Computing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and techniques of modern computational mathematics, computing environments, computational linear algebra, optimization, approximation, parameter identification, finite difference and finite element methods and symbolic computation. Project-oriented course; modeling and analysis of physical systems using state-of-the-art software and packaged subroutines.",
+      "prerequisites": {
+        "rawText": "(MATH 2214 or MATH 2214H or MATH 2406H or CMDA 2006) and MATH 3214 and (CS 1114 or MATH 1454)",
+        "referencedCourses": [
+          "CMDA 2006",
+          "CS 1114",
+          "MATH 1454",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H",
+          "MATH 3214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "CS 4414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4425",
+      "subject": "MATH",
+      "number": "4425",
+      "level": 4000,
+      "title": "Fourier Series and Partial Differential Equations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Separation of variables for heat, wave, and potential equations. Fourier expressions. Application to boundary value problems. Bessel functions. Integral transforms and problems on unbounded domains.",
+      "prerequisites": {
+        "rawText": "MATH 2406H or CMDA 2006 or MATH 2214 or MATH 2214H and MATH 3224",
+        "referencedCourses": [
+          "CMDA 2006",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H",
+          "MATH 3224"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4426",
+      "subject": "MATH",
+      "number": "4426",
+      "level": 4000,
+      "title": "Fourier Series and Partial Differential Equations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Separation of variables for heat, wave, and potential equations. Fourier expressions. Application to boundary value problems. Bessel functions. Integral transforms and problems on unbounded domains.",
+      "prerequisites": {
+        "rawText": "MATH 4425",
+        "referencedCourses": [
+          "MATH 4425"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4445",
+      "subject": "MATH",
+      "number": "4445",
+      "level": 4000,
+      "title": "Introduction to Numerical Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4445: Vector spaces and review of linear algebra, direct and iterative solutions of linear systems of equations, numerical solutions to the algebraic eigenvalue problem, solutions of general non-linear equations and systems of equations. 4446: Interpolation and approximation, numerical integration and differentiation, numerical solutions of ordinary differential equations. Computer programming skills required.",
+      "prerequisites": {
+        "rawText": "MATH 2406H or (CMDA 2005 and CMDA 2006) or (MATH 2214 or MATH 2214H) and (MATH 2204 or MATH 2204H)",
+        "referencedCourses": [
+          "CMDA 2005",
+          "CMDA 2006",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4446",
+      "subject": "MATH",
+      "number": "4446",
+      "level": 4000,
+      "title": "Introduction to Numerical Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "4445: Vector spaces and review of linear algebra, direct and iterative solutions of linear systems of equations, numerical solutions to the algebraic eigenvalue problem, solutions of general non-linear equations and systems of equations. 4446: Interpolation and approximation, numerical integration and differentiation, numerical solutions of ordinary differential equations. Computer programming skills required.",
+      "prerequisites": {
+        "rawText": "MATH 2406H or (CMDA 2005 and CMDA 2006) or (MATH 2214 or MATH 2214H) and (MATH 2204 or MATH 2204H)",
+        "referencedCourses": [
+          "CMDA 2005",
+          "CMDA 2006",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4454",
+      "subject": "MATH",
+      "number": "4454",
+      "level": 4000,
+      "title": "Applied Mathematical Modeling",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of classical and modern applications of mathematics in the physical, biological and social sciences. Emphasis on problem formulating, modeling, solving, simulating, and analyzing results. Programming language required.",
+      "prerequisites": {
+        "rawText": "MATH 3214",
+        "referencedCourses": [
+          "MATH 3214"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4564",
+      "subject": "MATH",
+      "number": "4564",
+      "level": 4000,
+      "title": "Operational Methods for Engineers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Laplace transformations, Fourier series, partial differential equations and separation of variables, boundary value problems, and Sturm-Liouville theory.",
+      "prerequisites": {
+        "rawText": "(MATH 2214 or MATH 2214H) or MATH 2406H or CMDA 2006",
+        "referencedCourses": [
+          "CMDA 2006",
+          "MATH 2214",
+          "MATH 2214H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4574",
+      "subject": "MATH",
+      "number": "4574",
+      "level": 4000,
+      "title": "Vector and Complex Analysis for Engineers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Vector Analysis: Greens theorem, potential theory, divergence, and Stokes theorem. Complex Analysis: Analyticity, complex integration, Taylor series, residues, conformal mapping, applications. 4574 may not be taken by math majors for credit.",
+      "prerequisites": {
+        "rawText": "MATH 2204 or MATH 2204H or MATH 2406H or CMDA 2005",
+        "referencedCourses": [
+          "CMDA 2005",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2406H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4625",
+      "subject": "MATH",
+      "number": "4625",
+      "level": 4000,
+      "title": "Mathematics for Secondary Teachers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Course activities will emphasize the curricular themes of problem solving, reasoning and proof, communication, connections, and representation. 4625: Topics in discrete mathematics and algebra from a secondary teaching perspective. 4626: Topics in trigonometry, geometry, measurement, statistics, and probability from a secondary teaching perspective.",
+      "prerequisites": {
+        "rawText": "MATH 3034",
+        "referencedCourses": [
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4626",
+      "subject": "MATH",
+      "number": "4626",
+      "level": 4000,
+      "title": "Mathematics for Secondary Teachers",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Course activities will emphasize the curricular themes of problem solving, reasoning and proof, communication, connections, and representation. 4625: Topics in discrete methematics and algebra from a secondary teaching perspective. 4626: Topics in trigonometry, geometry, measurement, statistics, and probability from a secondary teaching perspective.",
+      "prerequisites": {
+        "rawText": "MATH 3034",
+        "referencedCourses": [
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4644",
+      "subject": "MATH",
+      "number": "4644",
+      "level": 4000,
+      "title": "Secondary School Mathematics With Technology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Use and impact of technology in secondary mathematics curriculum. Various technologies including graphing calculators, calculator based laboratory and probes (CBLs), computer algebra systems, spreadsheets, dynamic geometry software and the Internet will be used to explore secondary mathematical concepts from an advanced viewpoint.",
+      "prerequisites": {
+        "rawText": "MATH 3034",
+        "referencedCourses": [
+          "MATH 3034"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4754",
+      "subject": "MATH",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "May be repeated for a maximum of 12 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 12 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4964",
+      "subject": "MATH",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4974",
+      "subject": "MATH",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4974H",
+      "subject": "MATH",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4984",
+      "subject": "MATH",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4994",
+      "subject": "MATH",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "MATH 4994H",
+      "subject": "MATH",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/math/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

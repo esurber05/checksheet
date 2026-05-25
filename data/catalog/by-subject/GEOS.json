@@ -1,0 +1,1580 @@
+{
+  "subject": "GEOS",
+  "scrapedAt": "2026-05-25T21:20:21.472Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "GEOS 1004",
+      "subject": "GEOS",
+      "number": "1004",
+      "level": 1000,
+      "title": "Earth Science: Our Past, Present, and Future",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Earth science, including the fundamental concepts of geology in the modern context of humans interacting with the Earth. Formation and evolution of the Earth (history, plate tectonics, the rock cycle, geologic time), internal Earth dynamics (earthquakes, volcanoes, mitigating natural hazards), Earth materials (minerals and rocks, energy and mineral resources), surface processes (Earth system science, hydrologic cycle, global geochemical cycles, oceans and atmosphere, climate, erosion and landscapes), Earth sustainability (resources, environmental change), evaluating geological information and products of research, the scientific approach to problem solving, and the ethical issues associated with geoscience and the environment.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1014",
+      "subject": "GEOS",
+      "number": "1014",
+      "level": 1000,
+      "title": "Evolution of the Earth-Life System",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the interaction of the Earths processes that shape our planet and its biosphere through time. Application of modern geoscientific inquiry; biological, chemical and physical interactions that are part of the Earth system; distribution of life on Earth (i.e., biogeography); diversity of life over time; the differentiation between science and pseudoscience; ethical issues around human activities and their impact on the Earth-Life system.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1024",
+      "subject": "GEOS",
+      "number": "1024",
+      "level": 1000,
+      "title": "Earth Resources, Society, and Environment",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the Earths resources including their nature, formation, occurrence, extraction, distribution, consumption, and waste management and disposal using an integrated cradle to grave analysis. Population, the Earths metallic and non-metallic resources, rare earth elements, non-renewable and renewable energy and water. Social, environmental, economic and political impacts resource production and consumption have had historically, currently, and that are predicted into the future including current and future sources of energy in the United States and internationally. Sustainability, water abundance and quality, fracking, climate change, ocean acidification, and ozone depletion.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1034",
+      "subject": "GEOS",
+      "number": "1034",
+      "level": 1000,
+      "title": "Earths Natural Hazards",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Fundamentals of Earth processes that drive natural hazards, including earthquakes, volcanoes, tsunamis, hurricanes, tornadoes, floods, climate change and impacts with space objects; impacts of human activities on the Earth; defining and analyzing hazards and risks through testing hypotheses on geologic data; ethical issues arising from hazard mitigation; analysis of uncertainties of scientific information.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1054",
+      "subject": "GEOS",
+      "number": "1054",
+      "level": 1000,
+      "title": "Age of Dinosaurs",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to dinosaur paleontology, including fundamental geological and biological concepts, with focus on how modern paleontologists ask interdisciplinary questions to examine the fossil record. Use of dinosaurs to explore: process and impact of scientific method; geologic processes, geologic time, global change, ecosystems, biogeography; anatomy, evolution, biodiversity, phylogenetic relationships; and media portrayal of extinct animals.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1064",
+      "subject": "GEOS",
+      "number": "1064",
+      "level": 1000,
+      "title": "Climate History: Past, Present, and Future",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental components of Earths climate system. Changes of Earths climate at different time scales. Climate change induced by plate tectonics, variations in Earths orbit and transition to and from ice ages. Historical and future changes of Earths climate. Climate models as tools to interpret climate data. Impacts of climate change. Climate ethics and policies.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1104",
+      "subject": "GEOS",
+      "number": "1104",
+      "level": 1000,
+      "title": "Introduction to Earth Sciences Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to Earth sciences laboratory, including identification of minerals and rocks, topographic and geologic maps, structural geology, geology impacting humans and humans impacting geology, environmental and social impacts.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 1124",
+      "subject": "GEOS",
+      "number": "1124",
+      "level": 1000,
+      "title": "Earth Resources, Society and Environment Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory course on Earths resources including their nature, importance, occurrence, extraction, and environmental, social, and political impacts of consumption. Earths resources include metal ores, non-metallic resources which includes surface and ground water and non-renewable (e.g., fossil fuels) and renewable energy (e.g., hydroelectric). Sustainability, water quality and quantity, climate change, and ocean acidification related to resource extraction and consumption.",
+      "pathwaysConcepts": [
+        "4",
+        "11"
+      ],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2004",
+      "subject": "GEOS",
+      "number": "2004",
+      "level": 2000,
+      "title": "Geosciences Career and Professional Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to career and professional development in the geosciences, including investigating career options, searching for internships and jobs, discussing topics of ethics, diversity and inclusion, evaluating information resources, collaborating in research groups, and developing skills in technical communication. Restricted to geoscience majors.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2014",
+      "subject": "GEOS",
+      "number": "2014",
+      "level": 2000,
+      "title": "Mission to the Planets",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The events and processes that shaped the terrestrial planets; the scientific method (i.e., observations, techniques, and theories) that supports our understanding of these events and processes; the role of science, politics, and engineering and how these impact planetary science missions; ethical issues associated with planetary research; manned and unmanned exploration and how they have shaped our understanding of the planets.",
+      "pathwaysConcepts": [
+        "4",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2024",
+      "subject": "GEOS",
+      "number": "2024",
+      "level": 2000,
+      "title": "Earth's Dynamic Systems",
+      "credits": {
+        "min": 6,
+        "max": 6
+      },
+      "isVariableCredit": false,
+      "description": "Overview of the geosciences, emphasizing processes operating within and on the Earth now and over the last 4.55 billion years. Earth’s systems, cycles and material. Earth’s formation, the physical Earth, and plate tectonics. Earth’s record, including the fossil record, evolution, origin and diversity of life, and biogeography. History of the Earth-Life system, including key events throughout time. Time and length scales. Climate change and extinction. Field trips required. Restricted to geoscience majors (5H, 3L, 6C), partial duplication of GEOS 1004.",
+      "pathwaysConcepts": [],
+      "contactHours": "(5 Lec, 3 Lab, 6 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2104",
+      "subject": "GEOS",
+      "number": "2104",
+      "level": 2000,
+      "title": "Elements of Geology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Structure of the earth, properties of minerals and rocks, and geologic processes that act on the surface and in the interior of the earth, and integrated geologic systems of importance in engineering and regional planning. For students in engineering and physical sciences. Geology 2104 duplicates material in Geology 1004 and both may not be taken for credit.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2444",
+      "subject": "GEOS",
+      "number": "2444",
+      "level": 2000,
+      "title": "Geoscience Field Observations",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of geological processes in the field. Integration of field observations with datasets into conceptual geological interpretations and models. Identification of rock type, lithology and structure in outcrop.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 2024 or GEOS 2104",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2964",
+      "subject": "GEOS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2974",
+      "subject": "GEOS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2974H",
+      "subject": "GEOS",
+      "number": "2974H",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2984",
+      "subject": "GEOS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 10
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "(1-10 Lec, 1-10 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 2994",
+      "subject": "GEOS",
+      "number": "2994",
+      "level": 2000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3014",
+      "subject": "GEOS",
+      "number": "3014",
+      "level": 3000,
+      "title": "Environmental Geosciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The roles of geology and geophysics in defining and monitoring the natural environment, with special application to interactions between humans and the geologic environment. Both descriptive treatment and quantitative concepts related to environmental processes involving the solid earth and earths surface, with emphasis on geologic hazards (e.g., earthquakes, volcanoes, landslides and slope failures, flooding, groundwater problems, mineral and rock dusts).",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3024",
+      "subject": "GEOS",
+      "number": "3024",
+      "level": 3000,
+      "title": "Computational Methods in the Geosciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Development of computational skills aimed at extracting pertinent trends and significance of a wide variety and quantity of highly heterogeneous geoscience data; application of analytical, statistical and signal processing methods for analyzing time-series, spatial and satellite imagery data; tools for producing publication quality maps, graphs, charts, and other visual aids.",
+      "prerequisites": {
+        "rawText": "MATH 1225 or MATH 1025",
+        "referencedCourses": [
+          "MATH 1025",
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3034",
+      "subject": "GEOS",
+      "number": "3034",
+      "level": 3000,
+      "title": "Oceanography",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Descriptive and quantitative treatment of the geological, physical, chemical and biological processes that occur in, or are influenced by, the oceans. The history of oceanic exploration and discovery is addressed.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3044",
+      "subject": "GEOS",
+      "number": "3044",
+      "level": 3000,
+      "title": "Geosciences Outreach",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Service-learning through teaching. Identification and development of geoscience outreach activities based on national and state science education standards. Assessment methods for evaluating the effectiveness of outreach activities. Techniques for effective instructional design and communication of geoscience concepts to enrich the general publics awareness of the geosciences.",
+      "prerequisites": {
+        "rawText": "GEOS 2024 or (GEOS 1004 and GEOS 1014) or (GEOS 2104 and GEOS 1014)",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 1014",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3104",
+      "subject": "GEOS",
+      "number": "3104",
+      "level": 3000,
+      "title": "Elementary Geophysics",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Acquisition and interpretation of exploration geophysical data. Seismic reflection and refraction methods, gravity and magnetic fields, geoelectrical methods, and geophysical well logging.",
+      "prerequisites": {
+        "rawText": "(GEOS 1004 or GEOS 2024 or GEOS 2104) and (MATH 1026 or MATH 1226) and (PHYS 2205 or PHYS 2305)",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104",
+          "MATH 1026",
+          "MATH 1226",
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "corequisites": {
+        "rawText": "PHYS 2206 or PHYS 2306",
+        "referencedCourses": [
+          "PHYS 2206",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3204",
+      "subject": "GEOS",
+      "number": "3204",
+      "level": 3000,
+      "title": "Sedimentology-Stratigraphy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of sedimentary basins in a plate-tectonic framework, mechanisms of basin formation, three-dimensional geometry of basin fill, and controls on basin fill. Siliciclastic and carbonate-evaporate rocks as examples of basin fill are discussed in lectures and studied in the lab and in the field. Applied aspects of the course include a discussion of geometries of sedimentary aquifers and reservoirs.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 2024 or GEOS 2104",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3304",
+      "subject": "GEOS",
+      "number": "3304",
+      "level": 3000,
+      "title": "Geomorphology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the variety of landforms that exist at the earths surface. Detailed investigation of major processes operating at the earths surface including: tectonic, weathering, fluvial, coastal, eolian, and glacial processes. Field excursion.",
+      "prerequisites": {
+        "rawText": "GEOG 1104 or GEOS 1004 or GEOS 2104 or GEOS 2024",
+        "referencedCourses": [
+          "GEOG 1104",
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CSES 3304",
+        "GEOG 3304"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3404",
+      "subject": "GEOS",
+      "number": "3404",
+      "level": 3000,
+      "title": "Elements of Structural Geology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to basic geological structures, evolution of microfabrics, development of faults, folds and foliations, stereographic analysis of geological structures, thrust fault geometries, balancing of geological cross-sections, and introduction to the concepts of stress and strain.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 2024 or GEOS 2104",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3504",
+      "subject": "GEOS",
+      "number": "3504",
+      "level": 3000,
+      "title": "Mineralogy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Principles of modern mineralogy, crystal chemistry, and crystallography, with emphasis on mineral atomic structure and physical property relationships, mineralogy in the context of geology, geochemistry, environmental science and geophysics, phase equilibria, mineral associations, and mineral identification, and industrial applications of minerals. There are three required field trips during the semester.",
+      "corequisites": {
+        "rawText": "CHEM 1035 or CHEM 1055 or (ISC 1106 and ISC 1116)",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055",
+          "ISC 1106",
+          "ISC 1116"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "MSE 3104"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3604",
+      "subject": "GEOS",
+      "number": "3604",
+      "level": 3000,
+      "title": "Paleontology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Paleontological principles and techniques and their application to the evolution of life, the ecological structure of ancient biological communities, the interpretation of ancient depositional environments, and the history of the earth.",
+      "prerequisites": {
+        "rawText": "(GEOS 1004 and GEOS 1014) or GEOS 2024",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 1014",
+          "GEOS 2024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3614",
+      "subject": "GEOS",
+      "number": "3614",
+      "level": 3000,
+      "title": "Soils",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Characterization of soils as a natural resource emphasizing their physical, chemical, mineralogical, and biological properties in relation to nutrient availability, fertilization, plant growth, land-use management, waste application, soil and water quality, and food production. For CSES, ENSC, and related plant- and earth-science majors. Partially duplicates CSES/ENSC 3134.",
+      "prerequisites": {
+        "rawText": "CHEM 1036",
+        "referencedCourses": [
+          "CHEM 1036"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "CSES 3114"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3624",
+      "subject": "GEOS",
+      "number": "3624",
+      "level": 3000,
+      "title": "Soils Laboratory",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Parent materials, morphology, physical, chemical, and biological properties of soils and related soil management and land use practices will be studied in field and lab. Partially duplicates CSES/ENSC 3134.",
+      "corequisites": {
+        "rawText": "GEOS 3614",
+        "referencedCourses": [
+          "GEOS 3614"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lab, 1 Crd)",
+      "crossListedWith": [
+        "CSES 3124"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3634",
+      "subject": "GEOS",
+      "number": "3634",
+      "level": 3000,
+      "title": "Natural History Collections and Curation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to museums and natural history collections, with a focus on hands-on curation of specimens to learn standard archival practices and principles. Exploration of campus collections such as the Museum of Geosciences, Massey Herbarium, and Cheatham Vertebrate Collection with particular focus on: specimen acquisition and accessioning; specimen preparation, preservation, and identification; collection labeling, organization, and storage; collection management databases; metadata; emergency response plans; and the role of museums over time for outreach and interpretation. Application of knowledge through final project.",
+      "prerequisites": {
+        "rawText": "GEOS 2024 or (GEOS 1004 and GEOS 1014) or (GEOS 2104 and GEOS 1014) or (BIOL 1105 and BIOL 1106)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "GEOS 1004",
+          "GEOS 1014",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3644",
+      "subject": "GEOS",
+      "number": "3644",
+      "level": 3000,
+      "title": "Paleontological Laboratory Techniques",
+      "credits": {
+        "min": 2,
+        "max": 2
+      },
+      "isVariableCredit": false,
+      "description": "Laboratory techniques for extracting and preserving paleontological data. Tracing the process a fossil goes through from the field until it is permanently curated. Supervised hands-on experience in an active paleontological laboratory. Independent paleontology information preservation projects. Topics include: philosophy of fossil preparation, mechanical and chemical preparation, conservation and lab materials, digital data and virtual preparation, molding and casting, 3D printing, and collaboration with other museums.",
+      "prerequisites": {
+        "rawText": "GEOS 1014 or GEOS 1054 or GEOS 2024",
+        "referencedCourses": [
+          "GEOS 1014",
+          "GEOS 1054",
+          "GEOS 2024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 2 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3704",
+      "subject": "GEOS",
+      "number": "3704",
+      "level": 3000,
+      "title": "Igneous and Metamorphic Rocks",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of characteristics and mechanisms of igneous intrusion at depth in the crust, volcanic phenomena on the surface, and textural and mineralogical modification of rocks at elevated temperatures and pressures of crustal metamorphism. Tectonic aspects of igneous and metamorphic rocks will be stressed.",
+      "prerequisites": {
+        "rawText": "(GEOS 1004 or GEOS 2104 or GEOS 2024) and GEOS 3504",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104",
+          "GEOS 3504"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3900",
+      "subject": "GEOS",
+      "number": "3900",
+      "level": 3000,
+      "title": "Bridge Experience",
+      "credits": {
+        "min": 0,
+        "max": 0
+      },
+      "isVariableCredit": false,
+      "description": "Application of academic knowledge and skills to in a work-based experience aligned with post-graduation goals using research-based learning processes. Satisfactory completion of work-based experience often in the form of internship, undergraduate research, co-op, or study abroad; self-evaluation; reflection; and showcase of learning. Pre: Departmental approval of 3900 plan.",
+      "pathwaysConcepts": [],
+      "contactHours": "(0 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 3954",
+      "subject": "GEOS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4024",
+      "subject": "GEOS",
+      "number": "4024",
+      "level": 4000,
+      "title": "Senior Seminar",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Integration and solution of significant geoscience research problems and case studies by analysis and integration of information across a wide spectrum of geoscience sub-disciplines. Techniques for effective oral and written communication of technical information to experts and non-experts. Independent and team research projects. Analysis of ethics associated with societally-relevant geosciences issues. Ethics and professionalism in geosciences.",
+      "prerequisites": {
+        "rawText": "(GEOS 2024 or GEOS 2104 or GEOS 1004) and GEOS 2004 and GEOS 2444 and GEOS 3204 and GEOS 3404 and GEOS 3504",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2004",
+          "GEOS 2024",
+          "GEOS 2104",
+          "GEOS 2444",
+          "GEOS 3204",
+          "GEOS 3404",
+          "GEOS 3504"
+        ]
+      },
+      "pathwaysConcepts": [
+        "1A",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4034",
+      "subject": "GEOS",
+      "number": "4034",
+      "level": 4000,
+      "title": "Data Science in the Geosciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Data science and machine learning techniques for analyzing diverse datasets in Earth sciences. Use of Python to process, visualize, and model data from in-situ measurements, satellite remote sensing, and Earth system model simulations. Statistical methods, including time series analysis, signal processing, and spatial data analysis. Visualization applications.",
+      "prerequisites": {
+        "rawText": "CS 1064 or GEOS 3024 or CS 1044",
+        "referencedCourses": [
+          "CS 1044",
+          "CS 1064",
+          "GEOS 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4084",
+      "subject": "GEOS",
+      "number": "4084",
+      "level": 4000,
+      "title": "Modeling with Geographic Information Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Use of automated systems for geographic data collection, digitization, storage, display, modeling and analysis. Basic data flow in GIS modeling applications. Development of proficiency in the use of current GIS software. Senior Standing.",
+      "prerequisites": {
+        "rawText": "GEOG 2084",
+        "referencedCourses": [
+          "GEOG 2084"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 6 Lab, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 4084"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4124",
+      "subject": "GEOS",
+      "number": "4124",
+      "level": 4000,
+      "title": "Seismic Stratigraphy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of seismic data acquisition and processing methods, seismic wavelets, static and dynamic corrections, and seismic velocities; seismic reflection data interpretation; seismic reflection responses Seismic mapping; seismic stratigraphy and seismic lithology. Consent required.",
+      "prerequisites": {
+        "rawText": "GEOS 3104 and GEOS 3204",
+        "referencedCourses": [
+          "GEOS 3104",
+          "GEOS 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4134",
+      "subject": "GEOS",
+      "number": "4134",
+      "level": 4000,
+      "title": "Interdisciplinary Issues and Ethics in Water Resources",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Analysis of issues and ethics related to water resources, water as a hazard upon human (infrastructure, economy) and ecological (rivers, groundwater) systems, water and vector borne disease, climate change, dams, and eutrophication. Development of proficiency in demonstrating the multidimensionality of water resources. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 4134"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4154",
+      "subject": "GEOS",
+      "number": "4154",
+      "level": 4000,
+      "title": "Earthquake Seismology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Seismicity and its causes in the context of plate tectonics; determination of earthquake location, size and focal parameters; seismogram interpretation; seismometry; hazard potential; use of earthquakes in determining earth structure.",
+      "prerequisites": {
+        "rawText": "MATH 2204 or MATH 2204H and MATH 2214 and PHYS 2305 and GEOS 3104",
+        "referencedCourses": [
+          "GEOS 3104",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4164",
+      "subject": "GEOS",
+      "number": "4164",
+      "level": 4000,
+      "title": "Potential Field Methods in Exploration Geophysics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Theory and application to engineering, environmental, and resource exploration. Gravity, magnetics, electrical resistivity, self potential, induced polarization, ground-penetrating radar, magnetotellurics, electromagnetic induction.",
+      "prerequisites": {
+        "rawText": "(MATH 2204 or MATH 2204H) and MATH 2214 and PHYS 2306 and GEOS 3104",
+        "referencedCourses": [
+          "GEOS 3104",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "PHYS 2306"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4174",
+      "subject": "GEOS",
+      "number": "4174",
+      "level": 4000,
+      "title": "Exploration Seismology",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Theory and application of seismic methods to engineering, environmental and resource exploration: reflection seismics, refraction seismics, and tomography. Data acquisition, digital filtering, data corrections, imaging, interpretation, and forward modeling.",
+      "prerequisites": {
+        "rawText": "MATH 2204 or MATH 2204H and MATH 2214 and PHYS 2305 and GEOS 3104",
+        "referencedCourses": [
+          "GEOS 3104",
+          "MATH 2204",
+          "MATH 2204H",
+          "MATH 2214",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4184",
+      "subject": "GEOS",
+      "number": "4184",
+      "level": 4000,
+      "title": "Geodesy in the Earth Sciences",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of measurement of Earth 's geometric shape, orientation in space, the gravity field, and how these properties change over time. Geodetic methods of measurement (i.e., GNSS, InSAR, TLS, gravity). Reference frames, geodetic applications, and geodetic advances.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 1024 or GEOS 1034 or GEOS 2024 or GEOS 2104",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 1024",
+          "GEOS 1034",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4234",
+      "subject": "GEOS",
+      "number": "4234",
+      "level": 4000,
+      "title": "Vertebrate Evolution",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Characterization of the evolution of vertebrates from the fossil record to now. Tracing anatomical features in humans to their origin of different vertebrate groups. Chronicling vertebrate diversification events through extinctions, changes in climate in the last 600 million years, biogeography, and phylogenetic methods. Evidence of evolution through fossils and dissection.",
+      "prerequisites": {
+        "rawText": "GEOS 1014 or BIOL 2704 or GEOS 2024",
+        "referencedCourses": [
+          "BIOL 2704",
+          "GEOS 1014",
+          "GEOS 2024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4244",
+      "subject": "GEOS",
+      "number": "4244",
+      "level": 4000,
+      "title": "Morphology of the Vertebrates",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Identification of skeletal osteological elements of major groups of vertebrates, including aspects of skeletal functional morphology and homology, with emphasis on extant taxa. Skeletal systems of model and non-model organisms such as fish, amphibians, reptiles, birds, and mammals; specimen care and data management; modern skeletal collection practices.",
+      "prerequisites": {
+        "rawText": "(GEOS 1014 or GEOS 2024 or GEOS 1054) or (BIOL 1105 and BIOL 1106)",
+        "referencedCourses": [
+          "BIOL 1105",
+          "BIOL 1106",
+          "GEOS 1014",
+          "GEOS 1054",
+          "GEOS 2024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4254",
+      "subject": "GEOS",
+      "number": "4254",
+      "level": 4000,
+      "title": "Integrative Earth System History",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of Earth system evolution, with a focus on critical transitions that shaped the history of the Earth, and the integration and interaction of the atmosphere, hydrosphere, biosphere, and geosphere. Principles of system science, box models, atmospheric and oceanographic processes, microbial processes, isotopic tracers, elemental cycles, and critical transitions in Earth history, including the origin of life, changes in atmospheric composition, climatic events and mass extinctions.",
+      "prerequisites": {
+        "rawText": "GEOS 2024 or (GEOS 1004 and GEOS 1014) or (GEOS 2104 and GEOS 1014)",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 1014",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4264",
+      "subject": "GEOS",
+      "number": "4264",
+      "level": 4000,
+      "title": "Sedimentary Basins",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Formation, evolution, and characterization of regions of the Earths surface that experience long-lived subsidence and sediment accumulation. Integration of concepts and skills from: stratigraphy, surface processes, tectonics, structural geology, burial/thermal history, geo/thermochronology, and geodynamics; content is relevant to fields such as paleontology, (paleo)climatology, and subsurface resource management. Use of programming/statistical software packages.",
+      "prerequisites": {
+        "rawText": "GEOS 3204",
+        "referencedCourses": [
+          "GEOS 3204"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4314",
+      "subject": "GEOS",
+      "number": "4314",
+      "level": 4000,
+      "title": "Coastal Hazards",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of past, current, and future drivers of coastal change and hazards. Integration of concepts and skills from: climatic, isostatic, and tectonic processes that drive sea-level change; geologic (e.g., coastal stratigraphy, microfossils) and instrumental (e.g., tide gauges, satellite altimetry) coastal change reconstructions, models, measurements, and projections. Coastal earthquake, tsunami, hurricane, and storm-surge hazards. Approaches and challenges of communicating coastal hazards to the public. Coastal hazards and public policy.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 2024 or GEOS 2104",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4324",
+      "subject": "GEOS",
+      "number": "4324",
+      "level": 4000,
+      "title": "Plant Evolution",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Geological history, comparative morphology, evolution and systematics of pre-vascular and vascular plants. Focus on evolution of communities, adaptive construction of tissues and organs, and ecology of reproduction.",
+      "prerequisites": {
+        "rawText": "BIOL 2304",
+        "referencedCourses": [
+          "BIOL 2304"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 6 Lab, 4 Crd)",
+      "crossListedWith": [
+        "BIOL 4324"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4354",
+      "subject": "GEOS",
+      "number": "4354",
+      "level": 4000,
+      "title": "Introduction to Remote Sensing",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theory and methods of remote sensing. Practical exercises in interpretation of aerial photography, satellite, radar and thermal infrared imagery. Digital analysis, image classification and evaluation. Applications in earth sciences, hydrology, plant sciences, and land use studies.",
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 4354"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4404",
+      "subject": "GEOS",
+      "number": "4404",
+      "level": 4000,
+      "title": "Advanced Structural Geology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Basic principles of rock behavior under applied, non-hydrostatic stress (experimental and tectonic) and analysis of the geometrical patterns produced. Alternate years.",
+      "prerequisites": {
+        "rawText": "GEOS 3404",
+        "referencedCourses": [
+          "GEOS 3404"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4614",
+      "subject": "GEOS",
+      "number": "4614",
+      "level": 4000,
+      "title": "Stable Isotope Biogeochemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the fundamental processes that drive the sorting of carbon, nitrogen, oxygen, hydrogen, and sulfur stable isotopes in modern and past marine and terrestrial systems. Application of stable isotopes to address research questions in a variety of disciplines, including geology, paleobiology, ecology, and environmental sciences. Collect, prepare, analyze, and interpret stable isotope data.",
+      "prerequisites": {
+        "rawText": "CHEM 1035 or CHEM 1055 or CHEM 1055H",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4624",
+      "subject": "GEOS",
+      "number": "4624",
+      "level": 4000,
+      "title": "Mineral Deposits",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the range and variety of metallic and non-metallic economic mineral deposits. Classification of the petrologic and tectonic settings of mineral deposits. Source, transport and depositional mechanisms of mineral deposit formation. Laboratory emphasizes identification of ore minerals, gangue minerals, common host rocks, wall-rock alteration and mineral zoning. Course requirement of 3 hours of GEOS at the 3000-level or above, may be satisfied by taking prerequisite prior to or concurrent with course.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 2104 or GEOS 2024",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4634",
+      "subject": "GEOS",
+      "number": "4634",
+      "level": 4000,
+      "title": "Environmental Geochemistry",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of quantitative methods of thermodynamic and physicochemical analysis to the study of the distribution and movement of chemical elements in surface and near-surface geological environments. Emphasis on practical approaches to environmental geochemistry.",
+      "prerequisites": {
+        "rawText": "(MATH 1225 or MATH 1025) and (CHEM 1035 or CHEM 1055) or (ISC 1106 and ISC 1116)",
+        "referencedCourses": [
+          "CHEM 1035",
+          "CHEM 1055",
+          "ISC 1106",
+          "ISC 1116",
+          "MATH 1025",
+          "MATH 1225"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4714",
+      "subject": "GEOS",
+      "number": "4714",
+      "level": 4000,
+      "title": "Volcanoes and Volcanic Processes",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Study of processes and mechanisms of volcanic eruptions, including magma composition and origin, eruption styes and products, and tectonic settings of volcanoes. Role of volcanism in planetary evolution. Methods for monitoring active volcanoes and for forecasting future eruptions. Evaluation of connections between volcanoes, including volcanic hazards and the impacts of volcanism on society.",
+      "prerequisites": {
+        "rawText": "GEOS 1004 or GEOS 2024 or GEOS 2104",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4804",
+      "subject": "GEOS",
+      "number": "4804",
+      "level": 4000,
+      "title": "Groundwater Hydrology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Physical principles of groundwater flow, including application of analytical solutions to real-world problems. Well hydraulics. Geologic controls on groundwater flow.",
+      "prerequisites": {
+        "rawText": "(MATH 1226 or MATH 1026) and (PHYS 2205 or PHYS 2305)",
+        "referencedCourses": [
+          "MATH 1026",
+          "MATH 1226",
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4824",
+      "subject": "GEOS",
+      "number": "4824",
+      "level": 4000,
+      "title": "Engineering Geology",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of geological, geochemical, and hyrdogeological principles to engineering problems; relating rock and soil forming processes to engineering properties of geological materials; physical and chemical weathering processes and relationships with engineering properties of soil and rock; effective stress theory and geologic hazards; methods and data types for environmental applications and engineering works; geologic hazards and human-land interactions; professionalism and ethics in the practice of engineering geology.",
+      "prerequisites": {
+        "rawText": "(GEOS 1004 or GEOS 2024 or GEOS 2104) and (PHYS 2305 or PHYS 2205) and (CHEM 1035 or CHEM 1015) and (MATH 1225 or MATH 1025)",
+        "referencedCourses": [
+          "CHEM 1015",
+          "CHEM 1035",
+          "GEOS 1004",
+          "GEOS 2024",
+          "GEOS 2104",
+          "MATH 1025",
+          "MATH 1225",
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4924",
+      "subject": "GEOS",
+      "number": "4924",
+      "level": 4000,
+      "title": "Tectonics",
+      "credits": {
+        "min": 4,
+        "max": 4
+      },
+      "isVariableCredit": false,
+      "description": "Overview of modern plate tectonic theory and history. Physical processes driving present-day plate tectonic deformation including continental rifts, rifted margins, continental transforms, strike-slip faults, subduction zones and orogenic belts. Plate kinematic concepts and information about the Earth’s structure. Application of scientific method, data analysis, and computational modeling.",
+      "prerequisites": {
+        "rawText": "(MATH 1025 or MATH 1225) and (PHYS 2205 or PHYS 2305)",
+        "referencedCourses": [
+          "MATH 1025",
+          "MATH 1225",
+          "PHYS 2205",
+          "PHYS 2305"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Lab, 4 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4944",
+      "subject": "GEOS",
+      "number": "4944",
+      "level": 4000,
+      "title": "Study Abroad Topics in Geosciences",
+      "credits": {
+        "min": 1,
+        "max": 3
+      },
+      "isVariableCredit": true,
+      "description": "Study of geoscience topics in a global environment. Cross‐cultural perspectives on scientific inquiry and knowledge in the geosciences. Application to topics of societal relevance. Field experiences in places of geologic, societal and cultural interest. Specific topics may vary from semester to semester. May be repeated with different content for a maximum of 9 credit hours.",
+      "prerequisites": {
+        "rawText": "GEOS 2024 or GEOS 2104 or (GEOS 1004 and GEOS 1104)",
+        "referencedCourses": [
+          "GEOS 1004",
+          "GEOS 1104",
+          "GEOS 2024",
+          "GEOS 2104"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1-3 Lec, 1-3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 9 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4954",
+      "subject": "GEOS",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4964",
+      "subject": "GEOS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4974",
+      "subject": "GEOS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4974H",
+      "subject": "GEOS",
+      "number": "4974H",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4984",
+      "subject": "GEOS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4994",
+      "subject": "GEOS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "May be repeated for a maximum of 4 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 4 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "GEOS 4994H",
+      "subject": "GEOS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors section.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/geos/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

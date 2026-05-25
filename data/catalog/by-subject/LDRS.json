@@ -1,0 +1,411 @@
+{
+  "subject": "LDRS",
+  "scrapedAt": "2026-05-25T21:21:11.381Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "LDRS 1414",
+      "subject": "LDRS",
+      "number": "1414",
+      "level": 1000,
+      "title": "Citizen Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Language, theories, concepts, and competencies associated with practicing effective leadership and social change and developing intercultural and global awareness.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 1424",
+      "subject": "LDRS",
+      "number": "1424",
+      "level": 1000,
+      "title": "Citizen Leadership Praxis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Application of foundational knowledge of leadership, intercultural and global awareness, the social change model, and socially responsible leadership concepts toward a service-learning project.",
+      "prerequisites": {
+        "rawText": "LDRS 1414",
+        "referencedCourses": [
+          "LDRS 1414"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(2 Lec, 3 Lab, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 2014",
+      "subject": "LDRS",
+      "number": "2014",
+      "level": 2000,
+      "title": "Principles of Peer Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Theories and basic principles associated with being a positive influence on fellow students, identification of contemporary college student issues, leadership skills utilized to motivate peers in teamwork-based scenarios, leadership skills associated with human development, ethics, maintaining community, and conflict in decision making. May be repeated once for a maximum of 6 credits.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 2964",
+      "subject": "LDRS",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "May be repeated for a maximum of 6 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 2974",
+      "subject": "LDRS",
+      "number": "2974",
+      "level": 2000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 2984",
+      "subject": "LDRS",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 3104",
+      "subject": "LDRS",
+      "number": "3104",
+      "level": 3000,
+      "title": "The Dynamics of Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines advanced leadership theories and leadership effectiveness in todays organizations.",
+      "prerequisites": {
+        "rawText": "LDRS 1015 or LDRS 1414",
+        "referencedCourses": [
+          "LDRS 1414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 3304",
+      "subject": "LDRS",
+      "number": "3304",
+      "level": 3000,
+      "title": "Elements of Team Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Develop effectiveness in leading, delegating, and communicating within a team environment. Emphasis on motivation of team members, emotional intelligence, ethical issues, team member dynamics, team management, and effective team processes.",
+      "prerequisites": {
+        "rawText": "LDRS 1015 or LDRS 1414",
+        "referencedCourses": [
+          "LDRS 1414"
+        ]
+      },
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 3954",
+      "subject": "LDRS",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 3984",
+      "subject": "LDRS",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4044",
+      "subject": "LDRS",
+      "number": "4044",
+      "level": 4000,
+      "title": "Leadership Studies Capstone",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Culmination of comprehensive knowledge gained about leadership and social change throughout a students undergraduate career. Involves reflection on collegiate leadership experiences and coursework in the leadership and social change minor. Results in student development of an electronic portfolio (i.e., ePortfolio). Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "LDRS 1015 or LDRS 1414",
+        "referencedCourses": [
+          "LDRS 1414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4414",
+      "subject": "LDRS",
+      "number": "4414",
+      "level": 4000,
+      "title": "Leading with Humility",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "Teaches nature and origins of humility, traditional and modern understandings, connections to modern leadership theories/frameworks, application of humility to three dimensions: personal, relational, and community/cultural dimensions. Pre: Sophomore Standing",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4454",
+      "subject": "LDRS",
+      "number": "4454",
+      "level": 4000,
+      "title": "Toxic Leadership",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Toxic leadership, impacts and outcomes on leaders, followers, and the organizational environment. Apply problem-based learning through case study analysis, critical thinking and decision-making, and cooperative methods mitigating toxic leadership actions. Explore ethical-based leadership principles. Pre: Sophomore standing.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4514",
+      "subject": "LDRS",
+      "number": "4514",
+      "level": 4000,
+      "title": "Skills for Nonprofit Organizational Leaders",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Skills essential for leading nonprofit organizations. Nonprofit sector, governance, fundraising, financial administration, managing personnel, media communications, strategic planning, and leadership skills. Pre: Junior Standing.",
+      "prerequisites": {
+        "rawText": "LDRS 1414",
+        "referencedCourses": [
+          "LDRS 1414"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4754",
+      "subject": "LDRS",
+      "number": "4754",
+      "level": 4000,
+      "title": "Internship",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4964",
+      "subject": "LDRS",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "May be repeated for a maximum of 6 credits.",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "repeatability": "Repeatability: up to 6 credit hours",
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4974",
+      "subject": "LDRS",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4984",
+      "subject": "LDRS",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4994",
+      "subject": "LDRS",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "LDRS 4994H",
+      "subject": "LDRS",
+      "number": "4994H",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "description": "Honors",
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/ldrs/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

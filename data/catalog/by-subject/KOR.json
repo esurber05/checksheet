@@ -1,0 +1,49 @@
+{
+  "subject": "KOR",
+  "scrapedAt": "2026-05-25T21:21:05.137Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "KOR 1105",
+      "subject": "KOR",
+      "number": "1105",
+      "level": 1000,
+      "title": "Elementary Korean",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to speaking, listening, reading, and writing the Korean language. Emphasis on developing proficiency in practical language use, comprehension, and cultural competency. 1105: Basic tasks such as greetings, counting, and simple requests; for students with no prior knowledge of the language. 1106: Transactions like asking directions, expressing personal preferences, or making purchases.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/kor/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "KOR 1106",
+      "subject": "KOR",
+      "number": "1106",
+      "level": 1000,
+      "title": "Elementary Korean",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to speaking, listening, reading, and writing the Korean language. Emphasis on developing proficiency in practical language use, comprehension, and cultural competency. 1105: Basic tasks such as greetings, counting, and simple requests; for students with no prior knowledge of the language. 1106: Transactions like asking directions, expressing personal preferences, or making purchases.",
+      "prerequisites": {
+        "rawText": "KOR 1105",
+        "referencedCourses": [
+          "KOR 1105"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/kor/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}

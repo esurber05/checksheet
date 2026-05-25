@@ -1,0 +1,849 @@
+{
+  "subject": "UAP",
+  "scrapedAt": "2026-05-25T21:22:51.323Z",
+  "catalogYear": "2025-2026",
+  "courses": [
+    {
+      "code": "UAP 1004",
+      "subject": "UAP",
+      "number": "1004",
+      "level": 1000,
+      "title": "Introduction to Career & Professional Development in Public Service",
+      "credits": {
+        "min": 1,
+        "max": 1
+      },
+      "isVariableCredit": false,
+      "description": "This course introduces the academic requirements and potential career fields for the Environmental Policy and Planning (EPP) and Smart and Sustainable Cities (SSC) majors. It is designed to assist new and transfer students with academic planning, career exploration, and the job search process. In addition, students will develop an understanding of professional competencies and examine how these competencies relate to a potential occupational field. During the course, students will develop the materials and skills needed to successfully apply for an internship or job. These materials will include the preparation of a cover letter and resume that respond directly to a targeted position. The skills include interview and presentation techniques.",
+      "pathwaysConcepts": [],
+      "contactHours": "(1 Lec, 1 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 1024",
+      "subject": "UAP",
+      "number": "1024",
+      "level": 1000,
+      "title": "Leadership, Service, and Public Problem Solving",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Current events and case studies on complex planning and policy issues challenging the United States. Historical, political, economic, social, and geographical context of the issues. Roles, relationships and responsibilities in governing, government, and the public policy process. Approaches to leadership and leadership styles. Professional ethics and the role of ethics in policy decisions. Dealing with competing values and public vs. interests in policy making.",
+      "pathwaysConcepts": [
+        "3",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 2004",
+      "subject": "UAP",
+      "number": "2004",
+      "level": 2000,
+      "title": "Principles of Real Estate",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to real estate, including markets, land use planning and zoning, development, finance, construction, sales, marketing, management and property valuation. Examines the key actors and processes in each of these areas. Explores major public policies impacting real estate.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "REAL 2004"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 2114",
+      "subject": "UAP",
+      "number": "2114",
+      "level": 2000,
+      "title": "Sustainability by Design",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Design decision-making in complex contexts. Ethical issues underlying design for sustainability. Evaluation of design in systems, products, places, and modes of living using the Framework for Strategic Sustainable Development (FSSD). Historical and cultural underpinnings of design and sustainability.",
+      "pathwaysConcepts": [
+        "6D",
+        "10"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "ARCH 2114"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 2334",
+      "subject": "UAP",
+      "number": "2334",
+      "level": 2000,
+      "title": "Urbanization and Biodiversity Conservation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview of challenges and opportunities that urban environments create for biodiversity conservation and human wellbeing, with a focus on social sciences theories and approaches. How urbanization is changing people’s relationship with their environment and what that means for biodiversity conservation and human wellbeing. Examination of how data collection, analysis, and interpretation occur using social sciences methods applied to biodiversity conservation. Diversity, Equity, and Inclusion in the context of urbanization and conservation.",
+      "pathwaysConcepts": [
+        "3",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "FIW 2334"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 2964",
+      "subject": "UAP",
+      "number": "2964",
+      "level": 2000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 2984",
+      "subject": "UAP",
+      "number": "2984",
+      "level": 2000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3014",
+      "subject": "UAP",
+      "number": "3014",
+      "level": 3000,
+      "title": "Urban Policy and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "An introduction to urban policy and urban planning. Includes analysis of the basic concepts and principles of urban policy, a review of urban policy in the United States, discussion of the development of urban planning and its role in shaping the urban environment, and an analysis of the relationship between public policy and planning and the organization and structure of the urban environment.",
+      "prerequisites": {
+        "rawText": "UAP 1024",
+        "referencedCourses": [
+          "UAP 1024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3024",
+      "subject": "UAP",
+      "number": "3024",
+      "level": 3000,
+      "title": "Urban and Regional Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Overview and application of various methods used to study, represent, understand communities in their urban and regional context. Data collection and analysis; population, land use, transportation and economic forecasting; selecting and applying an appropriate method; designing and presenting a community study. Restricted to majors and minors only.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3224",
+      "subject": "UAP",
+      "number": "3224",
+      "level": 3000,
+      "title": "Policy Implementation",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Systematic analysis of the field and practice of public policy implementation. Includes analysis of the structure and dynamics of the policy process as well as specific analytic approaches to understanding policy implementation. Includes analysis of intra-organizational, interorganizational and intergovernmental implementation processes.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3264",
+      "subject": "UAP",
+      "number": "3264",
+      "level": 3000,
+      "title": "Contemporary Urban Issues",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Consideration of one particular issue of immediate importance to the contemporary urban environment. Topics emphasize major social or economic policy issues, and may change each year. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3344",
+      "subject": "UAP",
+      "number": "3344",
+      "level": 3000,
+      "title": "Global Environmental Issues: Interdisciplinary Perspectives",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Critical examination of major global environmental problems from a humanities perspective, including international community responses to global environmental problems such as global warming, atmospheric ozone depletion, acid rain, tropical deforestation, toxic waste. Actions by key actors in the international community to develop solutions. Relationship of justice, fairness, equality, and diversity to political questions of power or authority. Pre: 3 credits of Critical Issues in a Global Context.",
+      "pathwaysConcepts": [
+        "2",
+        "11"
+      ],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 3344",
+        "PSCI 3344"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3354",
+      "subject": "UAP",
+      "number": "3354",
+      "level": 3000,
+      "title": "Introduction to Environmental Policy and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Introduction to the interdisciplinary principles of environmental policy, planning, economics, and ethics to address pollution abatement, resources conservation, habitat protection, and environmental restoration. The course will focus on practical means of identifying environmental problems and creatively solving them.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3434",
+      "subject": "UAP",
+      "number": "3434",
+      "level": 3000,
+      "title": "Public Administration",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The role and context of public administration in the contemporary United States, administrative organization and decision-making, public finance, human resources administration, and program implementation.",
+      "prerequisites": {
+        "rawText": "PSCI 1014",
+        "referencedCourses": [
+          "PSCI 1014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3414"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3444",
+      "subject": "UAP",
+      "number": "3444",
+      "level": 3000,
+      "title": "Administrative Law and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The legal context of the exercise of discretion by public administrators in the United States. Adjudication and rule- making; access to administrative processes and information; legislative and judicial control of administration.",
+      "prerequisites": {
+        "rawText": "PSCI 1014",
+        "referencedCourses": [
+          "PSCI 1014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3444"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3464",
+      "subject": "UAP",
+      "number": "3464",
+      "level": 3000,
+      "title": "Appalachian Communities",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "The concept of community in Appalachia using an interdisciplinary approach and experiential learning. Interrelationships among geographically, culturally, and socially constituted communities, public policy, and human development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "AHRM 3464",
+        "APS 3464",
+        "GEOG 3464",
+        "HUM 3464",
+        "SOC 3464"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3714",
+      "subject": "UAP",
+      "number": "3714",
+      "level": 3000,
+      "title": "The U. S. Policy Process",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Description and analysis of the processes and institutions involved in the making and implementation of public policy in the United States, with a primary focus on domestic and economic policy. Empirical and normative models of the process of public policy making in the U.S.",
+      "prerequisites": {
+        "rawText": "PSCI 1014",
+        "referencedCourses": [
+          "PSCI 1014"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3714"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3744",
+      "subject": "UAP",
+      "number": "3744",
+      "level": 3000,
+      "title": "Public Policy Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Methods and approaches used in the analysis and evaluation of public policy; strengths and limitations of various analytic tools; normative issues in the practice of policy analysis.",
+      "prerequisites": {
+        "rawText": "PSCI 1014 or PSCI 1014H",
+        "referencedCourses": [
+          "PSCI 1014",
+          "PSCI 1014H"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3744"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3774",
+      "subject": "UAP",
+      "number": "3774",
+      "level": 3000,
+      "title": "Marxian Political Analysis",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Contemporary uses of Marxian concepts and theories to study the world economy, business structure, current social issues, modern ethical values, and alienation.",
+      "prerequisites": {
+        "rawText": "PSCI 2014 or PSCI 2054 or IS 2054 or GEOG 2054 or PSCI 2064 or IS 2064 or GEOG 2064",
+        "referencedCourses": [
+          "GEOG 2054",
+          "GEOG 2064",
+          "IS 2054",
+          "IS 2064",
+          "PSCI 2014",
+          "PSCI 2054",
+          "PSCI 2064"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 3774"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3954",
+      "subject": "UAP",
+      "number": "3954",
+      "level": 3000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 3984",
+      "subject": "UAP",
+      "number": "3984",
+      "level": 3000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4214",
+      "subject": "UAP",
+      "number": "4214",
+      "level": 4000,
+      "title": "Gender, Environment, and International Development",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Key concepts and critiques related to the intersection of gender, environment, and international development. Development institutions and organizations with relationship to gender and environment. Theoretical and applied perspectives on eco-feminism; bio-diversity; climate change; feminist political ecology; agriculture and natural resources; participatory methods and empowerment. Case studies from Africa, Asia, and Latin America. Pre: Junior Standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 4214",
+        "WGS 4214"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4264",
+      "subject": "UAP",
+      "number": "4264",
+      "level": 4000,
+      "title": "Environmental Ethics and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Issues in applied environmental ethics. Contributions of diverse religious and philosophical traditions to contemporary perspectives on the human-nature relationship. Examination of environmental policies from utilitarian economic, deep ecology, and ecofeminist perspectives. Junior, senior or graduate standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4344",
+      "subject": "UAP",
+      "number": "4344",
+      "level": 4000,
+      "title": "Law of Critical Environmental Areas",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course examines the legal principles and policy debates involved in the regulation and protection of critical environmental resources. Specific topics vary but will likely include wetlands law and policy, endangered species habitat, open space, forestland and farmland protection, coastal zone management, and floodplain regulation and policy.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4354",
+      "subject": "UAP",
+      "number": "4354",
+      "level": 4000,
+      "title": "Interdisciplinary Environmental Problem Solving Studio",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Interdisciplinary, experiential problem-solving studio focusing on specific environmental problems. Working in groups, students interact with local officials, developers, environmental groups, and community organizations to explore the processes of environmental management, planning, and regulations. Students apply techniques and skills frequently used by environmental policymakers and planners. Pre: Senior standing.",
+      "prerequisites": {
+        "rawText": "UAP 3354 and UAP 3224",
+        "referencedCourses": [
+          "UAP 3224",
+          "UAP 3354"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4374",
+      "subject": "UAP",
+      "number": "4374",
+      "level": 4000,
+      "title": "Land Use and Environment: Planning and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Environmental factors involved in land use planning and development, including topography, soils, geologic hazards, flooding and stormwater management, ecological features, and visual quality. Techniques used in conducting environmental land inventories and land suitability analyses. Policies and programs to protect environmental quality in land use planning and development. Pre: Junior standing.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4384",
+      "subject": "UAP",
+      "number": "4384",
+      "level": 4000,
+      "title": "Pollution Control Planning and Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Planning and policy aspects of managing residuals and environmental contaminants and their effects on human health and environmental quality. Technical and economic factors involved in management of water quality, air quality, solid and hazardous wastes, toxic substances, and noise. Implementation of pollution control legislation, policies, and programs at federal, state, and local levels.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4394",
+      "subject": "UAP",
+      "number": "4394",
+      "level": 4000,
+      "title": "Community Renewable Energy Systems",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Practical design fundamentals for small scale renewable energy systems: solar building heating and cooling; solar domestic hot water; wind, photovoltaic, and hydroelectric systems; alcohol, methane and other biomass conversion systems. Developing plans, programs, and policies to stimulate development of renewable systems.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4624",
+      "subject": "UAP",
+      "number": "4624",
+      "level": 4000,
+      "title": "The Washington Semester: Seminar in American Politics and Public Policy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This seminar is the integrative forum for the principal elements of the Washington Semester experience. The course explores both the role of political institutions in policy formation and implementation and the primary managerial and leadership challenges that arise for implementing organization managers in American democratic public policy-making. Pre: Junior standing or instructor consent and acceptance into the Washington Semester program.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "IS 4624",
+        "PSCI 4624"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4644",
+      "subject": "UAP",
+      "number": "4644",
+      "level": 4000,
+      "title": "Washington Semester: Politics, Policy and Administration in A Democracy",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This course is part of the Washington Semester. Explores the relationship between the imperatives of democratic mobilization, policy choices and organizational choices through intensive study of the operating context of a selected public or nonprofit organization. Examines implications of policy-maker choices for implementing institution dynamics and challenges. Pre: Junior standing and acceptance into the Washington Semester program required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "PSCI 4644"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4714",
+      "subject": "UAP",
+      "number": "4714",
+      "level": 4000,
+      "title": "Economics and Financing of State and Local Governments",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examines the provision and financing of public goods and services in local governments. Analyzes associated policy issues. Reviews experience in Western Europe and developing countries, as well as in the United States.",
+      "prerequisites": {
+        "rawText": "UAP 3024 and (ECON 2005 or ECON 2005H) and (ECON 2006 or ECON 2006H)",
+        "referencedCourses": [
+          "ECON 2005",
+          "ECON 2006",
+          "UAP 3024"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4754",
+      "subject": "UAP",
+      "number": "4754",
+      "level": 4000,
+      "title": "Legal Foundations of Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of the legal context in which urban planning and public policy operate. Legal structure, role of law, powers of sovereign governments, constitutional limitations on government activities, and public-private conflict and their influence on planning and public policy are examined. Pre: Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4764",
+      "subject": "UAP",
+      "number": "4764",
+      "level": 4000,
+      "title": "International Development Policy and Planning",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Examination of major development theories and contemporary issues and characteristics of low-income societies (industrialization, urbanization, migration, rural poverty, hunger, foreign trade, and debt) that establish contexts for development planning and policy-making. Junior standing required.",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [
+        "GEOG 4764",
+        "SOC 4764"
+      ],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4854",
+      "subject": "UAP",
+      "number": "4854",
+      "level": 4000,
+      "title": "Planning of the Urban Infrastructure",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "Course examines the interdependences among the elements of the built environment of the city and those between the elements of the built environment and the policy/planning structure of the city. Considered are those elements associated with the primary urban activities (residential, commercial, industrial) as well as the urban form-giving infrastructure facilities that support those land uses (water supply, sewerage, solid waste disposal, transportation, education, recreation, health, and safety).",
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4914",
+      "subject": "UAP",
+      "number": "4914",
+      "level": 4000,
+      "title": "Seminar in Public and Urban Affairs",
+      "credits": {
+        "min": 3,
+        "max": 3
+      },
+      "isVariableCredit": false,
+      "description": "This capstone seminar explores the central questions of the role of the citizen and the citizenry in democratic capitalistic urban societies as well as the nature of accountability in such regimes. Topics such as the processes by which representation occurs, alternate theories of democratic community and the relationship of the public, private and civil sectors in urban society are treated. Senior status in PUA required. PUA majors and minors must complete this course with a C grade or higher to graduate; otherwise course must be repeated.",
+      "prerequisites": {
+        "rawText": "UAP 4754 and SPIA 2554 and SPIA 3554",
+        "referencedCourses": [
+          "SPIA 2554",
+          "SPIA 3554",
+          "UAP 4754"
+        ]
+      },
+      "pathwaysConcepts": [],
+      "contactHours": "(3 Lec, 3 Crd)",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4954",
+      "subject": "UAP",
+      "number": "4954",
+      "level": 4000,
+      "title": "Study Abroad",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4964",
+      "subject": "UAP",
+      "number": "4964",
+      "level": 4000,
+      "title": "Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4964H",
+      "subject": "UAP",
+      "number": "4964H",
+      "level": 4000,
+      "title": "Honors Field Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4974",
+      "subject": "UAP",
+      "number": "4974",
+      "level": 4000,
+      "title": "Independent Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4984",
+      "subject": "UAP",
+      "number": "4984",
+      "level": 4000,
+      "title": "Special Study",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    },
+    {
+      "code": "UAP 4994",
+      "subject": "UAP",
+      "number": "4994",
+      "level": 4000,
+      "title": "Undergraduate Research",
+      "credits": {
+        "min": 1,
+        "max": 19
+      },
+      "isVariableCredit": true,
+      "pathwaysConcepts": [],
+      "contactHours": "Variable credit course",
+      "crossListedWith": [],
+      "sourceUrl": "https://catalog.vt.edu/undergraduate/course-descriptions/uap/",
+      "catalogYear": "2025-2026"
+    }
+  ]
+}
