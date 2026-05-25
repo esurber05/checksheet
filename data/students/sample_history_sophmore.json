@@ -1,0 +1,92 @@
+{
+  "studentId": "S00002",
+  "displayName": "Jordan Rivera (sample)",
+  "catalogYear": "2024-2025",
+  "enrolledSemester": "fall_2024",
+  "expectedGraduation": "spring_2028",
+  "programs": [
+    {
+      "programId": "HIST_BA",
+      "type": "major",
+      "declaredDate": "2024-08-20"
+    }
+  ],
+  "admissions": {
+    "foreignLanguageBackground": {
+      "language": "Spanish",
+      "yearsHighSchool": 4,
+      "placementLevel": 2105
+    }
+  },
+  "courseRecord": [
+    {
+      "status": "completed",
+      "course": "HIST 1004",
+      "credits": 3,
+      "grade": "A-",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "HIST 1115",
+      "credits": 3,
+      "grade": "B+",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "ENGL 1105",
+      "credits": 3,
+      "grade": "A",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "MATH 1014",
+      "credits": 3,
+      "grade": "B",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "PSYC 2004",
+      "credits": 3,
+      "grade": "A",
+      "semester": "fall_2024"
+    },
+    {
+      "status": "completed",
+      "course": "HIST 1116",
+      "credits": 3,
+      "grade": "A",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "completed",
+      "course": "ENGL 1106",
+      "credits": 3,
+      "grade": "A-",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "completed",
+      "course": "FR 2106",
+      "credits": 3,
+      "grade": "B",
+      "semester": "spring_2025"
+    },
+    {
+      "status": "in_progress",
+      "course": "HIST 2004",
+      "credits": 3,
+      "semester": "fall_2025"
+    },
+    {
+      "status": "in_progress",
+      "course": "HIST 3054",
+      "credits": 3,
+      "semester": "fall_2025"
+    }
+  ],
+  "advisorApprovals": []
+}
