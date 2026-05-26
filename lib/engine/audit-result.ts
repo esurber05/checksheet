@@ -7,8 +7,16 @@
 
 import type { Program, DoubleCountRule } from "../schemas/program.ts";
 import type { StudentRecord, AdvisorApproval, Grade } from "../schemas/student.ts";
+import type { Course } from "../schemas/course.ts";
 
 export type { Program, StudentRecord, AdvisorApproval, DoubleCountRule };
+
+export interface Catalog {
+  lookupCourse(code: string): Course | undefined;
+  coursesByPathwaysConcept(concept: string): Course[];
+  coursesBySubject(subject: string): Course[];
+  resolveAlias(code: string): string;
+}
 
 // AuditCourse — mutable wrapper around an effective course
 
@@ -39,6 +47,7 @@ export type EvaluatorContext = {
    * before marking a course consumed.
    */
   canClaim: (course: AuditCourse) => boolean;
+  catalog: Catalog;
 };
 
 // RequirementResult — tagged union returned by every evaluator

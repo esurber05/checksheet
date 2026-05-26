@@ -8,12 +8,20 @@ import { effectiveCourses, overallGPA, inMajorGPA } from "../schemas/student.ts"
 
 import type {
   AuditCourse,
+  Catalog,
   EvaluatorContext,
   RequirementResult,
   GroupResult,
   GpaCheck,
   AuditResult,
 } from "./audit-result.ts";
+import {
+  loadCatalog,
+  lookupCourse,
+  coursesByPathwaysConcept,
+  coursesBySubject,
+  resolveAlias,
+} from "../catalog.ts";
 
 import { evaluateExact } from "./evaluators/exact.ts";
 import { evaluateZeroCredit } from "./evaluators/zero-credit.ts";
@@ -98,6 +106,9 @@ function dispatch(ctx: EvaluatorContext, req: RequirementType): RequirementResul
 // runAudit — public entry point
 
 export function runAudit(program: Program, student: StudentRecord): AuditResult {
+  loadCatalog();
+  const catalog: Catalog = { lookupCourse, coursesByPathwaysConcept, coursesBySubject, resolveAlias };
+
   // Build mutable AuditCourse pool, deduplicating by VT code.
   const rawCourses = effectiveCourses(student);
   const seenCodes = new Map<string, AuditCourse>();
@@ -151,6 +162,7 @@ export function runAudit(program: Program, student: StudentRecord): AuditResult 
         approvals: student.advisorApprovals,
         currentGroupId: groupId,
         canClaim: buildCanClaim(groupId, program.doubleCountRules),
+        catalog,
       };
       const result = dispatch(ctx, req);
       resultsByGroup.get(groupId)!.push(result);
