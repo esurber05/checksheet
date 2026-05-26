@@ -7,6 +7,24 @@ import type { ExactCourseSchema } from "../../schemas/program.ts";
 type ExactRequirement = z.infer<typeof ExactCourseSchema>;
 
 export function evaluateExact(ctx: EvaluatorContext, req: ExactRequirement): RequirementResult {
+  // When credits are omitted, validate the course exists in the catalog with fixed credit value.
+  if (req.credits === undefined) {
+    const catalogCourse = ctx.catalog.lookupCourse(req.course);
+    if (!catalogCourse) {
+      throw new Error(
+        `Exact requirement "${req.id}" references course ${req.course}, which is not in the catalog. ` +
+        `Add the course to the catalog or specify credits explicitly in the program JSON.`
+      );
+    }
+    if (catalogCourse.credits.min !== catalogCourse.credits.max) {
+      throw new Error(
+        `Exact requirement "${req.id}" references variable-credit course ${req.course} ` +
+        `(${catalogCourse.credits.min}–${catalogCourse.credits.max} cr). ` +
+        `Specify credits explicitly in the program JSON.`
+      );
+    }
+  }
+
   // Build the set of acceptable course codes (primary + substitutes + advisor-approved swaps).
   const candidates = new Set([req.course, ...req.substitutes]);
   for (const approval of ctx.approvals) {

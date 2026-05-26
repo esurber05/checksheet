@@ -12,12 +12,18 @@
   "doubleCountRules": [
     {
       "type": "forbid",
-      "between": ["history_core", "pathways"],
+      "between": [
+        "history_core",
+        "pathways"
+      ],
       "note": "Classes used for History Core CANNOT be used for Pathways"
     },
     {
       "type": "allow",
-      "between": ["major_requirements", "pathways"],
+      "between": [
+        "major_requirements",
+        "pathways"
+      ],
       "note": "Concepts 1A, 2, 3, 5F, and 7 may be met with approved HIST courses"
     }
   ],
@@ -31,7 +37,6 @@
           "type": "exact",
           "id": "hist1004",
           "course": "HIST 1004",
-          "credits": 3,
           "label": "Introduction to History"
         },
         {
@@ -40,36 +45,78 @@
           "label": "History Survey Sequence",
           "credits": 6,
           "options": [
-            { "sequence": ["HIST 1025", "HIST 1026"] },
-            { "sequence": ["HIST 1115", "HIST 1116"] },
-            { "sequence": ["HIST 1215", "HIST 1216"] },
-            { "sequence": ["HIST 1515", "HIST 1516"] },
-            { "sequence": ["HIST 2275", "HIST 2276"] },
-            { "sequence": ["HIST 2345", "HIST 2346"] },
-            { "sequence": ["HIST 2355", "HIST 2356"] },
-            { "sequence": ["HIST 2374", "HIST 2384"] },
-            { "sequence": ["HIST 2715", "HIST 2716"] }
+            {
+              "sequence": [
+                "HIST 1025",
+                "HIST 1026"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 1115",
+                "HIST 1116"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 1215",
+                "HIST 1216"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 1515",
+                "HIST 1516"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 2275",
+                "HIST 2276"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 2345",
+                "HIST 2346"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 2355",
+                "HIST 2356"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 2374",
+                "HIST 2384"
+              ]
+            },
+            {
+              "sequence": [
+                "HIST 2715",
+                "HIST 2716"
+              ]
+            }
           ]
         },
         {
           "type": "exact",
           "id": "hist2004",
           "course": "HIST 2004",
-          "credits": 3,
           "label": "Historical Methods"
         },
         {
           "type": "exact",
           "id": "hist3914",
           "course": "HIST 3914",
-          "credits": 3,
           "label": "Critical Reading and Analysis in History"
         },
         {
           "type": "exact",
           "id": "hist4914",
           "course": "HIST 4914",
-          "credits": 3,
           "label": "History Research Seminar"
         },
         {
@@ -250,7 +297,10 @@
           "id": "pathways_1f",
           "label": "Pathways 1F - First-Year Writing",
           "credits": 6,
-          "pool": { "type": "pathways_designated", "concept": "1F" },
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "1F"
+          },
           "note": "Typically ENGL 1105-1106 or COMM 1015-1016"
         },
         {
@@ -258,63 +308,90 @@
           "id": "pathways_1a",
           "label": "Pathways 1A - Advanced/Applied Discourse",
           "credits": 3,
-          "pool": { "type": "pathways_designated", "concept": "1A" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "1A"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_2",
           "label": "Pathways 2 - Critical Thinking in the Humanities",
           "credits": 6,
-          "pool": { "type": "pathways_designated", "concept": "2" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "2"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_3",
           "label": "Pathways 3 - Reasoning in the Social Sciences",
           "credits": 6,
-          "pool": { "type": "pathways_designated", "concept": "3" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "3"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_4",
           "label": "Pathways 4 - Reasoning in the Natural Sciences",
           "credits": 6,
-          "pool": { "type": "pathways_designated", "concept": "4" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "4"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_5f",
           "label": "Pathways 5F - Quantitative and Computational Foundations",
           "credits": 6,
-          "pool": { "type": "pathways_designated", "concept": "5F" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "5F"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_5a",
           "label": "Pathways 5A - Quantitative and Computational Applications",
           "credits": 3,
-          "pool": { "type": "pathways_designated", "concept": "5A" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "5A"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_6d",
           "label": "Pathways 6D - Critique and Practice in Design",
           "credits": 3,
-          "pool": { "type": "pathways_designated", "concept": "6D" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "6D"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_6a",
           "label": "Pathways 6A - Critique and Practice in the Arts",
           "credits": 3,
-          "pool": { "type": "pathways_designated", "concept": "6A" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "6A"
+          }
         },
         {
           "type": "credits_from_pool",
           "id": "pathways_7",
           "label": "Pathways 7 - Identity & Equity in the US",
           "credits": 3,
-          "pool": { "type": "pathways_designated", "concept": "7" }
+          "pool": {
+            "type": "pathways_designated",
+            "concept": "7"
+          }
         }
       ]
     }

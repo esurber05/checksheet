@@ -9,7 +9,7 @@ export function evaluateCreditsFromPool(
   ctx: EvaluatorContext,
   req: CreditsFromPoolRequirement,
 ): RequirementResult {
-  // Build pathways concept map from catalog only when needed.
+  // Build pathways concept map from catalog only when needed
   const pathwaysMap: Map<string, string[]> = new Map();
   if (req.pool.type === "pathways_designated") {
     for (const c of ctx.courses) {

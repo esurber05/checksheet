@@ -132,7 +132,7 @@ export const ExactCourseSchema = z.object({
   type: z.literal("exact"),
   ...BaseRequirementFields,
   course: CourseCodeSchema,
-  credits: z.number().positive(),
+  credits: z.number().positive().optional(),
   minGrade: GradeSchema.optional(),
   substitutes: z.array(CourseCodeSchema).default([]),
   noDoubleCounting: z.boolean().default(false),
