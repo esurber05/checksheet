@@ -9,9 +9,14 @@ export function evaluateCreditsFromPool(
   ctx: EvaluatorContext,
   req: CreditsFromPoolRequirement,
 ): RequirementResult {
-  // For pathways_designated pools: we have no catalog data yet, so we can't
-  // match courses. Return a partial/unsatisfied with an informative message
-  const isPathways = req.pool.type === "pathways_designated";
+  // Build pathways concept map from catalog only when needed.
+  const pathwaysMap: Map<string, string[]> = new Map();
+  if (req.pool.type === "pathways_designated") {
+    for (const c of ctx.courses) {
+      const catalogCourse = ctx.catalog.lookupCourse(c.course);
+      if (catalogCourse) pathwaysMap.set(c.course, catalogCourse.pathwaysConcepts);
+    }
+  }
 
   let creditsApplied = 0;
   const claimed: string[] = [];
@@ -19,7 +24,7 @@ export function evaluateCreditsFromPool(
   for (const course of ctx.courses) {
     if (creditsApplied >= req.credits) break;
     if (!ctx.canClaim(course)) continue;
-    if (!courseMatchesPool(course.course, req.pool)) continue;
+    if (!courseMatchesPool(course.course, req.pool, pathwaysMap)) continue;
     course.consumed = true;
     course.consumedBy = `${ctx.currentGroupId}:${req.id}`;
     creditsApplied += course.credits;
@@ -51,8 +56,6 @@ export function evaluateCreditsFromPool(
     };
   }
 
-  const pathwaysNote = isPathways ? " (course catalog integration required for Pathways matching)" : "";
-
   if (creditsApplied > 0) {
     return {
       status: "partial",
@@ -61,7 +64,7 @@ export function evaluateCreditsFromPool(
       coursesMatched: claimed,
       creditsApplied,
       creditsNeeded: req.credits - creditsApplied,
-      message: `${req.label ?? req.id}: ${creditsApplied}/${req.credits} credits${pathwaysNote}`,
+      message: `${req.label ?? req.id}: ${creditsApplied}/${req.credits} credits`,
       missing: `${req.credits - creditsApplied} more credits from pool`,
     };
   }
@@ -72,7 +75,7 @@ export function evaluateCreditsFromPool(
     label: req.label,
     coursesMatched: [],
     creditsApplied: 0,
-    message: `${req.label ?? req.id}: no matching courses completed${pathwaysNote}`,
+    message: `${req.label ?? req.id}: no matching courses completed`,
     missing: `${req.credits} credits from pool`,
   };
 }
