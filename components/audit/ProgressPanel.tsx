@@ -20,9 +20,9 @@ export default function ProgressPanel({ audit }: { audit: AuditResult }) {
             {summary.totalCreditsApplied} / {summary.totalCreditsRequired}
           </span>
         </div>
-        <div className="h-2 bg-stone-100 rounded-full overflow-hidden">
+        <div className="relative h-2 bg-stone-100 rounded-full">
           <div
-            className="h-full bg-maroon rounded-full"
+            className="absolute inset-y-0 left-0 bg-maroon rounded-full"
             style={{ width: `${pct}%` }}
           />
         </div>
@@ -37,7 +37,7 @@ export default function ProgressPanel({ audit }: { audit: AuditResult }) {
           <div>
             <span className="text-xs text-stone-600">Overall GPA </span>
             <span className="font-mono tabular-nums font-medium text-stone-900">
-              {overallGpa.actual.toFixed(3)}
+              {overallGpa.actual.toFixed(2)}
             </span>
           </div>
         )}
@@ -45,7 +45,7 @@ export default function ProgressPanel({ audit }: { audit: AuditResult }) {
           <div>
             <span className="text-xs text-stone-600">{inMajorGpa.label} </span>
             <span className="font-mono tabular-nums font-medium text-stone-900">
-              {inMajorGpa.actual.toFixed(3)}
+              {inMajorGpa.actual.toFixed(2)}
             </span>
           </div>
         )}

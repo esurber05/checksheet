@@ -19,9 +19,21 @@ function StatusIcon({ status }: { status: RequirementResult["status"] }) {
   );
 }
 
-export default function RequirementRow({ result }: { result: RequirementResult }) {
+export default function RequirementRow({
+  result,
+  courseTitles,
+}: {
+  result: RequirementResult;
+  courseTitles: Record<string, string>;
+}) {
   const isSatisfied = result.status === "satisfied";
   const isPartial = result.status === "partial";
+
+  const primaryLabel =
+    result.label ??
+    (result.coursesMatched.length === 1
+      ? (courseTitles[result.coursesMatched[0]] ?? result.requirementId)
+      : result.requirementId);
 
   return (
     <div className={`flex items-start gap-3 pl-3 py-2 ${borderClass(result.status)}`}>
@@ -30,7 +42,7 @@ export default function RequirementRow({ result }: { result: RequirementResult }
         <div className="flex items-baseline justify-between gap-4">
           <div className="min-w-0 flex items-baseline gap-2 flex-wrap">
             <span className="font-mono text-sm text-stone-900">
-              {result.label ?? result.requirementId}
+              {primaryLabel}
             </span>
             {result.coursesMatched.length > 0 && (
               <span className="text-xs text-stone-500 font-mono">

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { parseProgram } from "@/lib/schemas/program.ts";
 import { parseStudentRecord, effectiveCourses } from "@/lib/schemas/student.ts";
 import { runAudit } from "@/lib/engine/index.ts";
+import { lookupCourse } from "@/lib/catalog.ts";
 import ProgressPanel from "@/components/audit/ProgressPanel.tsx";
 import RequirementGroup from "@/components/audit/RequirementGroup.tsx";
 
@@ -42,6 +43,32 @@ export default async function AuditPage({
   const program = parseProgram(programRaw);
 
   const audit = runAudit(program, student);
+
+  // Re-sort each group's requirementResults to match the JSON definition order.
+  // The dispatcher processes requirements by evaluation tier for correctness but
+  // stores results in that tier order; we restore the human-readable JSON order here.
+  for (const group of program.requirementGroups) {
+    const groupResult = audit.groupResults.find((g) => g.groupId === group.id);
+    if (!groupResult) continue;
+    const order = new Map(group.requirements.map((req, i) => [req.id, i]));
+    groupResult.requirementResults.sort(
+      (a, b) => (order.get(a.requirementId) ?? 999) - (order.get(b.requirementId) ?? 999),
+    );
+  }
+
+  // Build catalog title lookup for all matched courses so RequirementRow can
+  // display a human-readable course title instead of the raw requirement ID.
+  const courseTitles: Record<string, string> = {};
+  for (const group of audit.groupResults) {
+    for (const result of group.requirementResults) {
+      for (const code of result.coursesMatched) {
+        if (!(code in courseTitles)) {
+          const entry = lookupCourse(code);
+          if (entry) courseTitles[code] = entry.title;
+        }
+      }
+    }
+  }
 
   // Compute unallocated courses — AuditResult has no unusedCourses field,
   // so we derive it by diffing effectiveCourses against all coursesMatched.
@@ -84,7 +111,7 @@ export default async function AuditPage({
 
       {/* Requirement groups */}
       {audit.groupResults.map((group) => (
-        <RequirementGroup key={group.groupId} group={group} />
+        <RequirementGroup key={group.groupId} group={group} courseTitles={courseTitles} />
       ))}
 
       {/* Unallocated courses footnote */}

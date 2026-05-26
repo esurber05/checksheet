@@ -1,7 +1,13 @@
 import type { GroupResult } from "@/lib/engine/audit-result.ts";
 import RequirementRow from "./RequirementRow.tsx";
 
-export default function RequirementGroup({ group }: { group: GroupResult }) {
+export default function RequirementGroup({
+  group,
+  courseTitles,
+}: {
+  group: GroupResult;
+  courseTitles: Record<string, string>;
+}) {
   return (
     <section>
       <div className="flex items-baseline justify-between mb-2">
@@ -17,7 +23,7 @@ export default function RequirementGroup({ group }: { group: GroupResult }) {
       <hr className="border-stone-200 mb-4" />
       <div className="space-y-1">
         {group.requirementResults.map((result) => (
-          <RequirementRow key={result.requirementId} result={result} />
+          <RequirementRow key={result.requirementId} result={result} courseTitles={courseTitles} />
         ))}
       </div>
     </section>
