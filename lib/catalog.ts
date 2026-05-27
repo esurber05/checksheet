@@ -102,3 +102,12 @@ export function resolveAlias(code: string): string {
   ensure();
   return aliases!.get(code) ?? code;
 }
+
+/**
+ * Returns every course in the catalog as a flat array.
+ * Free after the first call — reuses the already-loaded byCode Map.
+ */
+export function getAllCourses(): Course[] {
+  ensure();
+  return Array.from(byCode!.values());
+}

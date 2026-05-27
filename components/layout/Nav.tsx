@@ -8,6 +8,9 @@ export default function Nav() {
           Checksheet
         </Link>
         <div className="flex gap-6 text-sm">
+          <Link href="/courses" className="text-stone-600 hover:text-stone-900">
+            Courses
+          </Link>
           <Link href="/audit/S00001" className="text-stone-600 hover:text-stone-900">
             Audit
           </Link>
