@@ -14,7 +14,9 @@ export default function Nav() {
           <Link href="/audit/S00001" className="text-stone-600 hover:text-stone-900">
             Audit
           </Link>
-          <span className="text-stone-400 cursor-default">Planner</span>
+          <Link href="/plan/S00001" className="text-stone-600 hover:text-stone-900">
+            Plan
+          </Link>
           <span className="text-stone-400 cursor-default">Settings</span>
         </div>
       </div>
