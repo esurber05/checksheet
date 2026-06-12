@@ -37,8 +37,8 @@ function humanizeSemester(s: string): string {
   return `${season.charAt(0).toUpperCase()}${season.slice(1)} ${year}`;
 }
 
-function buildSemesterRange(student: StudentRecord): string[] {
-  const allSemesters = student.courseRecord
+function buildSemesterRange(student: StudentRecord, courseRecord: CourseEntry[]): string[] {
+  const allSemesters = courseRecord
     .map((c) => ("semester" in c ? c.semester : undefined))
     .filter((s): s is string => !!s);
 
@@ -76,7 +76,24 @@ function derivedCurrentSemester(override?: string): string {
   const year = now.getFullYear();
   if (month >= 8) return `fall_${year}`;
   if (month <= 4) return `spring_${year}`;
-  return `fall_${year}`; // months 5–7: spring done, fall is next
+  return `fall_${year}`;
+}
+
+// ── Two-column grid grouping ────────────────────────────────────────────────
+
+type YearPair = { year: number; spring?: string; fall?: string };
+
+function groupByYear(semesters: string[]): YearPair[] {
+  const map = new Map<number, YearPair>();
+  for (const sem of semesters) {
+    const [season, yr] = sem.split("_");
+    if (season !== "spring" && season !== "fall") continue;
+    const y = parseInt(yr, 10);
+    if (!map.has(y)) map.set(y, { year: y });
+    if (season === "spring") map.get(y)!.spring = sem;
+    else map.get(y)!.fall = sem;
+  }
+  return [...map.values()].sort((a, b) => b.year - a.year);
 }
 
 // ── Course helpers ──────────────────────────────────────────────────────────
@@ -136,7 +153,7 @@ function DroppableSemesterCard({
   return (
     <div
       ref={setNodeRef}
-      className={isOver && active ? "ring-1 ring-maroon/40 rounded-lg" : undefined}
+      className={isOver && active ? "ring-1 ring-maroon/40 rounded-xl" : undefined}
     >
       {children}
     </div>
@@ -146,42 +163,27 @@ function DroppableSemesterCard({
 // ── Status pill ─────────────────────────────────────────────────────────────
 
 function StatusPill({ entry }: { entry: CourseEntry }) {
+  const base = "px-1.5 py-0.5 rounded-md text-[10px] font-medium shrink-0";
   if (entry.status === "completed") {
     return (
       <span className="flex items-center gap-1 shrink-0">
-        <span className="text-green-700 text-xs">✓</span>
-        <span className="font-mono text-[10px] text-stone-500">{entry.grade}</span>
+        <span className="text-green-700 text-xs leading-none">✓</span>
+        <span className={`font-mono text-[10px] text-stone-400`}>{entry.grade}</span>
       </span>
     );
   }
   if (entry.status === "in_progress") {
-    return (
-      <span className="text-[10px] font-medium px-1 py-0 rounded bg-maroon/10 text-maroon shrink-0">
-        IP
-      </span>
-    );
+    return <span className={`${base} bg-maroon/10 text-maroon`}>IP</span>;
   }
   if (entry.status === "planned") {
-    return (
-      <span className="text-[10px] font-medium px-1 py-0 rounded bg-stone-100 text-stone-500 shrink-0">
-        planned
-      </span>
-    );
+    return <span className={`${base} bg-stone-100 text-stone-400`}>planned</span>;
   }
   if (entry.status === "transfer") {
     const label =
       entry.source === "ap" ? "AP" : entry.source === "ib" ? "IB" : "Transfer";
-    return (
-      <span className="text-[10px] font-medium px-1 py-0 rounded bg-stone-100 text-stone-600 shrink-0">
-        {label}
-      </span>
-    );
+    return <span className={`${base} bg-stone-100 text-stone-500`}>{label}</span>;
   }
-  return (
-    <span className="text-[10px] font-medium px-1 py-0 rounded bg-stone-100 text-stone-400 shrink-0">
-      W
-    </span>
-  );
+  return <span className={`${base} bg-stone-100 text-stone-300`}>W</span>;
 }
 
 // ── Course row ──────────────────────────────────────────────────────────────
@@ -210,48 +212,46 @@ function CourseRowView({
   const codeClass = [
     "font-mono text-xs shrink-0",
     isWithdrawn
-      ? "text-stone-400 line-through"
+      ? "text-stone-300 line-through"
       : isPlanned
         ? "text-stone-400"
-        : "text-stone-900",
+        : "text-stone-800",
   ].join(" ");
 
   const titleClass = [
     "text-xs flex-1 min-w-0 truncate",
     isWithdrawn
-      ? "text-stone-400 line-through"
+      ? "text-stone-300 line-through"
       : isPlanned
         ? "text-stone-400"
-        : "text-stone-600",
+        : "text-stone-500",
   ].join(" ");
 
   const entrySemester = "semester" in entry ? entry.semester : undefined;
   const moveTargets = futureSemesters?.filter((s) => s !== entrySemester) ?? [];
 
   return (
-    <div className="flex items-center gap-1.5 py-0.5 group">
+    <div className="flex items-center gap-1.5 py-1 group">
       <span className={codeClass}>{entry.course}</span>
       {title && <span className={titleClass}>{title}</span>}
       {credits != null && (
-        <span className="font-mono text-[10px] tabular-nums text-stone-400 shrink-0">
+        <span className="font-mono text-[11px] tabular-nums text-stone-400 shrink-0">
           {credits}
         </span>
       )}
       <StatusPill entry={entry} />
 
-      {/* Remove button — planned only, appears on hover */}
       {onRemove && (
         <button
           onClick={onRemove}
           onPointerDown={(e) => e.stopPropagation()}
-          className="opacity-0 group-hover:opacity-100 transition-opacity ml-1 text-stone-300 hover:text-stone-500 shrink-0"
+          className="opacity-0 group-hover:opacity-100 transition-opacity ml-0.5 text-stone-300 hover:text-stone-500 shrink-0"
           aria-label="Remove"
         >
           <X size={11} />
         </button>
       )}
 
-      {/* Move dropdown — planned only, appears on hover */}
       {onMove && moveTargets.length > 0 && (
         <select
           value=""
@@ -262,9 +262,7 @@ function CourseRowView({
           className="opacity-0 group-hover:opacity-100 transition-opacity text-[10px] text-stone-400 border-0 bg-transparent cursor-pointer focus:outline-none shrink-0"
           aria-label="Move to semester"
         >
-          <option value="" disabled>
-            Move…
-          </option>
+          <option value="" disabled>Move…</option>
           {moveTargets.map((s) => (
             <option key={s} value={s}>
               {humanizeSemester(s)}
@@ -300,14 +298,11 @@ function SemesterCard({
   onMove?: (entry: CourseEntry, semester: string) => void;
 }) {
   const total = semesterTotalCredits(courses);
-  const creditFlagged = total < 12 || total > 19;
-  const creditClass = creditFlagged
-    ? "font-mono text-sm tabular-nums text-amber-700"
-    : "font-mono text-sm tabular-nums text-stone-500";
+  const creditFlagged = total > 0 && (total < 12 || total > 19);
 
   const cardClass = [
-    "rounded-lg border border-stone-200 p-4 flex flex-col",
-    phase === "past" ? "bg-stone-50" : "bg-white",
+    "rounded-xl border border-stone-200 shadow-sm p-5 flex flex-col",
+    phase === "past" ? "bg-stone-50/60" : "bg-white",
     phase === "current" ? "border-t-2 border-t-maroon" : "",
   ]
     .filter(Boolean)
@@ -319,9 +314,17 @@ function SemesterCard({
         <span className="font-serif text-sm font-semibold text-stone-900">
           {humanizeSemester(semester)}
         </span>
-        <span className={creditClass}>{total} cr</span>
+        {total > 0 && (
+          <span
+            className={`font-mono text-sm tabular-nums shrink-0 ${
+              creditFlagged ? "text-burnt" : "text-stone-400"
+            }`}
+          >
+            {total} cr
+          </span>
+        )}
       </div>
-      <hr className="border-stone-200 my-2" />
+      <hr className="border-stone-100 my-3" />
       <div className="flex flex-col flex-1">
         {courses.map((entry, i) => {
           const row = (
@@ -348,7 +351,7 @@ function SemesterCard({
       {onAdd && (
         <button
           onClick={onAdd}
-          className="mt-3 w-full text-left text-xs text-maroon/60 border border-dashed border-maroon/30 rounded px-2 py-1 hover:border-maroon/60 hover:text-maroon transition-colors"
+          className="mt-4 w-full text-left text-xs text-maroon/50 border border-dashed border-maroon/25 rounded-lg px-3 py-2 hover:border-maroon/50 hover:text-maroon/80 transition-colors"
         >
           + Add course
         </button>
@@ -399,26 +402,28 @@ function ModalResultRow({
 type Props = {
   student: StudentRecord;
   courses: CourseRow[];
+  courseRecord: CourseEntry[];
+  mergedTitleMap: Record<string, string>;
   currentSemOverride?: string;
-  titleMap: Record<string, string>;
-  noSemesterTransfers: CourseEntry[];
+  onAddCourse: (code: string, credits: number, semester: string, title?: string) => void;
+  onRemoveCourse: (entry: CourseEntry) => void;
+  onMoveCourse: (entry: CourseEntry, semester: string) => void;
 };
 
 export default function PlannerBoard({
   student,
   courses,
+  courseRecord,
+  mergedTitleMap,
   currentSemOverride,
-  titleMap,
-  noSemesterTransfers,
+  onAddCourse,
+  onRemoveCourse,
+  onMoveCourse,
 }: Props) {
-  const [courseRecord, setCourseRecord] = useState<CourseEntry[]>(student.courseRecord);
-  const [clientTitles, setClientTitles] = useState<Record<string, string>>({});
   const [modalSemester, setModalSemester] = useState<string | null>(null);
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<CourseSearchResult[]>([]);
   const [activeDragId, setActiveDragId] = useState<string | null>(null);
-
-  const mergedTitleMap = { ...titleMap, ...clientTitles };
 
   const sensors = useSensors(
     useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
@@ -448,41 +453,17 @@ export default function PlannerBoard({
     setResults(searchCourses(value, { limit: 20 }));
   }
 
-  function addCourse(code: string, credits: number, semester: string, title?: string) {
-    const entry: CourseEntry = { status: "planned", course: code, credits, semester };
-    setCourseRecord((prev) => [...prev, entry]);
-    if (title) setClientTitles((prev) => ({ ...prev, [code]: title }));
-    setModalSemester(null);
-  }
-
-  function removeCourse(entry: CourseEntry) {
-    setCourseRecord((prev) => prev.filter((e) => e !== entry));
-  }
-
-  function moveCourse(entry: CourseEntry, targetSemester: string) {
-    setCourseRecord((prev) =>
-      prev.map((e) => (e !== entry ? e : { ...e, semester: targetSemester })),
-    );
-  }
-
   const currentSemester = derivedCurrentSemester(currentSemOverride);
   const currentOrd = semesterOrd(currentSemester);
 
-  const virtualStudent = { ...student, courseRecord };
-  const semesterRange = buildSemesterRange(virtualStudent);
+  const semesterRange = buildSemesterRange(student, courseRecord);
   const editableSemesters = semesterRange.filter((s) => semesterOrd(s) >= currentOrd);
 
   const bySemester = new Map<string, CourseEntry[]>();
   for (const sem of semesterRange) bySemester.set(sem, []);
-  const unscheduled: CourseEntry[] = [];
   for (const entry of courseRecord) {
     const sem = "semester" in entry ? entry.semester : undefined;
     if (!sem) continue;
-    // Planned courses in a past semester are unscheduled — surface them separately
-    if (semesterOrd(sem) < currentOrd && entry.status === "planned") {
-      unscheduled.push(entry);
-      continue;
-    }
     if (!bySemester.has(sem)) bySemester.set(sem, []);
     bySemester.get(sem)!.push(entry);
   }
@@ -502,89 +483,102 @@ export default function PlannerBoard({
       (e) => e.status === "planned" && e.course === code && e.semester === fromSem,
     );
     if (!entry || targetSem === fromSem) return;
-    moveCourse(entry, targetSem);
+    onMoveCourse(entry, targetSem);
   }
+
+  const yearPairs = groupByYear(semesterRange);
 
   return (
     <div className="space-y-6">
-      {/* Prior credit (transfers with no semester) */}
-      {noSemesterTransfers.length > 0 && (
-        <div className="bg-stone-50 rounded-lg border border-stone-200 p-4">
-          <p className="text-xs font-medium text-stone-500 uppercase tracking-wide mb-2">
-            Prior Credit
-          </p>
-          {noSemesterTransfers.map((entry, i) => (
-            <CourseRowView key={i} entry={entry} titleMap={mergedTitleMap} />
-          ))}
-        </div>
-      )}
-
-      {/* Semester grid */}
       <DndContext sensors={sensors} onDragStart={handleDragStart} onDragEnd={handleDragEnd}>
-        {/* Unscheduled planned courses (planned for a past semester) */}
-        {unscheduled.length > 0 && (
-          <div className="bg-amber-50 rounded-lg border border-amber-200 p-4 mb-4">
-            <p className="text-xs font-medium text-amber-700 uppercase tracking-wide mb-2">
-              Needs Rescheduling
-            </p>
-            {unscheduled.map((entry, i) => (
-              <DraggableRow key={i} id={`${entry.course}::${entry.semester}`}>
-                <CourseRowView
-                  entry={entry}
-                  titleMap={mergedTitleMap}
-                  onRemove={() => removeCourse(entry)}
-                  onMove={(sem) => moveCourse(entry, sem)}
-                  futureSemesters={editableSemesters}
-                />
-              </DraggableRow>
-            ))}
+        {/* Two-column spring/fall grid, newest year at top */}
+        <div className="space-y-4">
+          {/* Column labels */}
+          <div className="grid grid-cols-2 gap-4">
+            <p className="text-[10px] font-semibold text-stone-400 uppercase tracking-widest px-1">Spring</p>
+            <p className="text-[10px] font-semibold text-stone-400 uppercase tracking-widest px-1">Fall</p>
           </div>
-        )}
 
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-          {semesterRange.map((sem) => {
-            const ord = semesterOrd(sem);
-            const phase: SemesterPhase =
-              ord < currentOrd ? "past" : ord === currentOrd ? "current" : "future";
-            const isFuture = phase === "future";
-            const isEditable = isFuture || phase === "current";
-            return (
-              <DroppableSemesterCard key={sem} id={sem} active={isEditable}>
-                <SemesterCard
-                  semester={sem}
-                  courses={bySemester.get(sem) ?? []}
-                  phase={phase}
-                  titleMap={mergedTitleMap}
-                  futureSemesters={editableSemesters}
-                  onAdd={isEditable ? () => openModal(sem) : undefined}
-                  onRemove={removeCourse}
-                  onMove={moveCourse}
-                />
-              </DroppableSemesterCard>
-            );
-          })}
+          <div className="grid grid-cols-2 gap-4">
+            {yearPairs.flatMap(({ spring, fall }) => {
+              const items: React.ReactNode[] = [];
+
+              // Spring slot
+              if (spring) {
+                const ord = semesterOrd(spring);
+                const phase: SemesterPhase =
+                  ord < currentOrd ? "past" : ord === currentOrd ? "current" : "future";
+                const isEditable = ord >= currentOrd;
+                items.push(
+                  <DroppableSemesterCard key={spring} id={spring} active={isEditable}>
+                    <SemesterCard
+                      semester={spring}
+                      courses={bySemester.get(spring) ?? []}
+                      phase={phase}
+                      titleMap={mergedTitleMap}
+                      futureSemesters={editableSemesters}
+                      onAdd={isEditable ? () => openModal(spring) : undefined}
+                      onRemove={onRemoveCourse}
+                      onMove={onMoveCourse}
+                    />
+                  </DroppableSemesterCard>,
+                );
+              } else {
+                items.push(<div key={`empty-spring-${fall}`} />);
+              }
+
+              // Fall slot
+              if (fall) {
+                const ord = semesterOrd(fall);
+                const phase: SemesterPhase =
+                  ord < currentOrd ? "past" : ord === currentOrd ? "current" : "future";
+                const isEditable = ord >= currentOrd;
+                items.push(
+                  <DroppableSemesterCard key={fall} id={fall} active={isEditable}>
+                    <SemesterCard
+                      semester={fall}
+                      courses={bySemester.get(fall) ?? []}
+                      phase={phase}
+                      titleMap={mergedTitleMap}
+                      futureSemesters={editableSemesters}
+                      onAdd={isEditable ? () => openModal(fall) : undefined}
+                      onRemove={onRemoveCourse}
+                      onMove={onMoveCourse}
+                    />
+                  </DroppableSemesterCard>,
+                );
+              } else {
+                items.push(<div key={`empty-fall-${spring}`} />);
+              }
+
+              return items;
+            })}
+          </div>
         </div>
 
         <DragOverlay>
-          {activeDragId && (() => {
-            const [code, fromSem] = activeDragId.split("::");
-            const entry = courseRecord.find(
-              (e) => e.status === "planned" && e.course === code && e.semester === fromSem,
-            );
-            if (!entry) return null;
-            const title = mergedTitleMap[entry.course];
-            return (
-              <div className="bg-white border border-stone-300 rounded-lg px-3 py-2 shadow-lg flex items-center gap-2 text-xs pointer-events-none">
-                <span className="font-mono text-stone-900 shrink-0">{entry.course}</span>
-                {title && (
-                  <span className="text-stone-600 truncate max-w-[140px]">{title}</span>
-                )}
-                {"credits" in entry && (
-                  <span className="font-mono text-stone-400 shrink-0">{entry.credits} cr</span>
-                )}
-              </div>
-            );
-          })()}
+          {activeDragId &&
+            (() => {
+              const [code, fromSem] = activeDragId.split("::");
+              const entry = courseRecord.find(
+                (e) => e.status === "planned" && e.course === code && e.semester === fromSem,
+              );
+              if (!entry) return null;
+              const title = mergedTitleMap[entry.course];
+              return (
+                <div className="bg-white border border-stone-200 rounded-xl px-3 py-2 shadow-lg flex items-center gap-2 text-xs pointer-events-none">
+                  <span className="font-mono text-stone-900 shrink-0">{entry.course}</span>
+                  {title && (
+                    <span className="text-stone-500 truncate max-w-[140px]">{title}</span>
+                  )}
+                  {"credits" in entry && (
+                    <span className="font-mono tabular-nums text-stone-400 shrink-0">
+                      {entry.credits} cr
+                    </span>
+                  )}
+                </div>
+              );
+            })()}
         </DragOverlay>
       </DndContext>
 
@@ -635,7 +629,9 @@ export default function PlannerBoard({
                           ? `Already in your plan${dup.where ? ` — ${dup.where}` : ""}`
                           : undefined
                       }
-                      onAdd={() => addCourse(r.code, r.credits.min, modalSemester, r.title)}
+                      onAdd={() =>
+                        onAddCourse(r.code, r.credits.min, modalSemester, r.title)
+                      }
                     />
                   );
                 })

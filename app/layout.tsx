@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Source_Serif_4, Inter, JetBrains_Mono } from "next/font/google";
-import Nav from "@/components/layout/Nav.tsx";
+import { Fraunces, Inter, JetBrains_Mono } from "next/font/google";
+import IconRail from "@/components/layout/IconRail.tsx";
 import "./globals.css";
 
-const serif = Source_Serif_4({
+const serif = Fraunces({
   subsets: ["latin"],
   variable: "--font-serif",
   display: "swap",
@@ -37,8 +37,10 @@ export default function RootLayout({
       className={`${serif.variable} ${sans.variable} ${mono.variable}`}
     >
       <body className="bg-stone-50 text-stone-900 font-sans antialiased">
-        <Nav />
-        <main className="max-w-5xl mx-auto px-6 py-12">{children}</main>
+        <div className="flex h-screen overflow-hidden">
+          <IconRail />
+          <div className="flex-1 overflow-hidden">{children}</div>
+        </div>
       </body>
     </html>
   );

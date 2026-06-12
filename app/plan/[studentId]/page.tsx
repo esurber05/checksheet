@@ -1,11 +1,12 @@
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 import { notFound } from "next/navigation";
-import { parseStudentRecord, totalEffectiveCredits } from "@/lib/schemas/student.ts";
+import { parseStudentRecord } from "@/lib/schemas/student.ts";
 import { parseProgram } from "@/lib/schemas/program.ts";
 import { getAllCourses, lookupCourse } from "@/lib/catalog.ts";
+import { runAudit } from "@/lib/engine/index.ts";
 import type { CourseRow } from "@/app/courses/page";
-import PlannerBoard from "@/components/planner/PlannerBoard";
+import PlanView from "@/components/planner/PlanView.tsx";
 
 async function loadStudentById(studentId: string) {
   const dir = path.join(process.cwd(), "data", "students");
@@ -17,11 +18,6 @@ async function loadStudentById(studentId: string) {
     if (parsed.studentId === studentId) return parsed;
   }
   return null;
-}
-
-function humanizeSemester(s: string): string {
-  const [season, year] = s.split("_");
-  return `${season.charAt(0).toUpperCase()}${season.slice(1)} ${year}`;
 }
 
 export default async function PlanPage({
@@ -48,7 +44,10 @@ export default async function PlanPage({
   );
   const program = parseProgram(programRaw);
 
-  // Build catalog course list for the search index (passed to client component)
+  // Initial audit for the requirements sidebar
+  const initialAudit = runAudit(program, student);
+
+  // Build course list for the search index
   const rawCourses = getAllCourses();
   const courseRows: CourseRow[] = rawCourses.map((c) => ({
     code: c.code,
@@ -60,7 +59,7 @@ export default async function PlanPage({
     pathwaysConcepts: c.pathwaysConcepts,
   }));
 
-  // Build title lookup for all courses in the student's record
+  // Title lookup for all courses in the student's record
   const titleMap: Record<string, string> = {};
   for (const entry of student.courseRecord) {
     const code = entry.status === "transfer" ? entry.vtEquivalent : entry.course;
@@ -70,42 +69,14 @@ export default async function PlanPage({
     }
   }
 
-  // Collect transfers without a semester (shown in "Prior Credit" section)
-  const noSemesterTransfers = student.courseRecord.filter(
-    (e) => e.status === "transfer" && !e.semester,
-  );
-
-  const totalCredits = totalEffectiveCredits(student);
-  const gradDisplay = student.expectedGraduation
-    ? humanizeSemester(student.expectedGraduation)
-    : null;
-
   return (
-    <div className="space-y-10">
-      {/* Header */}
-      <div>
-        <h1 className="font-serif text-4xl font-semibold text-stone-900">
-          {student.displayName}
-        </h1>
-        <p className="mt-2 text-stone-600">
-          {program.programName}
-          <span className="mx-2 text-stone-300">·</span>
-          {program.catalogYear}
-        </p>
-        <p className="mt-1 text-sm text-stone-500">
-          {totalCredits} credits earned
-          {gradDisplay && <> · Expected graduation {gradDisplay}</>}
-        </p>
-      </div>
-
-      {/* Interactive grid (client component) */}
-      <PlannerBoard
-        student={student}
-        courses={courseRows}
-        currentSemOverride={currentSemOverride}
-        titleMap={titleMap}
-        noSemesterTransfers={noSemesterTransfers}
-      />
-    </div>
+    <PlanView
+      student={student}
+      program={program}
+      courses={courseRows}
+      currentSemOverride={currentSemOverride}
+      titleMap={titleMap}
+      initialGroupResults={initialAudit.groupResults}
+    />
   );
 }
