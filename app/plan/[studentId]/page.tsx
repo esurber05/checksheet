@@ -44,8 +44,9 @@ export default async function PlanPage({
   );
   const program = parseProgram(programRaw);
 
-  // Initial audit for the requirements sidebar
-  const initialAudit = runAudit(program, student);
+  // Initial audit for the plan sidebar — uses empty courseRecord so sidebar starts at zero
+  const emptyStudent = parseStudentRecord({ ...studentRaw, courseRecord: [] });
+  const initialAudit = runAudit(program, emptyStudent);
 
   // Build course list for the search index
   const rawCourses = getAllCourses();

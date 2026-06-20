@@ -25,7 +25,7 @@ export default function PlanView({
   titleMap,
   initialGroupResults,
 }: Props) {
-  const [courseRecord, setCourseRecord] = useState<CourseEntry[]>(student.courseRecord);
+  const [courseRecord, setCourseRecord] = useState<CourseEntry[]>([]);
   const [clientTitles, setClientTitles] = useState<Record<string, string>>({});
 
   const mergedTitleMap = { ...titleMap, ...clientTitles };

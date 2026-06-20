@@ -153,7 +153,7 @@ function DroppableSemesterCard({
   return (
     <div
       ref={setNodeRef}
-      className={isOver && active ? "ring-1 ring-maroon/40 rounded-xl" : undefined}
+      className={`h-full${isOver && active ? " ring-1 ring-maroon/40 rounded-xl" : ""}`}
     >
       {children}
     </div>
@@ -301,7 +301,7 @@ function SemesterCard({
   const creditFlagged = total > 0 && (total < 12 || total > 19);
 
   const cardClass = [
-    "rounded-xl border border-stone-200 shadow-sm p-5 flex flex-col",
+    "rounded-xl border border-stone-200 shadow-sm p-5 flex flex-col h-full min-h-[180px]",
     phase === "past" ? "bg-stone-50/60" : "bg-white",
     phase === "current" ? "border-t-2 border-t-maroon" : "",
   ]
@@ -311,7 +311,7 @@ function SemesterCard({
   return (
     <div className={cardClass}>
       <div className="flex items-baseline justify-between mb-0.5">
-        <span className="font-serif text-sm font-semibold text-stone-900">
+        <span className="font-serif text-base font-semibold text-stone-800 tracking-tight">
           {humanizeSemester(semester)}
         </span>
         {total > 0 && (
@@ -457,11 +457,22 @@ export default function PlannerBoard({
   const currentOrd = semesterOrd(currentSemester);
 
   const semesterRange = buildSemesterRange(student, courseRecord);
+
+  // Always ensure at least 8 semesters of planning space from the current semester
+  const minFutureSemesters = 8;
+  let futureSemCount = semesterRange.filter((s) => semesterOrd(s) >= currentOrd).length;
+  while (futureSemCount < minFutureSemesters) {
+    semesterRange.push(nextSemester(semesterRange[semesterRange.length - 1]));
+    futureSemCount++;
+  }
+
   const editableSemesters = semesterRange.filter((s) => semesterOrd(s) >= currentOrd);
 
+  // Only show planned courses in the board; historical entries stay in courseRecord for audit
   const bySemester = new Map<string, CourseEntry[]>();
   for (const sem of semesterRange) bySemester.set(sem, []);
   for (const entry of courseRecord) {
+    if (entry.status !== "planned") continue;
     const sem = "semester" in entry ? entry.semester : undefined;
     if (!sem) continue;
     if (!bySemester.has(sem)) bySemester.set(sem, []);
@@ -524,7 +535,12 @@ export default function PlannerBoard({
                   </DroppableSemesterCard>,
                 );
               } else {
-                items.push(<div key={`empty-spring-${fall}`} />);
+                items.push(
+                  <div
+                    key={`empty-spring-${fall}`}
+                    className="rounded-xl border border-dashed border-stone-100 h-full"
+                  />,
+                );
               }
 
               // Fall slot
@@ -548,7 +564,12 @@ export default function PlannerBoard({
                   </DroppableSemesterCard>,
                 );
               } else {
-                items.push(<div key={`empty-fall-${spring}`} />);
+                items.push(
+                  <div
+                    key={`empty-fall-${spring}`}
+                    className="rounded-xl border border-dashed border-stone-100 h-full"
+                  />,
+                );
               }
 
               return items;
@@ -630,7 +651,7 @@ export default function PlannerBoard({
                           : undefined
                       }
                       onAdd={() =>
-                        onAddCourse(r.code, r.credits.min, modalSemester, r.title)
+                        onAddCourse(r.code, Math.max(1, r.credits.min), modalSemester, r.title)
                       }
                     />
                   );
