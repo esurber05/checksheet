@@ -24,26 +24,30 @@ export async function recomputeAudit(
   studentId: string,
   courseRecord: CourseEntry[],
 ): Promise<GroupResult[]> {
-  const studentRaw = await loadStudentById(studentId);
-  if (!studentRaw) return [];
+  try {
+    const studentRaw = await loadStudentById(studentId);
+    if (!studentRaw) return [];
 
-  // Convert planned courses to in_progress so the audit engine counts them.
-  // Filter out 0-credit entries (variable-credit guard).
-  const planAsInProgress = courseRecord
-    .filter((e) => e.status === "planned" && e.credits > 0)
-    .map((e) => ({ ...e, status: "in_progress" as const }));
+    // Convert planned courses to in_progress so the audit engine counts them.
+    // Filter out 0-credit entries (variable-credit guard).
+    const planAsInProgress = courseRecord
+      .filter((e) => e.status === "planned" && e.credits > 0)
+      .map((e) => ({ ...e, status: "in_progress" as const }));
 
-  const student = parseStudentRecord({ ...studentRaw, courseRecord: planAsInProgress });
+    const student = parseStudentRecord({ ...studentRaw, courseRecord: planAsInProgress });
 
-  const programId = student.programs[0].programId;
-  const programRaw = JSON.parse(
-    await readFile(
-      path.join(process.cwd(), "data", "programs", `${programId}.json`),
-      "utf-8",
-    ),
-  );
-  const program = parseProgram(programRaw);
+    const programId = student.programs[0].programId;
+    const programRaw = JSON.parse(
+      await readFile(
+        path.join(process.cwd(), "data", "programs", `${programId}.json`),
+        "utf-8",
+      ),
+    );
+    const program = parseProgram(programRaw);
 
-  const result = runAudit(program, student);
-  return result.groupResults;
+    return runAudit(program, student).groupResults;
+  } catch (err) {
+    console.error("[recomputeAudit]", err);
+    return [];
+  }
 }

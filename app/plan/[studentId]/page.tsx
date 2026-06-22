@@ -30,9 +30,6 @@ export default async function PlanPage({
   const studentRaw = await loadStudentById(studentId);
   if (!studentRaw) notFound();
 
-  const rawWithOverride = studentRaw as { currentSemester?: string };
-  const currentSemOverride = rawWithOverride.currentSemester;
-
   const student = parseStudentRecord(studentRaw);
 
   const programId = student.programs[0].programId;
@@ -75,7 +72,6 @@ export default async function PlanPage({
       student={student}
       program={program}
       courses={courseRows}
-      currentSemOverride={currentSemOverride}
       titleMap={titleMap}
       initialGroupResults={initialAudit.groupResults}
     />

@@ -81,8 +81,12 @@ export default function RequirementsPanel({
   useEffect(() => {
     const timer = setTimeout(() => {
       startTransition(async () => {
-        const updated = await recomputeAudit(studentId, courseRecord);
-        setGroupResults(updated);
+        try {
+          const updated = await recomputeAudit(studentId, courseRecord);
+          setGroupResults(updated);
+        } catch (err) {
+          console.error("[RequirementsPanel] recomputeAudit failed:", err);
+        }
       });
     }, 400);
     return () => clearTimeout(timer);

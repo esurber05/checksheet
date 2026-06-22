@@ -16,84 +16,24 @@ import {
 import { initSearch, searchCourses } from "@/lib/catalog-search";
 import type { CourseSearchResult } from "@/lib/catalog-search";
 import type { CourseRow } from "@/app/courses/page";
-import type { CourseEntry, StudentRecord } from "@/lib/schemas/student";
+import type { CourseEntry } from "@/lib/schemas/student";
 
 // ── Semester utilities ──────────────────────────────────────────────────────
 
-function semesterOrd(s: string): number {
-  const [season, year] = s.split("_");
-  const y = parseInt(year, 10);
-  return season === "spring" ? y * 2 : y * 2 + 1;
-}
-
-function nextSemester(s: string): string {
-  const [season, year] = s.split("_");
-  const y = parseInt(year, 10);
-  return season === "fall" ? `spring_${y + 1}` : `fall_${y}`;
-}
-
-function humanizeSemester(s: string): string {
+export function humanizeSemester(s: string): string {
   const [season, year] = s.split("_");
   return `${season.charAt(0).toUpperCase()}${season.slice(1)} ${year}`;
 }
 
-function buildSemesterRange(student: StudentRecord, courseRecord: CourseEntry[]): string[] {
-  const allSemesters = courseRecord
-    .map((c) => ("semester" in c ? c.semester : undefined))
-    .filter((s): s is string => !!s);
-
-  let start = student.enrolledSemester;
-  if (allSemesters.length > 0) {
-    start = [...allSemesters].sort((a, b) => semesterOrd(a) - semesterOrd(b))[0];
+// Pair semesters sequentially: [0,1], [2,3], … then reverse so newest row is first.
+function groupSequential(
+  semesters: string[],
+): Array<[string, string | undefined]> {
+  const pairs: Array<[string, string | undefined]> = [];
+  for (let i = 0; i < semesters.length; i += 2) {
+    pairs.push([semesters[i], semesters[i + 1]]);
   }
-
-  while (start.startsWith("summer") || start.startsWith("winter")) {
-    start = nextSemester(start);
-  }
-
-  const range: string[] = [];
-  let cur = start;
-  for (let i = 0; i < 8; i++) {
-    range.push(cur);
-    cur = nextSemester(cur);
-  }
-
-  const maxCourse = allSemesters.reduce(
-    (max, s) => (semesterOrd(s) > semesterOrd(max) ? s : max),
-    range[range.length - 1],
-  );
-  while (semesterOrd(maxCourse) > semesterOrd(range[range.length - 1])) {
-    range.push(nextSemester(range[range.length - 1]));
-  }
-
-  return range;
-}
-
-function derivedCurrentSemester(override?: string): string {
-  if (override) return override;
-  const now = new Date();
-  const month = now.getMonth() + 1;
-  const year = now.getFullYear();
-  if (month >= 8) return `fall_${year}`;
-  if (month <= 4) return `spring_${year}`;
-  return `fall_${year}`;
-}
-
-// ── Two-column grid grouping ────────────────────────────────────────────────
-
-type YearPair = { year: number; spring?: string; fall?: string };
-
-function groupByYear(semesters: string[]): YearPair[] {
-  const map = new Map<number, YearPair>();
-  for (const sem of semesters) {
-    const [season, yr] = sem.split("_");
-    if (season !== "spring" && season !== "fall") continue;
-    const y = parseInt(yr, 10);
-    if (!map.has(y)) map.set(y, { year: y });
-    if (season === "spring") map.get(y)!.spring = sem;
-    else map.get(y)!.fall = sem;
-  }
-  return [...map.values()].sort((a, b) => b.year - a.year);
+  return pairs.reverse();
 }
 
 // ── Course helpers ──────────────────────────────────────────────────────────
@@ -142,18 +82,16 @@ function DraggableRow({ id, children }: { id: string; children: React.ReactNode 
 
 function DroppableSemesterCard({
   id,
-  active,
   children,
 }: {
   id: string;
-  active: boolean;
   children: React.ReactNode;
 }) {
-  const { setNodeRef, isOver } = useDroppable({ id, disabled: !active });
+  const { setNodeRef, isOver } = useDroppable({ id });
   return (
     <div
       ref={setNodeRef}
-      className={`h-full${isOver && active ? " ring-1 ring-maroon/40 rounded-xl" : ""}`}
+      className={`h-full${isOver ? " ring-1 ring-maroon/40 rounded-xl" : ""}`}
     >
       {children}
     </div>
@@ -168,7 +106,7 @@ function StatusPill({ entry }: { entry: CourseEntry }) {
     return (
       <span className="flex items-center gap-1 shrink-0">
         <span className="text-green-700 text-xs leading-none">✓</span>
-        <span className={`font-mono text-[10px] text-stone-400`}>{entry.grade}</span>
+        <span className="font-mono text-[10px] text-stone-400">{entry.grade}</span>
       </span>
     );
   }
@@ -193,13 +131,13 @@ function CourseRowView({
   titleMap,
   onRemove,
   onMove,
-  futureSemesters,
+  allSemesters,
 }: {
   entry: CourseEntry;
   titleMap: Record<string, string>;
   onRemove?: () => void;
   onMove?: (semester: string) => void;
-  futureSemesters?: string[];
+  allSemesters?: string[];
 }) {
   const isWithdrawn = entry.status === "withdrawn";
   const isPlanned = entry.status === "planned";
@@ -228,7 +166,7 @@ function CourseRowView({
   ].join(" ");
 
   const entrySemester = "semester" in entry ? entry.semester : undefined;
-  const moveTargets = futureSemesters?.filter((s) => s !== entrySemester) ?? [];
+  const moveTargets = allSemesters?.filter((s) => s !== entrySemester) ?? [];
 
   return (
     <div className="flex items-center gap-1.5 py-1 group">
@@ -276,53 +214,52 @@ function CourseRowView({
 
 // ── Semester card ───────────────────────────────────────────────────────────
 
-type SemesterPhase = "past" | "current" | "future";
-
 function SemesterCard({
   semester,
   courses,
-  phase,
   titleMap,
-  futureSemesters,
+  allSemesters,
   onAdd,
   onRemove,
   onMove,
+  onDelete,
 }: {
   semester: string;
   courses: CourseEntry[];
-  phase: SemesterPhase;
   titleMap: Record<string, string>;
-  futureSemesters?: string[];
-  onAdd?: () => void;
-  onRemove?: (entry: CourseEntry) => void;
-  onMove?: (entry: CourseEntry, semester: string) => void;
+  allSemesters?: string[];
+  onAdd: () => void;
+  onRemove: (entry: CourseEntry) => void;
+  onMove: (entry: CourseEntry, semester: string) => void;
+  onDelete: () => void;
 }) {
   const total = semesterTotalCredits(courses);
   const creditFlagged = total > 0 && (total < 12 || total > 19);
 
-  const cardClass = [
-    "rounded-xl border border-stone-200 shadow-sm p-5 flex flex-col h-full min-h-[180px]",
-    phase === "past" ? "bg-stone-50/60" : "bg-white",
-    phase === "current" ? "border-t-2 border-t-maroon" : "",
-  ]
-    .filter(Boolean)
-    .join(" ");
-
   return (
-    <div className={cardClass}>
-      <div className="flex items-baseline justify-between mb-0.5">
-        <span className="font-serif text-base font-semibold text-stone-800 tracking-tight">
+    <div className="rounded-xl border border-stone-200 shadow-sm p-5 flex flex-col h-full min-h-[180px] bg-white group/sem">
+      <div className="flex items-center justify-between mb-0.5">
+        <span className="font-sans text-sm font-semibold text-stone-700 tracking-tight">
           {humanizeSemester(semester)}
         </span>
-        {total > 0 && (
-          <span
-            className={`font-mono text-sm tabular-nums shrink-0 ${
-              creditFlagged ? "text-burnt" : "text-stone-400"
-            }`}
+        <div className="flex items-center gap-2">
+          {total > 0 && (
+            <span
+              className={`font-mono text-sm tabular-nums shrink-0 ${
+                creditFlagged ? "text-burnt" : "text-stone-400"
+              }`}
+            >
+              {total} cr
+            </span>
+          )}
+          <button
+            onClick={onDelete}
+            className="opacity-0 group-hover/sem:opacity-100 transition-opacity text-stone-300 hover:text-red-400"
+            aria-label="Remove semester"
           >
-            {total} cr
-          </span>
-        )}
+            <X size={12} />
+          </button>
+        </div>
       </div>
       <hr className="border-stone-100 my-3" />
       <div className="flex flex-col flex-1">
@@ -331,11 +268,9 @@ function SemesterCard({
             <CourseRowView
               entry={entry}
               titleMap={titleMap}
-              onRemove={entry.status === "planned" ? () => onRemove?.(entry) : undefined}
-              onMove={
-                entry.status === "planned" ? (sem) => onMove?.(entry, sem) : undefined
-              }
-              futureSemesters={futureSemesters}
+              onRemove={entry.status === "planned" ? () => onRemove(entry) : undefined}
+              onMove={entry.status === "planned" ? (sem) => onMove(entry, sem) : undefined}
+              allSemesters={allSemesters}
             />
           );
           if (entry.status === "planned") {
@@ -348,14 +283,12 @@ function SemesterCard({
           return <div key={i}>{row}</div>;
         })}
       </div>
-      {onAdd && (
-        <button
-          onClick={onAdd}
-          className="mt-4 w-full text-left text-xs text-maroon/50 border border-dashed border-maroon/25 rounded-lg px-3 py-2 hover:border-maroon/50 hover:text-maroon/80 transition-colors"
-        >
-          + Add course
-        </button>
-      )}
+      <button
+        onClick={onAdd}
+        className="mt-4 w-full text-left text-xs text-maroon/50 border border-dashed border-maroon/25 rounded-lg px-3 py-2 hover:border-maroon/50 hover:text-maroon/80 transition-colors"
+      >
+        + Add course
+      </button>
     </div>
   );
 }
@@ -400,25 +333,25 @@ function ModalResultRow({
 // ── Board ───────────────────────────────────────────────────────────────────
 
 type Props = {
-  student: StudentRecord;
   courses: CourseRow[];
   courseRecord: CourseEntry[];
   mergedTitleMap: Record<string, string>;
-  currentSemOverride?: string;
+  semesterRange: string[];
   onAddCourse: (code: string, credits: number, semester: string, title?: string) => void;
   onRemoveCourse: (entry: CourseEntry) => void;
   onMoveCourse: (entry: CourseEntry, semester: string) => void;
+  onRemoveSemester: (semester: string) => void;
 };
 
 export default function PlannerBoard({
-  student,
   courses,
   courseRecord,
   mergedTitleMap,
-  currentSemOverride,
+  semesterRange,
   onAddCourse,
   onRemoveCourse,
   onMoveCourse,
+  onRemoveSemester,
 }: Props) {
   const [modalSemester, setModalSemester] = useState<string | null>(null);
   const [query, setQuery] = useState("");
@@ -453,22 +386,7 @@ export default function PlannerBoard({
     setResults(searchCourses(value, { limit: 20 }));
   }
 
-  const currentSemester = derivedCurrentSemester(currentSemOverride);
-  const currentOrd = semesterOrd(currentSemester);
-
-  const semesterRange = buildSemesterRange(student, courseRecord);
-
-  // Always ensure at least 8 semesters of planning space from the current semester
-  const minFutureSemesters = 8;
-  let futureSemCount = semesterRange.filter((s) => semesterOrd(s) >= currentOrd).length;
-  while (futureSemCount < minFutureSemesters) {
-    semesterRange.push(nextSemester(semesterRange[semesterRange.length - 1]));
-    futureSemCount++;
-  }
-
-  const editableSemesters = semesterRange.filter((s) => semesterOrd(s) >= currentOrd);
-
-  // Only show planned courses in the board; historical entries stay in courseRecord for audit
+  // Only show planned courses in the board
   const bySemester = new Map<string, CourseEntry[]>();
   for (const sem of semesterRange) bySemester.set(sem, []);
   for (const entry of courseRecord) {
@@ -488,7 +406,6 @@ export default function PlannerBoard({
     const { active, over } = event;
     if (!over) return;
     const targetSem = over.id as string;
-    if (semesterOrd(targetSem) < currentOrd) return;
     const [code, fromSem] = (active.id as string).split("::");
     const entry = courseRecord.find(
       (e) => e.status === "planned" && e.course === code && e.semester === fromSem,
@@ -497,84 +414,60 @@ export default function PlannerBoard({
     onMoveCourse(entry, targetSem);
   }
 
-  const yearPairs = groupByYear(semesterRange);
+  const pairs = groupSequential(semesterRange);
+
+  if (pairs.length === 0) {
+    return (
+      <div className="flex flex-col items-center justify-center h-64 text-center gap-3">
+        <p className="text-sm text-stone-400">No semesters in this plan.</p>
+        <p className="text-xs text-stone-300">Use &ldquo;+ New Semester&rdquo; above to add one.</p>
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-6">
       <DndContext sensors={sensors} onDragStart={handleDragStart} onDragEnd={handleDragEnd}>
-        {/* Two-column spring/fall grid, newest year at top */}
-        <div className="space-y-4">
-          {/* Column labels */}
-          <div className="grid grid-cols-2 gap-4">
-            <p className="text-[10px] font-semibold text-stone-400 uppercase tracking-widest px-1">Spring</p>
-            <p className="text-[10px] font-semibold text-stone-400 uppercase tracking-widest px-1">Fall</p>
-          </div>
+        <div className="grid grid-cols-2 gap-4">
+          {pairs.flatMap(([left, right]) => {
+            const items: React.ReactNode[] = [];
 
-          <div className="grid grid-cols-2 gap-4">
-            {yearPairs.flatMap(({ spring, fall }) => {
-              const items: React.ReactNode[] = [];
+            items.push(
+              <DroppableSemesterCard key={left} id={left}>
+                <SemesterCard
+                  semester={left}
+                  courses={bySemester.get(left) ?? []}
+                  titleMap={mergedTitleMap}
+                  allSemesters={semesterRange}
+                  onAdd={() => openModal(left)}
+                  onRemove={onRemoveCourse}
+                  onMove={onMoveCourse}
+                  onDelete={() => onRemoveSemester(left)}
+                />
+              </DroppableSemesterCard>,
+            );
 
-              // Spring slot
-              if (spring) {
-                const ord = semesterOrd(spring);
-                const phase: SemesterPhase =
-                  ord < currentOrd ? "past" : ord === currentOrd ? "current" : "future";
-                const isEditable = ord >= currentOrd;
-                items.push(
-                  <DroppableSemesterCard key={spring} id={spring} active={isEditable}>
-                    <SemesterCard
-                      semester={spring}
-                      courses={bySemester.get(spring) ?? []}
-                      phase={phase}
-                      titleMap={mergedTitleMap}
-                      futureSemesters={editableSemesters}
-                      onAdd={isEditable ? () => openModal(spring) : undefined}
-                      onRemove={onRemoveCourse}
-                      onMove={onMoveCourse}
-                    />
-                  </DroppableSemesterCard>,
-                );
-              } else {
-                items.push(
-                  <div
-                    key={`empty-spring-${fall}`}
-                    className="rounded-xl border border-dashed border-stone-100 h-full"
-                  />,
-                );
-              }
+            if (right) {
+              items.push(
+                <DroppableSemesterCard key={right} id={right}>
+                  <SemesterCard
+                    semester={right}
+                    courses={bySemester.get(right) ?? []}
+                    titleMap={mergedTitleMap}
+                    allSemesters={semesterRange}
+                    onAdd={() => openModal(right)}
+                    onRemove={onRemoveCourse}
+                    onMove={onMoveCourse}
+                    onDelete={() => onRemoveSemester(right)}
+                  />
+                </DroppableSemesterCard>,
+              );
+            } else {
+              items.push(<div key={`empty-${left}`} />);
+            }
 
-              // Fall slot
-              if (fall) {
-                const ord = semesterOrd(fall);
-                const phase: SemesterPhase =
-                  ord < currentOrd ? "past" : ord === currentOrd ? "current" : "future";
-                const isEditable = ord >= currentOrd;
-                items.push(
-                  <DroppableSemesterCard key={fall} id={fall} active={isEditable}>
-                    <SemesterCard
-                      semester={fall}
-                      courses={bySemester.get(fall) ?? []}
-                      phase={phase}
-                      titleMap={mergedTitleMap}
-                      futureSemesters={editableSemesters}
-                      onAdd={isEditable ? () => openModal(fall) : undefined}
-                      onRemove={onRemoveCourse}
-                      onMove={onMoveCourse}
-                    />
-                  </DroppableSemesterCard>,
-                );
-              } else {
-                items.push(
-                  <div
-                    key={`empty-fall-${spring}`}
-                    className="rounded-xl border border-dashed border-stone-100 h-full"
-                  />,
-                );
-              }
-
-              return items;
-            })}
-          </div>
+            return items;
+          })}
         </div>
 
         <DragOverlay>
