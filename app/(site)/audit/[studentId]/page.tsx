@@ -5,6 +5,8 @@ import { parseProgram } from "@/lib/schemas/program.ts";
 import { parseStudentRecord, effectiveCourses } from "@/lib/schemas/student.ts";
 import { runAudit } from "@/lib/engine/index.ts";
 import { lookupCourse } from "@/lib/catalog.ts";
+import { createClient } from "@/lib/supabase/server";
+import { getStudentRecordById } from "@/lib/supabase/student";
 import ProgressPanel from "@/components/audit/ProgressPanel.tsx";
 import RequirementGroup from "@/components/audit/RequirementGroup.tsx";
 
@@ -27,10 +29,23 @@ export default async function AuditPage({
 }) {
   const { studentId } = await params;
 
-  // Scan data/students/ for a file whose studentId matches the URL param.
-  const studentRaw = await loadStudentById(studentId);
-  if (!studentRaw) notFound();
-  const student = parseStudentRecord(studentRaw);
+  // Try Supabase first (real user), fall back to JSON sample data
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+
+  let student;
+  if (user) {
+    const fromDb = await getStudentRecordById(supabase, studentId, user.id);
+    if (fromDb) student = fromDb;
+  }
+
+  if (!student) {
+    const raw = await loadStudentById(studentId);
+    if (!raw) notFound();
+    student = parseStudentRecord(raw);
+  }
 
   // Load and parse program (first enrolled).
   const programId = student.programs[0].programId;
@@ -56,8 +71,7 @@ export default async function AuditPage({
     );
   }
 
-  // Build catalog title lookup for all matched courses so RequirementRow can
-  // display a human-readable course title instead of the raw requirement ID.
+  // Build catalog title lookup for all matched courses.
   const courseTitles: Record<string, string> = {};
   for (const group of audit.groupResults) {
     for (const result of group.requirementResults) {
@@ -70,8 +84,7 @@ export default async function AuditPage({
     }
   }
 
-  // Compute unallocated courses — AuditResult has no unusedCourses field,
-  // so we derive it by diffing effectiveCourses against all coursesMatched.
+  // Compute unallocated courses.
   const allMatchedCodes = new Set(
     audit.groupResults
       .flatMap((g) => g.requirementResults)
@@ -81,14 +94,12 @@ export default async function AuditPage({
     .map((c) => c.course)
     .filter((code) => !allMatchedCodes.has(code));
 
-  // Format expected graduation for display.
   const gradDisplay = student.expectedGraduation
     ? student.expectedGraduation.replace("_", " ")
     : null;
 
   return (
     <div className="space-y-10">
-      {/* Header */}
       <div>
         <h1 className="font-serif text-4xl font-semibold text-stone-900">
           {student.displayName}
@@ -106,15 +117,12 @@ export default async function AuditPage({
         </p>
       </div>
 
-      {/* Progress + GPA panel */}
       <ProgressPanel audit={audit} />
 
-      {/* Requirement groups */}
       {audit.groupResults.map((group) => (
         <RequirementGroup key={group.groupId} group={group} courseTitles={courseTitles} />
       ))}
 
-      {/* Unallocated courses footnote */}
       {unallocated.length > 0 && (
         <div className="pt-4 border-t border-stone-200">
           <p className="text-xs font-medium text-stone-600 mb-1 uppercase tracking-wide">

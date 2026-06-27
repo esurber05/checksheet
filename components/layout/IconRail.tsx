@@ -1,33 +1,42 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import {
   LayoutPanelLeft,
   Search,
   ClipboardList,
   User,
   Bookmark,
-  Settings,
+  LogOut,
 } from "lucide-react";
+import { createClient } from "@/lib/supabase/client";
 
-const NAV_ITEMS = [
-  { label: "Plan", icon: LayoutPanelLeft, href: "/plan/S00001" },
-  { label: "Courses", icon: Search, href: "/courses" },
-  { label: "Audit", icon: ClipboardList, href: "/audit/S00001" },
-  { label: "Profile", icon: User, href: "#" },
-  { label: "Saved", icon: Bookmark, href: "#" },
-  { label: "Settings", icon: Settings, href: "#" },
-];
-
-export default function IconRail() {
+export default function IconRail({ studentId }: { studentId: string }) {
   const pathname = usePathname();
+  const router = useRouter();
+
+  const NAV_ITEMS = [
+    { label: "Plan", icon: LayoutPanelLeft, href: studentId ? `/plan/${studentId}` : "#" },
+    { label: "Courses", icon: Search, href: "/courses" },
+    { label: "Audit", icon: ClipboardList, href: studentId ? `/audit/${studentId}` : "#" },
+    { label: "Profile", icon: User, href: "/profile" },
+    { label: "Saved", icon: Bookmark, href: "#" },
+  ];
+
+  async function handleLogout() {
+    const supabase = createClient();
+    await supabase.auth.signOut();
+    router.push("/login");
+  }
 
   return (
     <aside className="w-[72px] shrink-0 h-screen bg-white border-r border-stone-200 flex flex-col items-center py-4 gap-1">
       {/* Logo mark */}
       <div className="w-9 h-9 rounded-lg bg-maroon flex items-center justify-center mb-4 shrink-0">
-        <span className="font-serif text-white text-xs font-bold leading-none">CS</span>
+        <span className="font-serif text-white text-xs font-bold leading-none">
+          CS
+        </span>
       </div>
 
       {/* Nav items */}
@@ -35,8 +44,10 @@ export default function IconRail() {
         const prefixMap: Record<string, string> = {
           Plan: "/plan",
           Audit: "/audit",
+          Profile: "/profile",
         };
-        const isActive = href !== "#" && pathname.startsWith(prefixMap[label] ?? href);
+        const isActive =
+          href !== "#" && pathname.startsWith(prefixMap[label] ?? href);
         return (
           <Link
             key={label}
@@ -54,6 +65,18 @@ export default function IconRail() {
           </Link>
         );
       })}
+
+      {/* Logout pushed to bottom */}
+      <div className="mt-auto">
+        <button
+          onClick={handleLogout}
+          aria-label="Sign out"
+          className="flex flex-col items-center gap-1 w-14 px-1 py-2 rounded-lg transition-colors text-stone-400 hover:text-stone-600 hover:bg-stone-100"
+        >
+          <LogOut size={18} strokeWidth={1.75} />
+          <span className="text-[10px] font-medium leading-none">Sign out</span>
+        </button>
+      </div>
     </aside>
   );
 }

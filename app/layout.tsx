@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Fraunces, Inter, JetBrains_Mono } from "next/font/google";
-import IconRail from "@/components/layout/IconRail.tsx";
 import "./globals.css";
 
 const serif = Fraunces({
@@ -37,10 +36,7 @@ export default function RootLayout({
       className={`${serif.variable} ${sans.variable} ${mono.variable}`}
     >
       <body className="bg-stone-50 text-stone-900 font-sans antialiased">
-        <div className="flex h-screen overflow-hidden">
-          <IconRail />
-          <div className="flex-1 overflow-hidden">{children}</div>
-        </div>
+        {children}
       </body>
     </html>
   );

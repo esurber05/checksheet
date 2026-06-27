@@ -18,6 +18,8 @@
   "description": "",
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
+    "@supabase/ssr": "^0.12.0",
+    "@supabase/supabase-js": "^2.108.2",
     "cheerio": "^1.2.0",
     "lucide-react": "^1.16.0",
     "minisearch": "^7.2.0",

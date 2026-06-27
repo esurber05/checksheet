@@ -6,6 +6,8 @@ import { parseProgram } from "@/lib/schemas/program.ts";
 import { getAllCourses, lookupCourse } from "@/lib/catalog.ts";
 import { runAudit } from "@/lib/engine/index.ts";
 import type { CourseRow } from "@/app/courses/page";
+import { createClient } from "@/lib/supabase/server";
+import { getStudentRecordById } from "@/lib/supabase/student";
 import PlanView from "@/components/planner/PlanView.tsx";
 
 async function loadStudentById(studentId: string) {
@@ -27,10 +29,23 @@ export default async function PlanPage({
 }) {
   const { studentId } = await params;
 
-  const studentRaw = await loadStudentById(studentId);
-  if (!studentRaw) notFound();
+  // Try Supabase first (real user), fall back to JSON sample data
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
 
-  const student = parseStudentRecord(studentRaw);
+  let student;
+  if (user) {
+    const fromDb = await getStudentRecordById(supabase, studentId, user.id);
+    if (fromDb) student = fromDb;
+  }
+
+  if (!student) {
+    const raw = await loadStudentById(studentId);
+    if (!raw) notFound();
+    student = parseStudentRecord(raw);
+  }
 
   const programId = student.programs[0].programId;
   const programRaw = JSON.parse(
@@ -42,7 +57,7 @@ export default async function PlanPage({
   const program = parseProgram(programRaw);
 
   // Initial audit for the plan sidebar — uses empty courseRecord so sidebar starts at zero
-  const emptyStudent = parseStudentRecord({ ...studentRaw, courseRecord: [] });
+  const emptyStudent = { ...student, courseRecord: [] as typeof student.courseRecord };
   const initialAudit = runAudit(program, emptyStudent);
 
   // Build course list for the search index
